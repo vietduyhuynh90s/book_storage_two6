@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/neu-adam-khong-co-xuong-suon_20133.html",
+    "title" : "Nếu Adam Không Có Xương Sườn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Văn Nghĩa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 16486,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_dfd8dc2ef2d2a5d90340e23956711187.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_dfd8dc2ef2d2a5d90340e23956711187.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/doi-loi/B%E1%BB%91%20%C6%A1i%20t%E1%BA%A1i%20sao%20th%C3%A1c%20n%C6%B0%E1%BB%9Bc%20l%E1%BA%A1i%20cao%20%C4%91%E1%BA%BFn%20th%E1%BA%BF.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2579,
+    "title" : "Bố ơi tại sao thác nước lại cao đến thế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doi-loi/Ph%E1%BB%A5%20n%E1%BB%AF%20v%C3%A0%20ngh%E1%BB%81%20nghi%E1%BB%87p.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2636,
+    "title" : "Phụ nữ và nghề nghiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doi-loi/Ph%E1%BB%A5%20n%E1%BB%AF%20v%C3%A0%20ngo%E1%BA%A1i%20t%C3%ACnh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1796,
+    "title" : "Phụ nữ và ngoại tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doi-loi/Ph%E1%BB%A5%20n%E1%BB%AF%20v%C3%A0%20t%C3%ACnh%20d%E1%BB%A5c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2332,
+    "title" : "Phụ nữ và tình dục",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doi-loi/Th%E1%BA%A7n%20%C4%91%C3%A8n%20n%C3%B3i%20v%E1%BB%81%20tr%C3%AD%20tu%E1%BB%87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2832,
+    "title" : "Thần đèn nói về trí tuệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doi-loi/T%E1%BA%A1i%20sao%20ph%E1%BB%A5%20n%E1%BB%AF%20l%E1%BA%A1i%20ngo%E1%BA%A1i%20t%C3%ACnh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2315,
+    "title" : "Tại sao phụ nữ lại ngoại tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doi-loi/doi-loi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1996,
+    "title" : "doi-loi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/doi-loi/B%E1%BB%91%20%C6%A1i%20t%E1%BA%A1i%20sao%20th%C3%A1c%20n%C6%B0%E1%BB%9Bc%20l%E1%BA%A1i%20cao%20%C4%91%E1%BA%BFn%20th%E1%BA%BF.mp3",
+    "title" : "Bố ơi tại sao thác nước lại cao đến thế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doi-loi/Ph%E1%BB%A5%20n%E1%BB%AF%20v%C3%A0%20ngh%E1%BB%81%20nghi%E1%BB%87p.mp3",
+    "title" : "Phụ nữ và nghề nghiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doi-loi/Ph%E1%BB%A5%20n%E1%BB%AF%20v%C3%A0%20ngo%E1%BA%A1i%20t%C3%ACnh.mp3",
+    "title" : "Phụ nữ và ngoại tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doi-loi/Ph%E1%BB%A5%20n%E1%BB%AF%20v%C3%A0%20t%C3%ACnh%20d%E1%BB%A5c.mp3",
+    "title" : "Phụ nữ và tình dục",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doi-loi/Th%E1%BA%A7n%20%C4%91%C3%A8n%20n%C3%B3i%20v%E1%BB%81%20tr%C3%AD%20tu%E1%BB%87.mp3",
+    "title" : "Thần đèn nói về trí tuệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doi-loi/T%E1%BA%A1i%20sao%20ph%E1%BB%A5%20n%E1%BB%AF%20l%E1%BA%A1i%20ngo%E1%BA%A1i%20t%C3%ACnh.mp3",
+    "title" : "Tại sao phụ nữ lại ngoại tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doi-loi/doi-loi.mp3",
+    "title" : "doi-loi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
