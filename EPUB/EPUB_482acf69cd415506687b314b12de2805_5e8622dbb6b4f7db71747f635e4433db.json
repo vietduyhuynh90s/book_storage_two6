@@ -10,7 +10,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-04-29",
+    "published" : "2023-05-01",
     "duration" : 0,
     "abridged" : false,
     "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
@@ -31,103 +31,237 @@
     "type" : "application/divina+json"
   } ],
   "readingOrder" : [ {
-    "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/0.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two6/main/IMAGE/IMAGE_482acf69cd415506687b314b12de2805_5e8622dbb6b4f7db71747f635e4433db_5371f877aaf479450c7f9ee0d7e34ec8.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/0.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/1.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two6/main/IMAGE/IMAGE_482acf69cd415506687b314b12de2805_5e8622dbb6b4f7db71747f635e4433db_934a2c9333ad8c47434ec5f296bba272.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/1.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/2.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two6/main/IMAGE/IMAGE_482acf69cd415506687b314b12de2805_5e8622dbb6b4f7db71747f635e4433db_b34c5015396281c4cd99b3b4c80da04f.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/2.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/3.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two6/main/IMAGE/IMAGE_482acf69cd415506687b314b12de2805_5e8622dbb6b4f7db71747f635e4433db_df9a167c1ae1c97a2eaebbc2d1818edb.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/3.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/4.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two6/main/IMAGE/IMAGE_482acf69cd415506687b314b12de2805_5e8622dbb6b4f7db71747f635e4433db_aa774b0622c9102dcfaa8682a90be6b8.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/4.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/5.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two6/main/IMAGE/IMAGE_482acf69cd415506687b314b12de2805_5e8622dbb6b4f7db71747f635e4433db_3d9d907c3bef0c27f7b8c0f0d28e347c.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/5.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/6.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two6/main/IMAGE/IMAGE_482acf69cd415506687b314b12de2805_5e8622dbb6b4f7db71747f635e4433db_b1f71e9696640fa6ea32c78c7ce298fb.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/6.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/7.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two6/main/IMAGE/IMAGE_482acf69cd415506687b314b12de2805_5e8622dbb6b4f7db71747f635e4433db_c67cd1ddb1f3867d5c2296e99f9f7b79.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/7.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/8.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two6/main/IMAGE/IMAGE_482acf69cd415506687b314b12de2805_5e8622dbb6b4f7db71747f635e4433db_57b8036c4bfa0aa14753f8a3ff953e8f.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/8.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/9.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two6/main/IMAGE/IMAGE_482acf69cd415506687b314b12de2805_5e8622dbb6b4f7db71747f635e4433db_76cd6a65ba695a2105fb7bcb7555ad8d.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/9.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/10.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two6/main/IMAGE/IMAGE_482acf69cd415506687b314b12de2805_5e8622dbb6b4f7db71747f635e4433db_de644ca75b502305beda56f9d75e328c.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/10.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/11.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two6/main/IMAGE/IMAGE_482acf69cd415506687b314b12de2805_5e8622dbb6b4f7db71747f635e4433db_8118d5210f3357f60e5ececc80b55451.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/11.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/12.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two6/main/IMAGE/IMAGE_482acf69cd415506687b314b12de2805_5e8622dbb6b4f7db71747f635e4433db_5a01d09e2618c920cec19fcf37c63aba.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/11071/chuong-146-1/12.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two6/main/IMAGE/IMAGE_482acf69cd415506687b314b12de2805_5e8622dbb6b4f7db71747f635e4433db_2c0a3fb4fc000cb01ccdadd19d60f40f.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
+      "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   } ],
   "toc" : null,
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
