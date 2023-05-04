@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/canh-cong-sat-nhan_19036.html#gsc.tab=0",
+    "title" : "Cánh Cổng Sát Nhân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Higashino Keigo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-04",
+    "duration" : 1578,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_bb864da5dcc201971a25fb2a85c0e302.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_bb864da5dcc201971a25fb2a85c0e302.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lachoncoc.com-canh-cong-sat-nhan-higashino-keigo-01/%28Lachoncoc.com%29%20C%C3%A1nh%20C%E1%BB%95ng%20S%C3%A1t%20Nh%C3%A2n-HigashinoKeigo_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1578,
+    "title" : "(Lachoncoc.com) Cánh Cổng Sát Nhân-HigashinoKeigo 01",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lachoncoc.com-canh-cong-sat-nhan-higashino-keigo-01/%28Lachoncoc.com%29%20C%C3%A1nh%20C%E1%BB%95ng%20S%C3%A1t%20Nh%C3%A2n-HigashinoKeigo_01.mp3",
+    "title" : "(Lachoncoc.com) Cánh Cổng Sát Nhân-HigashinoKeigo 01",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
