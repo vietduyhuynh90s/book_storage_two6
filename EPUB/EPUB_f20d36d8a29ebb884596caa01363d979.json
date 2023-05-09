@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ho-xuan-huong-tho-va-doi_13499.html",
+    "title" : "Hồ Xuân Hương Thơ Và Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lữ Huy Nguyên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 17298,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_f20d36d8a29ebb884596caa01363d979.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_f20d36d8a29ebb884596caa01363d979.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1578,
+    "title" : "Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1591,
+    "title" : "Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1467,
+    "title" : "Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1997,
+    "title" : "Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1041,
+    "title" : "Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2281,
+    "title" : "Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1337,
+    "title" : "Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1921,
+    "title" : "Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2029,
+    "title" : "Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2056,
+    "title" : "Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/1.mp3",
+    "title" : "Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/10.mp3",
+    "title" : "Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/2.mp3",
+    "title" : "Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/3.mp3",
+    "title" : "Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/4.mp3",
+    "title" : "Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/5.mp3",
+    "title" : "Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/6.mp3",
+    "title" : "Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/7.mp3",
+    "title" : "Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/8.mp3",
+    "title" : "Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-xuan-huong-tho-va-doi/9.mp3",
+    "title" : "Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

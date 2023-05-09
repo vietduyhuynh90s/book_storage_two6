@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chu-be-mang-pyjama-soc_20174.html",
+    "title" : "Chú Bé Mang Pyjama Sọc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "John Boyne",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19175,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_2422dcefaa37b62ff72667da96d105cf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_2422dcefaa37b62ff72667da96d105cf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chu-be-5/chu-be-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2684,
+    "title" : "chu-be-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-be-5/chu-be-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2291,
+    "title" : "chu-be-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-be-5/chu-be-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2933,
+    "title" : "chu-be-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-be-5/chu-be-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2597,
+    "title" : "chu-be-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-be-5/chu-be-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3047,
+    "title" : "chu-be-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-be-5/chu-be-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2222,
+    "title" : "chu-be-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-be-5/chu-be-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2058,
+    "title" : "chu-be-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-be-5/chu-be-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1343,
+    "title" : "chu-be-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chu-be-5/chu-be-1.mp3",
+    "title" : "chu-be-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-be-5/chu-be-2.mp3",
+    "title" : "chu-be-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-be-5/chu-be-3.mp3",
+    "title" : "chu-be-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-be-5/chu-be-4.mp3",
+    "title" : "chu-be-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-be-5/chu-be-5.mp3",
+    "title" : "chu-be-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-be-5/chu-be-6.mp3",
+    "title" : "chu-be-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-be-5/chu-be-7.mp3",
+    "title" : "chu-be-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-be-5/chu-be-8.mp3",
+    "title" : "chu-be-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

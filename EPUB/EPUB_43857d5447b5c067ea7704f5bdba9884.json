@@ -1,0 +1,425 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thai-do-song-tao-nen-tat-ca-j-p-vaswani_4822.html",
+    "title" : "Thái Độ Sống Tạo Nên Tất Cả - J. P. Vaswani.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "J. P. Vaswani",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 10145,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_43857d5447b5c067ea7704f5bdba9884.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_43857d5447b5c067ea7704f5bdba9884.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 209,
+    "title" : "TDSTNTC-01-loi gioi thieu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-02-an_dinh_muc_tieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 233,
+    "title" : "TDSTNTC-02-an dinh muc tieu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-03-Bi_quyet_thanh_cong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 442,
+    "title" : "TDSTNTC-03-Bi quyet thanh cong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-04-cuoc_song_ko_chi_la_loi_noi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 192,
+    "title" : "TDSTNTC-04-cuoc song ko chi la loi noi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-05-chua_va_ong_lao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 419,
+    "title" : "TDSTNTC-05-chua va ong lao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-06-dieu_ko_the_thay_the.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 217,
+    "title" : "TDSTNTC-06-dieu ko the thay the",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-07-doi_thu_va_ban_be.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 415,
+    "title" : "TDSTNTC-07-doi thu va ban be",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-08-giup_ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 423,
+    "title" : "TDSTNTC-08-giup ban",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-09-ghandi_va_tagore.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 256,
+    "title" : "TDSTNTC-09-ghandi va tagore",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-10-hay_thanh_tam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 266,
+    "title" : "TDSTNTC-10-hay thanh tam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-11-ko_co_cho_danh_cho_noi_so.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 430,
+    "title" : "TDSTNTC-11-ko co cho danh cho noi so",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-12-ko_hoi_am.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 385,
+    "title" : "TDSTNTC-12-ko hoi am",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-13-ko_thich_hop.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 312,
+    "title" : "TDSTNTC-13-ko thich hop",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-14-mon_qua_tham_lang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 435,
+    "title" : "TDSTNTC-14-mon qua tham lang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-15-mot_trai_tim_biet_tri_an.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 442,
+    "title" : "TDSTNTC-15-mot trai tim biet tri an",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-16-niem_hanh_phuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 474,
+    "title" : "TDSTNTC-16-niem hanh phuc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-17-phep_la.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 381,
+    "title" : "TDSTNTC-17-phep la",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-18-su_cong_hien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 406,
+    "title" : "TDSTNTC-18-su cong hien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-19-su_nha_nhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 314,
+    "title" : "TDSTNTC-19-su nha nhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-20-suc_manh_cua_nu_cuoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 382,
+    "title" : "TDSTNTC-20-suc manh cua nu cuoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-21-tam_long_trung_can.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 488,
+    "title" : "TDSTNTC-21-tam long trung can",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-22-thai_do_tao_nen_co_hoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 317,
+    "title" : "TDSTNTC-22-thai do tao nen co hoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-23-ve_tac_gia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 189,
+    "title" : "TDSTNTC-23-ve tac gia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-Bien_y_quan_thanh_y_dan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 118,
+    "title" : "TDSTNTC-Bien y quan thanh y dan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-Cam_giac_nang_o_mat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 91,
+    "title" : "TDSTNTC-Cam giac nang o mat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-Camera_an_ninh_thuong_vang_ha_cam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 223,
+    "title" : "TDSTNTC-Camera an ninh thuong vang ha cam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-Can_chinh_sach_dau_tu_dac_biet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 196,
+    "title" : "TDSTNTC-Can chinh sach dau tu dac biet",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-Co_the_to_chuc_phong_hoc_cach_ly.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 185,
+    "title" : "TDSTNTC-Co the to chuc phong hoc cach ly",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-Day_va_hoc_xao_tron_vi_cum.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 298,
+    "title" : "TDSTNTC-Day va hoc xao tron vi cum",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-De_nghi_phat_bi_cao_tu_12_14_nam_tu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 254,
+    "title" : "TDSTNTC-De nghi phat bi cao tu 12 14 nam tu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-Dieu_gi_dang_xay_ra_trong_quan_he_thay_tro.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 455,
+    "title" : "TDSTNTC-Dieu gi dang xay ra trong quan he thay tro",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-Hoa_trong_vuon_Bac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 298,
+    "title" : "TDSTNTC-Hoa trong vuon Bac",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-01-loi_gioi_thieu.mp3",
+    "title" : "TDSTNTC-01-loi gioi thieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-02-an_dinh_muc_tieu.mp3",
+    "title" : "TDSTNTC-02-an dinh muc tieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-03-Bi_quyet_thanh_cong.mp3",
+    "title" : "TDSTNTC-03-Bi quyet thanh cong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-04-cuoc_song_ko_chi_la_loi_noi.mp3",
+    "title" : "TDSTNTC-04-cuoc song ko chi la loi noi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-05-chua_va_ong_lao.mp3",
+    "title" : "TDSTNTC-05-chua va ong lao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-06-dieu_ko_the_thay_the.mp3",
+    "title" : "TDSTNTC-06-dieu ko the thay the",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-07-doi_thu_va_ban_be.mp3",
+    "title" : "TDSTNTC-07-doi thu va ban be",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-08-giup_ban.mp3",
+    "title" : "TDSTNTC-08-giup ban",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-09-ghandi_va_tagore.mp3",
+    "title" : "TDSTNTC-09-ghandi va tagore",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-10-hay_thanh_tam.mp3",
+    "title" : "TDSTNTC-10-hay thanh tam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-11-ko_co_cho_danh_cho_noi_so.mp3",
+    "title" : "TDSTNTC-11-ko co cho danh cho noi so",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-12-ko_hoi_am.mp3",
+    "title" : "TDSTNTC-12-ko hoi am",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-13-ko_thich_hop.mp3",
+    "title" : "TDSTNTC-13-ko thich hop",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-14-mon_qua_tham_lang.mp3",
+    "title" : "TDSTNTC-14-mon qua tham lang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-15-mot_trai_tim_biet_tri_an.mp3",
+    "title" : "TDSTNTC-15-mot trai tim biet tri an",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-16-niem_hanh_phuc.mp3",
+    "title" : "TDSTNTC-16-niem hanh phuc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-17-phep_la.mp3",
+    "title" : "TDSTNTC-17-phep la",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-18-su_cong_hien.mp3",
+    "title" : "TDSTNTC-18-su cong hien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-19-su_nha_nhan.mp3",
+    "title" : "TDSTNTC-19-su nha nhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-20-suc_manh_cua_nu_cuoi.mp3",
+    "title" : "TDSTNTC-20-suc manh cua nu cuoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-21-tam_long_trung_can.mp3",
+    "title" : "TDSTNTC-21-tam long trung can",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-22-thai_do_tao_nen_co_hoi.mp3",
+    "title" : "TDSTNTC-22-thai do tao nen co hoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-23-ve_tac_gia.mp3",
+    "title" : "TDSTNTC-23-ve tac gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-Bien_y_quan_thanh_y_dan.mp3",
+    "title" : "TDSTNTC-Bien y quan thanh y dan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-Cam_giac_nang_o_mat.mp3",
+    "title" : "TDSTNTC-Cam giac nang o mat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-Camera_an_ninh_thuong_vang_ha_cam.mp3",
+    "title" : "TDSTNTC-Camera an ninh thuong vang ha cam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-Can_chinh_sach_dau_tu_dac_biet.mp3",
+    "title" : "TDSTNTC-Can chinh sach dau tu dac biet",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-Co_the_to_chuc_phong_hoc_cach_ly.mp3",
+    "title" : "TDSTNTC-Co the to chuc phong hoc cach ly",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-Day_va_hoc_xao_tron_vi_cum.mp3",
+    "title" : "TDSTNTC-Day va hoc xao tron vi cum",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-De_nghi_phat_bi_cao_tu_12_14_nam_tu.mp3",
+    "title" : "TDSTNTC-De nghi phat bi cao tu 12 14 nam tu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-Dieu_gi_dang_xay_ra_trong_quan_he_thay_tro.mp3",
+    "title" : "TDSTNTC-Dieu gi dang xay ra trong quan he thay tro",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TDSTNTC01LoiGioiThieu/TDSTNTC-Hoa_trong_vuon_Bac.mp3",
+    "title" : "TDSTNTC-Hoa trong vuon Bac",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

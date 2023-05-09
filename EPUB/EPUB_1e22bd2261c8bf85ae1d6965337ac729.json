@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lam-dau-nha-phu-ong-lan-rua_11717.html",
+    "title" : "Làm Dâu Nhà Phú Ông - Lan Rùa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lan Rùa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 48682,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_1e22bd2261c8bf85ae1d6965337ac729.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_1e22bd2261c8bf85ae1d6965337ac729.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13216,
+    "title" : "Nghe truyện ngắn LÀM DÂU NHÀ PHÚ ÔNG quá hay và cảm động!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 635,
+    "title" : "Chương 87 | Truyện ngắn hay nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 744,
+    "title" : "Làm Dâu Nhà Phú Ông Chương 88 - Rất Hay và Lôi Cuốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6411,
+    "title" : "⚡ Làm Dâu Nhà Phú Ông (Chương 89-95) Chương cuối – Truyện ngắn mới nhất 2018 của LAN RÙA",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5229,
+    "title" : "Nghe truyện ngắn tình yêu cảm động: LÀM DÂU NHÀ PHÚ ÔNG (Chương 32-41) | Kim Thanh 3S",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4784,
+    "title" : "(Chương 42 - 49) | Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3542,
+    "title" : "LÀM DÂU NHÀ PHÚ ÔNG (Chương 50-56) Truyện ngắn hay | Kim Thanh 3S",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3485,
+    "title" : "Audio truyện Làm dâu nhà phú ông (Chương 57-64) | Truyện ngắn mới nhất 2017 | Kim Thanh 3S",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4229,
+    "title" : "(Chương 65-72) 👉 Giọng đọc Kim Thanh cảm động🌹",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2157,
+    "title" : "♥ Làm Dâu Nhà Phú Ông (Chương 73-77)– Truyện ngắn mới nhất 2017 – Không nghe thì phí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2242,
+    "title" : "Giọng đọc Kim Thanh - Truyện ngắn hay muốn khóc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2008,
+    "title" : "⚡ Làm Dâu Nhà Phú Ông P9 (Chương 83-86) – Truyện ngắn mới nhất 2017 của LAN RÙA",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/1.mp3",
+    "title" : "Nghe truyện ngắn LÀM DÂU NHÀ PHÚ ÔNG quá hay và cảm động!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/10.mp3",
+    "title" : "Chương 87 | Truyện ngắn hay nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/11.mp3",
+    "title" : "Làm Dâu Nhà Phú Ông Chương 88 - Rất Hay và Lôi Cuốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/12.mp3",
+    "title" : "⚡ Làm Dâu Nhà Phú Ông (Chương 89-95) Chương cuối – Truyện ngắn mới nhất 2018 của LAN RÙA",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/2.mp3",
+    "title" : "Nghe truyện ngắn tình yêu cảm động: LÀM DÂU NHÀ PHÚ ÔNG (Chương 32-41) | Kim Thanh 3S",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/3.mp3",
+    "title" : "(Chương 42 - 49) | Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/4.mp3",
+    "title" : "LÀM DÂU NHÀ PHÚ ÔNG (Chương 50-56) Truyện ngắn hay | Kim Thanh 3S",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/5.mp3",
+    "title" : "Audio truyện Làm dâu nhà phú ông (Chương 57-64) | Truyện ngắn mới nhất 2017 | Kim Thanh 3S",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/6.mp3",
+    "title" : "(Chương 65-72) 👉 Giọng đọc Kim Thanh cảm động🌹",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/7.mp3",
+    "title" : "♥ Làm Dâu Nhà Phú Ông (Chương 73-77)– Truyện ngắn mới nhất 2017 – Không nghe thì phí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/8.mp3",
+    "title" : "Giọng đọc Kim Thanh - Truyện ngắn hay muốn khóc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_1lamdaunhaphuong/9.mp3",
+    "title" : "⚡ Làm Dâu Nhà Phú Ông P9 (Chương 83-86) – Truyện ngắn mới nhất 2017 của LAN RÙA",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

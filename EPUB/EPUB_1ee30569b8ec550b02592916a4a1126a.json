@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dieu-ky-dieu-o-new-york_13817.html",
+    "title" : "Điều Kỳ Diệu Ở New York",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Nhật",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 2100,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_1ee30569b8ec550b02592916a4a1126a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_1ee30569b8ec550b02592916a4a1126a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/DieuKyDieuONewYork/DieuKyDieuONewYork001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1077,
+    "title" : "DieuKyDieuONewYork001",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DieuKyDieuONewYork/DieuKyDieuONewYork002End.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1023,
+    "title" : "DieuKyDieuONewYork002End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/DieuKyDieuONewYork/DieuKyDieuONewYork001.mp3",
+    "title" : "DieuKyDieuONewYork001",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DieuKyDieuONewYork/DieuKyDieuONewYork002End.mp3",
+    "title" : "DieuKyDieuONewYork002End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

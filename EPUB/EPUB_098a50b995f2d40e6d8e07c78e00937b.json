@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xuyen-qua-lam-tinh-nhan-cua-hoang-de-lac-nhat-bau-ban_11489.html",
+    "title" : "Xuyên Qua Làm Tình Nhân Của Hoàng Đế! - Lạc Nhật Bầu Bạn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lạc Nhật Bầu Bạn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 31763,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_098a50b995f2d40e6d8e07c78e00937b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_098a50b995f2d40e6d8e07c78e00937b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xuyenkhongvelamtinhnhancuahoangde/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11099,
+    "title" : "Thu Hà kể truyện ngôn tình mới tuyệt quá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyenkhongvelamtinhnhancuahoangde/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9259,
+    "title" : "Truyện ngôn tình hay đáng nghe một lần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyenkhongvelamtinhnhancuahoangde/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11405,
+    "title" : "Truyện ngôn tình siêu hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xuyenkhongvelamtinhnhancuahoangde/1.mp3",
+    "title" : "Thu Hà kể truyện ngôn tình mới tuyệt quá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyenkhongvelamtinhnhancuahoangde/2.mp3",
+    "title" : "Truyện ngôn tình hay đáng nghe một lần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyenkhongvelamtinhnhancuahoangde/3.mp3",
+    "title" : "Truyện ngôn tình siêu hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,713 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-luan-phuong-ca_10030.html",
+    "title" : "Côn Luân - Phượng Ca.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phượng ca",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 285735,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_808980ac8d7295e28629341d2fdaafd1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_808980ac8d7295e28629341d2fdaafd1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15430,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3350,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2404,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3041,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2827,
+    "title" : "13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3542,
+    "title" : "TẬP 14 Công Thành Chiến | Mc Phi Tùng diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2665,
+    "title" : "ĐẠI THỦY CHIẾN | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2916,
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 16 KẾ SÁCH PHÁ THÀNH | MC PHI TÙNG DIỄN ĐỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2294,
+    "title" : "CHIÊU HÀNG ĐỊCH | MC PHI TÙNG DIỄN ĐỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3095,
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 18 DIỆT TỐNG | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3407,
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 19 GẶP LẠI CỐ NHÂN | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16411,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2688,
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 20 CAO THỦ QUẦN HÙNG | MC PHI TÙNG DIỄN ĐỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3349,
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 21 NỖI ĐAU CHIẾN TRANH | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2730,
+    "title" : "QUÁI NHÂN BÍ ẨN | MC PHI TÙNG DIỄN ĐỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4079,
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 23 TẠO PHẢN | MC PHI TÙNG DIỄN ĐỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2607,
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 24 TÌM ĐƯỜNG TRỞ VỀ | MC PHI TÙNG DIỄN ĐỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3604,
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 25 Trở về Thiên Cơ Cung | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 26 Quần Ma Loạn Vũ | MC PHI TÙNG DIỄN ĐỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2834,
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 27 KIẾM HOA SINH PHẬT | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2449,
+    "title" : "GẶP LẠI | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2921,
+    "title" : "ĐÁNH CƯỢC | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14524,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3095,
+    "title" : "KẾT BẰNG HỮU | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3377,
+    "title" : "THIÊN TRÙNG VẠN ĐỘC | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3451,
+    "title" : "QUÁI BÀ TRONG SƯƠNG MÙ | PHI TÙNG 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3704,
+    "title" : "GẶP LẠI KẺ THÙ | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3025,
+    "title" : "TRANH ĐOẠT | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2876,
+    "title" : "LẠC GIỮA BIỂN KHƠI | MC PHI TÙN5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4267,
+    "title" : "LÊNH ĐÊNH GIỮA BIỂN KHƠI | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3305,
+    "title" : "ĐẢO HOANG | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3464,
+    "title" : "VƯỢT MUÔN TRÙNG KHƠI | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3035,
+    "title" : "BÁT BA TƯ | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13205,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3524,
+    "title" : "PHẬT THỦ | MC PHI TÙNG DIỄN ĐỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3304,
+    "title" : "CHIA XA | MC PHI TÙNG DIỄN ĐỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3042,
+    "title" : "TẬP 42 : TRỞ LẠI THIÊN CƠ CUNG | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3974,
+    "title" : "CAO THỦ TRANH ĐOẠT | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2999,
+    "title" : "LY TÁN | MC PHI TÙNG DIỄN ĐỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2983,
+    "title" : "HỎA LƯU TINH | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3640,
+    "title" : "TẬP 46 CHỈ ĐIỂM | MC PHI TÙNG DIỄN ĐỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2439,
+    "title" : "TẬP 47 LANG BẠT GIANG HỒ | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3863,
+    "title" : "THỦ LĨNH SÓI HOANG | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3404,
+    "title" : "TẬP 49 NGƯỜI ĐIỀU KHIỂN SÓI | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15597,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3029,
+    "title" : "TẬP 50 THU NHẬN ĐỒ ĐỆ | MC PHI TÙNG DIỄN ĐỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3233,
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 51 - CON TIN | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3752,
+    "title" : "CAO THỦ GIAO ĐẤU | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2991,
+    "title" : "VÂY CÔNG THIÊN CƠ CUNG | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3033,
+    "title" : "ĐẤU VÕ ĐÀI | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4405,
+    "title" : "ANH HÙNG HÀO KIỆT | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4398,
+    "title" : "TẬP CUỐI | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13340,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16432,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16538,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12163,
+    "title" : "9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/13.mp3",
+    "title" : "13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/14.mp3",
+    "title" : "TẬP 14 Công Thành Chiến | Mc Phi Tùng diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/15.mp3",
+    "title" : "ĐẠI THỦY CHIẾN | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/16.mp3",
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 16 KẾ SÁCH PHÁ THÀNH | MC PHI TÙNG DIỄN ĐỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/17.mp3",
+    "title" : "CHIÊU HÀNG ĐỊCH | MC PHI TÙNG DIỄN ĐỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/18.mp3",
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 18 DIỆT TỐNG | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/19.mp3",
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 19 GẶP LẠI CỐ NHÂN | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/20.mp3",
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 20 CAO THỦ QUẦN HÙNG | MC PHI TÙNG DIỄN ĐỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/21.mp3",
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 21 NỖI ĐAU CHIẾN TRANH | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/22.mp3",
+    "title" : "QUÁI NHÂN BÍ ẨN | MC PHI TÙNG DIỄN ĐỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/23.mp3",
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 23 TẠO PHẢN | MC PHI TÙNG DIỄN ĐỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/24.mp3",
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 24 TÌM ĐƯỜNG TRỞ VỀ | MC PHI TÙNG DIỄN ĐỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/25.mp3",
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 25 Trở về Thiên Cơ Cung | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/26.mp3",
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 26 Quần Ma Loạn Vũ | MC PHI TÙNG DIỄN ĐỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/27.mp3",
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 27 KIẾM HOA SINH PHẬT | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/28.mp3",
+    "title" : "GẶP LẠI | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/29.mp3",
+    "title" : "ĐÁNH CƯỢC | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/30.mp3",
+    "title" : "KẾT BẰNG HỮU | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/31.mp3",
+    "title" : "THIÊN TRÙNG VẠN ĐỘC | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/32.mp3",
+    "title" : "QUÁI BÀ TRONG SƯƠNG MÙ | PHI TÙNG 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/33.mp3",
+    "title" : "GẶP LẠI KẺ THÙ | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/34.mp3",
+    "title" : "TRANH ĐOẠT | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/35.mp3",
+    "title" : "LẠC GIỮA BIỂN KHƠI | MC PHI TÙN5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/36.mp3",
+    "title" : "LÊNH ĐÊNH GIỮA BIỂN KHƠI | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/37.mp3",
+    "title" : "ĐẢO HOANG | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/38.mp3",
+    "title" : "VƯỢT MUÔN TRÙNG KHƠI | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/39.mp3",
+    "title" : "BÁT BA TƯ | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/40.mp3",
+    "title" : "PHẬT THỦ | MC PHI TÙNG DIỄN ĐỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/41.mp3",
+    "title" : "CHIA XA | MC PHI TÙNG DIỄN ĐỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/42.mp3",
+    "title" : "TẬP 42 : TRỞ LẠI THIÊN CƠ CUNG | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/43.mp3",
+    "title" : "CAO THỦ TRANH ĐOẠT | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/44.mp3",
+    "title" : "LY TÁN | MC PHI TÙNG DIỄN ĐỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/45.mp3",
+    "title" : "HỎA LƯU TINH | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/46.mp3",
+    "title" : "TẬP 46 CHỈ ĐIỂM | MC PHI TÙNG DIỄN ĐỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/47.mp3",
+    "title" : "TẬP 47 LANG BẠT GIANG HỒ | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/48.mp3",
+    "title" : "THỦ LĨNH SÓI HOANG | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/49.mp3",
+    "title" : "TẬP 49 NGƯỜI ĐIỀU KHIỂN SÓI | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/50.mp3",
+    "title" : "TẬP 50 THU NHẬN ĐỒ ĐỆ | MC PHI TÙNG DIỄN ĐỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/51.mp3",
+    "title" : "CÔN LUÂN TIỀN TRUYỆN | TẬP 51 - CON TIN | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/52.mp3",
+    "title" : "CAO THỦ GIAO ĐẤU | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/53.mp3",
+    "title" : "VÂY CÔNG THIÊN CƠ CUNG | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/54.mp3",
+    "title" : "ĐẤU VÕ ĐÀI | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/55.mp3",
+    "title" : "ANH HÙNG HÀO KIỆT | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/56.mp3",
+    "title" : "TẬP CUỐI | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Cl/9.mp3",
+    "title" : "9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

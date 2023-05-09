@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-hay-nham-mat-khi-anh-den-dinh-mac-ngon-tinh_3199.html",
+    "title" : "Hãy nhắm mắt khi Anh đến - Đinh Mặc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đinh Mặc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 50755,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_c395564a45a04ad1c79e26e980e13d28.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_c395564a45a04ad1c79e26e980e13d28.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3856,
+    "title" : "[Tập 1] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3684,
+    "title" : "[Tập 2] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3347,
+    "title" : "[Tập 3] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN (phần 3) của tác giả Đinh Mặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3673,
+    "title" : "[Tập 4] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3477,
+    "title" : "[Tập 5] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3686,
+    "title" : "[Tập 6] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3325,
+    "title" : "[Tập 7] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3184,
+    "title" : "[Tập 8] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3174,
+    "title" : "[Tập 9] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3926,
+    "title" : "[Tập 10] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3223,
+    "title" : "[Tập 11] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3224,
+    "title" : "[Tập 12] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3229,
+    "title" : "[Tập 13] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2770,
+    "title" : "[Tập 14] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2977,
+    "title" : "[Tập 15 end] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-01.mp3",
+    "title" : "[Tập 1] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-02.mp3",
+    "title" : "[Tập 2] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-03.mp3",
+    "title" : "[Tập 3] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN (phần 3) của tác giả Đinh Mặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-04.mp3",
+    "title" : "[Tập 4] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-05.mp3",
+    "title" : "[Tập 5] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-06.mp3",
+    "title" : "[Tập 6] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-07.mp3",
+    "title" : "[Tập 7] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-08.mp3",
+    "title" : "[Tập 8] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-09.mp3",
+    "title" : "[Tập 9] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-10.mp3",
+    "title" : "[Tập 10] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-11.mp3",
+    "title" : "[Tập 11] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-12.mp3",
+    "title" : "[Tập 12] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-13.mp3",
+    "title" : "[Tập 13] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-14.mp3",
+    "title" : "[Tập 14] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-nham-10/hay-nham-15.mp3",
+    "title" : "[Tập 15 end] MATEAN đọc tiểu thuyết HÃY NHẮM MẮT KHI ANH ĐẾN của tác giả Đinh Mặc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

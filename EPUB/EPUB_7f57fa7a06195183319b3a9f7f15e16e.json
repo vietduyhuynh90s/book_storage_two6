@@ -1,0 +1,497 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lao-dong-bien-ca_9272.html",
+    "title" : "Lao Động Biển Cả",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Victor Hugo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 66088,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_7f57fa7a06195183319b3a9f7f15e16e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_7f57fa7a06195183319b3a9f7f15e16e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/DTV_LDBC/01_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1785,
+    "title" : "01 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/02_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1800,
+    "title" : "02 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/03_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1789,
+    "title" : "03 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/04_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1787,
+    "title" : "04 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/05_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1790,
+    "title" : "05 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/06_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1799,
+    "title" : "06 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/07_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1777,
+    "title" : "07 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/08_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1773,
+    "title" : "08 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/09_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1787,
+    "title" : "09 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/10_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1630,
+    "title" : "10 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/11_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1756,
+    "title" : "11 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/12_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1796,
+    "title" : "12 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/13_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1796,
+    "title" : "13 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/14_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1786,
+    "title" : "14 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/15_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1773,
+    "title" : "15 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/16_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1680,
+    "title" : "16 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/17_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1767,
+    "title" : "17 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/18_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1762,
+    "title" : "18 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/19_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1748,
+    "title" : "19 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/20_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1585,
+    "title" : "20 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/21_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1730,
+    "title" : "21 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/22_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1730,
+    "title" : "22 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/23_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1690,
+    "title" : "23 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/24_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1711,
+    "title" : "24 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/25_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1760,
+    "title" : "25 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/26_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1777,
+    "title" : "26 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/27_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1752,
+    "title" : "27 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/28_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1779,
+    "title" : "28 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/29_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1784,
+    "title" : "29 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/30_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1757,
+    "title" : "30 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/31_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1683,
+    "title" : "31 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/32_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1746,
+    "title" : "32 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/33_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1738,
+    "title" : "33 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/34_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1780,
+    "title" : "34 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/35_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1750,
+    "title" : "35 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/36_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1781,
+    "title" : "36 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/37_LDBC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1434,
+    "title" : "37 LDBC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/38_LDBC_END.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1540,
+    "title" : "38 LDBC END",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/DTV_LDBC/01_LDBC.mp3",
+    "title" : "01 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/02_LDBC.mp3",
+    "title" : "02 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/03_LDBC.mp3",
+    "title" : "03 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/04_LDBC.mp3",
+    "title" : "04 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/05_LDBC.mp3",
+    "title" : "05 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/06_LDBC.mp3",
+    "title" : "06 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/07_LDBC.mp3",
+    "title" : "07 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/08_LDBC.mp3",
+    "title" : "08 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/09_LDBC.mp3",
+    "title" : "09 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/10_LDBC.mp3",
+    "title" : "10 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/11_LDBC.mp3",
+    "title" : "11 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/12_LDBC.mp3",
+    "title" : "12 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/13_LDBC.mp3",
+    "title" : "13 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/14_LDBC.mp3",
+    "title" : "14 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/15_LDBC.mp3",
+    "title" : "15 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/16_LDBC.mp3",
+    "title" : "16 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/17_LDBC.mp3",
+    "title" : "17 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/18_LDBC.mp3",
+    "title" : "18 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/19_LDBC.mp3",
+    "title" : "19 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/20_LDBC.mp3",
+    "title" : "20 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/21_LDBC.mp3",
+    "title" : "21 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/22_LDBC.mp3",
+    "title" : "22 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/23_LDBC.mp3",
+    "title" : "23 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/24_LDBC.mp3",
+    "title" : "24 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/25_LDBC.mp3",
+    "title" : "25 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/26_LDBC.mp3",
+    "title" : "26 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/27_LDBC.mp3",
+    "title" : "27 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/28_LDBC.mp3",
+    "title" : "28 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/29_LDBC.mp3",
+    "title" : "29 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/30_LDBC.mp3",
+    "title" : "30 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/31_LDBC.mp3",
+    "title" : "31 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/32_LDBC.mp3",
+    "title" : "32 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/33_LDBC.mp3",
+    "title" : "33 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/34_LDBC.mp3",
+    "title" : "34 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/35_LDBC.mp3",
+    "title" : "35 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/36_LDBC.mp3",
+    "title" : "36 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/37_LDBC.mp3",
+    "title" : "37 LDBC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_LDBC/38_LDBC_END.mp3",
+    "title" : "38 LDBC END",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

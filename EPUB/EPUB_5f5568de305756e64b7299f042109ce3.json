@@ -1,0 +1,569 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-duc-vong-den-toi-am-duc-thanh-yeu-ngon-tinh_3583.html",
+    "title" : "Dục Vọng Đen Tối (Ám dục) - Thánh Yêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thánh yêu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 185262,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_5f5568de305756e64b7299f042109ce3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_5f5568de305756e64b7299f042109ce3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/am-duc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4100,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5260,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3354,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3887,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3616,
+    "title" : "13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5606,
+    "title" : "Ngôn Tình - Ám Dục Tập 14 - Dục Vọng Đen Tối Tập 14 - Ngôn Tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5407,
+    "title" : "Ngôn Tình - Ám Dục Tập 15 - Dục Vọng Đen Tối Tập 15 - Ngôn Tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5788,
+    "title" : "Ám Dục Tập 16 - Dục Vọng Đen Tối Tập 16 - Ngôn Tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3344,
+    "title" : "Ám Dục Tập 17 - Dục Vọng Đen Tối Tập 17 - Ngôn Tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4174,
+    "title" : "Ám Dục Tập 18 - Dục Vọng Đen Tối Tập 18 - Ngôn Tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4069,
+    "title" : "Ám Dục Tập 19 - Dục Vọng Đen Tối Tập 19 - Ngôn Tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3941,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3179,
+    "title" : "Ám Dục Tập 20 - Dục Vọng Đen Tối Tập 20 - Ngôn Tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3063,
+    "title" : "Ám Dục Tập 21 - Dục Vọng Đen Tối Tập 21 - Ngôn Tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3264,
+    "title" : "Ám Dục Tập 22 - Dục Vọng Đen Tối Tập 22 - Ngôn Tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3325,
+    "title" : "Ám Dục Tập 23 - Dục Vọng Đen Tối Tập 23 - Ngôn Tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2895,
+    "title" : "Ám Dục Tập 24 - Dục Vọng Đen Tối Tập 24 - Ngôn Tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3375,
+    "title" : "Ám Dục Tập 25 - Dục Vọng Đen Tối Tập 25 - Ngôn Tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3078,
+    "title" : "Ám Dục Tập 26 - Dục Vọng Đen Tối Tập 26 - Ngôn Tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3099,
+    "title" : "Ám Dục Tập 27 - Dục Vọng Đen Tối Tập 27 - Ngôn Tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3134,
+    "title" : "Ám Dục Tập 28 - Dục Vọng Đen Tối Tập 28 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5082,
+    "title" : "Ám Dục Tập 29 - Dục Vọng Đen Tối Tập 29 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4106,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4367,
+    "title" : "Ám Dục Tập 30 - Dục Vọng Đen Tối Tập 30 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2816,
+    "title" : "Ám Dục Tập 31 - Dục Vọng Đen Tối Tập 31 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4282,
+    "title" : "Ám Dục Tập 32 - Dục Vọng Đen Tối Tập 32 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4862,
+    "title" : "Ám Dục Tập 33 - Dục Vọng Đen Tối Tập 33 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7637,
+    "title" : "Ám Dục Tập 34 - Dục Vọng Đen Tối Tập 34 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4534,
+    "title" : "Ám Dục Tập 35 - Dục Vọng Đen Tối Tập 35 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4642,
+    "title" : "Ám Dục Tập 36 - Dục Vọng Đen Tối Tập 36 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6264,
+    "title" : "Ám Dục Tập 37 - Dục Vọng Đen Tối Tập 37 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4044,
+    "title" : "Ám Dục Tập 38 - Dục Vọng Đen Tối Tập 38 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4462,
+    "title" : "Ám Dục Tập 39 - Dục Vọng Đen Tối Tập 39 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3831,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6217,
+    "title" : "Ám Dục Tập 40 - Dục Vọng Đen Tối Tập 40 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4461,
+    "title" : "Ám Dục Tập 41 - Dục Vọng Đen Tối Tập 41 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2807,
+    "title" : "Ám Dục Tập 42 - Dục Vọng Đen Tối Tập 42 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4131,
+    "title" : "Ám Dục Tập 43 - Dục Vọng Đen Tối Tập 43 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6848,
+    "title" : "Ám Dục Tập 44 Tập Cuối - Dục Vọng Đen Tối Tập 44 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4048,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3163,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4010,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3880,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duc/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3810,
+    "title" : "9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/am-duc/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/13.mp3",
+    "title" : "13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/14.mp3",
+    "title" : "Ngôn Tình - Ám Dục Tập 14 - Dục Vọng Đen Tối Tập 14 - Ngôn Tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/15.mp3",
+    "title" : "Ngôn Tình - Ám Dục Tập 15 - Dục Vọng Đen Tối Tập 15 - Ngôn Tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/16.mp3",
+    "title" : "Ám Dục Tập 16 - Dục Vọng Đen Tối Tập 16 - Ngôn Tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/17.mp3",
+    "title" : "Ám Dục Tập 17 - Dục Vọng Đen Tối Tập 17 - Ngôn Tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/18.mp3",
+    "title" : "Ám Dục Tập 18 - Dục Vọng Đen Tối Tập 18 - Ngôn Tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/19.mp3",
+    "title" : "Ám Dục Tập 19 - Dục Vọng Đen Tối Tập 19 - Ngôn Tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/20.mp3",
+    "title" : "Ám Dục Tập 20 - Dục Vọng Đen Tối Tập 20 - Ngôn Tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/21.mp3",
+    "title" : "Ám Dục Tập 21 - Dục Vọng Đen Tối Tập 21 - Ngôn Tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/22.mp3",
+    "title" : "Ám Dục Tập 22 - Dục Vọng Đen Tối Tập 22 - Ngôn Tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/23.mp3",
+    "title" : "Ám Dục Tập 23 - Dục Vọng Đen Tối Tập 23 - Ngôn Tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/24.mp3",
+    "title" : "Ám Dục Tập 24 - Dục Vọng Đen Tối Tập 24 - Ngôn Tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/25.mp3",
+    "title" : "Ám Dục Tập 25 - Dục Vọng Đen Tối Tập 25 - Ngôn Tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/26.mp3",
+    "title" : "Ám Dục Tập 26 - Dục Vọng Đen Tối Tập 26 - Ngôn Tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/27.mp3",
+    "title" : "Ám Dục Tập 27 - Dục Vọng Đen Tối Tập 27 - Ngôn Tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/28.mp3",
+    "title" : "Ám Dục Tập 28 - Dục Vọng Đen Tối Tập 28 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/29.mp3",
+    "title" : "Ám Dục Tập 29 - Dục Vọng Đen Tối Tập 29 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/30.mp3",
+    "title" : "Ám Dục Tập 30 - Dục Vọng Đen Tối Tập 30 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/31.mp3",
+    "title" : "Ám Dục Tập 31 - Dục Vọng Đen Tối Tập 31 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/32.mp3",
+    "title" : "Ám Dục Tập 32 - Dục Vọng Đen Tối Tập 32 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/33.mp3",
+    "title" : "Ám Dục Tập 33 - Dục Vọng Đen Tối Tập 33 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/34.mp3",
+    "title" : "Ám Dục Tập 34 - Dục Vọng Đen Tối Tập 34 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/35.mp3",
+    "title" : "Ám Dục Tập 35 - Dục Vọng Đen Tối Tập 35 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/36.mp3",
+    "title" : "Ám Dục Tập 36 - Dục Vọng Đen Tối Tập 36 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/37.mp3",
+    "title" : "Ám Dục Tập 37 - Dục Vọng Đen Tối Tập 37 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/38.mp3",
+    "title" : "Ám Dục Tập 38 - Dục Vọng Đen Tối Tập 38 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/39.mp3",
+    "title" : "Ám Dục Tập 39 - Dục Vọng Đen Tối Tập 39 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/40.mp3",
+    "title" : "Ám Dục Tập 40 - Dục Vọng Đen Tối Tập 40 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/41.mp3",
+    "title" : "Ám Dục Tập 41 - Dục Vọng Đen Tối Tập 41 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/42.mp3",
+    "title" : "Ám Dục Tập 42 - Dục Vọng Đen Tối Tập 42 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/43.mp3",
+    "title" : "Ám Dục Tập 43 - Dục Vọng Đen Tối Tập 43 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/44.mp3",
+    "title" : "Ám Dục Tập 44 Tập Cuối - Dục Vọng Đen Tối Tập 44 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duc/9.mp3",
+    "title" : "9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/doc-quy-am-chu-hao-huy_10329.html",
+    "title" : "Dốc Quỷ Ám - Chu Hạo Huy",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chu Hạo Huy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 24419,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_1c5e72195abc0c7c03477d2b826e38f7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_1c5e72195abc0c7c03477d2b826e38f7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/doc-quy-am/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3692,
+    "title" : "Truyện Ma Có Thật (Mao Sơn Chắc Để Tối Nhé) #1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-quy-am/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4512,
+    "title" : "Truyện Ma Có Thật Dốc Quỷ Ám 2/6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-quy-am/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3798,
+    "title" : "Truyện Ma Có Thật Dốc Quỷ Ám 3/6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-quy-am/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3581,
+    "title" : "Truyện ma có thật 4/6 (Mao Sơn Chắc Để Mai -tamhoan ra chậm quá)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-quy-am/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4544,
+    "title" : "Truyện ma có thật 5/6 (Mao Sơn Chắc Để Mai -tamhoan ra chậm quá)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-quy-am/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4292,
+    "title" : "Con Đốc Bị Quỷ Ám Truyện Ma Có Thật Phiên Bản 2018 #6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/doc-quy-am/1.mp3",
+    "title" : "Truyện Ma Có Thật (Mao Sơn Chắc Để Tối Nhé) #1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-quy-am/2.mp3",
+    "title" : "Truyện Ma Có Thật Dốc Quỷ Ám 2/6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-quy-am/3.mp3",
+    "title" : "Truyện Ma Có Thật Dốc Quỷ Ám 3/6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-quy-am/4.mp3",
+    "title" : "Truyện ma có thật 4/6 (Mao Sơn Chắc Để Mai -tamhoan ra chậm quá)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-quy-am/5.mp3",
+    "title" : "Truyện ma có thật 5/6 (Mao Sơn Chắc Để Mai -tamhoan ra chậm quá)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-quy-am/6.mp3",
+    "title" : "Con Đốc Bị Quỷ Ám Truyện Ma Có Thật Phiên Bản 2018 #6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

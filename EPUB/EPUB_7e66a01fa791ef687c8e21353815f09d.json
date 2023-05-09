@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngang-trai-phu-tay-ho-ngo-van-phu_11438.html",
+    "title" : "Ngang Trái Phủ Tây Hồ - Ngô Văn Phú",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngô Văn Phú",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 23150,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_7e66a01fa791ef687c8e21353815f09d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_7e66a01fa791ef687c8e21353815f09d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2990,
+    "title" : "(1)Ngang trái phủ Tây Hồ-tập 1 Lệ chi viên Án -Ngô V.Phú-Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1905,
+    "title" : "Lệ Chi Viên Án - Ngô V. Phú - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2493,
+    "title" : "Lệ Chi Viên Án - Ngô V. Phú - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2300,
+    "title" : "(2)Ngang trái phủ Tây Hồ-tập 2 Lệ chi viên Án -Ngô V.Phú-Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2730,
+    "title" : "(3)Ngang trái phủ Tây Hồ-tập 3 Lệ chi viên Án -Ngô V.Phú-Truyện Audio Lê Duyên-Duyên Lế́",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2015,
+    "title" : "(4)Ngang trái phủ Tây Hồ- Vụ án Lệ chi viên- Ngô V.Phú- truyện audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1918,
+    "title" : "(5) Ngang trái Phủ Tây Hồ- Vụ án Lệ chi viên- N-V-Phú- Truyện Audio Lê Duyên-Duyên Lê.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1538,
+    "title" : "(6)Ngang trái Phủ Tây Hồ-Vụ án Lệ chi viên-N-V-Phú-Truyện Audio Lê Duyên-Duyên Lê.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1802,
+    "title" : "(7)Ngang trái Phủ Tây Hồ-Vụ án Lệ chi viên-N-V-Phú-Truyện Audio Lê Duyên-Duyên Lê.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1758,
+    "title" : "Vụ án Lệ Chi Viên - Ngô V. Phú - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1701,
+    "title" : "Vụ án Lệ Chi Viên - Ngô V.Phú - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/1.mp3",
+    "title" : "(1)Ngang trái phủ Tây Hồ-tập 1 Lệ chi viên Án -Ngô V.Phú-Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/10.mp3",
+    "title" : "Lệ Chi Viên Án - Ngô V. Phú - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/11.mp3",
+    "title" : "Lệ Chi Viên Án - Ngô V. Phú - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/2.mp3",
+    "title" : "(2)Ngang trái phủ Tây Hồ-tập 2 Lệ chi viên Án -Ngô V.Phú-Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/3.mp3",
+    "title" : "(3)Ngang trái phủ Tây Hồ-tập 3 Lệ chi viên Án -Ngô V.Phú-Truyện Audio Lê Duyên-Duyên Lế́",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/4.mp3",
+    "title" : "(4)Ngang trái phủ Tây Hồ- Vụ án Lệ chi viên- Ngô V.Phú- truyện audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/5.mp3",
+    "title" : "(5) Ngang trái Phủ Tây Hồ- Vụ án Lệ chi viên- N-V-Phú- Truyện Audio Lê Duyên-Duyên Lê.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/6.mp3",
+    "title" : "(6)Ngang trái Phủ Tây Hồ-Vụ án Lệ chi viên-N-V-Phú-Truyện Audio Lê Duyên-Duyên Lê.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/7.mp3",
+    "title" : "(7)Ngang trái Phủ Tây Hồ-Vụ án Lệ chi viên-N-V-Phú-Truyện Audio Lê Duyên-Duyên Lê.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/8.mp3",
+    "title" : "Vụ án Lệ Chi Viên - Ngô V. Phú - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NgangTraiPhuTayHo/9.mp3",
+    "title" : "Vụ án Lệ Chi Viên - Ngô V.Phú - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

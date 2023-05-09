@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-mat-dong-ho-hoi-uc_11707.html",
+    "title" : "Bí Mật Dòng Họ - Hồi Ức",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồi Ức",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19906,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_fc51a5c2913c0a420a584cc383e3a579.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_fc51a5c2913c0a420a584cc383e3a579.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bi-mat-dong-ho-tran-ho/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3425,
+    "title" : "Truyện Ma Anh Tú Kể Có Thật Ly Kỳ Quá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-mat-dong-ho-tran-ho/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Truyện Ma Anh Tú Kể Có Thật Truyện Ngày Càng Hấp Dẫn Ly Kỳ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-mat-dong-ho-tran-ho/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3450,
+    "title" : "Truyện Ma Anh Tú Kể Có Thật. 1 Số Bí Mật Đã Được Bật Mí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-mat-dong-ho-tran-ho/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4069,
+    "title" : "Truyện Ma Anh Tú Kể Có Thật Nghe Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-mat-dong-ho-tran-ho/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5199,
+    "title" : "BÍ MẬT DÒNG HỌ TRẦN HỒ [Tập 5 HẾT] Kết Thúc Từ Ngạc Nhiên Này Đến Ngạc Nhiên Khác | MC Anh Tú",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bi-mat-dong-ho-tran-ho/1.mp3",
+    "title" : "Truyện Ma Anh Tú Kể Có Thật Ly Kỳ Quá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-mat-dong-ho-tran-ho/2.mp3",
+    "title" : "Truyện Ma Anh Tú Kể Có Thật Truyện Ngày Càng Hấp Dẫn Ly Kỳ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-mat-dong-ho-tran-ho/3.mp3",
+    "title" : "Truyện Ma Anh Tú Kể Có Thật. 1 Số Bí Mật Đã Được Bật Mí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-mat-dong-ho-tran-ho/4.mp3",
+    "title" : "Truyện Ma Anh Tú Kể Có Thật Nghe Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-mat-dong-ho-tran-ho/5.mp3",
+    "title" : "BÍ MẬT DÒNG HỌ TRẦN HỒ [Tập 5 HẾT] Kết Thúc Từ Ngạc Nhiên Này Đến Ngạc Nhiên Khác | MC Anh Tú",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

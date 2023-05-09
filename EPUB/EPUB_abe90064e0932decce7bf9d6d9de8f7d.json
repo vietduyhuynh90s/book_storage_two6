@@ -1,0 +1,377 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vu-giet-nguoi-tren-san-golf_12474.html",
+    "title" : "Vụ Giết Người Trên Sân Golf",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 24543,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_abe90064e0932decce7bf9d6d9de8f7d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_abe90064e0932decce7bf9d6d9de8f7d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 585,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 1: Người bạn đường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 801,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 10: Gabriel Stonor.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1200,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 11: Jack Renauld.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 936,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 12: Poirot lý giải một số vấn đề",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 848,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 13: Cô gái có đôi mắt lo âu.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 706,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 14: Xác chết thứ hai.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 825,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 15: Tấm ảnh.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 650,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 16: Vụ án Beroldy.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 781,
+    "title" : "Agatha Christie | Án mạng trên sân Golf |Chuong 17: Tiếp tục điều tra.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 578,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 18: Giraud hành động.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 605,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 19: Tôi vận dụng chất xám.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1143,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 2: Lời cầu cứu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1221,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 20: Một lời khai đáng kinh ngạc.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 875,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 21: Hercule Poirot vào cuộc.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1028,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chuong 22: Tôi tìm thấy tình yêu.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 562,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chuong 23: Khó khăn còn ở phía trước.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 820,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 24: \"Hãy cứu lấy anh ấy\".",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 412,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chuong 25: Cái kết bất ngờ.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 515,
+    "title" : "Agatha Christie | Án mạng trên sân Golf |Chuong 26: Tôi nhận được một lá thư.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1255,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chuong 27: Câu chuyện của Jack Renauld.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1258,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 28: Đoạn kết của cuộc hành trình.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1199,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 3: Tại biệt thự Genevière",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 983,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 4: Lá thư ký tên \"Bella\"",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1017,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 5: Câu chuyện của bà Renauld",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 736,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 6: Hiện trường vụ án.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1179,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 7: Phu nhân Daubreuil bí ẩn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 992,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 8: Cuộc gặp bất ngờ.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 833,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 9: Giraud lần ra vài manh mối.",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/1.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 1: Người bạn đường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/10.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 10: Gabriel Stonor.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/11.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 11: Jack Renauld.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/12.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 12: Poirot lý giải một số vấn đề",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/13.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 13: Cô gái có đôi mắt lo âu.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/14.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 14: Xác chết thứ hai.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/15.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 15: Tấm ảnh.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/16.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 16: Vụ án Beroldy.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/17.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf |Chuong 17: Tiếp tục điều tra.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/18.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 18: Giraud hành động.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/19.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 19: Tôi vận dụng chất xám.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/2.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 2: Lời cầu cứu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/20.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 20: Một lời khai đáng kinh ngạc.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/21.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 21: Hercule Poirot vào cuộc.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/22.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chuong 22: Tôi tìm thấy tình yêu.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/23.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chuong 23: Khó khăn còn ở phía trước.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/24.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 24: \"Hãy cứu lấy anh ấy\".",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/25.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chuong 25: Cái kết bất ngờ.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/26.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf |Chuong 26: Tôi nhận được một lá thư.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/27.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chuong 27: Câu chuyện của Jack Renauld.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/28.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 28: Đoạn kết của cuộc hành trình.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/3.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 3: Tại biệt thự Genevière",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/4.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 4: Lá thư ký tên \"Bella\"",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/5.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 5: Câu chuyện của bà Renauld",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/6.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 6: Hiện trường vụ án.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/7.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 7: Phu nhân Daubreuil bí ẩn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/8.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 8: Cuộc gặp bất ngờ.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-tren-san-golf/9.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 9: Giraud lần ra vài manh mối.",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

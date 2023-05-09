@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/10-dieu-tao-nen-so-phan_14819.html",
+    "title" : "10 Điều Tạo Nên Số Phận",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "David Simon, M.D",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 13535,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_1f715ede2e38376fe9299612c6ded028.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_1f715ede2e38376fe9299612c6ded028.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 219,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 90,
+    "title" : "Những “cái cọc” quanh ta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 900,
+    "title" : "Chương 1: Sống tự do",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1096,
+    "title" : "Chương 2: Sống thật lòng mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1559,
+    "title" : "Chương 3: Biết chấp nhận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1113,
+    "title" : "Chương 4: Thư giãn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1557,
+    "title" : "Chương 5: Giữ gìn sự trọn vẹn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 971,
+    "title" : "Chương 6: Biết tha thứ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1554,
+    "title" : "Chương 7: Sống với tình yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1257,
+    "title" : "Chương 8: Cam kết với sự giàu có",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1475,
+    "title" : "Chương 9: Trung thành với sự thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1202,
+    "title" : "Chương 10: Bình yên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 542,
+    "title" : "10 điều tạo nên số phận",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch01.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch02.mp3",
+    "title" : "Những “cái cọc” quanh ta",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch03.mp3",
+    "title" : "Chương 1: Sống tự do",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch04.mp3",
+    "title" : "Chương 2: Sống thật lòng mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch05.mp3",
+    "title" : "Chương 3: Biết chấp nhận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch06.mp3",
+    "title" : "Chương 4: Thư giãn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch07.mp3",
+    "title" : "Chương 5: Giữ gìn sự trọn vẹn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch08.mp3",
+    "title" : "Chương 6: Biết tha thứ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch09.mp3",
+    "title" : "Chương 7: Sống với tình yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch10.mp3",
+    "title" : "Chương 8: Cam kết với sự giàu có",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch11.mp3",
+    "title" : "Chương 9: Trung thành với sự thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch12.mp3",
+    "title" : "Chương 10: Bình yên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-10dieutaonensophan/ch13.mp3",
+    "title" : "10 điều tạo nên số phận",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

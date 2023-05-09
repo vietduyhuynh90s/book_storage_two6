@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ban-moi-la-chu-nhan-cua-cuoc-doi-minh_14855.html",
+    "title" : "Bạn Mới Là Chủ Nhân Của Cuộc Đời Mình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lý Ái Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 29844,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_753873b1f48b47877ff59c3f53c25f0d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_753873b1f48b47877ff59c3f53c25f0d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/BMCLCNCCDM/B%E1%BA%A1n%20m%E1%BB%9Bi%20ch%C3%ADnh%20l%C3%A0%20ch%E1%BB%A7%20nh%C3%A2n%20c%E1%BB%A7a%20cu%E1%BB%99c%20%C4%91%E1%BB%9Di%20m%C3%ACnh%20-%20L%C3%BD%20%C3%81i%20Linh%20%28128kbit_AAC%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 29844,
+    "title" : "Bạn mới chính là chủ nhân của cuộc đời mình - Lý Ái Linh (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/BMCLCNCCDM/B%E1%BA%A1n%20m%E1%BB%9Bi%20ch%C3%ADnh%20l%C3%A0%20ch%E1%BB%A7%20nh%C3%A2n%20c%E1%BB%A7a%20cu%E1%BB%99c%20%C4%91%E1%BB%9Di%20m%C3%ACnh%20-%20L%C3%BD%20%C3%81i%20Linh%20%28128kbit_AAC%29.mp3",
+    "title" : "Bạn mới chính là chủ nhân của cuộc đời mình - Lý Ái Linh (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

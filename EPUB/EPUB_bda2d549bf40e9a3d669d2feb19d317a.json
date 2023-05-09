@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/giong-bao-mot-cuoc-tinh-chie-girl_11846.html",
+    "title" : "Giông Bão Một Cuộc Tình - Chie_girl",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chie_girl",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 14653,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_bda2d549bf40e9a3d669d2feb19d317a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_bda2d549bf40e9a3d669d2feb19d317a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dongbaomotcuoctinh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5842,
+    "title" : "[Radio Truyện Ngắn] Dông Bão Một Cuộc Tình | Truyện ngắn hay về tình yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dongbaomotcuoctinh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8811,
+    "title" : "Tập 2 | Truyện ngắn hay về tình yêu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dongbaomotcuoctinh/1.mp3",
+    "title" : "[Radio Truyện Ngắn] Dông Bão Một Cuộc Tình | Truyện ngắn hay về tình yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dongbaomotcuoctinh/2.mp3",
+    "title" : "Tập 2 | Truyện ngắn hay về tình yêu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

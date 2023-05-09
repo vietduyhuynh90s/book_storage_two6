@@ -1,0 +1,353 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuy-tinh-so-duc_15499.html",
+    "title" : "Tùy Tình Sở Dục",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tang Giới",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 36859,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_58564cbb285f0eaf99185937e30f1928.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_58564cbb285f0eaf99185937e30f1928.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1532,
+    "title" : "phần 1 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1339,
+    "title" : "Phần 10 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1410,
+    "title" : "Phần 11 - Ngôn tình huyền huyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1328,
+    "title" : "Phần 12 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1334,
+    "title" : "Phần 13 - Ngôn tình huyền huyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1244,
+    "title" : "Phần 14 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1397,
+    "title" : "Phần 15 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1450,
+    "title" : "Phần 16 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1395,
+    "title" : "Phần 17 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1306,
+    "title" : "Phần 18 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1340,
+    "title" : "Phần 19 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1577,
+    "title" : "phần 2 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1495,
+    "title" : "Phần 20 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1550,
+    "title" : "Phần 21 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1525,
+    "title" : "Phần 22 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1344,
+    "title" : "Phần 23 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1351,
+    "title" : "Phần 24 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1538,
+    "title" : "Phần 25 đại kết cục - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1409,
+    "title" : "Phần 26 ngoại truyện - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1563,
+    "title" : "Phần 3 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1336,
+    "title" : "Phần 4 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1338,
+    "title" : "Phần 5 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1363,
+    "title" : "Phần 6 - Ngôn tình đo thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1460,
+    "title" : "Phần 7 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1515,
+    "title" : "Phần 8 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1420,
+    "title" : "Phần 9 - Ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/1.mp3",
+    "title" : "phần 1 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/10.mp3",
+    "title" : "Phần 10 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/11.mp3",
+    "title" : "Phần 11 - Ngôn tình huyền huyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/12.mp3",
+    "title" : "Phần 12 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/13.mp3",
+    "title" : "Phần 13 - Ngôn tình huyền huyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/14.mp3",
+    "title" : "Phần 14 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/15.mp3",
+    "title" : "Phần 15 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/16.mp3",
+    "title" : "Phần 16 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/17.mp3",
+    "title" : "Phần 17 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/18.mp3",
+    "title" : "Phần 18 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/19.mp3",
+    "title" : "Phần 19 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/2.mp3",
+    "title" : "phần 2 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/20.mp3",
+    "title" : "Phần 20 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/21.mp3",
+    "title" : "Phần 21 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/22.mp3",
+    "title" : "Phần 22 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/23.mp3",
+    "title" : "Phần 23 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/24.mp3",
+    "title" : "Phần 24 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/25.mp3",
+    "title" : "Phần 25 đại kết cục - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/26.mp3",
+    "title" : "Phần 26 ngoại truyện - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/3.mp3",
+    "title" : "Phần 3 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/4.mp3",
+    "title" : "Phần 4 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/5.mp3",
+    "title" : "Phần 5 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/6.mp3",
+    "title" : "Phần 6 - Ngôn tình đo thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/7.mp3",
+    "title" : "Phần 7 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/8.mp3",
+    "title" : "Phần 8 - Ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuy-tinh-so-duc/9.mp3",
+    "title" : "Phần 9 - Ngôn tình đô thị",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

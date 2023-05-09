@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dai-mo-co-loa_15156.html",
+    "title" : "Đại Mộ Cổ Loa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mạnh Tuấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 21615,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_ebfa8439705431119c9ccaa7edbc5b79.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_ebfa8439705431119c9ccaa7edbc5b79.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dai-mo-co-loa_202007/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3155,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mo-co-loa_202007/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3243,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mo-co-loa_202007/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3153,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mo-co-loa_202007/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3019,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mo-co-loa_202007/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3212,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mo-co-loa_202007/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3138,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mo-co-loa_202007/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2695,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dai-mo-co-loa_202007/1.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mo-co-loa_202007/2.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mo-co-loa_202007/3.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mo-co-loa_202007/4.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mo-co-loa_202007/5.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mo-co-loa_202007/6.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mo-co-loa_202007/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

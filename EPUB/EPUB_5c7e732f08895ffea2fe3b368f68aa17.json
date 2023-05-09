@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/yeu-em-hon-ca-sinh-menh-du-lac-thuan_10707.html",
+    "title" : "Yêu Em Hơn Cả Sinh Mệnh - Dư Lạc Thuần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dư Lạc Thuần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 29411,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_5c7e732f08895ffea2fe3b368f68aa17.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_5c7e732f08895ffea2fe3b368f68aa17.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/yeu-em-hon-ca-sinh-menh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9817,
+    "title" : "Truyện Ngôn Tình Hắc Bang Hôn Ước Với Tổng Tài | Yêu Em Hơn Cả Sinh Mệnh MC Thu Hà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-em-hon-ca-sinh-menh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10226,
+    "title" : "Truyện Ngôn Tình Sắc Yêu Em Hơn Cả Sinh Mệnh [Tập 2] Cô Vợ Ngốc Bị Ăn Sạch Lần Nữa MC Thu Hà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-em-hon-ca-sinh-menh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9368,
+    "title" : "Tập Cuối Truyện Ngôn Tình Rất Lôi Cuốn Yêu Em Hơn Cả Sinh Mệnh 3 | MC Thu Hà Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/yeu-em-hon-ca-sinh-menh/1.mp3",
+    "title" : "Truyện Ngôn Tình Hắc Bang Hôn Ước Với Tổng Tài | Yêu Em Hơn Cả Sinh Mệnh MC Thu Hà",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-em-hon-ca-sinh-menh/2.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Yêu Em Hơn Cả Sinh Mệnh [Tập 2] Cô Vợ Ngốc Bị Ăn Sạch Lần Nữa MC Thu Hà",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-em-hon-ca-sinh-menh/3.mp3",
+    "title" : "Tập Cuối Truyện Ngôn Tình Rất Lôi Cuốn Yêu Em Hơn Cả Sinh Mệnh 3 | MC Thu Hà Diễn Đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

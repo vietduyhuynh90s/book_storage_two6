@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/son-hai-ma-thanh-ky_15426.html",
+    "title" : "Sơn Hải Ma Thanh Ký",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tùng Trần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 11889,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_9d18b004707d1dc0ea3ecba9c29d19ae.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_9d18b004707d1dc0ea3ecba9c29d19ae.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/son-hai-ma-thanh-ky_202009/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3160,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/son-hai-ma-thanh-ky_202009/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3149,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/son-hai-ma-thanh-ky_202009/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3155,
+    "title" : "Tập 3] Sơn Hải Ma Thanh Ký - Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/son-hai-ma-thanh-ky_202009/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2425,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/son-hai-ma-thanh-ky_202009/1.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/son-hai-ma-thanh-ky_202009/2.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/son-hai-ma-thanh-ky_202009/3.mp3",
+    "title" : "Tập 3] Sơn Hải Ma Thanh Ký - Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/son-hai-ma-thanh-ky_202009/4.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

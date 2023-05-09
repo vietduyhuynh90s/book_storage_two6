@@ -1,0 +1,509 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nghin-le-mot-ngay-francois-petis-de-la-croix_10178.html",
+    "title" : "Nghìn Lẻ Một Ngày - Francois Petis De La Croix",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Francois Petis De La Croix",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 90797,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_e1e4c920db9edec005e9408aca79e59a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_e1e4c920db9edec005e9408aca79e59a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nghinlemotngay/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1425,
+    "title" : "Francois Petis De la Croix - Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2877,
+    "title" : "- Truyện cổ Thế Giới – Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2480,
+    "title" : "- Truyện cổ Thế Giới - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2809,
+    "title" : "Truyện Cổ Thế Giới - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2577,
+    "title" : "Tập 13- Nghìn lẻ một ngày- Truyện cổ Thế giới- Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2401,
+    "title" : "Nghìn lẻ một ngày- Truyện cổ Thế giới- Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2618,
+    "title" : "Tập 15- Nghìn lẻ một ngày- Truyện cổ Thế giới- Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2663,
+    "title" : "Nghìn lẻ một ngày- Truyện cổ Thế giới- Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2714,
+    "title" : "Nghìn lẻ một ngày - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2473,
+    "title" : "Tập 18 - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2280,
+    "title" : "Tập 19 - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1967,
+    "title" : "(2) Nghìn lẻ một ngày- 2 -Francois Petis De La Croix-Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2288,
+    "title" : "Tập 20 - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2443,
+    "title" : "Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2395,
+    "title" : "Tập 22 - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2650,
+    "title" : "Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2282,
+    "title" : "Tập 24 - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2287,
+    "title" : "Nghìn lẻ một ngày - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2455,
+    "title" : "Tập 26 - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2726,
+    "title" : "Tập 27 - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2210,
+    "title" : "Francois P. de La Croix - Tập 28 - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2241,
+    "title" : "Francois P. de La Croix - Tập 29 - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2398,
+    "title" : "- Truyện cổ Thế Giới - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2129,
+    "title" : "Francois P. de La Croix - Tập 30 - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2046,
+    "title" : "Francois P. de La Croix - Tập 31 - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1989,
+    "title" : "Francois P. de La Croix - Tập 32 - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2089,
+    "title" : "Francois P. de La Croix - Tập 33 - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2526,
+    "title" : "Francois P. de La Croix - Tập 34 - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1948,
+    "title" : "Nghìn lẻ một ngày - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2402,
+    "title" : "Nghìn lẻ một ngày - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2364,
+    "title" : "Nghìn lẻ một ngày - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2209,
+    "title" : "Nghìn lẻ một ngày - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2120,
+    "title" : "Nghìn lẻ một ngày - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2424,
+    "title" : "4 -Francois P.de la Croix - , Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2298,
+    "title" : "Nghìn lẻ một ngày - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2397,
+    "title" : "- Truyện cổ Thế Giới - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1980,
+    "title" : "Truyện cổ Thế Giới - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1693,
+    "title" : "- Truyện cổ Thế Giới - Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2524,
+    "title" : "- Truyện cổ Thế Giới – Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nghinlemotngay/1.mp3",
+    "title" : "Francois Petis De la Croix - Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/10.mp3",
+    "title" : "- Truyện cổ Thế Giới – Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/11.mp3",
+    "title" : "- Truyện cổ Thế Giới - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/12.mp3",
+    "title" : "Truyện Cổ Thế Giới - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/13.mp3",
+    "title" : "Tập 13- Nghìn lẻ một ngày- Truyện cổ Thế giới- Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/14.mp3",
+    "title" : "Nghìn lẻ một ngày- Truyện cổ Thế giới- Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/15.mp3",
+    "title" : "Tập 15- Nghìn lẻ một ngày- Truyện cổ Thế giới- Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/16.mp3",
+    "title" : "Nghìn lẻ một ngày- Truyện cổ Thế giới- Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/17.mp3",
+    "title" : "Nghìn lẻ một ngày - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/18.mp3",
+    "title" : "Tập 18 - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/19.mp3",
+    "title" : "Tập 19 - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/2.mp3",
+    "title" : "(2) Nghìn lẻ một ngày- 2 -Francois Petis De La Croix-Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/20.mp3",
+    "title" : "Tập 20 - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/21.mp3",
+    "title" : "Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/22.mp3",
+    "title" : "Tập 22 - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/23.mp3",
+    "title" : "Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/24.mp3",
+    "title" : "Tập 24 - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/25.mp3",
+    "title" : "Nghìn lẻ một ngày - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/26.mp3",
+    "title" : "Tập 26 - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/27.mp3",
+    "title" : "Tập 27 - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/28.mp3",
+    "title" : "Francois P. de La Croix - Tập 28 - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/29.mp3",
+    "title" : "Francois P. de La Croix - Tập 29 - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/3.mp3",
+    "title" : "- Truyện cổ Thế Giới - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/30.mp3",
+    "title" : "Francois P. de La Croix - Tập 30 - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/31.mp3",
+    "title" : "Francois P. de La Croix - Tập 31 - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/32.mp3",
+    "title" : "Francois P. de La Croix - Tập 32 - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/33.mp3",
+    "title" : "Francois P. de La Croix - Tập 33 - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/34.mp3",
+    "title" : "Francois P. de La Croix - Tập 34 - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/35.mp3",
+    "title" : "Nghìn lẻ một ngày - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/36.mp3",
+    "title" : "Nghìn lẻ một ngày - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/37.mp3",
+    "title" : "Nghìn lẻ một ngày - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/38.mp3",
+    "title" : "Nghìn lẻ một ngày - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/39.mp3",
+    "title" : "Nghìn lẻ một ngày - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/4.mp3",
+    "title" : "4 -Francois P.de la Croix - , Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/40.mp3",
+    "title" : "Nghìn lẻ một ngày - Francois P. de La Croix - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/6.mp3",
+    "title" : "- Truyện cổ Thế Giới - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/7.mp3",
+    "title" : "Truyện cổ Thế Giới - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/8.mp3",
+    "title" : "- Truyện cổ Thế Giới - Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghinlemotngay/9.mp3",
+    "title" : "- Truyện cổ Thế Giới – Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

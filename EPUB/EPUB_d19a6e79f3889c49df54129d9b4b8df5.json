@@ -1,0 +1,401 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-gai-nguoi-ky-nu_16745.html",
+    "title" : "Con Gái Người Kỹ Nữ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Juliet Phillip",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 20547,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_d19a6e79f3889c49df54129d9b4b8df5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_d19a6e79f3889c49df54129d9b4b8df5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 865,
+    "title" : "ConGaiNguoiKyNu001",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 787,
+    "title" : "ConGaiNguoiKyNu002",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 756,
+    "title" : "ConGaiNguoiKyNu003",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 714,
+    "title" : "ConGaiNguoiKyNu004",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 597,
+    "title" : "ConGaiNguoiKyNu005",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 898,
+    "title" : "ConGaiNguoiKyNu006",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 582,
+    "title" : "ConGaiNguoiKyNu007",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 661,
+    "title" : "ConGaiNguoiKyNu008",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 516,
+    "title" : "ConGaiNguoiKyNu009",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 833,
+    "title" : "ConGaiNguoiKyNu010",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 820,
+    "title" : "ConGaiNguoiKyNu011",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 776,
+    "title" : "ConGaiNguoiKyNu012",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 867,
+    "title" : "ConGaiNguoiKyNu013",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 486,
+    "title" : "ConGaiNguoiKyNu014",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 576,
+    "title" : "ConGaiNguoiKyNu015",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 816,
+    "title" : "ConGaiNguoiKyNu016",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 799,
+    "title" : "ConGaiNguoiKyNu017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 636,
+    "title" : "ConGaiNguoiKyNu018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 578,
+    "title" : "ConGaiNguoiKyNu019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu020.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 588,
+    "title" : "ConGaiNguoiKyNu020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu021.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 626,
+    "title" : "ConGaiNguoiKyNu021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu022.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 574,
+    "title" : "ConGaiNguoiKyNu022",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu023.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 584,
+    "title" : "ConGaiNguoiKyNu023",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu024.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 629,
+    "title" : "ConGaiNguoiKyNu024",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu025.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 668,
+    "title" : "ConGaiNguoiKyNu025",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu026.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 556,
+    "title" : "ConGaiNguoiKyNu026",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu027.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 440,
+    "title" : "ConGaiNguoiKyNu027",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu028.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 778,
+    "title" : "ConGaiNguoiKyNu028",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu029.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 725,
+    "title" : "ConGaiNguoiKyNu029",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu030End.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 816,
+    "title" : "ConGaiNguoiKyNu030End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu001.mp3",
+    "title" : "ConGaiNguoiKyNu001",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu002.mp3",
+    "title" : "ConGaiNguoiKyNu002",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu003.mp3",
+    "title" : "ConGaiNguoiKyNu003",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu004.mp3",
+    "title" : "ConGaiNguoiKyNu004",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu005.mp3",
+    "title" : "ConGaiNguoiKyNu005",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu006.mp3",
+    "title" : "ConGaiNguoiKyNu006",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu007.mp3",
+    "title" : "ConGaiNguoiKyNu007",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu008.mp3",
+    "title" : "ConGaiNguoiKyNu008",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu009.mp3",
+    "title" : "ConGaiNguoiKyNu009",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu010.mp3",
+    "title" : "ConGaiNguoiKyNu010",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu011.mp3",
+    "title" : "ConGaiNguoiKyNu011",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu012.mp3",
+    "title" : "ConGaiNguoiKyNu012",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu013.mp3",
+    "title" : "ConGaiNguoiKyNu013",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu014.mp3",
+    "title" : "ConGaiNguoiKyNu014",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu015.mp3",
+    "title" : "ConGaiNguoiKyNu015",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu016.mp3",
+    "title" : "ConGaiNguoiKyNu016",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu017.mp3",
+    "title" : "ConGaiNguoiKyNu017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu018.mp3",
+    "title" : "ConGaiNguoiKyNu018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu019.mp3",
+    "title" : "ConGaiNguoiKyNu019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu020.mp3",
+    "title" : "ConGaiNguoiKyNu020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu021.mp3",
+    "title" : "ConGaiNguoiKyNu021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu022.mp3",
+    "title" : "ConGaiNguoiKyNu022",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu023.mp3",
+    "title" : "ConGaiNguoiKyNu023",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu024.mp3",
+    "title" : "ConGaiNguoiKyNu024",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu025.mp3",
+    "title" : "ConGaiNguoiKyNu025",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu026.mp3",
+    "title" : "ConGaiNguoiKyNu026",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu027.mp3",
+    "title" : "ConGaiNguoiKyNu027",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu028.mp3",
+    "title" : "ConGaiNguoiKyNu028",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu029.mp3",
+    "title" : "ConGaiNguoiKyNu029",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ConGaiNguoikyNu/ConGaiNguoiKyNu030End.mp3",
+    "title" : "ConGaiNguoiKyNu030End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

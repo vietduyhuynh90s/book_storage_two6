@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/am-tao-dia-phu-nhuoc-nhuoc-dao_11386.html",
+    "title" : "Âm Tào Địa Phủ - Nhược Nhược Dao",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhược Nhược Dao",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 61680,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_464c5af6746733caf13a931195caea5f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_464c5af6746733caf13a931195caea5f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/am-tao-dia-phu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10190,
+    "title" : "Truyện Ngôn Tình Cổ Đại. Điền Văn, Nhẹ Nhàng Sâu Lắng: Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-tao-dia-phu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9200,
+    "title" : "Truyện Ngôn Tình Cổ Đại. Điền Văn, Nhẹ Nhàng Sâu Lắng: Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-tao-dia-phu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện Ngôn Tình Cổ Đại. Điền Văn, Nhẹ Nhàng Sâu Lắng: Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-tao-dia-phu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8300,
+    "title" : "Truyện Ngôn Tình Cổ Đại. Điền Văn, Nhẹ Nhàng Sâu Lắng: Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-tao-dia-phu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8750,
+    "title" : "Truyện Ngôn Tình Cổ Đại. Điền Văn, Nhẹ Nhàng Sâu Lắng: Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-tao-dia-phu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8000,
+    "title" : "Truyện Ngôn Tình Cổ Đại. Điền Văn, Nhẹ Nhàng Sâu Lắng: Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-tao-dia-phu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10040,
+    "title" : "Truyện Ngôn Tình Cổ Đại. Điền Văn, Nhẹ Nhàng Sâu Lắng: Phần kết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/am-tao-dia-phu/1.mp3",
+    "title" : "Truyện Ngôn Tình Cổ Đại. Điền Văn, Nhẹ Nhàng Sâu Lắng: Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-tao-dia-phu/2.mp3",
+    "title" : "Truyện Ngôn Tình Cổ Đại. Điền Văn, Nhẹ Nhàng Sâu Lắng: Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-tao-dia-phu/3.mp3",
+    "title" : "Truyện Ngôn Tình Cổ Đại. Điền Văn, Nhẹ Nhàng Sâu Lắng: Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-tao-dia-phu/4.mp3",
+    "title" : "Truyện Ngôn Tình Cổ Đại. Điền Văn, Nhẹ Nhàng Sâu Lắng: Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-tao-dia-phu/5.mp3",
+    "title" : "Truyện Ngôn Tình Cổ Đại. Điền Văn, Nhẹ Nhàng Sâu Lắng: Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-tao-dia-phu/6.mp3",
+    "title" : "Truyện Ngôn Tình Cổ Đại. Điền Văn, Nhẹ Nhàng Sâu Lắng: Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-tao-dia-phu/7.mp3",
+    "title" : "Truyện Ngôn Tình Cổ Đại. Điền Văn, Nhẹ Nhàng Sâu Lắng: Phần kết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

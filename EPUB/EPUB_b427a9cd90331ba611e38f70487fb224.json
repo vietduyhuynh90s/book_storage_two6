@@ -1,0 +1,521 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dai-mac-dao_15632.html",
+    "title" : "Đại Mạc Dao",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đồng Hoa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 82806,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_b427a9cd90331ba611e38f70487fb224.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_b427a9cd90331ba611e38f70487fb224.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dai-mac-dao/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2300,
+    "title" : "Đồng Hoa - Quyển 1 - chương 1: Chuyện cũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1796,
+    "title" : "Đồng Hoa - Quyển 1 - chương 10: Thích khách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1606,
+    "title" : "Đồng Hoa - Quyển 1 - chương 11: Trả lại khăn tay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1487,
+    "title" : "Đồng Hoa - Quyển 1 - chương 12: Mời khách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1593,
+    "title" : "Đồng Hoa - Quyển 1 - chương 13: Hoa rụng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2705,
+    "title" : "Đồng Hoa - Quyển 1 - chương 14: Ngắm sao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2760,
+    "title" : "Đồng Hoa - Quyển 1 - chương 15: Hẹn ước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2022,
+    "title" : "Đồng Hoa - Quyển 1 - chương 16: Ra đi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 676,
+    "title" : "Đồng Hoa - Quyển 1 - chương 17: (Ngoại truyện) Mong ngóng một cặp sao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2732,
+    "title" : "Đồng Hoa - Quyển 2 - chương 1: Bắt cóc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1521,
+    "title" : "Đồng Hoa - Quyển 2 - chương 2: Tình cảm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2328,
+    "title" : "Đồng Hoa - Quyển 1 - chương 2: Lần đầu gặp mặt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1680,
+    "title" : "Đồng Hoa - Quyển 2 - chương 3: Hồn chim bồ câu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1785,
+    "title" : "Đồng Hoa - Quyển 2 - chương 4: Thất thân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2735,
+    "title" : "Đồng Hoa - Quyển 2 - chương 5: Nụ hôn đầu tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1541,
+    "title" : "Đồng Hoa - Quyển 2 - chương 6: Tháo chạy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2134,
+    "title" : "Đồng Hoa - Quyển 2 - chương 7: Thúc cúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1295,
+    "title" : "Đồng Hoa - Quyển 2 - chương 8: Nụ cười rực rỡ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1894,
+    "title" : "Đồng Hoa - Quyển 2 - chương 9: Tình cảm rối loạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2672,
+    "title" : "Đồng Hoa - Quyển 2 - chương 10: Nụ hôn giận dữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1520,
+    "title" : "Đồng Hoa - Quyển 2 - chương 11: Cãi cọ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1722,
+    "title" : "Đồng Hoa - Quyển 2 - chương 12: Đổ bệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3224,
+    "title" : "Đồng Hoa - Quyển 1 - chương 3: Gặp lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1481,
+    "title" : "Đồng Hoa - Quyển 2 - chương 13: Bi thương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2204,
+    "title" : "Đồng Hoa - Quyển 2 - chương 14: Vũ điệu tình yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1872,
+    "title" : "Đồng Hoa - Quyển 2 - chương 15: Ra trận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2198,
+    "title" : "Đồng Hoa - Quyển 2 - chương 16: Trúng độc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2468,
+    "title" : "Đồng Hoa - Quyển 2 - chương 17: Độc kế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2075,
+    "title" : "Đồng Hoa - Quyển 2 - chương 18: Kế hiểm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1870,
+    "title" : "Đồng Hoa - Quyển 2 - chương 19: Tín nhiệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2790,
+    "title" : "Đồng Hoa - Quyển 2 - chương 20: Tử kế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2322,
+    "title" : "Đồng Hoa - Quyển 2 - chương 21: Cuộc gặp tình cờ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1984,
+    "title" : "Đồng Hoa - Quyển 2 - chương 22: An nhàn tự tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2293,
+    "title" : "Đồng Hoa - Quyển 1 - chương 4: Mỹ nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 885,
+    "title" : "Đồng Hoa - Quyển 2 (ngoại truyện): Bóng hình đau thương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2842,
+    "title" : "Đồng Hoa - Quyển 1 - chương 5: Bóng hình bên cửa sổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1852,
+    "title" : "Đồng Hoa - Quyển 1 - chương 6: Đắm say",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2103,
+    "title" : "Đồng Hoa - Quyển 1 - chương 7: Thân thế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2796,
+    "title" : "Đồng Hoa - Quyển 1 - chương 8: Cuộc hội ngộ đáng sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3043,
+    "title" : "Đồng Hoa - Quyển 1 - chương 9: Khúc nhạc trái tim",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dai-mac-dao/1.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 1: Chuyện cũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/10.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 10: Thích khách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/11.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 11: Trả lại khăn tay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/12.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 12: Mời khách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/13.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 13: Hoa rụng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/14.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 14: Ngắm sao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/15.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 15: Hẹn ước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/16.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 16: Ra đi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/17.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 17: (Ngoại truyện) Mong ngóng một cặp sao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/18.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 1: Bắt cóc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/19.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 2: Tình cảm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/2.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 2: Lần đầu gặp mặt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/20.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 3: Hồn chim bồ câu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/21.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 4: Thất thân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/22.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 5: Nụ hôn đầu tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/23.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 6: Tháo chạy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/24.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 7: Thúc cúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/25.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 8: Nụ cười rực rỡ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/26.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 9: Tình cảm rối loạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/27.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 10: Nụ hôn giận dữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/28.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 11: Cãi cọ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/29.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 12: Đổ bệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/3.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 3: Gặp lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/30.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 13: Bi thương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/31.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 14: Vũ điệu tình yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/32.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 15: Ra trận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/33.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 16: Trúng độc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/34.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 17: Độc kế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/35.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 18: Kế hiểm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/36.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 19: Tín nhiệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/37.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 20: Tử kế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/38.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 21: Cuộc gặp tình cờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/39.mp3",
+    "title" : "Đồng Hoa - Quyển 2 - chương 22: An nhàn tự tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/4.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 4: Mỹ nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/40.mp3",
+    "title" : "Đồng Hoa - Quyển 2 (ngoại truyện): Bóng hình đau thương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/5.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 5: Bóng hình bên cửa sổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/6.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 6: Đắm say",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/7.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 7: Thân thế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/8.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 8: Cuộc hội ngộ đáng sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-mac-dao/9.mp3",
+    "title" : "Đồng Hoa - Quyển 1 - chương 9: Khúc nhạc trái tim",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

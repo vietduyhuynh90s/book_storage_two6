@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bui-trong-nguc-buithao3011_10680.html",
+    "title" : "Bụi Trong Ngực - BuiThao3011",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "BuiThao3011",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 24130,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_53f8058fcb9a40843bf40b834ed51307.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_53f8058fcb9a40843bf40b834ed51307.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bui-trong-nguc-quyen-1/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7352,
+    "title" : "Bụi Trong Tim - Rất hay và Lôi Cuốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bui-trong-nguc-quyen-1/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7762,
+    "title" : "Bụi Trong Tim - Truyện Ngắn Mới 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bui-trong-nguc-quyen-1/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9016,
+    "title" : "Bụi Trong Tim - Kết thúc Mãi mãi không quên nhau",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bui-trong-nguc-quyen-1/1.mp3",
+    "title" : "Bụi Trong Tim - Rất hay và Lôi Cuốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bui-trong-nguc-quyen-1/2.mp3",
+    "title" : "Bụi Trong Tim - Truyện Ngắn Mới 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bui-trong-nguc-quyen-1/3.mp3",
+    "title" : "Bụi Trong Tim - Kết thúc Mãi mãi không quên nhau",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

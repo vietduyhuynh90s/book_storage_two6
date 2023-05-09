@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/diem-chi_15642.html",
+    "title" : "Diễm Chi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dạ Thảo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 38567,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_e7a8eeea9d2d716ea2c370bcc045ff47.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_e7a8eeea9d2d716ea2c370bcc045ff47.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/diem-chi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2687,
+    "title" : "Tập 01 - Truyện tâm lý xã hội đời thực mới nhất do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-chi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2399,
+    "title" : "Tập 10 - Truyện tâm lý xã hội mới nhất do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-chi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2435,
+    "title" : "Tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-chi/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2384,
+    "title" : "Tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-chi/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2836,
+    "title" : "Tập 13 - Truyện tâm lí xã hội đời thực mới nhất do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-chi/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2487,
+    "title" : "Tập 14 - Truyện tâm lí xã hội đời thực mới nhất do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-chi/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2959,
+    "title" : "Tập 15(Hết) - Truyện tâm lí xã hội đời thực mới nhất do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-chi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2569,
+    "title" : "Tập 02 - Truyện tâm lý xã hội đời thực mới nhất do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-chi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2472,
+    "title" : "Tập 03 - Truyện tâm lý xã hội đời thực mới nhất do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-chi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2517,
+    "title" : "Tập 04 - Truyện tâm lý xã hội đời thực mới nhất do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-chi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2571,
+    "title" : "Tập 05 - Truyện tâm lý xã hội đời thực mới nhất do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-chi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2534,
+    "title" : "Tập 06 #mchongnhung diễn đọc truyện tâm lý xã hội quá hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-chi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2409,
+    "title" : "Tập 07 #mchongnhung diễn đọc truyện tâm lý xã hội quá hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-chi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2677,
+    "title" : "Tập 08 - Truyện tâm lý xã hội mới nhất do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-chi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2631,
+    "title" : "Tập 09 - Truyện tâm lý xã hội mới nhất do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/diem-chi/1.mp3",
+    "title" : "Tập 01 - Truyện tâm lý xã hội đời thực mới nhất do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-chi/10.mp3",
+    "title" : "Tập 10 - Truyện tâm lý xã hội mới nhất do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-chi/11.mp3",
+    "title" : "Tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-chi/12.mp3",
+    "title" : "Tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-chi/13.mp3",
+    "title" : "Tập 13 - Truyện tâm lí xã hội đời thực mới nhất do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-chi/14.mp3",
+    "title" : "Tập 14 - Truyện tâm lí xã hội đời thực mới nhất do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-chi/15.mp3",
+    "title" : "Tập 15(Hết) - Truyện tâm lí xã hội đời thực mới nhất do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-chi/2.mp3",
+    "title" : "Tập 02 - Truyện tâm lý xã hội đời thực mới nhất do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-chi/3.mp3",
+    "title" : "Tập 03 - Truyện tâm lý xã hội đời thực mới nhất do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-chi/4.mp3",
+    "title" : "Tập 04 - Truyện tâm lý xã hội đời thực mới nhất do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-chi/5.mp3",
+    "title" : "Tập 05 - Truyện tâm lý xã hội đời thực mới nhất do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-chi/6.mp3",
+    "title" : "Tập 06 #mchongnhung diễn đọc truyện tâm lý xã hội quá hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-chi/7.mp3",
+    "title" : "Tập 07 #mchongnhung diễn đọc truyện tâm lý xã hội quá hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-chi/8.mp3",
+    "title" : "Tập 08 - Truyện tâm lý xã hội mới nhất do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-chi/9.mp3",
+    "title" : "Tập 09 - Truyện tâm lý xã hội mới nhất do #mchongnhung diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

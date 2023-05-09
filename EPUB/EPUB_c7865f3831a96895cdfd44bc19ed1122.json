@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ta-vuong-phuc-hac-sung-cuong-phi_13032.html",
+    "title" : "Tà Vương Phúc Hắc Sủng Cuồng Phi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nạp Lan Dạ Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 72198,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_c7865f3831a96895cdfd44bc19ed1122.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_c7865f3831a96895cdfd44bc19ed1122.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ta-vuong-phuc-hac-sung-cuong-phi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10449,
+    "title" : "Tà Vương Phúc Hắc Sủng Cuồng Phi ♥ Truyện ngôn tình xuyện không tuyệt vời nam cường nữ cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-vuong-phuc-hac-sung-cuong-phi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9749,
+    "title" : "Tà Vương Phúc Hắc Sủng Cuồng Phi [Phần 2] ♥ Truyện ngôn tình xuyên không hay bá đ ạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-vuong-phuc-hac-sung-cuong-phi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9229,
+    "title" : "[Phần 3] Tà Vương Phúc Hắc Sủng Cuồng Phi ♥ Truyện ngôn tình mới hay quá đi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-vuong-phuc-hac-sung-cuong-phi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14439,
+    "title" : "[Phần 4/5] Tà Vương Phúc Hắc Sủng Cuồng Phi ♥ Truyện ngôn tình audio xuyên không hay nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-vuong-phuc-hac-sung-cuong-phi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10863,
+    "title" : "[Phần 5] Tà Vương Phúc Hắc Sủng Cuồng Phi ♥ Truyện ngôn tình audio xuyên không mới hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-vuong-phuc-hac-sung-cuong-phi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17469,
+    "title" : "[Phần Cuối] Tà Vương Phúc Hắc Sủng Cuồng Phi ♥ Truyện ngôn tình hay đến tận phần cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ta-vuong-phuc-hac-sung-cuong-phi/1.mp3",
+    "title" : "Tà Vương Phúc Hắc Sủng Cuồng Phi ♥ Truyện ngôn tình xuyện không tuyệt vời nam cường nữ cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-vuong-phuc-hac-sung-cuong-phi/2.mp3",
+    "title" : "Tà Vương Phúc Hắc Sủng Cuồng Phi [Phần 2] ♥ Truyện ngôn tình xuyên không hay bá đ ạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-vuong-phuc-hac-sung-cuong-phi/3.mp3",
+    "title" : "[Phần 3] Tà Vương Phúc Hắc Sủng Cuồng Phi ♥ Truyện ngôn tình mới hay quá đi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-vuong-phuc-hac-sung-cuong-phi/4.mp3",
+    "title" : "[Phần 4/5] Tà Vương Phúc Hắc Sủng Cuồng Phi ♥ Truyện ngôn tình audio xuyên không hay nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-vuong-phuc-hac-sung-cuong-phi/5.mp3",
+    "title" : "[Phần 5] Tà Vương Phúc Hắc Sủng Cuồng Phi ♥ Truyện ngôn tình audio xuyên không mới hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-vuong-phuc-hac-sung-cuong-phi/6.mp3",
+    "title" : "[Phần Cuối] Tà Vương Phúc Hắc Sủng Cuồng Phi ♥ Truyện ngôn tình hay đến tận phần cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

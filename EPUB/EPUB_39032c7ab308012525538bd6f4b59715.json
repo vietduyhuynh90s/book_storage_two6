@@ -1,0 +1,1409 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/trong-sinh-do-thi-cuong-long-cuu-nguyet-duong-quang_11340.html",
+    "title" : "Trọng Sinh Đô Thị Cuồng Long - Cửu Nguyệt Dương Quang",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Nguyệt Dương Quang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 239766,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_39032c7ab308012525538bd6f4b59715.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_39032c7ab308012525538bd6f4b59715.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tsdtcl/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1662,
+    "title" : "tsdtcl01a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1873,
+    "title" : "tsdtcl05b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1686,
+    "title" : "tsdtcl50b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1835,
+    "title" : "tsdtcl51a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1798,
+    "title" : "tsdtcl51b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2254,
+    "title" : "103",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2212,
+    "title" : "104",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2103,
+    "title" : "105",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2123,
+    "title" : "106",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2088,
+    "title" : "107",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2898,
+    "title" : "108",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2219,
+    "title" : "109",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1832,
+    "title" : "tsdtcl06a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2204,
+    "title" : "110",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2330,
+    "title" : "111",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1838,
+    "title" : "112",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2475,
+    "title" : "113",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2262,
+    "title" : "114",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1832,
+    "title" : "tsdtcl06b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1766,
+    "title" : "tsdtcl07a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1827,
+    "title" : "tsdtcl07b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1710,
+    "title" : "tsdtcl08a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1865,
+    "title" : "tsdtcl08b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1875,
+    "title" : "tsdtcl09a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1809,
+    "title" : "tsdtcl09b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1968,
+    "title" : "tsdtcl10a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1931,
+    "title" : "tsdtcl01b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1839,
+    "title" : "tsdtcl10b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2234,
+    "title" : "tsdtcl11a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1929,
+    "title" : "tsdtcl11b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1940,
+    "title" : "tsdtcl12a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1872,
+    "title" : "tsdtcl12b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1821,
+    "title" : "tsdtcl13a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1840,
+    "title" : "tsdtcl13b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1914,
+    "title" : "tsdtcl14a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1939,
+    "title" : "tsdtcl14b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1947,
+    "title" : "tsdtcl15a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1972,
+    "title" : "tsdtcl02a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1906,
+    "title" : "tsdtcl15b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1885,
+    "title" : "tsdtcl16a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1840,
+    "title" : "tsdtcl16b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1859,
+    "title" : "tsdtcl17a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1815,
+    "title" : "tsdtcl17b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1853,
+    "title" : "tsdtcl18a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1844,
+    "title" : "tsdtcl18b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1835,
+    "title" : "tsdtcl19a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1811,
+    "title" : "tsdtcl19b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2302,
+    "title" : "tsdtcl20a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1641,
+    "title" : "tsdtcl02b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2161,
+    "title" : "tsdtcl20b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2784,
+    "title" : "tsdtcl21a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1789,
+    "title" : "tsdtcl21b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2379,
+    "title" : "tsdtcl22a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3118,
+    "title" : "tsdtcl22b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2467,
+    "title" : "tsdtcl23a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2381,
+    "title" : "tsdtcl23b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2782,
+    "title" : "tsdtcl24a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2674,
+    "title" : "tsdtcl24b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2701,
+    "title" : "tsdtcl25a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1974,
+    "title" : "tsdtcl03a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2816,
+    "title" : "tsdtcl25b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2744,
+    "title" : "tsdtcl26a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2717,
+    "title" : "tsdtcl26b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2840,
+    "title" : "tsdtcl27a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2689,
+    "title" : "tsdtcl27b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2635,
+    "title" : "tsdtcl28a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2675,
+    "title" : "tsdtcl28b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2693,
+    "title" : "tsdtcl29a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "tsdtcl29b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2191,
+    "title" : "tsdtcl30a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1830,
+    "title" : "tsdtcl03b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2210,
+    "title" : "tsdtcl30b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2098,
+    "title" : "tsdtcl31a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2139,
+    "title" : "tsdtcl31b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2749,
+    "title" : "tsdtcl32a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2163,
+    "title" : "tsdtcl32b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1943,
+    "title" : "tsdtcl33a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2569,
+    "title" : "tsdtcl33b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2019,
+    "title" : "tsdtcl34a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2023,
+    "title" : "tsdtcl34b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2023,
+    "title" : "tsdtcl35a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1690,
+    "title" : "tsdtcl04a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2122,
+    "title" : "tsdtcl35b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1872,
+    "title" : "tsdtcl36a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1817,
+    "title" : "tsdtcl36b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1814,
+    "title" : "tsdtcl37a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1952,
+    "title" : "tsdtcl37b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2061,
+    "title" : "tsdtcl38a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1966,
+    "title" : "tsdtcl38b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2044,
+    "title" : "tsdtcl39a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1950,
+    "title" : "tsdtcl39b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2014,
+    "title" : "tsdtcl40a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1765,
+    "title" : "tsdtcl04b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2020,
+    "title" : "tsdtcl40b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1990,
+    "title" : "tsdtcl41a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1862,
+    "title" : "tsdtcl41b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1809,
+    "title" : "tsdtcl42a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2033,
+    "title" : "tsdtcl42b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2018,
+    "title" : "tsdtcl43a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2085,
+    "title" : "tsdtcl43b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2055,
+    "title" : "tsdtcl44a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2047,
+    "title" : "tsdtcl44b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1838,
+    "title" : "tsdtcl45a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1894,
+    "title" : "tsdtcl05a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1871,
+    "title" : "tsdtcl45b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1839,
+    "title" : "tsdtcl46a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1806,
+    "title" : "tsdtcl46b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1888,
+    "title" : "tsdtcl47a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2000,
+    "title" : "tsdtcl47b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2654,
+    "title" : "tsdtcl48a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2827,
+    "title" : "96",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2151,
+    "title" : "tsdtcl49a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2093,
+    "title" : "tsdtcl49b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2089,
+    "title" : "tsdtcl50a",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tsdtcl/1.mp3",
+    "title" : "tsdtcl01a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/10.mp3",
+    "title" : "tsdtcl05b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/100.mp3",
+    "title" : "tsdtcl50b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/101.mp3",
+    "title" : "tsdtcl51a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/102.mp3",
+    "title" : "tsdtcl51b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/103.mp3",
+    "title" : "103",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/104.mp3",
+    "title" : "104",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/105.mp3",
+    "title" : "105",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/106.mp3",
+    "title" : "106",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/107.mp3",
+    "title" : "107",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/108.mp3",
+    "title" : "108",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/109.mp3",
+    "title" : "109",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/11.mp3",
+    "title" : "tsdtcl06a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/110.mp3",
+    "title" : "110",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/111.mp3",
+    "title" : "111",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/112.mp3",
+    "title" : "112",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/113.mp3",
+    "title" : "113",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/114.mp3",
+    "title" : "114",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/12.mp3",
+    "title" : "tsdtcl06b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/13.mp3",
+    "title" : "tsdtcl07a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/14.mp3",
+    "title" : "tsdtcl07b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/15.mp3",
+    "title" : "tsdtcl08a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/16.mp3",
+    "title" : "tsdtcl08b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/17.mp3",
+    "title" : "tsdtcl09a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/18.mp3",
+    "title" : "tsdtcl09b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/19.mp3",
+    "title" : "tsdtcl10a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/2.mp3",
+    "title" : "tsdtcl01b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/20.mp3",
+    "title" : "tsdtcl10b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/21.mp3",
+    "title" : "tsdtcl11a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/22.mp3",
+    "title" : "tsdtcl11b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/23.mp3",
+    "title" : "tsdtcl12a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/24.mp3",
+    "title" : "tsdtcl12b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/25.mp3",
+    "title" : "tsdtcl13a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/26.mp3",
+    "title" : "tsdtcl13b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/27.mp3",
+    "title" : "tsdtcl14a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/28.mp3",
+    "title" : "tsdtcl14b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/29.mp3",
+    "title" : "tsdtcl15a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/3.mp3",
+    "title" : "tsdtcl02a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/30.mp3",
+    "title" : "tsdtcl15b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/31.mp3",
+    "title" : "tsdtcl16a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/32.mp3",
+    "title" : "tsdtcl16b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/33.mp3",
+    "title" : "tsdtcl17a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/34.mp3",
+    "title" : "tsdtcl17b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/35.mp3",
+    "title" : "tsdtcl18a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/36.mp3",
+    "title" : "tsdtcl18b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/37.mp3",
+    "title" : "tsdtcl19a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/38.mp3",
+    "title" : "tsdtcl19b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/39.mp3",
+    "title" : "tsdtcl20a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/4.mp3",
+    "title" : "tsdtcl02b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/40.mp3",
+    "title" : "tsdtcl20b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/41.mp3",
+    "title" : "tsdtcl21a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/42.mp3",
+    "title" : "tsdtcl21b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/43.mp3",
+    "title" : "tsdtcl22a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/44.mp3",
+    "title" : "tsdtcl22b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/45.mp3",
+    "title" : "tsdtcl23a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/46.mp3",
+    "title" : "tsdtcl23b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/47.mp3",
+    "title" : "tsdtcl24a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/48.mp3",
+    "title" : "tsdtcl24b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/49.mp3",
+    "title" : "tsdtcl25a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/5.mp3",
+    "title" : "tsdtcl03a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/50.mp3",
+    "title" : "tsdtcl25b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/51.mp3",
+    "title" : "tsdtcl26a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/52.mp3",
+    "title" : "tsdtcl26b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/53.mp3",
+    "title" : "tsdtcl27a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/54.mp3",
+    "title" : "tsdtcl27b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/55.mp3",
+    "title" : "tsdtcl28a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/56.mp3",
+    "title" : "tsdtcl28b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/57.mp3",
+    "title" : "tsdtcl29a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/58.mp3",
+    "title" : "tsdtcl29b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/59.mp3",
+    "title" : "tsdtcl30a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/6.mp3",
+    "title" : "tsdtcl03b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/60.mp3",
+    "title" : "tsdtcl30b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/61.mp3",
+    "title" : "tsdtcl31a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/62.mp3",
+    "title" : "tsdtcl31b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/63.mp3",
+    "title" : "tsdtcl32a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/64.mp3",
+    "title" : "tsdtcl32b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/65.mp3",
+    "title" : "tsdtcl33a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/66.mp3",
+    "title" : "tsdtcl33b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/67.mp3",
+    "title" : "tsdtcl34a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/68.mp3",
+    "title" : "tsdtcl34b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/69.mp3",
+    "title" : "tsdtcl35a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/7.mp3",
+    "title" : "tsdtcl04a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/70.mp3",
+    "title" : "tsdtcl35b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/71.mp3",
+    "title" : "tsdtcl36a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/72.mp3",
+    "title" : "tsdtcl36b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/73.mp3",
+    "title" : "tsdtcl37a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/74.mp3",
+    "title" : "tsdtcl37b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/75.mp3",
+    "title" : "tsdtcl38a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/76.mp3",
+    "title" : "tsdtcl38b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/77.mp3",
+    "title" : "tsdtcl39a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/78.mp3",
+    "title" : "tsdtcl39b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/79.mp3",
+    "title" : "tsdtcl40a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/8.mp3",
+    "title" : "tsdtcl04b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/80.mp3",
+    "title" : "tsdtcl40b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/81.mp3",
+    "title" : "tsdtcl41a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/82.mp3",
+    "title" : "tsdtcl41b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/83.mp3",
+    "title" : "tsdtcl42a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/84.mp3",
+    "title" : "tsdtcl42b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/85.mp3",
+    "title" : "tsdtcl43a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/86.mp3",
+    "title" : "tsdtcl43b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/87.mp3",
+    "title" : "tsdtcl44a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/88.mp3",
+    "title" : "tsdtcl44b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/89.mp3",
+    "title" : "tsdtcl45a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/9.mp3",
+    "title" : "tsdtcl05a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/90.mp3",
+    "title" : "tsdtcl45b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/91.mp3",
+    "title" : "tsdtcl46a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/92.mp3",
+    "title" : "tsdtcl46b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/93.mp3",
+    "title" : "tsdtcl47a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/94.mp3",
+    "title" : "tsdtcl47b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/95.mp3",
+    "title" : "tsdtcl48a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/96.mp3",
+    "title" : "96",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/97.mp3",
+    "title" : "tsdtcl49a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/98.mp3",
+    "title" : "tsdtcl49b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tsdtcl/99.mp3",
+    "title" : "tsdtcl50a",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

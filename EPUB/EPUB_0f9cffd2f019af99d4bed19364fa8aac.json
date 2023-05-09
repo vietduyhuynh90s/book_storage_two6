@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/su-huyen-dieu-cua-dinh-menh-le-uu-dam_10433.html",
+    "title" : "Sự Huyền Diệu Của Định Mệnh - Lệ Ưu Đàm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lệ Ưu Đàm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 53800,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_0f9cffd2f019af99d4bed19364fa8aac.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_0f9cffd2f019af99d4bed19364fa8aac.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3922,
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6755,
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3227,
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3207,
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4721,
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3909,
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5135,
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5147,
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6453,
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5907,
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5417,
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/1.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/10.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/11.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/2.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/3.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/4.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/5.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/6.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/7.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/8.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-huyen-dieu-cua-dinh-menh/9.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Đêm Khuya",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/benh-chiem-huu_15241.html",
+    "title" : "Bệnh Chiếm Hữu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tùng Lan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 87356,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_fb611df5ec7528de63ad7ded3ceb2897.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_fb611df5ec7528de63ad7ded3ceb2897.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/benh-chiem-huu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3560,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3834,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3486,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3785,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3728,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2891,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3851,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4233,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3842,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3987,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3824,
+    "title" : "6 tháng 8, 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3994,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3445,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3421,
+    "title" : "21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3461,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2360,
+    "title" : "8 tháng 8, 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2452,
+    "title" : "8 tháng 8, 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4031,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3785,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4096,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3971,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3908,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4357,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3054,
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/benh-chiem-huu/1.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/10.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/11.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/12.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/13.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/14.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/15.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/16.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/17.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/18.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/19.mp3",
+    "title" : "6 tháng 8, 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/2.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/20.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/21.mp3",
+    "title" : "21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/22.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/23.mp3",
+    "title" : "8 tháng 8, 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/24.mp3",
+    "title" : "8 tháng 8, 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/3.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/4.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/5.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/6.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/7.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/8.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-chiem-huu/9.mp3",
+    "title" : "Truyện Trọng Sinh BỆNH CHIẾM HỮU tác giả: Tùng Lan tập 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tiem-do-co-a-xa-huyen-sac_4788.html",
+    "title" : "Tiệm Đồ Cổ Á Xá - Huyền Sắc.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Huyền Sắc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 36386,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_4878af6f2509de8ff2b7f3289383772a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_4878af6f2509de8ff2b7f3289383772a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2494,
+    "title" : "| Tập 1 | - | MC Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2968,
+    "title" : "| Tập 10 | - Mc Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3755,
+    "title" : "| Tập 11 | - Mc Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5797,
+    "title" : "| Tập 12 | Hết - Mc Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2505,
+    "title" : "| Tập 2 | - | MC Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2583,
+    "title" : "| Tập 3 | - |Diễn Đọc :Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2403,
+    "title" : "| Tập 4 | - |Diễn Đọc :Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3217,
+    "title" : "| Tập 5 | - Mc :Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3058,
+    "title" : "| Tập 6 | 🔔 Mc Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1696,
+    "title" : "| Tập 7 | 🔔 Mc Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2827,
+    "title" : "| Tập 8 | - Mc Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3083,
+    "title" : "| Tập 9 | - Mc Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/1.mp3",
+    "title" : "| Tập 1 | - | MC Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/10.mp3",
+    "title" : "| Tập 10 | - Mc Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/11.mp3",
+    "title" : "| Tập 11 | - Mc Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/12.mp3",
+    "title" : "| Tập 12 | Hết - Mc Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/2.mp3",
+    "title" : "| Tập 2 | - | MC Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/3.mp3",
+    "title" : "| Tập 3 | - |Diễn Đọc :Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/4.mp3",
+    "title" : "| Tập 4 | - |Diễn Đọc :Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/5.mp3",
+    "title" : "| Tập 5 | - Mc :Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/6.mp3",
+    "title" : "| Tập 6 | 🔔 Mc Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/7.mp3",
+    "title" : "| Tập 7 | 🔔 Mc Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/8.mp3",
+    "title" : "| Tập 8 | - Mc Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiem-do-co-a-xa/9.mp3",
+    "title" : "| Tập 9 | - Mc Lê Tuyên |",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

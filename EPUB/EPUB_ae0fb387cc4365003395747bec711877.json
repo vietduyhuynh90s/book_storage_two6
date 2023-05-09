@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-bo-cap-rung-sau-thuong-quan-ngo-da-kinh-di_3594.html",
+    "title" : "Bọ Cạp Rừng Sâu - Thượng Quan Ngọ Dạ.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thượng Quan Ngọ Dạ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 30002,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_ae0fb387cc4365003395747bec711877.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_ae0fb387cc4365003395747bec711877.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cover_20180707/01.bCpRngSu-Chng110VGitNgiKinhDNht-ThngQuanNgDmcVitLinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2983,
+    "title" : "01.Bọ cạp rừng sâu - Chương 1 10 Vụ giêt người kinh dị nhất - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/02.bCpRngSu-Chng1010ktLcMaHayLThngin-ThngQuanNgDmcVitLinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2573,
+    "title" : "02.Bọ cạp rừng sâu - Chương 10 10 [KẾT] Là ác ma, hay là thằng điên - Thượng Quan Ngọ Dạ [MC Viết...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/03.bCpRngSu-Chng210RngSuLcLi-ThngQuanNgDmcVitLinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3327,
+    "title" : "03.Bọ cạp rừng sâu - Chương 2 10 Rừng sâu lạc lối - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/04.bCpRngSu-Chng310NgiMtTchuTin-ThngQuanNgDmcVitLinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3461,
+    "title" : "04.Bọ cạp rừng sâu - Chương 3 10 Người mất tích đầu tiên - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/05.bCpRngSu-Chng410QuiNhneoMtN-ThngQuanNgDmcVitLinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3411,
+    "title" : "05.Bọ cạp rừng sâu - Chương 4 10 Quái nhân đeo mặt nạ - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/06.bCpRngSu-Chng510ngSauMtTon-ThngQuanNgDmcVitLinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3336,
+    "title" : "06.Bọ cạp rừng sâu - Chương 5 10 Đằng sau một đề toán - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/07.bCpRngSu-Chng610MuDThScSi-ThngQuanNgDmcVitLinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2931,
+    "title" : "07.Bọ cạp rừng sâu - Chương 6 10 Máu dã thú sục sôi - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/08.bCpRngSu-Chng710HungThThcS-ThngQuanNgDmcVitLinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2716,
+    "title" : "08.Bọ cạp rừng sâu - Chương 7 10 Hung thủ thực sự - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/09.bCpRngSu-Chng810NgiKhngCnCCHiNa-ThngQuanNgDmcVitLinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2700,
+    "title" : "09.Bọ cạp rừng sâu - Chương 8 10 Ngươi không còn có cơ hội nữa - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/10.bCpRngSu-Chng910TKhiinChucTi-ThngQuanNgDmcVitLinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2564,
+    "title" : "10.Bọ cạp rừng sâu - Chương 9 10 Tư Khải Điền chuộc tội - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cover_20180707/01.bCpRngSu-Chng110VGitNgiKinhDNht-ThngQuanNgDmcVitLinh.mp3",
+    "title" : "01.Bọ cạp rừng sâu - Chương 1 10 Vụ giêt người kinh dị nhất - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/02.bCpRngSu-Chng1010ktLcMaHayLThngin-ThngQuanNgDmcVitLinh.mp3",
+    "title" : "02.Bọ cạp rừng sâu - Chương 10 10 [KẾT] Là ác ma, hay là thằng điên - Thượng Quan Ngọ Dạ [MC Viết...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/03.bCpRngSu-Chng210RngSuLcLi-ThngQuanNgDmcVitLinh.mp3",
+    "title" : "03.Bọ cạp rừng sâu - Chương 2 10 Rừng sâu lạc lối - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/04.bCpRngSu-Chng310NgiMtTchuTin-ThngQuanNgDmcVitLinh.mp3",
+    "title" : "04.Bọ cạp rừng sâu - Chương 3 10 Người mất tích đầu tiên - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/05.bCpRngSu-Chng410QuiNhneoMtN-ThngQuanNgDmcVitLinh.mp3",
+    "title" : "05.Bọ cạp rừng sâu - Chương 4 10 Quái nhân đeo mặt nạ - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/06.bCpRngSu-Chng510ngSauMtTon-ThngQuanNgDmcVitLinh.mp3",
+    "title" : "06.Bọ cạp rừng sâu - Chương 5 10 Đằng sau một đề toán - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/07.bCpRngSu-Chng610MuDThScSi-ThngQuanNgDmcVitLinh.mp3",
+    "title" : "07.Bọ cạp rừng sâu - Chương 6 10 Máu dã thú sục sôi - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/08.bCpRngSu-Chng710HungThThcS-ThngQuanNgDmcVitLinh.mp3",
+    "title" : "08.Bọ cạp rừng sâu - Chương 7 10 Hung thủ thực sự - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/09.bCpRngSu-Chng810NgiKhngCnCCHiNa-ThngQuanNgDmcVitLinh.mp3",
+    "title" : "09.Bọ cạp rừng sâu - Chương 8 10 Ngươi không còn có cơ hội nữa - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cover_20180707/10.bCpRngSu-Chng910TKhiinChucTi-ThngQuanNgDmcVitLinh.mp3",
+    "title" : "10.Bọ cạp rừng sâu - Chương 9 10 Tư Khải Điền chuộc tội - Thượng Quan Ngọ Dạ [MC Viết Linh]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

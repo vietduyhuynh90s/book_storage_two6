@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vuot-qua-ngan-nam-yeu-chang_14626.html",
+    "title" : "Vượt Qua Ngàn Năm Yêu Chàng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thu Vũ Dạ Hàn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 100601,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_baa20921f1109bcfc64a9cb5f803f405.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_baa20921f1109bcfc64a9cb5f803f405.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3275,
+    "title" : "Xuyên không để yêu chàng| Truyện xuyên không cổ đại cực hay và ý nghĩa | MC Thu Hằng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3649,
+    "title" : "[P10] Xuyên không để yêu chàng | Nguyệt Kiều nuốt vàng tự sát, Tiểu Ngũ nuôi ý định báo thù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3666,
+    "title" : "[P11] Xuyên không để yêu chàng | Tiểu Ngũ trả thù cho Nguyệt Kiều, hạ độc Hồng Ngọc| Cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3816,
+    "title" : "[P12] Xuyên không để yêu chàng|Tuyết Phi sảy thai, Lưu phi bị đày vào lãnh cung| Truyện xuyên không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3516,
+    "title" : "[P13] Xuyên không để yêu chàng| Mộ Dung Phong xuyên không về hiện đại, trở về làm Bạch Mẫn| Cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3735,
+    "title" : "[P14] Xuyên không để yêu chàng| Tư Mã Nhuệ ngày đêm thương nhớ Mộ Dung Phong| Truyện xuyên không hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3937,
+    "title" : "[P15] Xuyên không để yêu chàng | Tư Mã Nhuệ lên giường cùng nữ nhân khác| Truyện xuyên không cổ đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3740,
+    "title" : "[P16] Xuyên không để yêu chàng | Tư Mã Nhuệ lấy nữ nhân khác ?| Truyện xuyên không cổ đại cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3805,
+    "title" : "17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3741,
+    "title" : "18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3840,
+    "title" : "19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4047,
+    "title" : "[Phần 2] Xuyên không để yêu chàng |Tân hôn không động phòng| Truyện xuyên không cung đấu, nữ cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3696,
+    "title" : "20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3779,
+    "title" : "21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3504,
+    "title" : "23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3564,
+    "title" : "25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4059,
+    "title" : "26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3737,
+    "title" : "27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3740,
+    "title" : "[Phần 3] Xuyên không để yêu chàng| Kế hoạch lập phi của hoàng thượng| Truyện xuyên không, cung đấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3736,
+    "title" : "[Phần 4] Xuyên không để yêu chàng|Cha con tranh giành 1 nữ nhân| Truyện Xuyên không cổ đại, cung đấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3859,
+    "title" : "[P5] Xuyên không để yêu chàng |Mộ Dung Tuyết chính thức làm phi| Truyện xuyên không cổ đại, cung đấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3691,
+    "title" : "[P6] Xuyên không để yêu chàng | Mộ Dung phu nhân tự vẫn |Truyện xuyên không cổ đại, cung đấu cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4089,
+    "title" : "[P7] Xuyên không để yêu chàng | Nhã Lệ bắt cóc Tuyết Phi,uy hiếp vua |Truyện xuyên không,cung đấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3587,
+    "title" : "[P8] Xuyên không để yêu chàng| Nội chiến hoàng cung ngày một hỗn loạn| Truyện xuyên không, cung đấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3587,
+    "title" : "[P9] Xuyên không để yêu chàng| Hồng Ngọc hạ độc Nguyệt Kiều | Truyện xuyên không cổ đại cực hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/1.mp3",
+    "title" : "Xuyên không để yêu chàng| Truyện xuyên không cổ đại cực hay và ý nghĩa | MC Thu Hằng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/10.mp3",
+    "title" : "[P10] Xuyên không để yêu chàng | Nguyệt Kiều nuốt vàng tự sát, Tiểu Ngũ nuôi ý định báo thù",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/11.mp3",
+    "title" : "[P11] Xuyên không để yêu chàng | Tiểu Ngũ trả thù cho Nguyệt Kiều, hạ độc Hồng Ngọc| Cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/12.mp3",
+    "title" : "[P12] Xuyên không để yêu chàng|Tuyết Phi sảy thai, Lưu phi bị đày vào lãnh cung| Truyện xuyên không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/13.mp3",
+    "title" : "[P13] Xuyên không để yêu chàng| Mộ Dung Phong xuyên không về hiện đại, trở về làm Bạch Mẫn| Cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/14.mp3",
+    "title" : "[P14] Xuyên không để yêu chàng| Tư Mã Nhuệ ngày đêm thương nhớ Mộ Dung Phong| Truyện xuyên không hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/15.mp3",
+    "title" : "[P15] Xuyên không để yêu chàng | Tư Mã Nhuệ lên giường cùng nữ nhân khác| Truyện xuyên không cổ đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/16.mp3",
+    "title" : "[P16] Xuyên không để yêu chàng | Tư Mã Nhuệ lấy nữ nhân khác ?| Truyện xuyên không cổ đại cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/17.mp3",
+    "title" : "17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/18.mp3",
+    "title" : "18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/19.mp3",
+    "title" : "19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/2.mp3",
+    "title" : "[Phần 2] Xuyên không để yêu chàng |Tân hôn không động phòng| Truyện xuyên không cung đấu, nữ cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/20.mp3",
+    "title" : "20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/21.mp3",
+    "title" : "21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/22.mp3",
+    "title" : "22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/23.mp3",
+    "title" : "23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/24.mp3",
+    "title" : "24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/25.mp3",
+    "title" : "25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/26.mp3",
+    "title" : "26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/27.mp3",
+    "title" : "27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/3.mp3",
+    "title" : "[Phần 3] Xuyên không để yêu chàng| Kế hoạch lập phi của hoàng thượng| Truyện xuyên không, cung đấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/4.mp3",
+    "title" : "[Phần 4] Xuyên không để yêu chàng|Cha con tranh giành 1 nữ nhân| Truyện Xuyên không cổ đại, cung đấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/5.mp3",
+    "title" : "[P5] Xuyên không để yêu chàng |Mộ Dung Tuyết chính thức làm phi| Truyện xuyên không cổ đại, cung đấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/6.mp3",
+    "title" : "[P6] Xuyên không để yêu chàng | Mộ Dung phu nhân tự vẫn |Truyện xuyên không cổ đại, cung đấu cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/7.mp3",
+    "title" : "[P7] Xuyên không để yêu chàng | Nhã Lệ bắt cóc Tuyết Phi,uy hiếp vua |Truyện xuyên không,cung đấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/8.mp3",
+    "title" : "[P8] Xuyên không để yêu chàng| Nội chiến hoàng cung ngày một hỗn loạn| Truyện xuyên không, cung đấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-ngan-nam-yeu-chang/9.mp3",
+    "title" : "[P9] Xuyên không để yêu chàng| Hồng Ngọc hạ độc Nguyệt Kiều | Truyện xuyên không cổ đại cực hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

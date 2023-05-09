@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/anh-han-anh-yeu-em-tieu-hai-tu-nguoi-toi-day_10362.html",
+    "title" : "Anh Hận Anh Yêu Em - Tiểu Hài Tử Ngươi Tới Đây",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tiểu Hài Tử Ngươi Tới Đây",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 40063,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_f273d2583a6f61d4dfafa3589ade130d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_f273d2583a6f61d4dfafa3589ade130d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/anh-han-anh-yeu-em/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7731,
+    "title" : "Anh Hận Anh Yêu Em – Truyện hay – P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-han-anh-yeu-em/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6765,
+    "title" : "Anh Hận Anh Yêu Em – Truyện hay – P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-han-anh-yeu-em/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8719,
+    "title" : "Anh Hận Anh Yêu Em –P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-han-anh-yeu-em/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8418,
+    "title" : "Anh Hận Anh Yêu Em –P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-han-anh-yeu-em/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8430,
+    "title" : "Anh Hận Anh Yêu Em –P5 Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/anh-han-anh-yeu-em/1.mp3",
+    "title" : "Anh Hận Anh Yêu Em – Truyện hay – P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-han-anh-yeu-em/2.mp3",
+    "title" : "Anh Hận Anh Yêu Em – Truyện hay – P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-han-anh-yeu-em/3.mp3",
+    "title" : "Anh Hận Anh Yêu Em –P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-han-anh-yeu-em/4.mp3",
+    "title" : "Anh Hận Anh Yêu Em –P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-han-anh-yeu-em/5.mp3",
+    "title" : "Anh Hận Anh Yêu Em –P5 Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

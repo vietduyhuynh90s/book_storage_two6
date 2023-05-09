@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-tam-hon-cao-thuong_16982.html",
+    "title" : "Những Tâm Hồn Cao Thượng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 7474,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_cf981689eb073a3c9363eb2dfd9c16a7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_cf981689eb073a3c9363eb2dfd9c16a7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 330,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/02-nguoi_khach_qua_dem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 598,
+    "title" : "Người khách qua đêm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/03-le_ky_niem_hanh_phuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 434,
+    "title" : "Lễ kỷ niệm hạnh phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/04-tuyet_hon_ca_doat_sieu_c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 566,
+    "title" : "Tuyệt hơn cả đoạt siêu cúp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/05-giup_do_lan_nhau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 688,
+    "title" : "Giúp đỡ lẫn nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/06-chu_ly_va_co_sarah_vuong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 872,
+    "title" : "Chú Lý và cô Sarah Vương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/07-nha_hao_tam_an_mat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 608,
+    "title" : "Nhà hảo tâm ẩn mặt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/08-dong_doi_tat_bat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 112,
+    "title" : "Dòng đời tất bật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/09-gia_dinh_giau_co.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 588,
+    "title" : "Gia đình giàu có",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/10-vien_ngoc_thong_thai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 222,
+    "title" : "Viên ngọc thông thái của ông Kindrick",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/11-sinh_nhat_dang_nho.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 432,
+    "title" : "Sinh nhật đáng nhớ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/12-mot_bai_hoc_y_nghia_hon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 464,
+    "title" : "Một bài học ý nghĩa hơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/13-chi_mot_dieu_uoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 428,
+    "title" : "Chỉ một điều ước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/14-trong_tung_duong_may.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 438,
+    "title" : "Trong từng đường may",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/15-chuyen_di_dai_ngay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 694,
+    "title" : "Chuyến đi dài ngày",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/01-loi_gioi_thieu.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/02-nguoi_khach_qua_dem.mp3",
+    "title" : "Người khách qua đêm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/03-le_ky_niem_hanh_phuc.mp3",
+    "title" : "Lễ kỷ niệm hạnh phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/04-tuyet_hon_ca_doat_sieu_c.mp3",
+    "title" : "Tuyệt hơn cả đoạt siêu cúp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/05-giup_do_lan_nhau.mp3",
+    "title" : "Giúp đỡ lẫn nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/06-chu_ly_va_co_sarah_vuong.mp3",
+    "title" : "Chú Lý và cô Sarah Vương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/07-nha_hao_tam_an_mat.mp3",
+    "title" : "Nhà hảo tâm ẩn mặt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/08-dong_doi_tat_bat.mp3",
+    "title" : "Dòng đời tất bật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/09-gia_dinh_giau_co.mp3",
+    "title" : "Gia đình giàu có",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/10-vien_ngoc_thong_thai.mp3",
+    "title" : "Viên ngọc thông thái của ông Kindrick",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/11-sinh_nhat_dang_nho.mp3",
+    "title" : "Sinh nhật đáng nhớ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/12-mot_bai_hoc_y_nghia_hon.mp3",
+    "title" : "Một bài học ý nghĩa hơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/13-chi_mot_dieu_uoc.mp3",
+    "title" : "Chỉ một điều ước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/14-trong_tung_duong_may.mp3",
+    "title" : "Trong từng đường may",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss08-nhungTamHonCaoThuong/15-chuyen_di_dai_ngay.mp3",
+    "title" : "Chuyến đi dài ngày",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

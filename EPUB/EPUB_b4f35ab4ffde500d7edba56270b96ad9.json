@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dong-bang-song-cuu-long_12503.html",
+    "title" : "Sài Gòn Xưa, Ấn Tượng 300 Năm Và Tiếp Cận Với Đồng Bằng Sông Cửu Long",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sơn Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 31888,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_b4f35ab4ffde500d7edba56270b96ad9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_b4f35ab4ffde500d7edba56270b96ad9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/01.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2001_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3148,
+    "title" : "01.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 01 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/02.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2002_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2688,
+    "title" : "02.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 02 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/03.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2003_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1842,
+    "title" : "03.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 03 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/04.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2004_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2486,
+    "title" : "04.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 04 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/05.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2005_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3381,
+    "title" : "05.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 05 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/06.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2006_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2620,
+    "title" : "06.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 06 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/07.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2007_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1564,
+    "title" : "07.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 07 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/08.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2008_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3771,
+    "title" : "08.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 08 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/09.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2009_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3103,
+    "title" : "09.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 09 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/10.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2010_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2375,
+    "title" : "10.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 10 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/11.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2011_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2535,
+    "title" : "11.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 11 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/12.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2012_Het_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2375,
+    "title" : "12.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 12 Het 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/01.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2001_2.mp3",
+    "title" : "01.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 01 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/02.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2002_2.mp3",
+    "title" : "02.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 02 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/03.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2003_2.mp3",
+    "title" : "03.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 03 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/04.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2004_2.mp3",
+    "title" : "04.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 04 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/05.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2005_2.mp3",
+    "title" : "05.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 05 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/06.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2006_2.mp3",
+    "title" : "06.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 06 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/07.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2007_2.mp3",
+    "title" : "07.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 07 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/08.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2008_2.mp3",
+    "title" : "08.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 08 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/09.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2009_2.mp3",
+    "title" : "09.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 09 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/10.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2010_2.mp3",
+    "title" : "10.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 10 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/11.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2011_2.mp3",
+    "title" : "11.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 11 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-xua-an-tuong-300-nam-va-tiep-can-voi-dbscl.sna/12.SAI%20GON%20XUA%20AN%20TUONG%20300%20NAM%20TIEP%20CAN%20VOI%20DONG%20BANG%20SCL%2012_Het_2.mp3",
+    "title" : "12.SAI GON XUA AN TUONG 300 NAM TIEP CAN VOI DONG BANG SCL 12 Het 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,317 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/so-so_12130.html",
+    "title" : "Sở Sở",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "099",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 40123,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_016b76f1cebf02ce5a4fd9784b5fff7b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_016b76f1cebf02ce5a4fd9784b5fff7b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/so_so_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2136,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2397,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 918,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1271,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1512,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2790,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2014,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1859,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1879,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1955,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2227,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1848,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1372,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 460,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 244,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 482,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1453,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2580,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2432,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1922,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2038,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2090,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2244,
+    "title" : "HIÊN VIÊN HUYỀN",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/so_so_201903/1.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/10.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/11.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/12.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/13.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/14.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/15.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/16.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/17.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/18.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/19.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/2.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/20.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/21.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/22.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/23.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/3.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/4.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/5.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/6.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/7.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/8.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/so_so_201903/9.mp3",
+    "title" : "HIÊN VIÊN HUYỀN",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

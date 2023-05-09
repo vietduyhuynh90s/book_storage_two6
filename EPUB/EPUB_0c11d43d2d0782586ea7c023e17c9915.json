@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/do-mam_12506.html",
+    "title" : "Dỡ Mắm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vương Hồng Sển",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 33811,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_0c11d43d2d0782586ea7c023e17c9915.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_0c11d43d2d0782586ea7c023e17c9915.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/do-mam/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Dỡ Mắm - Tác giả Vương Hồng Sển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/do-mam/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Dỡ Mắm - Tác giả Vương Hồng Sển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/do-mam/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Dỡ Mắm - Tác giả Vương Hồng Sển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/do-mam/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Dỡ Mắm - Tác giả Vương Hồng Sển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/do-mam/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5011,
+    "title" : "Dỡ Mắm - Tác giả Vương Hồng Sển",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/do-mam/1.mp3",
+    "title" : "Dỡ Mắm - Tác giả Vương Hồng Sển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/do-mam/2.mp3",
+    "title" : "Dỡ Mắm - Tác giả Vương Hồng Sển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/do-mam/3.mp3",
+    "title" : "Dỡ Mắm - Tác giả Vương Hồng Sển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/do-mam/4.mp3",
+    "title" : "Dỡ Mắm - Tác giả Vương Hồng Sển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/do-mam/5.mp3",
+    "title" : "Dỡ Mắm - Tác giả Vương Hồng Sển",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

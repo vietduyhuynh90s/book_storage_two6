@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ca-tan-dao-hoa_12925.html",
+    "title" : "Ca Tẫn Đào Hoa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mỹ Bảo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 91852,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_193cd7920a4e14011e152db4c159f25d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_193cd7920a4e14011e152db4c159f25d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7519,
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 1 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7305,
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 10 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7393,
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 11 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6231,
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 12 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7828,
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 13 (END) Ngôn Tình Cổ Đại Xuyên Không HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7357,
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 2 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6591,
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 3 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6740,
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 4 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7318,
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 5 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7668,
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 6 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6133,
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 7 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6399,
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 8 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7370,
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 9 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/1.mp3",
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 1 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/10.mp3",
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 10 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/11.mp3",
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 11 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/12.mp3",
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 12 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/13.mp3",
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 13 (END) Ngôn Tình Cổ Đại Xuyên Không HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/2.mp3",
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 2 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/3.mp3",
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 3 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/4.mp3",
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 4 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/5.mp3",
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 5 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/6.mp3",
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 6 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/7.mp3",
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 7 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/8.mp3",
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 8 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-tan-dao-hoa/9.mp3",
+    "title" : "Audio Ca Tẫn Đào Hoa Mỹ Bảo Part 9 Ngôn Tình Cổ Đại Xuyên Không HE",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

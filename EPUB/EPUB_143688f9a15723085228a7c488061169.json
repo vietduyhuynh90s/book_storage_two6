@@ -1,0 +1,473 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhat-mo-y-tu-truc_15540.html",
+    "title" : "Nhật Mộ Ỷ Tu Trúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Long Thất",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 72336,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_143688f9a15723085228a7c488061169.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_143688f9a15723085228a7c488061169.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2301,
+    "title" : "# 1. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2405,
+    "title" : "# 10. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 957,
+    "title" : "# 11. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1271,
+    "title" : "# 12. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2013,
+    "title" : "# 13. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1576,
+    "title" : "# 14. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2314,
+    "title" : "# 15. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2608,
+    "title" : "# 16. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1446,
+    "title" : "# 17. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2581,
+    "title" : "# 18. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2551,
+    "title" : "# 19. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2192,
+    "title" : "# 2. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1481,
+    "title" : "# 20. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2275,
+    "title" : "# 21. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "# 22. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2686,
+    "title" : "# 23. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2047,
+    "title" : "# 24. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1897,
+    "title" : "# 25. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2583,
+    "title" : "# 26. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2517,
+    "title" : "# 27. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2468,
+    "title" : "# 28. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1694,
+    "title" : "# 29. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2074,
+    "title" : "# 3. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1786,
+    "title" : "# 30. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2031,
+    "title" : "# 31. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1395,
+    "title" : "# 32. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1661,
+    "title" : "# 33. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1561,
+    "title" : "# 34. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1368,
+    "title" : "# 35. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2543,
+    "title" : "# 36 ket thuc. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1348,
+    "title" : "# 4. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1852,
+    "title" : "# 5. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2137,
+    "title" : "# 6. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2372,
+    "title" : "# 7. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1552,
+    "title" : "# 8. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1992,
+    "title" : "# 9. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/1.mp3",
+    "title" : "# 1. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/10.mp3",
+    "title" : "# 10. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/11.mp3",
+    "title" : "# 11. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/12.mp3",
+    "title" : "# 12. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/13.mp3",
+    "title" : "# 13. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/14.mp3",
+    "title" : "# 14. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/15.mp3",
+    "title" : "# 15. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/16.mp3",
+    "title" : "# 16. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/17.mp3",
+    "title" : "# 17. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/18.mp3",
+    "title" : "# 18. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/19.mp3",
+    "title" : "# 19. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/2.mp3",
+    "title" : "# 2. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/20.mp3",
+    "title" : "# 20. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/21.mp3",
+    "title" : "# 21. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/22.mp3",
+    "title" : "# 22. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/23.mp3",
+    "title" : "# 23. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/24.mp3",
+    "title" : "# 24. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/25.mp3",
+    "title" : "# 25. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/26.mp3",
+    "title" : "# 26. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/27.mp3",
+    "title" : "# 27. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/28.mp3",
+    "title" : "# 28. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/29.mp3",
+    "title" : "# 29. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/3.mp3",
+    "title" : "# 3. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/30.mp3",
+    "title" : "# 30. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/31.mp3",
+    "title" : "# 31. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/32.mp3",
+    "title" : "# 32. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/33.mp3",
+    "title" : "# 33. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/34.mp3",
+    "title" : "# 34. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/35.mp3",
+    "title" : "# 35. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/36.mp3",
+    "title" : "# 36 ket thuc. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/4.mp3",
+    "title" : "# 4. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/5.mp3",
+    "title" : "# 5. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/6.mp3",
+    "title" : "# 6. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/7.mp3",
+    "title" : "# 7. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/8.mp3",
+    "title" : "# 8. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-mo-y-tu-truc/9.mp3",
+    "title" : "# 9. Nhật Mộ ỷ Tu Trúc . Audio đam mỹ Dung Lâm",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

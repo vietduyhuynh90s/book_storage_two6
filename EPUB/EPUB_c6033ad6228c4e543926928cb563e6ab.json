@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xau-vuong-sung-tai-gia-vuong-phi_15441.html",
+    "title" : "Xấu Vương Sủng Tái Giá Vương Phi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bích Ngọc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15443,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_c6033ad6228c4e543926928cb563e6ab.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_c6033ad6228c4e543926928cb563e6ab.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xau-vuong-sung-tai-gia-vuong-phi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2995,
+    "title" : "Xấu Vương sủng tái giá Vương phi| Truyện ngôn tình xuyên không, trọng sinh, nam nữ cường, sủng, HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xau-vuong-sung-tai-gia-vuong-phi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3383,
+    "title" : "[P2] Xấu vương sủng tái giá vương phi| Trùng sinh Vương phi báo thù|Truyện ngôn tình xuyên không hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xau-vuong-sung-tai-gia-vuong-phi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3281,
+    "title" : "[P3] Xấu vương sủng tái giá vương phi| Cả đời nguyện yêu 1 mình nàng| Truyện ngôn tình xuyên không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xau-vuong-sung-tai-gia-vuong-phi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3361,
+    "title" : "[P4] Xấu vương sủng tái giá vương phi| Nguyện vì nàng đôi cả giang sơn|Truyện ngôn tình xuyên không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xau-vuong-sung-tai-gia-vuong-phi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2423,
+    "title" : "Tập cuối cực hay| Xấu vương sủng tái giá vương phi| Truyện ngôn tình xuyên không, trọng sinh cực hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xau-vuong-sung-tai-gia-vuong-phi/1.mp3",
+    "title" : "Xấu Vương sủng tái giá Vương phi| Truyện ngôn tình xuyên không, trọng sinh, nam nữ cường, sủng, HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xau-vuong-sung-tai-gia-vuong-phi/2.mp3",
+    "title" : "[P2] Xấu vương sủng tái giá vương phi| Trùng sinh Vương phi báo thù|Truyện ngôn tình xuyên không hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xau-vuong-sung-tai-gia-vuong-phi/3.mp3",
+    "title" : "[P3] Xấu vương sủng tái giá vương phi| Cả đời nguyện yêu 1 mình nàng| Truyện ngôn tình xuyên không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xau-vuong-sung-tai-gia-vuong-phi/4.mp3",
+    "title" : "[P4] Xấu vương sủng tái giá vương phi| Nguyện vì nàng đôi cả giang sơn|Truyện ngôn tình xuyên không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xau-vuong-sung-tai-gia-vuong-phi/5.mp3",
+    "title" : "Tập cuối cực hay| Xấu vương sủng tái giá vương phi| Truyện ngôn tình xuyên không, trọng sinh cực hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

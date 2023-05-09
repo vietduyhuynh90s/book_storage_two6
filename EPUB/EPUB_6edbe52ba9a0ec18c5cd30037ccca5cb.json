@@ -1,0 +1,653 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nghe-de-thue_15689.html",
+    "title" : "Nghề Đẻ Thuê",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Quang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 146577,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_6edbe52ba9a0ec18c5cd30037ccca5cb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_6edbe52ba9a0ec18c5cd30037ccca5cb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nghe-de-thue/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3739,
+    "title" : "Nghề Đẻ Thuê - Phần 1 - Truyện tâm lí xã hội hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2428,
+    "title" : "Truyện tâm lý xã hội 2020 - MC Nguyễn Hoa kể quá hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3631,
+    "title" : "Tập 11- Truyện thực tế 2020 #mcnguyenhoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5435,
+    "title" : "Truyện đời thực 2020 - MC Nguyễn Hoa kể hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5450,
+    "title" : "Nghề Đẻ Thuê - Truyện thực tế 2020 - MC Nguyễn Hoa diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7030,
+    "title" : "Nghề Đẻ Thuê - Truyện thực tế 2020 #mcnguyenhoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2562,
+    "title" : "Truyện đời thực 2020 - MC Nguyễn Hoa diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2435,
+    "title" : "Truyện tâm lý xã hội 2020 - MC Nguyễn Hoa kể cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3635,
+    "title" : "Truyện tâm lý xã hội 2020 - MC Nguyễn Hoa kể hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2424,
+    "title" : "Truyện tâm lý xã hội 2020 - MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2437,
+    "title" : "Truyện thực tế 2020 - MC Nguyễn Hoa diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3677,
+    "title" : "Nghề Đẻ Thuê - Truyện đời thực 2020 ( Cực Hay)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2433,
+    "title" : "Truyện tâm sự đời thực 2020 - MC Nguyễn Hoa kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2426,
+    "title" : "Tập 20 - Truyện ngôn tình nghe mà nghiện - MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2422,
+    "title" : "Tập 21 - Truyện thực tế 2020 #mcnguyenhoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2470,
+    "title" : "Tập 22 - Truyện thực tế 2020 - MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2474,
+    "title" : "Tập 23 -Truyện đời thực hay nhất 2020 - MC Nguyễn Hoa kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2436,
+    "title" : "Tập 24 - mc nguyễn hoa diễn đọc cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2426,
+    "title" : "Tập 25 - mc nguyễn hoa kể hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2429,
+    "title" : "Truyện tâm lý xã hội cực hay 2020 #mcnguyenhoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2449,
+    "title" : "Tập 27 - Truyện đời thực 2020 - mc nguyễn hoa kể hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2436,
+    "title" : "Truyện thực tế 2020 - mc nguyễn hoa diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3668,
+    "title" : "Truyện tâm lý xã hội cực hay 2020 #mcnguyenhoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2426,
+    "title" : "Truyện tâm lý xã hội cực hay 2020 - Mc nguyễn hoa kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2443,
+    "title" : "Truyện ngôn tình hay 2020 - MC Nguyễn Hoa kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2443,
+    "title" : "Truyện tâm lý xã hội nghe nhiều nhất 2020 - MC Nguyễn Hoa kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2420,
+    "title" : "Tập 32 - Truyện thực tế 2020 #mcnguyenhoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2436,
+    "title" : "Truyện thực tế hấp dẫn nhất 2020 -MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2472,
+    "title" : "TẬP 34 - Truyện thực tế cực hấp dẫn 2020 - Giọng Đọc MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2479,
+    "title" : "Truyện đời thực cực hay - MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2479,
+    "title" : "TẬP 36 - Truyện thực tế hấp dẫn nhất 2020 - Giọng Đọc MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2428,
+    "title" : "Truyện thực tế hay nhất 2020 - Giọng Đọc Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2439,
+    "title" : "Nghề Đẻ Thuê - Truyện tâm lý đời thực cực hay 2020 - MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "MC Nguyễn Hoa diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2429,
+    "title" : "Truyện đời thực hay nhất 2020 - Giọng Đọc MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2453,
+    "title" : "TẬP 40 - Truyện thực tế 2020 - Giọng Đọc MC Thanh Mai nhé!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2480,
+    "title" : "Truyện đời thực cực hấp dẫn và kịch tính 2020 - MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2435,
+    "title" : "Nghề Đẻ Thuê - Truyện thực tế 2020 - Giọng Đọc MC Nguyễn Hoa nhé!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2453,
+    "title" : "Truyện thực tế hấp dẫn và kịch tính 2020 - MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2477,
+    "title" : "Truyện thực tế cực hay 2020 - Giọng Đọc MC Nguyễn Hoa nhé!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2452,
+    "title" : "TẬP 45 - Truyện thực tế cực hay 2020 - Giọng Đọc MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2448,
+    "title" : "Truyện đời thực hấp dẫn nhất 2020 - MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2434,
+    "title" : "Nghề Đẻ Thuê - Truyện thực tế hấp dẫn và kịch tính 2020 -MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2469,
+    "title" : "Truyện đời thực cực hấp dẫn và kịch tính 2020 - MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3776,
+    "title" : "Đi công tác - Truyện tâm lý xã hội 2020 (Cực Hay)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2461,
+    "title" : "Truyện thực tế hay nhất 2020 - MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4750,
+    "title" : "Truyện thực tế cực hấp dẫn 2020 - MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2543,
+    "title" : "Truyện thực tế 2020 - MC Nguyễn Hoa kể hay lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2484,
+    "title" : "Tập 7 - Truyện thực tế 2020 #mcnguyenhoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2471,
+    "title" : "Truyện ngôn tình nghe mà nghiện - MC Nguyễn Hoa kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2471,
+    "title" : "Tập 9 ( Khá bất ngờ ) - Truyện thực tế 2020 - MC Nguyễn Hoa diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nghe-de-thue/1.mp3",
+    "title" : "Nghề Đẻ Thuê - Phần 1 - Truyện tâm lí xã hội hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/10.mp3",
+    "title" : "Truyện tâm lý xã hội 2020 - MC Nguyễn Hoa kể quá hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/11.mp3",
+    "title" : "Tập 11- Truyện thực tế 2020 #mcnguyenhoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/12.mp3",
+    "title" : "Truyện đời thực 2020 - MC Nguyễn Hoa kể hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/13.mp3",
+    "title" : "Nghề Đẻ Thuê - Truyện thực tế 2020 - MC Nguyễn Hoa diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/14.mp3",
+    "title" : "Nghề Đẻ Thuê - Truyện thực tế 2020 #mcnguyenhoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/15.mp3",
+    "title" : "Truyện đời thực 2020 - MC Nguyễn Hoa diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/16.mp3",
+    "title" : "Truyện tâm lý xã hội 2020 - MC Nguyễn Hoa kể cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/17.mp3",
+    "title" : "Truyện tâm lý xã hội 2020 - MC Nguyễn Hoa kể hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/18.mp3",
+    "title" : "Truyện tâm lý xã hội 2020 - MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/19.mp3",
+    "title" : "Truyện thực tế 2020 - MC Nguyễn Hoa diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/2.mp3",
+    "title" : "Nghề Đẻ Thuê - Truyện đời thực 2020 ( Cực Hay)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/20.mp3",
+    "title" : "Truyện tâm sự đời thực 2020 - MC Nguyễn Hoa kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/21.mp3",
+    "title" : "Tập 20 - Truyện ngôn tình nghe mà nghiện - MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/22.mp3",
+    "title" : "Tập 21 - Truyện thực tế 2020 #mcnguyenhoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/23.mp3",
+    "title" : "Tập 22 - Truyện thực tế 2020 - MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/24.mp3",
+    "title" : "Tập 23 -Truyện đời thực hay nhất 2020 - MC Nguyễn Hoa kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/25.mp3",
+    "title" : "Tập 24 - mc nguyễn hoa diễn đọc cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/26.mp3",
+    "title" : "Tập 25 - mc nguyễn hoa kể hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/27.mp3",
+    "title" : "Truyện tâm lý xã hội cực hay 2020 #mcnguyenhoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/28.mp3",
+    "title" : "Tập 27 - Truyện đời thực 2020 - mc nguyễn hoa kể hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/29.mp3",
+    "title" : "Truyện thực tế 2020 - mc nguyễn hoa diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/3.mp3",
+    "title" : "Truyện tâm lý xã hội cực hay 2020 #mcnguyenhoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/30.mp3",
+    "title" : "Truyện tâm lý xã hội cực hay 2020 - Mc nguyễn hoa kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/31.mp3",
+    "title" : "Truyện ngôn tình hay 2020 - MC Nguyễn Hoa kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/32.mp3",
+    "title" : "Truyện tâm lý xã hội nghe nhiều nhất 2020 - MC Nguyễn Hoa kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/33.mp3",
+    "title" : "Tập 32 - Truyện thực tế 2020 #mcnguyenhoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/34.mp3",
+    "title" : "Truyện thực tế hấp dẫn nhất 2020 -MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/35.mp3",
+    "title" : "TẬP 34 - Truyện thực tế cực hấp dẫn 2020 - Giọng Đọc MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/36.mp3",
+    "title" : "Truyện đời thực cực hay - MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/37.mp3",
+    "title" : "TẬP 36 - Truyện thực tế hấp dẫn nhất 2020 - Giọng Đọc MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/38.mp3",
+    "title" : "Truyện thực tế hay nhất 2020 - Giọng Đọc Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/39.mp3",
+    "title" : "Nghề Đẻ Thuê - Truyện tâm lý đời thực cực hay 2020 - MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/4.mp3",
+    "title" : "MC Nguyễn Hoa diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/40.mp3",
+    "title" : "Truyện đời thực hay nhất 2020 - Giọng Đọc MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/41.mp3",
+    "title" : "TẬP 40 - Truyện thực tế 2020 - Giọng Đọc MC Thanh Mai nhé!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/42.mp3",
+    "title" : "Truyện đời thực cực hấp dẫn và kịch tính 2020 - MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/43.mp3",
+    "title" : "Nghề Đẻ Thuê - Truyện thực tế 2020 - Giọng Đọc MC Nguyễn Hoa nhé!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/44.mp3",
+    "title" : "Truyện thực tế hấp dẫn và kịch tính 2020 - MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/45.mp3",
+    "title" : "Truyện thực tế cực hay 2020 - Giọng Đọc MC Nguyễn Hoa nhé!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/46.mp3",
+    "title" : "TẬP 45 - Truyện thực tế cực hay 2020 - Giọng Đọc MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/47.mp3",
+    "title" : "Truyện đời thực hấp dẫn nhất 2020 - MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/48.mp3",
+    "title" : "Nghề Đẻ Thuê - Truyện thực tế hấp dẫn và kịch tính 2020 -MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/49.mp3",
+    "title" : "Truyện đời thực cực hấp dẫn và kịch tính 2020 - MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/5.mp3",
+    "title" : "Đi công tác - Truyện tâm lý xã hội 2020 (Cực Hay)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/50.mp3",
+    "title" : "Truyện thực tế hay nhất 2020 - MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/51.mp3",
+    "title" : "Truyện thực tế cực hấp dẫn 2020 - MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/6.mp3",
+    "title" : "Truyện thực tế 2020 - MC Nguyễn Hoa kể hay lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/7.mp3",
+    "title" : "Tập 7 - Truyện thực tế 2020 #mcnguyenhoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/8.mp3",
+    "title" : "Truyện ngôn tình nghe mà nghiện - MC Nguyễn Hoa kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-de-thue/9.mp3",
+    "title" : "Tập 9 ( Khá bất ngờ ) - Truyện thực tế 2020 - MC Nguyễn Hoa diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,701 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ta-man-hoang-bo-lac_19063.html",
+    "title" : "Ta Man Hoang Bộ Lạc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tiểu Tiểu Yêu Tiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 691075,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_72c31491b951f20e94a491b9bc472530.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_72c31491b951f20e94a491b9bc472530.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13154,
+    "title" : "Chương 1-30 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10989,
+    "title" : "Chương 341-380 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11103,
+    "title" : "Chương 381-420 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10960,
+    "title" : "Chương 421-460 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10820,
+    "title" : "Chương 461-500 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10734,
+    "title" : "Chương 501-540 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10874,
+    "title" : "Chương 541-580 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10792,
+    "title" : "Chương 581-620 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10830,
+    "title" : "Chương 621-660 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10825,
+    "title" : "Chương 661-700 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10812,
+    "title" : "Chương 701-740 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13739,
+    "title" : "Chương 31-70 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10852,
+    "title" : "Chương 741-780 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10689,
+    "title" : "Chương 781-820 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8369,
+    "title" : "Chương 820-850 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13944,
+    "title" : "Chương 851-900 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13838,
+    "title" : "Chương 901-950 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14196,
+    "title" : "Chương 951-1000 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14105,
+    "title" : "Chương 1001-1050 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13665,
+    "title" : "Chương 1051-1100 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13602,
+    "title" : "Chương 1101-1150 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13697,
+    "title" : "Chương 1151-1200 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8719,
+    "title" : "Chương 71-100 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13721,
+    "title" : "Chương 1201-1250 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14107,
+    "title" : "Chương 1251-1300 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14149,
+    "title" : "Chương 1301-1350 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14336,
+    "title" : "Chương 1351-1400 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13087,
+    "title" : "Chương 1401-1450 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14129,
+    "title" : "Chương 1451-1500 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13967,
+    "title" : "Chương 1501-1550 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14165,
+    "title" : "Chương 1551-1600 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13859,
+    "title" : "Chương 1601-1650 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13922,
+    "title" : "Chương 1651-1700 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10977,
+    "title" : "Chương 101-140 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14139,
+    "title" : "Chương 1701-1750 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14105,
+    "title" : "Chương 1751-1800 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14139,
+    "title" : "Chương 1801-1850 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14273,
+    "title" : "Chương 1851-1900 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14288,
+    "title" : "Chương 1901-1950 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14099,
+    "title" : "Chương 1951-2000 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14206,
+    "title" : "Chương 2001-2051 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14078,
+    "title" : "Chương 2051-2100 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14229,
+    "title" : "Chương 2101-2151 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14179,
+    "title" : "Chương 2151-2200 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10627,
+    "title" : "Chương 141-180 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14154,
+    "title" : "Chương 2201-2251 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14296,
+    "title" : "Chương 2251-2300 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13776,
+    "title" : "Chương 2301-2350 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13867,
+    "title" : "Chương 2351-2400 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8338,
+    "title" : "Chương 2401-2430 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8926,
+    "title" : "Chương 2431-2465 (Hết)| Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10718,
+    "title" : "Chương 180-220 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10843,
+    "title" : "Chương 221-260| Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11082,
+    "title" : "Chương 261-300 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10986,
+    "title" : "Chương 301-340 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/1.mp3",
+    "title" : "Chương 1-30 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/10.mp3",
+    "title" : "Chương 341-380 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/11.mp3",
+    "title" : "Chương 381-420 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/12.mp3",
+    "title" : "Chương 421-460 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/13.mp3",
+    "title" : "Chương 461-500 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/14.mp3",
+    "title" : "Chương 501-540 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/15.mp3",
+    "title" : "Chương 541-580 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/16.mp3",
+    "title" : "Chương 581-620 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/17.mp3",
+    "title" : "Chương 621-660 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/18.mp3",
+    "title" : "Chương 661-700 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/19.mp3",
+    "title" : "Chương 701-740 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/2.mp3",
+    "title" : "Chương 31-70 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/20.mp3",
+    "title" : "Chương 741-780 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/21.mp3",
+    "title" : "Chương 781-820 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/22.mp3",
+    "title" : "Chương 820-850 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/23.mp3",
+    "title" : "Chương 851-900 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/24.mp3",
+    "title" : "Chương 901-950 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/25.mp3",
+    "title" : "Chương 951-1000 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/26.mp3",
+    "title" : "Chương 1001-1050 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/27.mp3",
+    "title" : "Chương 1051-1100 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/28.mp3",
+    "title" : "Chương 1101-1150 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/29.mp3",
+    "title" : "Chương 1151-1200 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/3.mp3",
+    "title" : "Chương 71-100 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/30.mp3",
+    "title" : "Chương 1201-1250 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/31.mp3",
+    "title" : "Chương 1251-1300 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/32.mp3",
+    "title" : "Chương 1301-1350 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/33.mp3",
+    "title" : "Chương 1351-1400 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/34.mp3",
+    "title" : "Chương 1401-1450 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/35.mp3",
+    "title" : "Chương 1451-1500 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/36.mp3",
+    "title" : "Chương 1501-1550 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/37.mp3",
+    "title" : "Chương 1551-1600 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/38.mp3",
+    "title" : "Chương 1601-1650 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/39.mp3",
+    "title" : "Chương 1651-1700 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/4.mp3",
+    "title" : "Chương 101-140 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/40.mp3",
+    "title" : "Chương 1701-1750 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/41.mp3",
+    "title" : "Chương 1751-1800 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/42.mp3",
+    "title" : "Chương 1801-1850 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/43.mp3",
+    "title" : "Chương 1851-1900 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/44.mp3",
+    "title" : "Chương 1901-1950 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/45.mp3",
+    "title" : "Chương 1951-2000 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/46.mp3",
+    "title" : "Chương 2001-2051 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/47.mp3",
+    "title" : "Chương 2051-2100 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/48.mp3",
+    "title" : "Chương 2101-2151 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/49.mp3",
+    "title" : "Chương 2151-2200 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/5.mp3",
+    "title" : "Chương 141-180 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/50.mp3",
+    "title" : "Chương 2201-2251 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/51.mp3",
+    "title" : "Chương 2251-2300 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/52.mp3",
+    "title" : "Chương 2301-2350 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/53.mp3",
+    "title" : "Chương 2351-2400 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/54.mp3",
+    "title" : "Chương 2401-2430 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/55.mp3",
+    "title" : "Chương 2431-2465 (Hết)| Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/6.mp3",
+    "title" : "Chương 180-220 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/7.mp3",
+    "title" : "Chương 221-260| Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/8.mp3",
+    "title" : "Chương 261-300 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-man-hoang-bo-lac/9.mp3",
+    "title" : "Chương 301-340 | Tiên Hiệp, Dị Giới - Audio 1 9 9 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

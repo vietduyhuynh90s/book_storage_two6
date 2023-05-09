@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/quy-thi-doc-huong-cot-coc_10677.html",
+    "title" : "Quỷ Thi Độc Hương - Cốt Cốc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cốt Cốc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19045,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_1202a03afd12210614e07164b95dbc28.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_1202a03afd12210614e07164b95dbc28.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quy-thi-doc-huong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3739,
+    "title" : "Cốt Cốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-thi-doc-huong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3384,
+    "title" : "Cốt Cốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-thi-doc-huong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3689,
+    "title" : "QUỶ THI ĐỘC HƯƠNG tập 3 | Truyện trinh thám kinh dị hay | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-thi-doc-huong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3616,
+    "title" : "QUỶ THI ĐỘC HƯƠNG tập 4 | Truyện trinh thám kinh dị hay | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-thi-doc-huong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4617,
+    "title" : "QUỶ THI ĐỘC HƯƠNG tập 5 TẬP CUỐI | Truyện trinh thám kinh dị hay | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quy-thi-doc-huong/1.mp3",
+    "title" : "Cốt Cốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-thi-doc-huong/2.mp3",
+    "title" : "Cốt Cốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-thi-doc-huong/3.mp3",
+    "title" : "QUỶ THI ĐỘC HƯƠNG tập 3 | Truyện trinh thám kinh dị hay | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-thi-doc-huong/4.mp3",
+    "title" : "QUỶ THI ĐỘC HƯƠNG tập 4 | Truyện trinh thám kinh dị hay | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-thi-doc-huong/5.mp3",
+    "title" : "QUỶ THI ĐỘC HƯƠNG tập 5 TẬP CUỐI | Truyện trinh thám kinh dị hay | MC Thanh Bình",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

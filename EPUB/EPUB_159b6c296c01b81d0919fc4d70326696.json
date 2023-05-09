@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khong-co-lai-sinh_12963.html",
+    "title" : "Không Có Lai Sinh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phong Ca",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 27029,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_159b6c296c01b81d0919fc4d70326696.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_159b6c296c01b81d0919fc4d70326696.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1652,
+    "title" : "Phần 1 - Tô Thanh Liên lai sinh kiếp khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1996,
+    "title" : "Phần 10 - Biến cố tại Thẩm gia và xảy đến cho Liên Nhi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1858,
+    "title" : "Phần 11 - Cái giá của sự vương giả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2171,
+    "title" : "Phần 12 - Thanh Liên khai hoa nở nhụy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3478,
+    "title" : "Phần 31 - Phần cuối - Có cần thiết phải lai sinh để sống cho chính mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2018,
+    "title" : "Phần 2 - Trở thành nha hoàn của Lương Vương và gặp lại chàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1604,
+    "title" : "Phần 3 - Trở thành ái thiếp của Lương Vương từ thân phận nha hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1834,
+    "title" : "Phần 4 - Biến cố tại trường săn bắn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1830,
+    "title" : "Phần 5 - Một bước lên đến thân phận trắc phi nhiều người mơ ước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2149,
+    "title" : "Phần 6 - Đêm động phòng hoa chúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1757,
+    "title" : "Phần 7 - May áo cho chàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2278,
+    "title" : "Phần 8 - Người bên gối kiếp này",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2404,
+    "title" : "Phần 9 - Kiếp này chỉ có thể là muội muội",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/1.mp3",
+    "title" : "Phần 1 - Tô Thanh Liên lai sinh kiếp khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/10.mp3",
+    "title" : "Phần 10 - Biến cố tại Thẩm gia và xảy đến cho Liên Nhi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/11.mp3",
+    "title" : "Phần 11 - Cái giá của sự vương giả",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/12.mp3",
+    "title" : "Phần 12 - Thanh Liên khai hoa nở nhụy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/13.mp3",
+    "title" : "Phần 31 - Phần cuối - Có cần thiết phải lai sinh để sống cho chính mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/2.mp3",
+    "title" : "Phần 2 - Trở thành nha hoàn của Lương Vương và gặp lại chàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/3.mp3",
+    "title" : "Phần 3 - Trở thành ái thiếp của Lương Vương từ thân phận nha hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/4.mp3",
+    "title" : "Phần 4 - Biến cố tại trường săn bắn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/5.mp3",
+    "title" : "Phần 5 - Một bước lên đến thân phận trắc phi nhiều người mơ ước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/6.mp3",
+    "title" : "Phần 6 - Đêm động phòng hoa chúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/7.mp3",
+    "title" : "Phần 7 - May áo cho chàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/8.mp3",
+    "title" : "Phần 8 - Người bên gối kiếp này",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-lai-sinh/9.mp3",
+    "title" : "Phần 9 - Kiếp này chỉ có thể là muội muội",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

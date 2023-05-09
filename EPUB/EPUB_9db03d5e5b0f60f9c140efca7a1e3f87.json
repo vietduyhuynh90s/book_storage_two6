@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-duy-dot-pha_16990.html",
+    "title" : "Tư Duy Đột Phá",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Shozo Hibino",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 1654,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_9db03d5e5b0f60f9c140efca7a1e3f87.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_9db03d5e5b0f60f9c140efca7a1e3f87.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnTuDuyDotPha_977/01.LamDieuChuaTungCo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 398,
+    "title" : "01.LamDieuChuaTungCo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTuDuyDotPha_977/02.HocHoiTuTuongLai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 411,
+    "title" : "02.HocHoiTuTuongLai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTuDuyDotPha_977/03.SuaChuaBoMaySuyNghi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 435,
+    "title" : "03.SuaChuaBoMaySuyNghi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTuDuyDotPha_977/04.ThemDongCoNhuLexus.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 410,
+    "title" : "04.ThemDongCoNhuLexus",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnTuDuyDotPha_977/01.LamDieuChuaTungCo.mp3",
+    "title" : "01.LamDieuChuaTungCo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTuDuyDotPha_977/02.HocHoiTuTuongLai.mp3",
+    "title" : "02.HocHoiTuTuongLai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTuDuyDotPha_977/03.SuaChuaBoMaySuyNghi.mp3",
+    "title" : "03.SuaChuaBoMaySuyNghi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTuDuyDotPha_977/04.ThemDongCoNhuLexus.mp3",
+    "title" : "04.ThemDongCoNhuLexus",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

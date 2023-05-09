@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-duong-den-tinh-lang_20255.html",
+    "title" : "Con Đường Đến Tĩnh Lặng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đạt Lai Lạt Ma",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 14855,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_839cf23676667b4aa85b18673a79ef01.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_839cf23676667b4aa85b18673a79ef01.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1396,
+    "title" : "01_Loi tua_Thang Gieng_KHanh_dau-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1239,
+    "title" : "10_Thang Muoi_HThanh_97-108",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1272,
+    "title" : "11_Thang Muoi Mot_ThMai_109-119",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1782,
+    "title" : "12_Thang Muoi Hai_Loi Bat_HThanh_121-het",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1002,
+    "title" : "02_Thang Hai_HThanh_11-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1195,
+    "title" : "03_Thang Ba_KHanh_21-30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1056,
+    "title" : "04_Thang Tu_HThanh_31-39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1113,
+    "title" : "05_Thang Nam_KHanh_41-50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1021,
+    "title" : "06_Thang Sau_HThanh_51-60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1195,
+    "title" : "07_Thang Bay_ThMai_61-71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1252,
+    "title" : "08_Thang Tam_HThanh_73-84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1332,
+    "title" : "09_Thang Chin_ThMai_85-95",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%201.mp3",
+    "title" : "01_Loi tua_Thang Gieng_KHanh_dau-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%2010.mp3",
+    "title" : "10_Thang Muoi_HThanh_97-108",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%2011.mp3",
+    "title" : "11_Thang Muoi Mot_ThMai_109-119",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%2012.mp3",
+    "title" : "12_Thang Muoi Hai_Loi Bat_HThanh_121-het",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%202.mp3",
+    "title" : "02_Thang Hai_HThanh_11-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%203.mp3",
+    "title" : "03_Thang Ba_KHanh_21-30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%204.mp3",
+    "title" : "04_Thang Tu_HThanh_31-39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%205.mp3",
+    "title" : "05_Thang Nam_KHanh_41-50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%206.mp3",
+    "title" : "06_Thang Sau_HThanh_51-60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%207.mp3",
+    "title" : "07_Thang Bay_ThMai_61-71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%208.mp3",
+    "title" : "08_Thang Tam_HThanh_73-84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-12/Con-Duong%209.mp3",
+    "title" : "09_Thang Chin_ThMai_85-95",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

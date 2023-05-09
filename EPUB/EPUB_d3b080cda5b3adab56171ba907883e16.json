@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ke-song-sot_19119.html",
+    "title" : "Kẻ Sống Sót",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sharon Bolton",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 17876,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_d3b080cda5b3adab56171ba907883e16.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_d3b080cda5b3adab56171ba907883e16.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ke-so-ng-so-t-pha-n-07-end/K%E1%BA%BA%20S%E1%BB%90NG%20S%C3%93T-%20PH%E1%BA%A6N%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3114,
+    "title" : "KẺ SỐNG SÓT- PHẦN 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-so-ng-so-t-pha-n-07-end/K%E1%BA%BA%20S%E1%BB%90NG%20S%C3%93T-%20PH%E1%BA%A6N%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2103,
+    "title" : "KẺ SỐNG SÓT- PHẦN 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-so-ng-so-t-pha-n-07-end/K%E1%BA%BA%20S%E1%BB%90NG%20S%C3%93T-%20PH%E1%BA%A6N%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2257,
+    "title" : "KẺ SỐNG SÓT- PHẦN 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-so-ng-so-t-pha-n-07-end/K%E1%BA%BA%20S%E1%BB%90NG%20S%C3%93T-%20PH%E1%BA%A6N%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2619,
+    "title" : "KẺ SỐNG SÓT- PHẦN 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-so-ng-so-t-pha-n-07-end/K%E1%BA%BA%20S%E1%BB%90NG%20S%C3%93T-%20PH%E1%BA%A6N%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2082,
+    "title" : "KẺ SỐNG SÓT- PHẦN 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-so-ng-so-t-pha-n-07-end/K%E1%BA%BA%20S%E1%BB%90NG%20S%C3%93T-%20PH%E1%BA%A6N%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2366,
+    "title" : "KẺ SỐNG SÓT- PHẦN 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-so-ng-so-t-pha-n-07-end/K%E1%BA%BA%20S%E1%BB%90NG%20S%C3%93T-%20PH%E1%BA%A6N%2007%20%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3335,
+    "title" : "KẺ SỐNG SÓT- PHẦN 07 (end)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ke-so-ng-so-t-pha-n-07-end/K%E1%BA%BA%20S%E1%BB%90NG%20S%C3%93T-%20PH%E1%BA%A6N%2001.mp3",
+    "title" : "KẺ SỐNG SÓT- PHẦN 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-so-ng-so-t-pha-n-07-end/K%E1%BA%BA%20S%E1%BB%90NG%20S%C3%93T-%20PH%E1%BA%A6N%2002.mp3",
+    "title" : "KẺ SỐNG SÓT- PHẦN 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-so-ng-so-t-pha-n-07-end/K%E1%BA%BA%20S%E1%BB%90NG%20S%C3%93T-%20PH%E1%BA%A6N%2003.mp3",
+    "title" : "KẺ SỐNG SÓT- PHẦN 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-so-ng-so-t-pha-n-07-end/K%E1%BA%BA%20S%E1%BB%90NG%20S%C3%93T-%20PH%E1%BA%A6N%2004.mp3",
+    "title" : "KẺ SỐNG SÓT- PHẦN 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-so-ng-so-t-pha-n-07-end/K%E1%BA%BA%20S%E1%BB%90NG%20S%C3%93T-%20PH%E1%BA%A6N%2005.mp3",
+    "title" : "KẺ SỐNG SÓT- PHẦN 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-so-ng-so-t-pha-n-07-end/K%E1%BA%BA%20S%E1%BB%90NG%20S%C3%93T-%20PH%E1%BA%A6N%2006.mp3",
+    "title" : "KẺ SỐNG SÓT- PHẦN 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-so-ng-so-t-pha-n-07-end/K%E1%BA%BA%20S%E1%BB%90NG%20S%C3%93T-%20PH%E1%BA%A6N%2007%20%28end%29.mp3",
+    "title" : "KẺ SỐNG SÓT- PHẦN 07 (end)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

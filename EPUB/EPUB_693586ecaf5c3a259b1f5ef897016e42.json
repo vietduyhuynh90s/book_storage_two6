@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cong-tac-tinh-yeu-phi-nga-tu-ton_10282.html",
+    "title" : "Công Tắc Tình Yêu - Phỉ Ngã Tư Tồn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phỉ Ngã Tư Tồn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 30948,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_693586ecaf5c3a259b1f5ef897016e42.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_693586ecaf5c3a259b1f5ef897016e42.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cong-tac-tinh-yeu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7157,
+    "title" : "Công Tắc Tình Yêu ( Phần 1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-tac-tinh-yeu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5314,
+    "title" : "Tiểu Thuyết Tình Yêu Hay Nhất - Chương 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-tac-tinh-yeu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4962,
+    "title" : "Tiểu Thuyết Tình Yêu - Chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-tac-tinh-yeu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4072,
+    "title" : "Truyện Ngôn Tình Hay Nhất ( Chương 4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-tac-tinh-yeu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8071,
+    "title" : "Tiểu Thuyết Tình Yêu Lãng Mạn Nhất - Chương 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-tac-tinh-yeu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1372,
+    "title" : "Truyện Tình Yêu Hay Nhất - Chương Cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cong-tac-tinh-yeu/1.mp3",
+    "title" : "Công Tắc Tình Yêu ( Phần 1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-tac-tinh-yeu/2.mp3",
+    "title" : "Tiểu Thuyết Tình Yêu Hay Nhất - Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-tac-tinh-yeu/3.mp3",
+    "title" : "Tiểu Thuyết Tình Yêu - Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-tac-tinh-yeu/4.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất ( Chương 4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-tac-tinh-yeu/5.mp3",
+    "title" : "Tiểu Thuyết Tình Yêu Lãng Mạn Nhất - Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-tac-tinh-yeu/6.mp3",
+    "title" : "Truyện Tình Yêu Hay Nhất - Chương Cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

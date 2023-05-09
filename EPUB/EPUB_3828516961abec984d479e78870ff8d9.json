@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tiem-ba-nghe-tada-truoc-ga-mahoro_19032.html",
+    "title" : "Tiệm Bá Nghệ Tada Trước Ga Mahoro",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Miura Shion",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 31757,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_3828516961abec984d479e78870ff8d9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_3828516961abec984d479e78870ff8d9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tie-m-ba-nghe-tada-truo-c-ga-mahoro-05/TI%E1%BB%86M%20B%C3%81%20NGH%E1%BB%86%20TADA%20TR%C6%AF%E1%BB%9AC%20GA%20MAHORO_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4656,
+    "title" : "TIỆM BÁ NGHỆ TADA TRƯỚC GA MAHORO 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tie-m-ba-nghe-tada-truo-c-ga-mahoro-05/TI%E1%BB%86M%20B%C3%81%20NGH%E1%BB%86%20TADA%20TR%C6%AF%E1%BB%9AC%20GA%20MAHORO_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4369,
+    "title" : "TIỆM BÁ NGHỆ TADA TRƯỚC GA MAHORO 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tie-m-ba-nghe-tada-truo-c-ga-mahoro-05/TI%E1%BB%86M%20B%C3%81%20NGH%E1%BB%86%20TADA%20TR%C6%AF%E1%BB%9AC%20GA%20MAHORO_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4639,
+    "title" : "TIỆM BÁ NGHỆ TADA TRƯỚC GA MAHORO 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tie-m-ba-nghe-tada-truo-c-ga-mahoro-05/TI%E1%BB%86M%20B%C3%81%20NGH%E1%BB%86%20TADA%20TR%C6%AF%E1%BB%9AC%20GA%20MAHORO_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4709,
+    "title" : "TIỆM BÁ NGHỆ TADA TRƯỚC GA MAHORO 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tie-m-ba-nghe-tada-truo-c-ga-mahoro-05/TI%E1%BB%86M%20B%C3%81%20NGH%E1%BB%86%20TADA%20TR%C6%AF%E1%BB%9AC%20GA%20MAHORO_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4984,
+    "title" : "TIỆM BÁ NGHỆ TADA TRƯỚC GA MAHORO 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tie-m-ba-nghe-tada-truo-c-ga-mahoro-05/TI%E1%BB%86M%20B%C3%81%20NGH%E1%BB%86%20TADA%20TR%C6%AF%E1%BB%9AC%20GA%20MAHORO_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8400,
+    "title" : "TIỆM BÁ NGHỆ TADA TRƯỚC GA MAHORO 06",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tie-m-ba-nghe-tada-truo-c-ga-mahoro-05/TI%E1%BB%86M%20B%C3%81%20NGH%E1%BB%86%20TADA%20TR%C6%AF%E1%BB%9AC%20GA%20MAHORO_01.mp3",
+    "title" : "TIỆM BÁ NGHỆ TADA TRƯỚC GA MAHORO 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tie-m-ba-nghe-tada-truo-c-ga-mahoro-05/TI%E1%BB%86M%20B%C3%81%20NGH%E1%BB%86%20TADA%20TR%C6%AF%E1%BB%9AC%20GA%20MAHORO_02.mp3",
+    "title" : "TIỆM BÁ NGHỆ TADA TRƯỚC GA MAHORO 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tie-m-ba-nghe-tada-truo-c-ga-mahoro-05/TI%E1%BB%86M%20B%C3%81%20NGH%E1%BB%86%20TADA%20TR%C6%AF%E1%BB%9AC%20GA%20MAHORO_03.mp3",
+    "title" : "TIỆM BÁ NGHỆ TADA TRƯỚC GA MAHORO 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tie-m-ba-nghe-tada-truo-c-ga-mahoro-05/TI%E1%BB%86M%20B%C3%81%20NGH%E1%BB%86%20TADA%20TR%C6%AF%E1%BB%9AC%20GA%20MAHORO_04.mp3",
+    "title" : "TIỆM BÁ NGHỆ TADA TRƯỚC GA MAHORO 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tie-m-ba-nghe-tada-truo-c-ga-mahoro-05/TI%E1%BB%86M%20B%C3%81%20NGH%E1%BB%86%20TADA%20TR%C6%AF%E1%BB%9AC%20GA%20MAHORO_05.mp3",
+    "title" : "TIỆM BÁ NGHỆ TADA TRƯỚC GA MAHORO 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tie-m-ba-nghe-tada-truo-c-ga-mahoro-05/TI%E1%BB%86M%20B%C3%81%20NGH%E1%BB%86%20TADA%20TR%C6%AF%E1%BB%9AC%20GA%20MAHORO_06.mp3",
+    "title" : "TIỆM BÁ NGHỆ TADA TRƯỚC GA MAHORO 06",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bao-vuong-liet-phi_15784.html",
+    "title" : "Bạo Vương Liệt Phi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngạn Thiến",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 66737,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_13bc325880e6b2d74627794900962f67.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_13bc325880e6b2d74627794900962f67.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7334,
+    "title" : "BẠO VƯƠNG LIỆT PHI (phần 1) | Ngôn tình cổ đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7104,
+    "title" : "BẠO VƯƠNG LIỆT PHI (phần 2) | Ngôn tình cổ đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6942,
+    "title" : "BẠO VƯƠNG LIỆT PHI (phần 3) | Ngôn tình cổ đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8015,
+    "title" : "BẠO VƯƠNG LIỆT PHI (phần 4) | Ngôn tình cổ đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7139,
+    "title" : "BẠO VƯƠNG LIỆT PHI (phần 5) | Ngôn tình cổ đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7520,
+    "title" : "BẠO VƯƠNG LIỆT PHI (phần 6) | Ngôn tình cổ đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6815,
+    "title" : "BẠO VƯƠNG LIỆT PHI (phần 7) | Ngôn tình cổ đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7699,
+    "title" : "BẠO VƯƠNG LIỆT PHI (phần 8) | Ngôn tình cổ đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8169,
+    "title" : "phần cuối) | Ngôn tình cổ đại",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/1.mp3",
+    "title" : "BẠO VƯƠNG LIỆT PHI (phần 1) | Ngôn tình cổ đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/2.mp3",
+    "title" : "BẠO VƯƠNG LIỆT PHI (phần 2) | Ngôn tình cổ đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/3.mp3",
+    "title" : "BẠO VƯƠNG LIỆT PHI (phần 3) | Ngôn tình cổ đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/4.mp3",
+    "title" : "BẠO VƯƠNG LIỆT PHI (phần 4) | Ngôn tình cổ đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/5.mp3",
+    "title" : "BẠO VƯƠNG LIỆT PHI (phần 5) | Ngôn tình cổ đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/6.mp3",
+    "title" : "BẠO VƯƠNG LIỆT PHI (phần 6) | Ngôn tình cổ đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/7.mp3",
+    "title" : "BẠO VƯƠNG LIỆT PHI (phần 7) | Ngôn tình cổ đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/8.mp3",
+    "title" : "BẠO VƯƠNG LIỆT PHI (phần 8) | Ngôn tình cổ đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-vuong-liet-phi/9.mp3",
+    "title" : "phần cuối) | Ngôn tình cổ đại",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

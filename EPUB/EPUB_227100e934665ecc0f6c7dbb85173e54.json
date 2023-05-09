@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/sang-chan-tam-ly-hieu-de-chua-lanh_19639.html",
+    "title" : "Sang Chấn Tâm Lý - Hiểu Để Chữa Lành",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bessel Van Der Kolk",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 50416,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_227100e934665ecc0f6c7dbb85173e54.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_227100e934665ecc0f6c7dbb85173e54.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sang-chan-1/sang-chan-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7210,
+    "title" : "sang-chan-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sang-chan-1/sang-chan-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7210,
+    "title" : "sang-chan-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sang-chan-1/sang-chan-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7210,
+    "title" : "sang-chan-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sang-chan-1/sang-chan-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7210,
+    "title" : "sang-chan-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sang-chan-1/sang-chan-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7210,
+    "title" : "sang-chan-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sang-chan-1/sang-chan-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7210,
+    "title" : "sang-chan-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sang-chan-1/sang-chan-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7156,
+    "title" : "sang-chan-7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sang-chan-1/sang-chan-1.mp3",
+    "title" : "sang-chan-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sang-chan-1/sang-chan-2.mp3",
+    "title" : "sang-chan-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sang-chan-1/sang-chan-3.mp3",
+    "title" : "sang-chan-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sang-chan-1/sang-chan-4.mp3",
+    "title" : "sang-chan-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sang-chan-1/sang-chan-5.mp3",
+    "title" : "sang-chan-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sang-chan-1/sang-chan-6.mp3",
+    "title" : "sang-chan-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sang-chan-1/sang-chan-7.mp3",
+    "title" : "sang-chan-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

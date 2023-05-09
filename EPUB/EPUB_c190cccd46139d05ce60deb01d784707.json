@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-vo-mat-tich_15627.html",
+    "title" : "Người Vợ Mất Tích",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Hải Thuỷ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 22937,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_c190cccd46139d05ce60deb01d784707.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_c190cccd46139d05ce60deb01d784707.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-vo-mat-tich/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3846,
+    "title" : "Tập 01- Tiểu thuyết tâm lý và Trinh thám cực hay @Mc Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-vo-mat-tich/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3931,
+    "title" : "Tập 02 - Tiểu thuyết tâm lý và Trinh thám rất hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-vo-mat-tich/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4194,
+    "title" : "Tập 03 - Tiểu thuyết tâm lý và Trinh thám rất hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-vo-mat-tich/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4068,
+    "title" : "Tập 04 - Nhà Nghỉ Mỹ Ngọc Cung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-vo-mat-tich/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2477,
+    "title" : "Tập 05 - Cuộc hẹn định mệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-vo-mat-tich/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2530,
+    "title" : "Tập 06 - Đòi tiền chuộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-vo-mat-tich/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1891,
+    "title" : "Tập 07 (HẾT) - Kết thúc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-vo-mat-tich/1.mp3",
+    "title" : "Tập 01- Tiểu thuyết tâm lý và Trinh thám cực hay @Mc Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-vo-mat-tich/2.mp3",
+    "title" : "Tập 02 - Tiểu thuyết tâm lý và Trinh thám rất hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-vo-mat-tich/3.mp3",
+    "title" : "Tập 03 - Tiểu thuyết tâm lý và Trinh thám rất hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-vo-mat-tich/4.mp3",
+    "title" : "Tập 04 - Nhà Nghỉ Mỹ Ngọc Cung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-vo-mat-tich/5.mp3",
+    "title" : "Tập 05 - Cuộc hẹn định mệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-vo-mat-tich/6.mp3",
+    "title" : "Tập 06 - Đòi tiền chuộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-vo-mat-tich/7.mp3",
+    "title" : "Tập 07 (HẾT) - Kết thúc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

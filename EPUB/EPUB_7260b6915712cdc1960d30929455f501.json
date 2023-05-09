@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dieu-ru-nuoc-mat_12169.html",
+    "title" : "Điệu Ru Nước Mắt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Duyên Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 34554,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_7260b6915712cdc1960d30929455f501.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_7260b6915712cdc1960d30929455f501.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3967,
+    "title" : "Tập 01 - Tiểu thuyết trinh thám tuyệt hay do MC Đình Duy Diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5129,
+    "title" : "Tập 10 (Kết Thúc) - MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3235,
+    "title" : "Tập 02 - Tiểu thuyết trinh thám tuyệt hay do MC Đình Duy Diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2894,
+    "title" : "Tập 03 - Tiểu thuyết trinh thám tuyệt hay do MC Đình Duy Diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3783,
+    "title" : "Tập 04 - Tiểu thuyết trinh thám tuyệt hay do MC Đình Duy Diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3084,
+    "title" : "Tập 05 - MC Đình Duy Diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2937,
+    "title" : "Tập 06 - Tiểu thuyết trinh thám tuyệt hay do MC Đình Duy Diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3426,
+    "title" : "Tập 07 - Tiểu thuyết trinh thám tuyệt hay do MC Đình Duy Diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3285,
+    "title" : "Tập 08 - MC Đình Duy Diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2814,
+    "title" : "Tập 09 - MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/1.mp3",
+    "title" : "Tập 01 - Tiểu thuyết trinh thám tuyệt hay do MC Đình Duy Diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/10.mp3",
+    "title" : "Tập 10 (Kết Thúc) - MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/2.mp3",
+    "title" : "Tập 02 - Tiểu thuyết trinh thám tuyệt hay do MC Đình Duy Diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/3.mp3",
+    "title" : "Tập 03 - Tiểu thuyết trinh thám tuyệt hay do MC Đình Duy Diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/4.mp3",
+    "title" : "Tập 04 - Tiểu thuyết trinh thám tuyệt hay do MC Đình Duy Diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/5.mp3",
+    "title" : "Tập 05 - MC Đình Duy Diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/6.mp3",
+    "title" : "Tập 06 - Tiểu thuyết trinh thám tuyệt hay do MC Đình Duy Diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/7.mp3",
+    "title" : "Tập 07 - Tiểu thuyết trinh thám tuyệt hay do MC Đình Duy Diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/8.mp3",
+    "title" : "Tập 08 - MC Đình Duy Diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-ru-nuoc-mat/9.mp3",
+    "title" : "Tập 09 - MC Đình Duy diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

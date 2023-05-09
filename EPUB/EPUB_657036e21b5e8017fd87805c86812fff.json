@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuyet-hoa-va-cay-quat-bi-mat_13694.html",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lisa See",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 53767,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_657036e21b5e8017fd87805c86812fff.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_657036e21b5e8017fd87805c86812fff.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2350,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2131,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (10)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2317,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (11)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2281,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (12)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2048,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (13)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2013,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (14)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1909,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (15)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1909,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (16)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2188,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (17)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2242,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (18)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2555,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (19)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2057,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2155,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (20)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2195,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (21)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3182,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (22)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2017,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (23)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2254,
+    "title" : "End",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2380,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2705,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2359,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2399,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2069,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (7)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1945,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (8)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2107,
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (9)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/1.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/10.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (10)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/11.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (11)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/12.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (12)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/13.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (13)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/14.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (14)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/15.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (15)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/16.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (16)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/17.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (17)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/18.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (18)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/19.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (19)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/2.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/20.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (20)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/21.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (21)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/22.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (22)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/23.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (23)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/24.mp3",
+    "title" : "End",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/3.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/4.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/5.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/6.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/7.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/8.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (8)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-hoa-va-cay-quat-bi-mat/9.mp3",
+    "title" : "Tuyết Hoa Và Cây Quạt Bí Mật (9)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dieu-vi-dai-doi-thuong_5252.html",
+    "title" : "Điều Vĩ Đại Đời Thường",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robin Sharma",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 21924,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_5e3cebcde5520209814894f0b2c26976.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_5e3cebcde5520209814894f0b2c26976.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/1.DVDDT_GioiThieuC01-C05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1499,
+    "title" : "1.DVDDT GioiThieuC01-C05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/10.DVDDT_C69-C76_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1575,
+    "title" : "10.DVDDT C69-C76 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/11.DVDDT_C77-C84_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1601,
+    "title" : "11.DVDDT C77-C84 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/12.DVDDT_C85-C92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1482,
+    "title" : "12.DVDDT C85-C92",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/13.DVDDT_C93-C101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1502,
+    "title" : "13.DVDDT C93-C101",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/2.DVDDT_C06-C13_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1815,
+    "title" : "2.DVDDT C06-C13 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/3.DVDDT_C14-C20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1527,
+    "title" : "3.DVDDT C14-C20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/4.DVDDT_C21-C28_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1997,
+    "title" : "4.DVDDT C21-C28 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/5.DVDDT_C29-C36_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1905,
+    "title" : "5.DVDDT C29-C36 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/6.DVDDT_C37-C44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1904,
+    "title" : "6.DVDDT C37-C44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/7.DVDDT_C45-C52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1759,
+    "title" : "7.DVDDT C45-C52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/8.DVDDT_C53-C60_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1605,
+    "title" : "8.DVDDT C53-C60 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/9.DVDDT_C61-C68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1753,
+    "title" : "9.DVDDT C61-C68",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/1.DVDDT_GioiThieuC01-C05.mp3",
+    "title" : "1.DVDDT GioiThieuC01-C05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/10.DVDDT_C69-C76_Chuan.mp3",
+    "title" : "10.DVDDT C69-C76 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/11.DVDDT_C77-C84_Chuan.mp3",
+    "title" : "11.DVDDT C77-C84 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/12.DVDDT_C85-C92.mp3",
+    "title" : "12.DVDDT C85-C92",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/13.DVDDT_C93-C101.mp3",
+    "title" : "13.DVDDT C93-C101",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/2.DVDDT_C06-C13_Chuan.mp3",
+    "title" : "2.DVDDT C06-C13 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/3.DVDDT_C14-C20.mp3",
+    "title" : "3.DVDDT C14-C20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/4.DVDDT_C21-C28_Chuan.mp3",
+    "title" : "4.DVDDT C21-C28 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/5.DVDDT_C29-C36_Chuan.mp3",
+    "title" : "5.DVDDT C29-C36 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/6.DVDDT_C37-C44.mp3",
+    "title" : "6.DVDDT C37-C44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/7.DVDDT_C45-C52.mp3",
+    "title" : "7.DVDDT C45-C52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/8.DVDDT_C53-C60_Chuan.mp3",
+    "title" : "8.DVDDT C53-C60 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-vi-dai-doi-thuong.sna/9.DVDDT_C61-C68.mp3",
+    "title" : "9.DVDDT C61-C68",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

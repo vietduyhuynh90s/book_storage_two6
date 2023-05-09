@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cac-nen-van-minh-nhan-loai_12922.html",
+    "title" : "Các Nền Văn Minh Nhân Loại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "BBC World Service Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 17329,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_8b623985020f04d3d45c99a49f5237ea.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_8b623985020f04d3d45c99a49f5237ea.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1224,
+    "title" : "Nền Văn Minh Nhân Loại BBC - 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1241,
+    "title" : "Nền Văn Minh Nhân Loại BBC - 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1212,
+    "title" : "Nền Văn Minh Nhân Loại BBC - 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1217,
+    "title" : "Nền Văn Minh Nhân Loại BBC - 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1234,
+    "title" : "Nền Văn Minh Nhân Loại BBC - 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1234,
+    "title" : "Nền Văn Minh Nhân Loại BBC - 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1208,
+    "title" : "Nền Văn Minh Nhân Loại BBC - 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1225,
+    "title" : "Nền Văn Minh Nhân Loại BBC - 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1200,
+    "title" : "Nền Văn Minh Nhân Loại BBC - 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1221,
+    "title" : "Nền Văn Minh Nhân Loại BBC - 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1341,
+    "title" : "Nền Văn Minh Nhân Loại BBC - 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1340,
+    "title" : "Nền Văn Minh Nhân Loại BBC - 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1192,
+    "title" : "Nền Văn Minh Nhân Loại BBC - 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1240,
+    "title" : "Nền Văn Minh Nhân Loại BBC - 09",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/1.mp3",
+    "title" : "Nền Văn Minh Nhân Loại BBC - 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/10.mp3",
+    "title" : "Nền Văn Minh Nhân Loại BBC - 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/11.mp3",
+    "title" : "Nền Văn Minh Nhân Loại BBC - 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/12.mp3",
+    "title" : "Nền Văn Minh Nhân Loại BBC - 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/13.mp3",
+    "title" : "Nền Văn Minh Nhân Loại BBC - 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/14.mp3",
+    "title" : "Nền Văn Minh Nhân Loại BBC - 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/2.mp3",
+    "title" : "Nền Văn Minh Nhân Loại BBC - 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/3.mp3",
+    "title" : "Nền Văn Minh Nhân Loại BBC - 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/4.mp3",
+    "title" : "Nền Văn Minh Nhân Loại BBC - 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/5.mp3",
+    "title" : "Nền Văn Minh Nhân Loại BBC - 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/6.mp3",
+    "title" : "Nền Văn Minh Nhân Loại BBC - 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/7.mp3",
+    "title" : "Nền Văn Minh Nhân Loại BBC - 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/8.mp3",
+    "title" : "Nền Văn Minh Nhân Loại BBC - 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-van-minh-nhan-loai/9.mp3",
+    "title" : "Nền Văn Minh Nhân Loại BBC - 09",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mau-don-cua-hac-bao-dien-tam_11576.html",
+    "title" : "Mẫu Đơn Của Hắc Báo - Điển Tâm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Điển Tâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 22879,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_36e529b2d29083bcca638f1e6208975f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_36e529b2d29083bcca638f1e6208975f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/becungcuatrumhacdao/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10645,
+    "title" : "Bé Cưng Của Trùm Hắc Đạo | Truyện ngôn tình hắc bang hay nhất Mẫu đơn của hắc báo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/becungcuatrumhacdao/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12234,
+    "title" : "[Phần Cuối] Mẫu Đơn Của Hắc Báo | Truyện ngôn tình hay về Bé Cưng Của Trùm Hắc Đạo",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/becungcuatrumhacdao/1.mp3",
+    "title" : "Bé Cưng Của Trùm Hắc Đạo | Truyện ngôn tình hắc bang hay nhất Mẫu đơn của hắc báo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/becungcuatrumhacdao/2.mp3",
+    "title" : "[Phần Cuối] Mẫu Đơn Của Hắc Báo | Truyện ngôn tình hay về Bé Cưng Của Trùm Hắc Đạo",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
