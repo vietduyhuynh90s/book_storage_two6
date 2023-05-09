@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cay-cam-ngot-cua-toi_20262.html",
+    "title" : "Cây Cam Ngọt Của Tôi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "José Mauro de Vasconcelos",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 17986,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_cb9d3ff533aa129146e0d7a3fdc3c6a4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_cb9d3ff533aa129146e0d7a3fdc3c6a4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1808,
+    "title" : "cay-cam-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1792,
+    "title" : "cay-cam-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1785,
+    "title" : "cay-cam-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1806,
+    "title" : "cay-cam-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1798,
+    "title" : "cay-cam-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1810,
+    "title" : "cay-cam-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1791,
+    "title" : "cay-cam-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1801,
+    "title" : "cay-cam-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1804,
+    "title" : "cay-cam-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1791,
+    "title" : "cay-cam-10",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-01.mp3",
+    "title" : "cay-cam-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-02.mp3",
+    "title" : "cay-cam-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-03.mp3",
+    "title" : "cay-cam-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-04.mp3",
+    "title" : "cay-cam-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-05.mp3",
+    "title" : "cay-cam-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-06.mp3",
+    "title" : "cay-cam-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-07.mp3",
+    "title" : "cay-cam-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-08.mp3",
+    "title" : "cay-cam-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-09.mp3",
+    "title" : "cay-cam-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-10.mp3",
+    "title" : "cay-cam-10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
