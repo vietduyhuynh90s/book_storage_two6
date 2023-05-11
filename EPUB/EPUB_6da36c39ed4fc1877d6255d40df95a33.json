@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/de-yen-cho-bac-si-hien_20303.html",
+    "title" : "Để Yên Cho Bác Sĩ 'Hiền'",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngô Đức Hùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-11",
+    "duration" : 21635,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_6da36c39ed4fc1877d6255d40df95a33.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_6da36c39ed4fc1877d6255d40df95a33.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1785,
+    "title" : "de-yen-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1799,
+    "title" : "de-yen-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1774,
+    "title" : "de-yen-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1799,
+    "title" : "de-yen-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1802,
+    "title" : "de-yen-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1801,
+    "title" : "de-yen-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1825,
+    "title" : "de-yen-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1790,
+    "title" : "de-yen-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1807,
+    "title" : "de-yen-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1798,
+    "title" : "de-yen-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1826,
+    "title" : "de-yen-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1829,
+    "title" : "de-yen-12",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-01.mp3",
+    "title" : "de-yen-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-02.mp3",
+    "title" : "de-yen-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-03.mp3",
+    "title" : "de-yen-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-04.mp3",
+    "title" : "de-yen-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-05.mp3",
+    "title" : "de-yen-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-06.mp3",
+    "title" : "de-yen-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-07.mp3",
+    "title" : "de-yen-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-08.mp3",
+    "title" : "de-yen-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-09.mp3",
+    "title" : "de-yen-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-10.mp3",
+    "title" : "de-yen-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-11.mp3",
+    "title" : "de-yen-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-yen-12/de-yen-12.mp3",
+    "title" : "de-yen-12",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
