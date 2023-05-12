@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/huyen-tran-cong-chua_17504.html",
+    "title" : "Huyền Trân Công Chúa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Quốc Hải",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 32340,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_a4a97153ff8e79d28b68a50d259554eb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_a4a97153ff8e79d28b68a50d259554eb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3196,
+    "title" : "Huyền Trân Công Chúa 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3086,
+    "title" : "Huyền Trân Công Chúa 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3238,
+    "title" : "Huyền Trân Công Chúa 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3449,
+    "title" : "Huyền Trân Công Chúa 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3119,
+    "title" : "Huyền Trân Công Chúa 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2754,
+    "title" : "Huyền Trân Công Chúa 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3411,
+    "title" : "Huyền Trân Công Chúa 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3399,
+    "title" : "Huyền Trân Công Chúa 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3411,
+    "title" : "Huyền Trân Công Chúa 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3277,
+    "title" : "Huyền Trân Công Chúa 10",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2001.mp3",
+    "title" : "Huyền Trân Công Chúa 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2002.mp3",
+    "title" : "Huyền Trân Công Chúa 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2003.mp3",
+    "title" : "Huyền Trân Công Chúa 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2004.mp3",
+    "title" : "Huyền Trân Công Chúa 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2005.mp3",
+    "title" : "Huyền Trân Công Chúa 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2006.mp3",
+    "title" : "Huyền Trân Công Chúa 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2007.mp3",
+    "title" : "Huyền Trân Công Chúa 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2008.mp3",
+    "title" : "Huyền Trân Công Chúa 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2009.mp3",
+    "title" : "Huyền Trân Công Chúa 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyentrancongchua-sachnoi/HUYEN%20TRAN%20CONG%20CHUA%2010.mp3",
+    "title" : "Huyền Trân Công Chúa 10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

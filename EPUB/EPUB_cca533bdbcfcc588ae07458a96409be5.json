@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hanh-phuc-la-dieu-co-that_20209.html",
+    "title" : "Hạnh Phúc Là Điều Có Thật",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyên Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 14520,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_cca533bdbcfcc588ae07458a96409be5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_cca533bdbcfcc588ae07458a96409be5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hanh-phuc-la-dieu-co-that/01_Thay-Loi-Tua-%26-Thoi-Gian-La-Von-Quy.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2116,
+    "title" : "01_Thay-Loi-Tua-&-Thoi-Gian-La-Von-Quy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-la-dieu-co-that/02_Cuoc-Song-Chinh-La-Hien-Tai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2077,
+    "title" : "02_Cuoc-Song-Chinh-La-Hien-Tai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-la-dieu-co-that/03_Buoc-Di-Khong-Can-Noi-Den.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1662,
+    "title" : "03_Buoc-Di-Khong-Can-Noi-Den",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-la-dieu-co-that/04_Net-Dep-Trong-Cuoc-Song.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2324,
+    "title" : "04_Net-Dep-Trong-Cuoc-Song",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-la-dieu-co-that/05_Khong-Con-So-Hai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1376,
+    "title" : "05_Khong-Con-So-Hai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-la-dieu-co-that/06_Tinh-Cam-Chan-That-Va-Su-Hieu-Biet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1459,
+    "title" : "06_Tinh-Cam-Chan-That-Va-Su-Hieu-Biet",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-la-dieu-co-that/07_Doi-Dien-Kho-Dau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1611,
+    "title" : "07_Doi-Dien-Kho-Dau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-la-dieu-co-that/08_Nguoi-Giau-Cung-Kho_Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1895,
+    "title" : "08_Nguoi-Giau-Cung-Kho_Het",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hanh-phuc-la-dieu-co-that/01_Thay-Loi-Tua-%26-Thoi-Gian-La-Von-Quy.mp3",
+    "title" : "01_Thay-Loi-Tua-&-Thoi-Gian-La-Von-Quy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-la-dieu-co-that/02_Cuoc-Song-Chinh-La-Hien-Tai.mp3",
+    "title" : "02_Cuoc-Song-Chinh-La-Hien-Tai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-la-dieu-co-that/03_Buoc-Di-Khong-Can-Noi-Den.mp3",
+    "title" : "03_Buoc-Di-Khong-Can-Noi-Den",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-la-dieu-co-that/04_Net-Dep-Trong-Cuoc-Song.mp3",
+    "title" : "04_Net-Dep-Trong-Cuoc-Song",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-la-dieu-co-that/05_Khong-Con-So-Hai.mp3",
+    "title" : "05_Khong-Con-So-Hai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-la-dieu-co-that/06_Tinh-Cam-Chan-That-Va-Su-Hieu-Biet.mp3",
+    "title" : "06_Tinh-Cam-Chan-That-Va-Su-Hieu-Biet",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-la-dieu-co-that/07_Doi-Dien-Kho-Dau.mp3",
+    "title" : "07_Doi-Dien-Kho-Dau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-la-dieu-co-that/08_Nguoi-Giau-Cung-Kho_Het.mp3",
+    "title" : "08_Nguoi-Giau-Cung-Kho_Het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

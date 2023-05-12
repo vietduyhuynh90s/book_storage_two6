@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/an-mang-bach-tuyet_19039.html",
+    "title" : "Án Mạng Bạch Tuyết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minato Kanae",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 9209,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_1937707d17bf9d785b044043503473f3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_1937707d17bf9d785b044043503473f3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lachoncoc.com-an-mang-bach-tuyet-01/%28lachoncoc.com%29%20%C3%81n%20M%E1%BA%A1ng%20B%E1%BA%A1ch%20Tuy%E1%BA%BFt_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2881,
+    "title" : "(lachoncoc.com) Án Mạng Bạch Tuyết 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-an-mang-bach-tuyet-01/%28lachoncoc.com%29%20%C3%81n%20M%E1%BA%A1ng%20B%E1%BA%A1ch%20Tuy%E1%BA%BFt_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1893,
+    "title" : "(lachoncoc.com) Án Mạng Bạch Tuyết 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-an-mang-bach-tuyet-01/%28lachoncoc.com%29%20%C3%81n%20M%E1%BA%A1ng%20B%E1%BA%A1ch%20Tuy%E1%BA%BFt_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1155,
+    "title" : "(lachoncoc.com) Án Mạng Bạch Tuyết 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-an-mang-bach-tuyet-01/%28lachoncoc.com%29%20%C3%81n%20M%E1%BA%A1ng%20B%E1%BA%A1ch%20Tuy%E1%BA%BFt_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1251,
+    "title" : "(lachoncoc.com) Án Mạng Bạch Tuyết 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-an-mang-bach-tuyet-01/%28lachoncoc.com%29%20%C3%81n%20M%E1%BA%A1ng%20B%E1%BA%A1ch%20Tuy%E1%BA%BFt_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2029,
+    "title" : "(lachoncoc.com) Án Mạng Bạch Tuyết 05",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lachoncoc.com-an-mang-bach-tuyet-01/%28lachoncoc.com%29%20%C3%81n%20M%E1%BA%A1ng%20B%E1%BA%A1ch%20Tuy%E1%BA%BFt_01.mp3",
+    "title" : "(lachoncoc.com) Án Mạng Bạch Tuyết 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-an-mang-bach-tuyet-01/%28lachoncoc.com%29%20%C3%81n%20M%E1%BA%A1ng%20B%E1%BA%A1ch%20Tuy%E1%BA%BFt_02.mp3",
+    "title" : "(lachoncoc.com) Án Mạng Bạch Tuyết 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-an-mang-bach-tuyet-01/%28lachoncoc.com%29%20%C3%81n%20M%E1%BA%A1ng%20B%E1%BA%A1ch%20Tuy%E1%BA%BFt_03.mp3",
+    "title" : "(lachoncoc.com) Án Mạng Bạch Tuyết 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-an-mang-bach-tuyet-01/%28lachoncoc.com%29%20%C3%81n%20M%E1%BA%A1ng%20B%E1%BA%A1ch%20Tuy%E1%BA%BFt_04.mp3",
+    "title" : "(lachoncoc.com) Án Mạng Bạch Tuyết 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-an-mang-bach-tuyet-01/%28lachoncoc.com%29%20%C3%81n%20M%E1%BA%A1ng%20B%E1%BA%A1ch%20Tuy%E1%BA%BFt_05.mp3",
+    "title" : "(lachoncoc.com) Án Mạng Bạch Tuyết 05",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

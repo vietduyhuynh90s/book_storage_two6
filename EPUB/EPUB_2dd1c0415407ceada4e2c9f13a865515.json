@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tin-vao-ngay-mai_16927.html",
+    "title" : "Tin Vào Ngày Mai",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 6805,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_2dd1c0415407ceada4e2c9f13a865515.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_2dd1c0415407ceada4e2c9f13a865515.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 198,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/02-binh_yen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 225,
+    "title" : "“Bình yên” đựng trong chai “joy”?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/03-chon_lua_thai_do_song.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 426,
+    "title" : "Chọn lựa thái độ sống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/04-buoc_chan_trai_len_truoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 405,
+    "title" : "Bước chân trái lên trước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/05-harriet_tubman.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 578,
+    "title" : "Harriet Tubman: Trận chiến khác lạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/06-khoang_thoi_gian_bat_tan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 197,
+    "title" : "Khoảng thời gian bất tận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/07-mon_qua_cua_ngoai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 486,
+    "title" : "Món quà của ngoại Nonno Peppe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/08-ca_fe_cua_labib.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 214,
+    "title" : "Cà phê của Lalib",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/09-mua_ao_khoac_moi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 298,
+    "title" : "Mua áo khoác mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/10-noi_an_toan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 532,
+    "title" : "Nơi an toàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/11-noi_nghi_duong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 381,
+    "title" : "Nơi nghỉ dưỡng cho trái tim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/12-can_than_voi_nhung_gi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 484,
+    "title" : "Cẩn thận với những gì bạn dạy học trò",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/13-su_bien_doi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 517,
+    "title" : "Sự biến đổi của đầu gấu phòng số 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/14-su_that_nhay_cam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 679,
+    "title" : "Sự thật ở thời kỳ nhạy cảm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/15-nhung_ga_khong_lo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 504,
+    "title" : "Những gã khổng lồ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/16-tuyet_thang_muoi_hai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 681,
+    "title" : "Tuyết tháng Mười Hai",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/01-loi_gioi_thieu.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/02-binh_yen.mp3",
+    "title" : "“Bình yên” đựng trong chai “joy”?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/03-chon_lua_thai_do_song.mp3",
+    "title" : "Chọn lựa thái độ sống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/04-buoc_chan_trai_len_truoc.mp3",
+    "title" : "Bước chân trái lên trước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/05-harriet_tubman.mp3",
+    "title" : "Harriet Tubman: Trận chiến khác lạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/06-khoang_thoi_gian_bat_tan.mp3",
+    "title" : "Khoảng thời gian bất tận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/07-mon_qua_cua_ngoai.mp3",
+    "title" : "Món quà của ngoại Nonno Peppe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/08-ca_fe_cua_labib.mp3",
+    "title" : "Cà phê của Lalib",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/09-mua_ao_khoac_moi.mp3",
+    "title" : "Mua áo khoác mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/10-noi_an_toan.mp3",
+    "title" : "Nơi an toàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/11-noi_nghi_duong.mp3",
+    "title" : "Nơi nghỉ dưỡng cho trái tim",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/12-can_than_voi_nhung_gi.mp3",
+    "title" : "Cẩn thận với những gì bạn dạy học trò",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/13-su_bien_doi.mp3",
+    "title" : "Sự biến đổi của đầu gấu phòng số 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/14-su_that_nhay_cam.mp3",
+    "title" : "Sự thật ở thời kỳ nhạy cảm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/15-nhung_ga_khong_lo.mp3",
+    "title" : "Những gã khổng lồ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss19-tinVaoNgayMai/16-tuyet_thang_muoi_hai.mp3",
+    "title" : "Tuyết tháng Mười Hai",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

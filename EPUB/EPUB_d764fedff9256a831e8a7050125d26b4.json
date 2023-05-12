@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ke-nhin-trom-tan-minh_9172.html",
+    "title" : "Kẻ Nhìn Trộm - Tần Minh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tần Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 7526,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_d764fedff9256a831e8a7050125d26b4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_d764fedff9256a831e8a7050125d26b4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/02VuAnThuNhat/01_Loi%20tua%20%2B%20Phan%20mo%20dau%20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1244,
+    "title" : "01 Loi tua + Phan mo dau ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/02VuAnThuNhat/02_Vu%20an%20thu%20nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3150,
+    "title" : "02 Vu an thu nhat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/02VuAnThuNhat/03_Vu%20an%20thu%20nhatP2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3132,
+    "title" : "03 Vu an thu nhatP2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/02VuAnThuNhat/01_Loi%20tua%20%2B%20Phan%20mo%20dau%20.mp3",
+    "title" : "01 Loi tua + Phan mo dau ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/02VuAnThuNhat/02_Vu%20an%20thu%20nhat.mp3",
+    "title" : "02 Vu an thu nhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/02VuAnThuNhat/03_Vu%20an%20thu%20nhatP2.mp3",
+    "title" : "03 Vu an thu nhatP2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tien-gia_18534.html",
+    "title" : "Tiên Giả",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vong Ngữ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 68229,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_d326d2f5d92eaf3ba7b8dad794ee1f38.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_d326d2f5d92eaf3ba7b8dad794ee1f38.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3236,
+    "title" : "tien-gia-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2236,
+    "title" : "tien-gia-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2377,
+    "title" : "tien-gia-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2489,
+    "title" : "tien-gia-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2559,
+    "title" : "tien-gia-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2415,
+    "title" : "tien-gia-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3159,
+    "title" : "tien-gia-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3186,
+    "title" : "tien-gia-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3242,
+    "title" : "tien-gia-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2506,
+    "title" : "tien-gia-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2530,
+    "title" : "tien-gia-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "tien-gia-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3279,
+    "title" : "tien-gia-tap-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3287,
+    "title" : "tien-gia-tap-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3311,
+    "title" : "tien-gia-tap-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3196,
+    "title" : "tien-gia-tap-23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4092,
+    "title" : "tien-gia-tap-24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "tien-gia-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3271,
+    "title" : "tien-gia-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3638,
+    "title" : "tien-gia-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3339,
+    "title" : "tien-gia-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1585,
+    "title" : "tien-gia-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1624,
+    "title" : "tien-gia-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1561,
+    "title" : "tien-gia-tap-9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-1.mp3",
+    "title" : "tien-gia-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-10.mp3",
+    "title" : "tien-gia-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-11.mp3",
+    "title" : "tien-gia-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-12.mp3",
+    "title" : "tien-gia-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-13.mp3",
+    "title" : "tien-gia-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-14.mp3",
+    "title" : "tien-gia-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-15.mp3",
+    "title" : "tien-gia-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-16.mp3",
+    "title" : "tien-gia-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-17.mp3",
+    "title" : "tien-gia-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-18.mp3",
+    "title" : "tien-gia-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-19.mp3",
+    "title" : "tien-gia-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-2.mp3",
+    "title" : "tien-gia-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-20.mp3",
+    "title" : "tien-gia-tap-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-21.mp3",
+    "title" : "tien-gia-tap-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-22.mp3",
+    "title" : "tien-gia-tap-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-23.mp3",
+    "title" : "tien-gia-tap-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-24.mp3",
+    "title" : "tien-gia-tap-24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-3.mp3",
+    "title" : "tien-gia-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-4.mp3",
+    "title" : "tien-gia-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-5.mp3",
+    "title" : "tien-gia-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-6.mp3",
+    "title" : "tien-gia-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-7.mp3",
+    "title" : "tien-gia-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-8.mp3",
+    "title" : "tien-gia-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-gia-full/tien-gia-tap-9.mp3",
+    "title" : "tien-gia-tap-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

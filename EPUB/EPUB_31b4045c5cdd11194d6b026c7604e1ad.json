@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thung-com-sat-vach-tuu-tieu-that_10354.html",
+    "title" : "Thùng Cơm Sát Vách - Tửu Tiểu Thất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tửu Tiểu Thất",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 73222,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_31b4045c5cdd11194d6b026c7604e1ad.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_31b4045c5cdd11194d6b026c7604e1ad.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thung-com-sat-vach/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7841,
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7509,
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P10 ( Hết )",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7146,
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7785,
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6898,
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7004,
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7415,
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7132,
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6550,
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7942,
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thung-com-sat-vach/1.mp3",
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/10.mp3",
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P10 ( Hết )",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/2.mp3",
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/3.mp3",
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/4.mp3",
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/5.mp3",
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/6.mp3",
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/7.mp3",
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/8.mp3",
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thung-com-sat-vach/9.mp3",
+    "title" : "Thùng Cơm Sát Vách – Ngôn tình Oan Gia hài hước – P9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

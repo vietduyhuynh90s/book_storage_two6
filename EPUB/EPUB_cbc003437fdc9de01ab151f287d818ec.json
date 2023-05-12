@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-nha-gia-kim-paulo-coelho-lang-man_2426.html",
+    "title" : "Nhà Giả Kim - Paulo Coelho",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Paulo Coelho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 16147,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_cbc003437fdc9de01ab151f287d818ec.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_cbc003437fdc9de01ab151f287d818ec.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhagiakim_201911/Nh%C3%A0%20Gi%E1%BA%A3%20Kim.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16147,
+    "title" : "Nhà Giả Kim",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhagiakim_201911/Nh%C3%A0%20Gi%E1%BA%A3%20Kim.mp3",
+    "title" : "Nhà Giả Kim",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

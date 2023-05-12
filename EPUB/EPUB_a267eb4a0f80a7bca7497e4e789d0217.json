@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ke-trom-mo-phu-sinh_8059.html",
+    "title" : "Kẻ Trộm Mộ - Phù Sinh.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phù Sinh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 43692,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_a267eb4a0f80a7bca7497e4e789d0217.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_a267eb4a0f80a7bca7497e4e789d0217.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ke_trom_mo/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2512,
+    "title" : "Kẻ Trộm Mộ Phần 1 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2613,
+    "title" : "Kẻ Trộm Mộ Phần 10 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2887,
+    "title" : "Kẻ Trộm Mộ Phần 11 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2751,
+    "title" : "Kẻ Trộm Mộ Phần 12 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2706,
+    "title" : "Kẻ Trộm Mộ Phần 13 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3186,
+    "title" : "Kẻ Trộm Mộ Phần 14 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2306,
+    "title" : "Kẻ Trộm Mộ Phần 15 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3139,
+    "title" : "Kẻ Trộm Mộ Phần 16 Phần Cuối || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2308,
+    "title" : "Kẻ Trộm Mộ Phần 2 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2709,
+    "title" : "Kẻ Trộm Mộ Phần 3 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2742,
+    "title" : "Kẻ Trộm Mộ Phần 4 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2556,
+    "title" : "Kẻ Trộm Mộ Phần 5 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2859,
+    "title" : "Kẻ Trộm Mộ Phần 6 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3060,
+    "title" : "Kẻ Trộm Mộ Phần 7 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2816,
+    "title" : "Kẻ Trộm Mộ Phần 8 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2542,
+    "title" : "Kẻ Trộm Mộ Phần 9 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ke_trom_mo/1.mp3",
+    "title" : "Kẻ Trộm Mộ Phần 1 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/10.mp3",
+    "title" : "Kẻ Trộm Mộ Phần 10 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/11.mp3",
+    "title" : "Kẻ Trộm Mộ Phần 11 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/12.mp3",
+    "title" : "Kẻ Trộm Mộ Phần 12 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/13.mp3",
+    "title" : "Kẻ Trộm Mộ Phần 13 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/14.mp3",
+    "title" : "Kẻ Trộm Mộ Phần 14 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/15.mp3",
+    "title" : "Kẻ Trộm Mộ Phần 15 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/16.mp3",
+    "title" : "Kẻ Trộm Mộ Phần 16 Phần Cuối || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/2.mp3",
+    "title" : "Kẻ Trộm Mộ Phần 2 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/3.mp3",
+    "title" : "Kẻ Trộm Mộ Phần 3 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/4.mp3",
+    "title" : "Kẻ Trộm Mộ Phần 4 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/5.mp3",
+    "title" : "Kẻ Trộm Mộ Phần 5 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/6.mp3",
+    "title" : "Kẻ Trộm Mộ Phần 6 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/7.mp3",
+    "title" : "Kẻ Trộm Mộ Phần 7 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/8.mp3",
+    "title" : "Kẻ Trộm Mộ Phần 8 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke_trom_mo/9.mp3",
+    "title" : "Kẻ Trộm Mộ Phần 9 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

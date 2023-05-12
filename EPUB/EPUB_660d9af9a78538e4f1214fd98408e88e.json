@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/than-va-tam_20250.html",
+    "title" : "Thân Và Tâm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ajahn Chah",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 11213,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_660d9af9a78538e4f1214fd98408e88e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_660d9af9a78538e4f1214fd98408e88e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/than-6/than-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1259,
+    "title" : "01-Than-va-tam_Tinh-tam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-6/than-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1843,
+    "title" : "02-Y-nghia-cua-su-hanh-thien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-6/than-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2060,
+    "title" : "03-Thuc-hanh-phap-luc-can",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-6/than-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2226,
+    "title" : "04-Su-luan-chuyen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-6/than-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1566,
+    "title" : "05-Ngon-tu-vo-nga",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-6/than-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2259,
+    "title" : "06-Khong-tanh-mui-bun",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/than-6/than-1.mp3",
+    "title" : "01-Than-va-tam_Tinh-tam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-6/than-2.mp3",
+    "title" : "02-Y-nghia-cua-su-hanh-thien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-6/than-3.mp3",
+    "title" : "03-Thuc-hanh-phap-luc-can",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-6/than-4.mp3",
+    "title" : "04-Su-luan-chuyen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-6/than-5.mp3",
+    "title" : "05-Ngon-tu-vo-nga",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-6/than-6.mp3",
+    "title" : "06-Khong-tanh-mui-bun",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-trach-thien-ky-mieu-ni-tien-hiep_3624.html",
+    "title" : "Trạch Thiên Ký - Miêu Nị.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Miêu Nị",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 44518,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_0179c5a74cd649a43c705a01190f75de.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_0179c5a74cd649a43c705a01190f75de.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/audiotrachthienky_201706/Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Tr%E1%BA%A1ch%20Thi%C3%AAn%20K%C3%BD%20-%20Mi%C3%AAu%20N%E1%BB%8B%20Ph%E1%BA%A7n%20%281%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9899,
+    "title" : "Audio Tiên Hiệp - Trạch Thiên Ký - Miêu Nị Phần (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiotrachthienky_201706/Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Tr%E1%BA%A1ch%20Thi%C3%AAn%20K%C3%BD%20-%20Mi%C3%AAu%20N%E1%BB%8B%20Ph%E1%BA%A7n%20%282%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7950,
+    "title" : "Audio Tiên Hiệp - Trạch Thiên Ký - Miêu Nị Phần (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiotrachthienky_201706/Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Tr%E1%BA%A1ch%20Thi%C3%AAn%20K%C3%BD%20-%20Mi%C3%AAu%20N%E1%BB%8B%20Ph%E1%BA%A7n%20%283%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8416,
+    "title" : "Audio Tiên Hiệp - Trạch Thiên Ký - Miêu Nị Phần (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiotrachthienky_201706/Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Tr%E1%BA%A1ch%20Thi%C3%AAn%20K%C3%BD%20-%20Mi%C3%AAu%20N%E1%BB%8B%20Ph%E1%BA%A7n%20%284%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8662,
+    "title" : "Audio Tiên Hiệp - Trạch Thiên Ký - Miêu Nị Phần (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiotrachthienky_201706/Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Tr%E1%BA%A1ch%20Thi%C3%AAn%20K%C3%BD%20-%20Mi%C3%AAu%20N%E1%BB%8B%20Ph%E1%BA%A7n%20%285%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9591,
+    "title" : "Audio Tiên Hiệp - Trạch Thiên Ký - Miêu Nị Phần (5)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/audiotrachthienky_201706/Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Tr%E1%BA%A1ch%20Thi%C3%AAn%20K%C3%BD%20-%20Mi%C3%AAu%20N%E1%BB%8B%20Ph%E1%BA%A7n%20%281%29.mp3",
+    "title" : "Audio Tiên Hiệp - Trạch Thiên Ký - Miêu Nị Phần (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiotrachthienky_201706/Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Tr%E1%BA%A1ch%20Thi%C3%AAn%20K%C3%BD%20-%20Mi%C3%AAu%20N%E1%BB%8B%20Ph%E1%BA%A7n%20%282%29.mp3",
+    "title" : "Audio Tiên Hiệp - Trạch Thiên Ký - Miêu Nị Phần (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiotrachthienky_201706/Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Tr%E1%BA%A1ch%20Thi%C3%AAn%20K%C3%BD%20-%20Mi%C3%AAu%20N%E1%BB%8B%20Ph%E1%BA%A7n%20%283%29.mp3",
+    "title" : "Audio Tiên Hiệp - Trạch Thiên Ký - Miêu Nị Phần (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiotrachthienky_201706/Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Tr%E1%BA%A1ch%20Thi%C3%AAn%20K%C3%BD%20-%20Mi%C3%AAu%20N%E1%BB%8B%20Ph%E1%BA%A7n%20%284%29.mp3",
+    "title" : "Audio Tiên Hiệp - Trạch Thiên Ký - Miêu Nị Phần (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiotrachthienky_201706/Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Tr%E1%BA%A1ch%20Thi%C3%AAn%20K%C3%BD%20-%20Mi%C3%AAu%20N%E1%BB%8B%20Ph%E1%BA%A7n%20%285%29.mp3",
+    "title" : "Audio Tiên Hiệp - Trạch Thiên Ký - Miêu Nị Phần (5)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

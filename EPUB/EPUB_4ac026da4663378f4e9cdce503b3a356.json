@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhan-gian-huu-tinh_20238.html",
+    "title" : "Nhân Gian Hữu Tình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Thánh Nghiêm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 12723,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_4ac026da4663378f4e9cdce503b3a356.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_4ac026da4663378f4e9cdce503b3a356.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.01_Loi%20dau_Doi%20thoai_Ban%20chat%20tam%20tu%20tinh%20cam%20con%20nguoi_KHanh_TAnh_dau-32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1888,
+    "title" : "01_Loi dau_Doi thoai_Ban chat tam tu tinh cam con nguoi_KHanh_TAnh_dau-32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.02_Dieu%20phuc%20va%20cam%20hoa_KHanh_TAnh_33-43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 929,
+    "title" : "02_Dieu phuc va cam hoa_KHanh_TAnh_33-43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.03_Moi%20quan%20he%20binh%20dang%20giua%20hai%20gioi_KHanh_TAnh_45-58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 993,
+    "title" : "03_Moi quan he binh dang giua hai gioi_KHanh_TAnh_45-58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.04_Su%20hy%20sinh%20trong%20hon%20nhan%20gia%20dinh_KHanh_TAnh_59-73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1216,
+    "title" : "04_Su hy sinh trong hon nhan gia dinh_KHanh_TAnh_59-73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.05_Nhung%20tinh%20cam%20von%20co%20cua%20con%20nguoi_KHanh_TAnh_75-90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1201,
+    "title" : "05_Nhung tinh cam von co cua con nguoi_KHanh_TAnh_75-90",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.06_Trong%20tram%20nghin%20dieu%20thien%20lay%20hieu%20lam%20dau_KHanh_TAnh_91-114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1947,
+    "title" : "06_Trong tram nghin dieu thien lay hieu lam dau_KHanh_TAnh_91-114",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.07_Tinh%20bang%20huu%20lam%20phong%20phu%20cuoc%20doi_KHanh_TAnh_115--136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1591,
+    "title" : "07_Tinh bang huu lam phong phu cuoc doi_KHanh_TAnh_115--136",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.08_Dieu%20tiet%20tinh%20cam_KHanh_TAnh_137-155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1443,
+    "title" : "08_Dieu tiet tinh cam_KHanh_TAnh_137-155",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.09_Buoc%20di%20tren%20con%20duong%20hon%20nhan_KHanh_TAnh_156-het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1515,
+    "title" : "09_Buoc di tren con duong hon nhan_KHanh_TAnh_156-het",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.01_Loi%20dau_Doi%20thoai_Ban%20chat%20tam%20tu%20tinh%20cam%20con%20nguoi_KHanh_TAnh_dau-32.mp3",
+    "title" : "01_Loi dau_Doi thoai_Ban chat tam tu tinh cam con nguoi_KHanh_TAnh_dau-32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.02_Dieu%20phuc%20va%20cam%20hoa_KHanh_TAnh_33-43.mp3",
+    "title" : "02_Dieu phuc va cam hoa_KHanh_TAnh_33-43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.03_Moi%20quan%20he%20binh%20dang%20giua%20hai%20gioi_KHanh_TAnh_45-58.mp3",
+    "title" : "03_Moi quan he binh dang giua hai gioi_KHanh_TAnh_45-58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.04_Su%20hy%20sinh%20trong%20hon%20nhan%20gia%20dinh_KHanh_TAnh_59-73.mp3",
+    "title" : "04_Su hy sinh trong hon nhan gia dinh_KHanh_TAnh_59-73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.05_Nhung%20tinh%20cam%20von%20co%20cua%20con%20nguoi_KHanh_TAnh_75-90.mp3",
+    "title" : "05_Nhung tinh cam von co cua con nguoi_KHanh_TAnh_75-90",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.06_Trong%20tram%20nghin%20dieu%20thien%20lay%20hieu%20lam%20dau_KHanh_TAnh_91-114.mp3",
+    "title" : "06_Trong tram nghin dieu thien lay hieu lam dau_KHanh_TAnh_91-114",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.07_Tinh%20bang%20huu%20lam%20phong%20phu%20cuoc%20doi_KHanh_TAnh_115--136.mp3",
+    "title" : "07_Tinh bang huu lam phong phu cuoc doi_KHanh_TAnh_115--136",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.08_Dieu%20tiet%20tinh%20cam_KHanh_TAnh_137-155.mp3",
+    "title" : "08_Dieu tiet tinh cam_KHanh_TAnh_137-155",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/4057.06-trong-tram-nghin-dieu-thien-lay-hieu-lam-dau-khanh-tanh-91-114/4057.09_Buoc%20di%20tren%20con%20duong%20hon%20nhan_KHanh_TAnh_156-het.mp3",
+    "title" : "09_Buoc di tren con duong hon nhan_KHanh_TAnh_156-het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

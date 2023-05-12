@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ke-trung-phat-vi-nhat-dong_8696.html",
+    "title" : "Kẻ Trừng Phạt - Vi Nhất Đồng.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vi Nhất Đồng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 34203,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_75762f49ba9d6e630472827a7105866a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_75762f49ba9d6e630472827a7105866a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2673,
+    "title" : "Kẻ Trừng Phạt #01 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3568,
+    "title" : "Kẻ Trừng Phạt #10 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3338,
+    "title" : "Kẻ Trừng Phạt #11 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3093,
+    "title" : "Kẻ Trừng Phạt #02 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3063,
+    "title" : "Kẻ Trừng Phạt #03 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2943,
+    "title" : "Kẻ Trừng Phạt #04 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3213,
+    "title" : "Kẻ Trừng Phạt #05 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2823,
+    "title" : "Kẻ Trừng Phạt #06 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3528,
+    "title" : "Kẻ Trừng Phạt #07 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2778,
+    "title" : "Kẻ Trừng Phạt #08 I Truyện Trinh Thám Hay I MC Thanh Bình - Vi Nhất Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3183,
+    "title" : "Kẻ Trừng Phạt #09 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/1.mp3",
+    "title" : "Kẻ Trừng Phạt #01 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/10.mp3",
+    "title" : "Kẻ Trừng Phạt #10 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/11.mp3",
+    "title" : "Kẻ Trừng Phạt #11 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/2.mp3",
+    "title" : "Kẻ Trừng Phạt #02 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/3.mp3",
+    "title" : "Kẻ Trừng Phạt #03 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/4.mp3",
+    "title" : "Kẻ Trừng Phạt #04 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/5.mp3",
+    "title" : "Kẻ Trừng Phạt #05 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/6.mp3",
+    "title" : "Kẻ Trừng Phạt #06 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/7.mp3",
+    "title" : "Kẻ Trừng Phạt #07 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/8.mp3",
+    "title" : "Kẻ Trừng Phạt #08 I Truyện Trinh Thám Hay I MC Thanh Bình - Vi Nhất Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmPhatjke_trung_phat/9.mp3",
+    "title" : "Kẻ Trừng Phạt #09 I Truyện Trinh Thám Hay I MC Thanh Bình - Tác Giả Vi Nhất Đồng",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

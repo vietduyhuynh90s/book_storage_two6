@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phep-tac-cua-loai-soi_17069.html",
+    "title" : "Phép Tắc Của Loài Sói",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Liệt Phu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 53994,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_bd7a476034e3254540e004735c0ce804.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_bd7a476034e3254540e004735c0ce804.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/01_PT_loai_soi_C_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2658,
+    "title" : "www.sachdoanhtri.blogspot.com",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/01_phot_lo_nguy_hiem__ung_dung_tu_tai_trong_rung_sau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2658,
+    "title" : "01_phot_lo_nguy_hiem_–_ung_dung_tu_tai_trong_rung_sau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/02_canh_tranh_tan_khoc__ke_thang_lam_vua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2671,
+    "title" : "02_canh_tranh_tan_khoc_–_ke_thang_lam_vua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/03_cuoi_truoc_that_bai__vung_buoc_tien_len.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2507,
+    "title" : "03_cuoi_truoc_that_bai_–_vung_buoc_tien_len",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/04_trang_thai_tinh_than_cua_ke_manh__xung_hung_thien_ha.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2538,
+    "title" : "04_trang_thai_tinh_than_cua_ke_manh_–_xung_hung_thien_ha",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/05_kieu_hanh_doc_lap__ban_sac_rieng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2422,
+    "title" : "05_kieu_hanh,_doc_lap_–_ban_sac_rieng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/06_tinh_kien_nhan_ben_bi_cua_soi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1648,
+    "title" : "06_tinh_kien_nhan,_ben_bi_cua_soi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/07_luon_chu_tam__luon_hoan_thien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1725,
+    "title" : "07_luon_chu_tam_–_luon_hoan_thien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/08_tri_tue_vo_song_cua_loai_soi__thay_doi_la_khong_thay_doi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2810,
+    "title" : "08_tri_tue_vo_song_cua_loai_soi_–_thay_doi_la_khong_thay_doi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/09_khi_phach_manh_me__biet_on_sau_sac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4088,
+    "title" : "09_khi_phach_manh_me_–_biet_on_sau_sac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/10_bat_tay_hop_tac__thuan_buom_xuoi_gio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2766,
+    "title" : "10_bat_tay_hop_tac_–_thuan_buom_xuoi_gio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/11_song_trong_nghich_canh_ke_thang_lam_vua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1698,
+    "title" : "11_song_trong_nghich_canh,_ke_thang_lam_vua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/12_can_dam__bach_chien_bach_thang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2686,
+    "title" : "12_can_dam_–_bach_chien_bach_thang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/13_linh_hoat_de_gianh_thang_loi_muon_suc_nguoi_khac_de_thanh_cong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1899,
+    "title" : "13_linh_hoat_de_gianh_thang_loi,_muon_suc_nguoi_khac_de_thanh_cong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/14_dua_vao_soi_ma_song_lay_soi_lam_chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "14_dua_vao_soi_ma_song,_lay_soi_lam_chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/15_binh_tinh_lac_quan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3293,
+    "title" : "15_Bình tĩnh lạc quan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/16_quyet_liet_theo_duoi_muc_tieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3178,
+    "title" : "16_Quyết liệt theo đuổi mục tiêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/17_day_kien_nhan_cho_thoi_co.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1996,
+    "title" : "17_day_kien_nhan,_cho_thoi_co",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/18_boc_phat_suc_manh_hoang_da_no_luc_vuon_len.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1520,
+    "title" : "18_boc_phat_suc_manh_hoang_da,_no_luc_vuon_len",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/19_tan_cong_vao_nhung_bat_loi_cua_dich.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1410,
+    "title" : "19_Tấn công vào những bất lợi của địch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/20_to_chuc_va_ky_luat_la_co_so_cua_thanh_cong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3188,
+    "title" : "20_Tổ chức và kỷ luật là cơ sở của thành công",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/21_van_dung_triet_de_sach_luoc_tri_tue_bat_cu_luc_nao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1894,
+    "title" : "21_Vận dụng triệt để sách lược trí tuệ bất cứ lúc nào",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/01_PT_loai_soi_C_01.mp3",
+    "title" : "www.sachdoanhtri.blogspot.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/01_phot_lo_nguy_hiem__ung_dung_tu_tai_trong_rung_sau.mp3",
+    "title" : "01_phot_lo_nguy_hiem_–_ung_dung_tu_tai_trong_rung_sau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/02_canh_tranh_tan_khoc__ke_thang_lam_vua.mp3",
+    "title" : "02_canh_tranh_tan_khoc_–_ke_thang_lam_vua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/03_cuoi_truoc_that_bai__vung_buoc_tien_len.mp3",
+    "title" : "03_cuoi_truoc_that_bai_–_vung_buoc_tien_len",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/04_trang_thai_tinh_than_cua_ke_manh__xung_hung_thien_ha.mp3",
+    "title" : "04_trang_thai_tinh_than_cua_ke_manh_–_xung_hung_thien_ha",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/05_kieu_hanh_doc_lap__ban_sac_rieng.mp3",
+    "title" : "05_kieu_hanh,_doc_lap_–_ban_sac_rieng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/06_tinh_kien_nhan_ben_bi_cua_soi.mp3",
+    "title" : "06_tinh_kien_nhan,_ben_bi_cua_soi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/07_luon_chu_tam__luon_hoan_thien.mp3",
+    "title" : "07_luon_chu_tam_–_luon_hoan_thien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/08_tri_tue_vo_song_cua_loai_soi__thay_doi_la_khong_thay_doi.mp3",
+    "title" : "08_tri_tue_vo_song_cua_loai_soi_–_thay_doi_la_khong_thay_doi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/09_khi_phach_manh_me__biet_on_sau_sac.mp3",
+    "title" : "09_khi_phach_manh_me_–_biet_on_sau_sac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/10_bat_tay_hop_tac__thuan_buom_xuoi_gio.mp3",
+    "title" : "10_bat_tay_hop_tac_–_thuan_buom_xuoi_gio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/11_song_trong_nghich_canh_ke_thang_lam_vua.mp3",
+    "title" : "11_song_trong_nghich_canh,_ke_thang_lam_vua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/12_can_dam__bach_chien_bach_thang.mp3",
+    "title" : "12_can_dam_–_bach_chien_bach_thang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/13_linh_hoat_de_gianh_thang_loi_muon_suc_nguoi_khac_de_thanh_cong.mp3",
+    "title" : "13_linh_hoat_de_gianh_thang_loi,_muon_suc_nguoi_khac_de_thanh_cong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/14_dua_vao_soi_ma_song_lay_soi_lam_chuan.mp3",
+    "title" : "14_dua_vao_soi_ma_song,_lay_soi_lam_chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/15_binh_tinh_lac_quan.mp3",
+    "title" : "15_Bình tĩnh lạc quan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/16_quyet_liet_theo_duoi_muc_tieu.mp3",
+    "title" : "16_Quyết liệt theo đuổi mục tiêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/17_day_kien_nhan_cho_thoi_co.mp3",
+    "title" : "17_day_kien_nhan,_cho_thoi_co",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/18_boc_phat_suc_manh_hoang_da_no_luc_vuon_len.mp3",
+    "title" : "18_boc_phat_suc_manh_hoang_da,_no_luc_vuon_len",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/19_tan_cong_vao_nhung_bat_loi_cua_dich.mp3",
+    "title" : "19_Tấn công vào những bất lợi của địch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/20_to_chuc_va_ky_luat_la_co_so_cua_thanh_cong.mp3",
+    "title" : "20_Tổ chức và kỷ luật là cơ sở của thành công",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-phepTacCuaLoaiSoi/21_van_dung_triet_de_sach_luoc_tri_tue_bat_cu_luc_nao.mp3",
+    "title" : "21_Vận dụng triệt để sách lược trí tuệ bất cứ lúc nào",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
