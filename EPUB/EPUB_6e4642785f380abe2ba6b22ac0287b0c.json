@@ -1,0 +1,641 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hieu-ve-trai-tim_13525.html",
+    "title" : "Hiểu Về Trái Tim",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Niệm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 56279,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_6e4642785f380abe2ba6b22ac0287b0c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_6e4642785f380abe2ba6b22ac0287b0c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1211,
+    "title" : "01 Khổ đau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1038,
+    "title" : "10 Nâng đỡ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 990,
+    "title" : "11 Cô đơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1350,
+    "title" : "12 Hiến tặng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 978,
+    "title" : "13 Trao thân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 753,
+    "title" : "14 Tạ ơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1048,
+    "title" : "15 Nhàm chán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 997,
+    "title" : "16 Kính trọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1248,
+    "title" : "17 Nghi ngờ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1057,
+    "title" : "18 Lắng nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1123,
+    "title" : "19 Phán xét",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1169,
+    "title" : "02 Hạnh phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1014,
+    "title" : "20 Ái ngữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 663,
+    "title" : "21 Thành kiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1234,
+    "title" : "22 Làm mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1216,
+    "title" : "23 Che đậy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1047,
+    "title" : "24 Thành thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1073,
+    "title" : "25 Nguyên tắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1127,
+    "title" : "26 Tùy duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1243,
+    "title" : "27 Tuyệt vọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 784,
+    "title" : "28 Niềm tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1057,
+    "title" : "29 Ý chí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 963,
+    "title" : "03 Tình yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1217,
+    "title" : "30 Do dự",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1007,
+    "title" : "31 Thất bại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 844,
+    "title" : "32 Thành công",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1181,
+    "title" : "33 Tham vọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1377,
+    "title" : "34 Biết đủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 938,
+    "title" : "35 Dựa dẫm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1111,
+    "title" : "36 Nương tựa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1256,
+    "title" : "37 Yếu đuối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1095,
+    "title" : "38 Sám hối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1192,
+    "title" : "39 Lười biếng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 911,
+    "title" : "04 Tình thương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1180,
+    "title" : "40 Buông xả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1035,
+    "title" : "41 Tưởng tượng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1633,
+    "title" : "42 Định tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1326,
+    "title" : "43 Cảm xúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1035,
+    "title" : "44 Bình yên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1314,
+    "title" : "45 Lo lắng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1239,
+    "title" : "46 Thảnh thơi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1520,
+    "title" : "47 Độc tài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1397,
+    "title" : "48 Khiêm cung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1043,
+    "title" : "49 Ích kỷ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1120,
+    "title" : "05 Tức giận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1720,
+    "title" : "50 Trách nhiệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 979,
+    "title" : "06 Chịu đựng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1089,
+    "title" : "07 Ghen tuông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1133,
+    "title" : "08 Tha thứ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1004,
+    "title" : "09 Sòng phẳng",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/1.mp3",
+    "title" : "01 Khổ đau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/10.mp3",
+    "title" : "10 Nâng đỡ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/11.mp3",
+    "title" : "11 Cô đơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/12.mp3",
+    "title" : "12 Hiến tặng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/13.mp3",
+    "title" : "13 Trao thân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/14.mp3",
+    "title" : "14 Tạ ơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/15.mp3",
+    "title" : "15 Nhàm chán",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/16.mp3",
+    "title" : "16 Kính trọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/17.mp3",
+    "title" : "17 Nghi ngờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/18.mp3",
+    "title" : "18 Lắng nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/19.mp3",
+    "title" : "19 Phán xét",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/2.mp3",
+    "title" : "02 Hạnh phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/20.mp3",
+    "title" : "20 Ái ngữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/21.mp3",
+    "title" : "21 Thành kiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/22.mp3",
+    "title" : "22 Làm mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/23.mp3",
+    "title" : "23 Che đậy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/24.mp3",
+    "title" : "24 Thành thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/25.mp3",
+    "title" : "25 Nguyên tắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/26.mp3",
+    "title" : "26 Tùy duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/27.mp3",
+    "title" : "27 Tuyệt vọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/28.mp3",
+    "title" : "28 Niềm tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/29.mp3",
+    "title" : "29 Ý chí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/3.mp3",
+    "title" : "03 Tình yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/30.mp3",
+    "title" : "30 Do dự",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/31.mp3",
+    "title" : "31 Thất bại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/32.mp3",
+    "title" : "32 Thành công",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/33.mp3",
+    "title" : "33 Tham vọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/34.mp3",
+    "title" : "34 Biết đủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/35.mp3",
+    "title" : "35 Dựa dẫm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/36.mp3",
+    "title" : "36 Nương tựa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/37.mp3",
+    "title" : "37 Yếu đuối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/38.mp3",
+    "title" : "38 Sám hối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/39.mp3",
+    "title" : "39 Lười biếng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/4.mp3",
+    "title" : "04 Tình thương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/40.mp3",
+    "title" : "40 Buông xả",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/41.mp3",
+    "title" : "41 Tưởng tượng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/42.mp3",
+    "title" : "42 Định tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/43.mp3",
+    "title" : "43 Cảm xúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/44.mp3",
+    "title" : "44 Bình yên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/45.mp3",
+    "title" : "45 Lo lắng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/46.mp3",
+    "title" : "46 Thảnh thơi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/47.mp3",
+    "title" : "47 Độc tài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/48.mp3",
+    "title" : "48 Khiêm cung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/49.mp3",
+    "title" : "49 Ích kỷ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/5.mp3",
+    "title" : "05 Tức giận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/50.mp3",
+    "title" : "50 Trách nhiệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/6.mp3",
+    "title" : "06 Chịu đựng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/7.mp3",
+    "title" : "07 Ghen tuông",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/8.mp3",
+    "title" : "08 Tha thứ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-ve-trai-tim/9.mp3",
+    "title" : "09 Sòng phẳng",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

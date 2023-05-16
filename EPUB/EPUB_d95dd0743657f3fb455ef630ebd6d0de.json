@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khach-hang-chua-phai-la-thuong-de_16891.html",
+    "title" : "Khách Hàng Chưa Phải Là Thượng Đế",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diane McFerrin Peters",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 30574,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_d95dd0743657f3fb455ef630ebd6d0de.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_d95dd0743657f3fb455ef630ebd6d0de.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe00.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6096,
+    "title" : "KhachHangChuaPhaiLaThuongDe00",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3428,
+    "title" : "KhachHangChuaPhaiLaThuongDe01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2799,
+    "title" : "KhachHangChuaPhaiLaThuongDe02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3017,
+    "title" : "KhachHangChuaPhaiLaThuongDe03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2420,
+    "title" : "KhachHangChuaPhaiLaThuongDe04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2928,
+    "title" : "KhachHangChuaPhaiLaThuongDe05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2144,
+    "title" : "KhachHangChuaPhaiLaThuongDe06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1432,
+    "title" : "KhachHangChuaPhaiLaThuongDe07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1880,
+    "title" : "KhachHangChuaPhaiLaThuongDe08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1326,
+    "title" : "KhachHangChuaPhaiLaThuongDe09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3104,
+    "title" : "KhachHangChuaPhaiLaThuongDe10",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe00.mp3",
+    "title" : "KhachHangChuaPhaiLaThuongDe00",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe01.mp3",
+    "title" : "KhachHangChuaPhaiLaThuongDe01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe02.mp3",
+    "title" : "KhachHangChuaPhaiLaThuongDe02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe03.mp3",
+    "title" : "KhachHangChuaPhaiLaThuongDe03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe04.mp3",
+    "title" : "KhachHangChuaPhaiLaThuongDe04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe05.mp3",
+    "title" : "KhachHangChuaPhaiLaThuongDe05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe06.mp3",
+    "title" : "KhachHangChuaPhaiLaThuongDe06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe07.mp3",
+    "title" : "KhachHangChuaPhaiLaThuongDe07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe08.mp3",
+    "title" : "KhachHangChuaPhaiLaThuongDe08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe09.mp3",
+    "title" : "KhachHangChuaPhaiLaThuongDe09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhachHangChuaPhaiLaThuongDe/KhachHangChuaPhaiLaThuongDe10.mp3",
+    "title" : "KhachHangChuaPhaiLaThuongDe10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

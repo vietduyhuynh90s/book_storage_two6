@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hanh-trinh-vao-tam-trai-dat_16996.html",
+    "title" : "Hành Trình Vào Tâm Trái Đất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jules Verne",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 12183,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_4fd1f70e2906379931a7c241f67a0cff.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_4fd1f70e2906379931a7c241f67a0cff.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/01-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1106,
+    "title" : "01-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/02-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1255,
+    "title" : "02-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/03-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1020,
+    "title" : "03-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/04-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1094,
+    "title" : "04-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/05-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 854,
+    "title" : "05-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/06-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 842,
+    "title" : "06-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/07-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 839,
+    "title" : "07-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/08-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1087,
+    "title" : "08-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/09-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1056,
+    "title" : "09-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/10-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1126,
+    "title" : "10-HnhTrnhVoTrungTmTrit-JulesVern",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/11het-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1904,
+    "title" : "11het-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/01-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "title" : "01-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/02-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "title" : "02-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/03-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "title" : "03-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/04-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "title" : "04-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/05-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "title" : "05-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/06-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "title" : "06-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/07-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "title" : "07-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/08-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "title" : "08-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/09-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "title" : "09-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/10-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "title" : "10-HnhTrnhVoTrungTmTrit-JulesVern",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHanhtrinhvaotrungtamtraidat/11het-HnhTrnhVoTrungTmTrit-JulesVern.mp3",
+    "title" : "11het-HànhTrìnhVàoTrungTâmTráiđất-JulesVern",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

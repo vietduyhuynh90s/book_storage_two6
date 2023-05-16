@@ -1,0 +1,665 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ong-trum-quyen-luc-cuoi-cung_10009.html",
+    "title" : "Ông Trùm Quyền Lực Cuối Cùng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mario Puzo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 148899,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_beb93d7d5e4480315615a1a86f7bf8c5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_beb93d7d5e4480315615a1a86f7bf8c5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-01_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2152,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-01 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-01_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2134,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-01 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-02_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3076,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-02 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-02_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3058,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-02 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-03_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2705,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-03 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-03_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2686,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-03 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-04_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-04 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-04_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2897,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-04 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-05_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3623,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-05 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-05_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3605,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-05 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-06_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2435,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-06 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-06_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2417,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-06 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-07_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2760,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-07 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-07_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2742,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-07 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-08_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2045,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-08 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-08_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2027,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-08 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-09_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1977,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-09 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-09_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1959,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-09 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-10_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2786,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-10 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-10_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2768,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-10 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-11_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3391,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-11 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-11_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3373,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-11 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-12_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3191,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-12 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-12_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3173,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-12 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-13_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2775,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-13 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-13_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2757,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-13 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-14_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3258,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-14 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-14_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-14 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-15_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3622,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-15 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-15_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3604,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-15 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-16_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2663,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-16 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-16_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2644,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-16 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-17_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2155,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-17 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-17_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2137,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-17 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-18_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2955,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-18 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-18_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2936,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-18 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-19_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2061,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-19 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-19_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2043,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-19 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-20_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4115,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-20 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-20_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4097,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-20 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-21_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2844,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-21 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-21_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2825,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-21 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-22_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3420,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-22 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-22_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3401,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-22 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-23_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2569,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-23 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-23_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2550,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-23 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-24_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2826,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-24 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-24_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2807,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-24 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-25_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2839,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-25 audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-25_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2820,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-25 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-26-het_audio-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3530,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-26-het audio-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-26-het_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3511,
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-26-het audio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-01_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-01 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-01_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-01 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-02_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-02 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-02_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-02 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-03_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-03 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-03_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-03 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-04_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-04 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-04_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-04 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-05_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-05 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-05_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-05 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-06_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-06 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-06_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-06 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-07_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-07 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-07_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-07 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-08_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-08 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-08_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-08 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-09_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-09 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-09_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-09 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-10_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-10 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-10_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-10 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-11_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-11 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-11_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-11 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-12_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-12 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-12_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-12 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-13_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-13 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-13_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-13 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-14_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-14 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-14_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-14 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-15_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-15 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-15_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-15 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-16_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-16 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-16_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-16 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-17_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-17 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-17_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-17 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-18_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-18 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-18_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-18 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-19_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-19 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-19_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-19 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-20_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-20 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-20_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-20 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-21_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-21 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-21_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-21 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-22_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-22 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-22_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-22 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-23_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-23 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-23_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-23 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-24_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-24 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-24_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-24 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-25_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-25 audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-25_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-25 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-26-het_audio-1.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-26-het audio-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_ong-trum-cuoi-cung/truyendocviet.com_-_ong-trum-cuoi-cung-phan-26-het_audio.mp3",
+    "title" : "truyendocviet.com - ong-trum-cuoi-cung-phan-26-het audio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

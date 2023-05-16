@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tram-chau-van-van_4631.html",
+    "title" : "Trâm - Châu Văn Văn.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Châu Văn Văn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 65075,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_8bb577482ddb147c79bf6f13d442327a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_8bb577482ddb147c79bf6f13d442327a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/11hetTram4/01Tram4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6190,
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 1)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/02Tram4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5664,
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 2)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/03Tram4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6710,
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 3)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/04Tram4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5425,
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 4)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/05Tram4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4674,
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 5)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/06Tram4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6063,
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 6)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/07Tram4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5486,
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 7)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/08Tram4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5010,
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 8)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/09Tram4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4686,
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 9)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/10Tram4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6019,
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 10)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/11%20%28het%29%20Tram4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9148,
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần Cuối)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/11hetTram4/01Tram4.mp3",
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 1)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/02Tram4.mp3",
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 2)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/03Tram4.mp3",
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 3)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/04Tram4.mp3",
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 4)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/05Tram4.mp3",
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 5)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/06Tram4.mp3",
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 6)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/07Tram4.mp3",
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 7)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/08Tram4.mp3",
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 8)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/09Tram4.mp3",
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 9)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/10Tram4.mp3",
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần 10)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/11hetTram4/11%20%28het%29%20Tram4.mp3",
+    "title" : "Audio Truyện Trâm 4 - Chim Liền Cánh (Phần Cuối)[Kho Truyện Hay] Ngôn Tình Trinh Thám Cổ Đại",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

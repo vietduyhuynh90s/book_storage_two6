@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-giu-cua_15161.html",
+    "title" : "Người Giữ Của",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "PM",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 46937,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_50e09178de041131345d3f92703c6b11.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_50e09178de041131345d3f92703c6b11.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-giu-cua/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4081,
+    "title" : "[Tập 1] NGƯỜI GIỮ CỦA PHẦN 1: Tìm Lại Sự Sống – Truyện ma hay mới nhất MC Anh Tú diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4201,
+    "title" : "[Tập 4] NGƯỜI GIỮ CỦA PHẦN 2 : Giải Mật – Truyện ma mới nhất MC Anh Tú diễn đọc hay quá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4080,
+    "title" : "[Tập 5] NGƯỜI GIỮ CỦA PHẦN 2 : Giải Mật – Truyện ma MC Anh Tú kể mới nhất hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3960,
+    "title" : "[Tập 6 Hết Truyện] NGƯỜI GIỮ CỦA PHẦN 2 : Giải Mật – Truyện ma hay mới nhất Anh Tú đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4304,
+    "title" : "Truyện ma mới nhất MC Anh Tú thu âm diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4048,
+    "title" : "Truyện ma mới nhất MC Anh Tú kể hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4060,
+    "title" : "[Tập 4] NGƯỜI GIỮ CỦA PHẦN 1: Tìm Lại Sự Sống – Truyện ma mới nhất Mc Anh Tú diễn đọc hay quá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3404,
+    "title" : "[Tập 5] NGƯỜI GIỮ CỦA PHẦN 1: Tìm Lại Sự Sống – Truyện ma mới nhất Mc Anh Tú diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3173,
+    "title" : "[Tập 6 Hết P1] NGƯỜI GIỮ CỦA PHẦN 1: Tìm Lại Sự Sống – Truyện ma mới nhất hay MC Anh Tú diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3627,
+    "title" : "[Tập 1] NGƯỜI GIỮ CỦA PHẦN 2 : Giải Mật – Truyện ma hay mới nhất MC Anh Tú diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3831,
+    "title" : "[Tập 2] NGƯỜI GIỮ CỦA PHẦN 2 : Giải Mật – Truyện ma mới nhất MC Anh Tú thu âm diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4168,
+    "title" : "[Tập 3] NGƯỜI GIỮ CỦA PHẦN 2 : Giải Mật – Truyện ma mới nhất MC Anh Tú diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-giu-cua/1.mp3",
+    "title" : "[Tập 1] NGƯỜI GIỮ CỦA PHẦN 1: Tìm Lại Sự Sống – Truyện ma hay mới nhất MC Anh Tú diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/10.mp3",
+    "title" : "[Tập 4] NGƯỜI GIỮ CỦA PHẦN 2 : Giải Mật – Truyện ma mới nhất MC Anh Tú diễn đọc hay quá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/11.mp3",
+    "title" : "[Tập 5] NGƯỜI GIỮ CỦA PHẦN 2 : Giải Mật – Truyện ma MC Anh Tú kể mới nhất hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/12.mp3",
+    "title" : "[Tập 6 Hết Truyện] NGƯỜI GIỮ CỦA PHẦN 2 : Giải Mật – Truyện ma hay mới nhất Anh Tú đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/2.mp3",
+    "title" : "Truyện ma mới nhất MC Anh Tú thu âm diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/3.mp3",
+    "title" : "Truyện ma mới nhất MC Anh Tú kể hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/4.mp3",
+    "title" : "[Tập 4] NGƯỜI GIỮ CỦA PHẦN 1: Tìm Lại Sự Sống – Truyện ma mới nhất Mc Anh Tú diễn đọc hay quá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/5.mp3",
+    "title" : "[Tập 5] NGƯỜI GIỮ CỦA PHẦN 1: Tìm Lại Sự Sống – Truyện ma mới nhất Mc Anh Tú diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/6.mp3",
+    "title" : "[Tập 6 Hết P1] NGƯỜI GIỮ CỦA PHẦN 1: Tìm Lại Sự Sống – Truyện ma mới nhất hay MC Anh Tú diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/7.mp3",
+    "title" : "[Tập 1] NGƯỜI GIỮ CỦA PHẦN 2 : Giải Mật – Truyện ma hay mới nhất MC Anh Tú diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/8.mp3",
+    "title" : "[Tập 2] NGƯỜI GIỮ CỦA PHẦN 2 : Giải Mật – Truyện ma mới nhất MC Anh Tú thu âm diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giu-cua/9.mp3",
+    "title" : "[Tập 3] NGƯỜI GIỮ CỦA PHẦN 2 : Giải Mật – Truyện ma mới nhất MC Anh Tú diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
