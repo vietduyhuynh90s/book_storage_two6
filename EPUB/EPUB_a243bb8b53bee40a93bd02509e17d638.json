@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vuot-len-nhung-chuyen-nho-trong-gia-dinh_20337.html",
+    "title" : "Vượt Lên Những Chuyện Nhỏ Trong Gia Đình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Richard Carlson",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 10573,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_a243bb8b53bee40a93bd02509e17d638.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_a243bb8b53bee40a93bd02509e17d638.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vuot-len-nhung-chuyen-nho-trong-cuoc-song-gia-dinh.sna/VuotLenNhungChuyenNhoGiaDinhPhan01_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1763,
+    "title" : "VuotLenNhungChuyenNhoGiaDinhPhan01 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-len-nhung-chuyen-nho-trong-cuoc-song-gia-dinh.sna/VuotLenNhungChuyenNhoGiaDinhPhan02_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1987,
+    "title" : "VuotLenNhungChuyenNhoGiaDinhPhan02 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-len-nhung-chuyen-nho-trong-cuoc-song-gia-dinh.sna/VuotLenNhungChuyenNhoGiaDinhPhan03_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1745,
+    "title" : "VuotLenNhungChuyenNhoGiaDinhPhan03 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-len-nhung-chuyen-nho-trong-cuoc-song-gia-dinh.sna/VuotLenNhungChuyenNhoGiaDinhPhan04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1816,
+    "title" : "VuotLenNhungChuyenNhoGiaDinhPhan04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-len-nhung-chuyen-nho-trong-cuoc-song-gia-dinh.sna/VuotLenNhungChuyenNhoGiaDinhPhan05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1961,
+    "title" : "VuotLenNhungChuyenNhoGiaDinhPhan05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-len-nhung-chuyen-nho-trong-cuoc-song-gia-dinh.sna/VuotLenNhungChuyenNhoGiaDinhPhan06Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1301,
+    "title" : "VuotLenNhungChuyenNhoGiaDinhPhan06Het",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vuot-len-nhung-chuyen-nho-trong-cuoc-song-gia-dinh.sna/VuotLenNhungChuyenNhoGiaDinhPhan01_Chuan.mp3",
+    "title" : "VuotLenNhungChuyenNhoGiaDinhPhan01 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-len-nhung-chuyen-nho-trong-cuoc-song-gia-dinh.sna/VuotLenNhungChuyenNhoGiaDinhPhan02_Chuan.mp3",
+    "title" : "VuotLenNhungChuyenNhoGiaDinhPhan02 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-len-nhung-chuyen-nho-trong-cuoc-song-gia-dinh.sna/VuotLenNhungChuyenNhoGiaDinhPhan03_Chuan.mp3",
+    "title" : "VuotLenNhungChuyenNhoGiaDinhPhan03 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-len-nhung-chuyen-nho-trong-cuoc-song-gia-dinh.sna/VuotLenNhungChuyenNhoGiaDinhPhan04.mp3",
+    "title" : "VuotLenNhungChuyenNhoGiaDinhPhan04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-len-nhung-chuyen-nho-trong-cuoc-song-gia-dinh.sna/VuotLenNhungChuyenNhoGiaDinhPhan05.mp3",
+    "title" : "VuotLenNhungChuyenNhoGiaDinhPhan05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-len-nhung-chuyen-nho-trong-cuoc-song-gia-dinh.sna/VuotLenNhungChuyenNhoGiaDinhPhan06Het.mp3",
+    "title" : "VuotLenNhungChuyenNhoGiaDinhPhan06Het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
