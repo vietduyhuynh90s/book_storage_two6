@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mot-doi-dang-gia-dung-song-qua-loa_20370.html",
+    "title" : "Một Đời Đáng Giá Đừng Sống Qua Loa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tinh Vân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 14600,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_e809c4b94654bc8afde7373c7f74d886.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_e809c4b94654bc8afde7373c7f74d886.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2447,
+    "title" : "1# Một đời đáng giá đừng sống qua loa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1700,
+    "title" : "2# Một đời đáng giá đừng sống qua loa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 876,
+    "title" : "3# Một đời đáng giá đừng sống qua loa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1410,
+    "title" : "4# Một đời đáng giá đừng sống qua loa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1271,
+    "title" : "5# Một đời đáng giá đừng sống qua loa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1022,
+    "title" : "6# Một đời đáng giá đừng sống qua loa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1368,
+    "title" : "7# Một đời đáng giá đừng sống qua loa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1431,
+    "title" : "8# Một đời đáng giá đừng sống qua loa - Dấu chân trường thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1374,
+    "title" : "9# Một đời đáng giá đừng sống qua loa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1701,
+    "title" : "10# Một đời đáng giá đừng sống qua loa",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-01.mp3",
+    "title" : "1# Một đời đáng giá đừng sống qua loa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-02.mp3",
+    "title" : "2# Một đời đáng giá đừng sống qua loa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-03.mp3",
+    "title" : "3# Một đời đáng giá đừng sống qua loa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-04.mp3",
+    "title" : "4# Một đời đáng giá đừng sống qua loa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-05.mp3",
+    "title" : "5# Một đời đáng giá đừng sống qua loa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-06.mp3",
+    "title" : "6# Một đời đáng giá đừng sống qua loa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-07.mp3",
+    "title" : "7# Một đời đáng giá đừng sống qua loa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-08.mp3",
+    "title" : "8# Một đời đáng giá đừng sống qua loa - Dấu chân trường thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-09.mp3",
+    "title" : "9# Một đời đáng giá đừng sống qua loa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-doi-01/mot-doi-10.mp3",
+    "title" : "10# Một đời đáng giá đừng sống qua loa",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

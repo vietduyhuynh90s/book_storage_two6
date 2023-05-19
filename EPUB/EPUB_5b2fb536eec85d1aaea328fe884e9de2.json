@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cau-chuyen-tu-trai-tim_20230.html",
+    "title" : "Câu Chuyện Từ Trái Tim",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 18222,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_5b2fb536eec85d1aaea328fe884e9de2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_5b2fb536eec85d1aaea328fe884e9de2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cau-chuyen-2/cau-chuyen-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3648,
+    "title" : "cau-chuyen-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-chuyen-2/cau-chuyen-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "cau-chuyen-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-chuyen-2/cau-chuyen-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "cau-chuyen-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-chuyen-2/cau-chuyen-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "cau-chuyen-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-chuyen-2/cau-chuyen-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3594,
+    "title" : "cau-chuyen-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cau-chuyen-2/cau-chuyen-1.mp3",
+    "title" : "cau-chuyen-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-chuyen-2/cau-chuyen-2.mp3",
+    "title" : "cau-chuyen-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-chuyen-2/cau-chuyen-3.mp3",
+    "title" : "cau-chuyen-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-chuyen-2/cau-chuyen-4.mp3",
+    "title" : "cau-chuyen-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-chuyen-2/cau-chuyen-5.mp3",
+    "title" : "cau-chuyen-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
