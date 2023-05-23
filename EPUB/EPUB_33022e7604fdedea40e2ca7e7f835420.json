@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-sam-hoi-1.html",
+    "title" : "KINH SÁM HỐI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đạo Cao Đài",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>KINH SÁM HỐI (1) Cuộc danh lợi là phần thưởng quí, Đấng Hóa Công xét kỹ ban ơn. Lòng đừng so thiệt tính hơn, Ngày đêm than thở dạ hờn ích chi. Người sang cả là vì duyên trước, Kẻ không phần luống ước cầu may. Sang giàu chẳng khác như mây, Khi tan khi hiệp đổi xây không thường. Việc sanh tử như dường chớp nháng, Bóng quang âm ngày tháng dập dồn. Giữ cho trong sạch linh hồn, Rèn lòng sửa nết đức tồn hậu lai. Điều họa phước không hay tìm tới, Tại mình dời nên mới theo mình. Cũng như bóng nọ tùy hình, ` Dữ lành hai lẽ công bình thưởng răn. Khi vận thới lung lăng chẳng kể, Lúc suy vi bày lễ khẩn cầu. Sao bằng ở phải buổi đầu, Thần minh chánh trực có đâu tư vì. Người làm phước có khi mắc nạn, Kẻ lăng loàn đặng mạng giàu sang. Ấy là nợ trước còn mang,</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_33022e7604fdedea40e2ca7e7f835420.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_33022e7604fdedea40e2ca7e7f835420.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1-kinh-sam-hoi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1-kinh-sam-hoi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
