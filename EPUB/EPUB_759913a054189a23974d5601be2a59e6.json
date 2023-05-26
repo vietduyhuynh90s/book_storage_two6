@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/quyen-nang-tu-tuong-959.html",
+    "title" : "QUYỀN NĂNG TƯ TƯỞNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Annie Besant",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC LỜI NÓI ĐẦU... 1 QUYỀN NĂNG TƯ TƯỞNG, SỰ KIỂM SOÁT VÀ LUYỆN TẬP... 2 DẪN NHẬP. 2 CHỦ THỂ NHẬN BIẾT tức CÁI ‘’NGÃ’’. 3 SỰ NHẬN BIẾT... 6 CHƯƠNG 1... 8 BẢN CHẤT CỦA TƯ TƯỞNG... 8 CHƯƠNG 2. 14 KẺ TẠO RA ẢO TƯỞNG. 14 HẠ TRÍ VÀ MANAS. 17 SỰ KIẾN TẠO VÀ PHÁT TRIỂN THỂ TRÍ. 18 CHƯƠNG 3. 22 CHUYỂN DI TƯ TƯỞNG. 22 CHƯƠNG 4. 26 NGUỒN GỐC CỦA TƯ TƯỞNG.. 26 SỰ LIÊN HỆ GIỮA CẢM GIÁC VÀ TƯ TƯỞNG. 28 CHƯƠNG 5. 32 TRÍ NHỚ.. 32 BẢN CHẤT CỦA TRÍ NHỚ.. 32 KÉM TRÍ NHỚ... 33 TRÍ NHỚ VÀ SỰ ĐOÁN TRƯỚC... 36 CHƯƠNG 6. 38 ii SỰ PHÁT TRIỂN CỦA TƯ TƯỞNG.. 38 GIÁ TRỊ CỦA SỰ QUAN SÁT. 38 SỰ PHÁT TRIỂN NHỮNG QUAN NĂNG TINH THẦN... 42 LUYỆN TRÍ. 43 SỰ KẾT GIAO VỚI NHỮNG BẬC CAO CẢ. 44 CHƯƠNG 7. 47 ĐỊNH TRÍ. 47 NƠI NÀO CÓ SỰ VẬT, NƠI ẤY CÓ “Ý THỨC”.. 51 PHƯƠNG PHÁP ĐỊNH TRÍ... 54 CHƯƠNG 8. 57 NHỮNG TRỞ NGẠI TRONG VIỆC ĐỊNH TRÍ... 57 CÁI TRÍ ĐI LANG THANG... 57 NHỮNG ĐIỀU NGUY HIỂM TRONG VIỆC ĐỊNH TRÍ.. 60 THAM THIỀN.. 63 CHƯƠNG 9. 65 TĂNG CƯỜNG QUYỀN NĂNG TƯ TƯỞNG... 65 Ý NGHĨA VÀ PHƯƠNG PHÁP DIỆT TRỪ SỰ LO LẮNG.. 67 SUY TƯỞNG VÀ CHẤM DỨT SUY TƯỞNG... 70 BÍ QUYẾT CỦA CÁI TRÍ BÌNH AN.. 72 CHƯƠNG 10.. 74 GIÚP NGƯỜI BẰNG TƯ TƯỞNG... 74 GIÚP ĐỠ NGƯỜI ĐÃ CHẾT. 76 SINH HOẠT CỦA TƯ TƯỞNG TRONG GIẤC NGỦ... 77 SỨC MẠNH CỦA SỰ KẾT HỢP TƯ TƯỞNG. 79 LỜI CUỐI. 81 HỘI THÔNG THIÊN HỌC CÓ BA MỤC ĐÍCH. CHÂN THÀNH TRI ÂN</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_759913a054189a23974d5601be2a59e6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_759913a054189a23974d5601be2a59e6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/959-quyen-nang-tu-tuong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/959-quyen-nang-tu-tuong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/huyen-thuat-va-cac-dao-si-tay-tang-622.html",
+    "title" : "HUYỀN THUẬT VÀ CÁC ĐẠO SĨ TÂY TẠNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alexandra David Neel",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC Lời giới thiệu Chương 1 - Các tu sĩ huyền môn Chương 2 - Đường vào Tây Tạng Chương 3 - Huyền thuật và ma thuật Chương 4 - Các vị tổ Mật Tông Chương 5 - Các bộ môn huyền thuật khác Chương 6 - Lý thuyết và thực hành Lời kết Lời giới thiệu Ngày nay, có lẽ Tây Tạng không còn là một nơi chốn huyền bí, lạ lùng nữa. Người ta có thể du lịch đến thủ đô Lhasa một cách tương đối dễ dàng, nhưng Tây Tạng ngày nay không còn như Tây Tạng cách đây nửa thế kỷ. Trước khi qua Tây Tạng, tác giả cuốn sách này, bà David Neel đã là một học giả nổi tiếng về Phật học. Bà nhận thấy truyền thống Phật giáo dù theo Tiểu thừa hay Đại thừa vẫn có những điểm tương đồng, nhưng truyền thống Phật giáo tại Tây Tạng lại dường như khác hẳn nên bà quyết định qua xứ này nghiên cứu, tìm hiểu thêm. Tây Tạng khi đó đang ở trong tình trạng giao thời với nhiều biến động chính trị. Mặc dù quân đội Anh vừa xâm lăng, bắt buộc xứ này phải thông thương với ngoại quốc, nhưng người Tây Tạng vẫn giữ thái độ thù nghịch với tất cả những gì đến từ bên ngoài. Tuy chính sách bế quan tỏa cảng đã bị loại bỏ nhưng nó vẫn được thi hành có phần chặt chẽ hơn. Trong cuốn Đường mây qua xứ tuyết, bạn đọc đã theo dõi một tu sĩ Phật giáo, Lạt Ma Govinda, đi khắp Tây Tạng sưu tầm kinh điển, tranh ảnh và học đạo, thì trong cuốn Huyền thuật và các đạo sĩ Tây Tạng, xin mời bạn đọc theo dõi cuộc hành trình của bà Alexandra David Neel, một phụ nữ Pháp, đi khắp xứ này với mục đích tìm hiểu và ghi nhận những sự kiện lạ lùng, huyền bí mà chưa một người ngoại quốc nào được chứng kiến. Không giống như Lạt Ma Govinda chỉ chú trọng vào những tài liệu, kinh điển Phật giáo, bà David Neel đã quan sát tất cả các phép thuật huyền bí, phương pháp tu luyện lạ lùng của nhiều tôn giáo khác nhau. - Nguyên Phong</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_787ea26440dd45ab3a94d60f0ab58bb0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_787ea26440dd45ab3a94d60f0ab58bb0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/622-huyen-thuat-va-cac-dao-si-tay-tang-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Chương 1: Các Tu Sĩ Huyền Môn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/622-huyen-thuat-va-cac-dao-si-tay-tang-thuviensach.vn.mp3?t=3971",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:06:11 Chương 2: Đường Vào Tây Tạng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/622-huyen-thuat-va-cac-dao-si-tay-tang-thuviensach.vn.mp3?t=8476",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:21:16 Chương 3: Huyền Thuật Và Ma Thuật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/622-huyen-thuat-va-cac-dao-si-tay-tang-thuviensach.vn.mp3?t=11136",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:05:36 Chương 4: Các Vị Tổ Mật Tông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/622-huyen-thuat-va-cac-dao-si-tay-tang-thuviensach.vn.mp3?t=13582",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:46:22 Chương 5: Các Bộ Môn Huyền Thuật Khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/622-huyen-thuat-va-cac-dao-si-tay-tang-thuviensach.vn.mp3?t=16900",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:41:40 Chương 6: Lý Thuyết Và Thực Hành",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/622-huyen-thuat-va-cac-dao-si-tay-tang-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Chương 1: Các Tu Sĩ Huyền Môn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/622-huyen-thuat-va-cac-dao-si-tay-tang-thuviensach.vn.mp3?t=3971",
+    "title" : "01:06:11 Chương 2: Đường Vào Tây Tạng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/622-huyen-thuat-va-cac-dao-si-tay-tang-thuviensach.vn.mp3?t=8476",
+    "title" : "02:21:16 Chương 3: Huyền Thuật Và Ma Thuật",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/622-huyen-thuat-va-cac-dao-si-tay-tang-thuviensach.vn.mp3?t=11136",
+    "title" : "03:05:36 Chương 4: Các Vị Tổ Mật Tông",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/622-huyen-thuat-va-cac-dao-si-tay-tang-thuviensach.vn.mp3?t=13582",
+    "title" : "03:46:22 Chương 5: Các Bộ Môn Huyền Thuật Khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/622-huyen-thuat-va-cac-dao-si-tay-tang-thuviensach.vn.mp3?t=16900",
+    "title" : "04:41:40 Chương 6: Lý Thuyết Và Thực Hành",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

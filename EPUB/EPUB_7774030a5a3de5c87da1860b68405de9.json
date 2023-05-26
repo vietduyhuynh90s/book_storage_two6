@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/10-nghich-ly-cuoc-song-7931.html",
+    "title" : "10 NGHỊCH LÝ CUỘC SỐNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kent M. Keith Ph. D.",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>\"Cuộc sống chúng ta luôn có những nghịch lý - những người bản lĩnh và cao thượng luôn biết chấp nhận và vượt lên những nghịch lý đó.\" Tác phẩm nổi tiếng Anyway - 10 nghịch lý cuộc sống của Tiến sĩ Kent Keith đã trở thành một cuốn sách kinh điển và được bạn đọc trên thế giới yêu thích về sự độc đáo và thẳng thắn về trải nghiệm cuộc sống. Cuốn sách liên tục được bình chọn là một trong những tác phẩm bán chạy nhất nhiều năm liền và đã được dịch sang nhiều ngôn ngữ. Điểm đặc biệt nhất của Anyway chính là ý nghĩa sâu sắc và thực tế của tác phẩm đã tác động đến nhiều đối tượng độc giả khác nhau, mang lại những khoảng lặng cần thiết để suy nghĩ về một cách sống cao thượng và hết mình. Tác giả Kent Keith chính là một minh chứng cụ thể và xác thực cho cách sống này. Ông đã viết và dành cả cuộc đời mình để chứng minh cho những chân lý đó.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_7774030a5a3de5c87da1860b68405de9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_7774030a5a3de5c87da1860b68405de9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7931-10-nghich-ly-cuoc-song-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7931-10-nghich-ly-cuoc-song-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

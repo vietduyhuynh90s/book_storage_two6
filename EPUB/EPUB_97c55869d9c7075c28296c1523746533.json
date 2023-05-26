@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dia-do-di-cot-9372.html",
+    "title" : "ĐỊA ĐỒ DI CỐT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "James Rollins",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Là bậc thầy của loại tiểu thuyết bán chạy, James Rollins đã cho ra mắt một cuốn sách hấp dẫn đến nghẹt thở trong từng trang viết - một tác phẩm văn học độc đáo mô tả âm mưu làm sống lại một kế hoạch từ thuở xa xưa, hòng tạo ra một trật tự thế giới mới khủng khiếp từ tro tàn của nền văn minh hiện đại. Tội ác này thật tàn độc mà những hệ quả khủng khiếp của nó con người chưa từng nghĩ đến và cũng không thể tránh được. Trong một buổi hành lễ tại nhà thờ Cologne, nước Đức, một nhóm vũ trang khoác áo thầy tu đã dựng nên một cơn ác mộng bằng máu cùng nỗi sợ hãi, chúng lạnh lùng xả súng bắn chết tất cả người đi lễ và ling mục. Những kẻ sát nhân đến không phải để cướp đi một tác phẩm nghệ thuật độc đáo bằng vàng mà là một báu vật vô giá cất giấu bên trong: Di cốt của ba vị Tiên tri, những người đã từng đến viếng đức chúa Hài đồng. Khi tẩu thoát khỏi nơi gây ra tội ác, bọn chúng đã mang đi thứ báu vật có thể định hình lại cả thế giới. Vatican ở trong cơn hoảng loạn. Không tổ chức cảnh sát nào một mình có thể xử lý được vụ cướp và thảm sát kỳ quặc này… Rồi, với sự tham gia của lực lượng Sigma - một nhánh công khai gồm các chuyên gia tinh nhuệ Mỹ - đã được điều động dưới sự chỉ huy của Grayson Pierce. Dù là người mới gia nhập Sigma, nhưng Pierce đã tập hợp được quanh mình một ê-kíp gồm các điệp viên khoa học và lực lượng đặc biệt để gỡ bỏ màn bí mật về chỗ di cốt bị đánh cắp, cùng nhau đi suốt một chặng đường quanh co đầy chông gai với tầng tầng lớp lớp dấu vết và sự thật đen tối để cuối cùng đưa họ tới bảy kỳ quan thế giới… Tập hợp các đệ của thuyết giả kim và các tên sát nhân, những kẻ vạch chiến lược bậc thầy của Long Đình đã lập ra kế hoạch để biến chỗ di cốt thiêng liêng đó hòng thay đổi tương lai của cả nhân loại vốn chỉ có những đầu óc bẩn thỉu và điên rồ nhất mới có thể nghĩ ra… bọn chúng không từ bỏ điều gì, sẵn sàng loại bỏ bất cứ ai ngăn đường chúng. Rồi bỗng nhiên, Pierce, Verona và cả nhóm Sigma từ những người đi săn trở thành kẻ bị săn đuổi, buộc phải sử dụng mọi năng lực vốn có để có thể sống sót trong khi bám đuổi dấu vết chỗ di cốt hòng đến được cuộc đối đầu cùng giữa bóng tối và ánh sáng ở một nơi bị lịch sử quên lãng, nơi mà khoa học và tôn giáo hợp lại để gieo rắc nỗi kinh hoàng chưa từng có trong kỷ nguyên loài người. Một tiểu thuyết bậc thầy gồm cả sự huyền bí đầy hấp dẫn của Mật mã Da Vinci với lối hành văn hấp dẫn của tiểu thuyết gia trinh thám kiểu Tom Clancy, “Địa đồ di cốt” của James Rollins được đánh giá là một cuốn tiểu thuyết kinh điển.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_97c55869d9c7075c28296c1523746533.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_97c55869d9c7075c28296c1523746533.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Địa Đồ Di Cốt - 1/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=2105",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:35:05 Địa Đồ Di Cốt - 2/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=5376",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:29:36 Địa Đồ Di Cốt - 3/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=9023",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:30:23 Địa Đồ Di Cốt - 4/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=11627",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:13:47 Địa Đồ Di Cốt - 5/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=15686",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:21:26 Địa Đồ Di Cốt - 6/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=19812",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:30:12 Địa Đồ Di Cốt - 7/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=23209",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:26:49 Địa Đồ Di Cốt - 8/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=26517",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:21:57 Địa Đồ Di Cốt - 9/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=29764",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:16:04 Địa Đồ Di Cốt - 10/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=32358",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:59:18 Địa Đồ Di Cốt - 11/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=35597",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:53:17 Địa Đồ Di Cốt - 12/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=39241",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:54:01 Địa Đồ Di Cốt - 13/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=42826",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:53:46 Địa Đồ Di Cốt - 14/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=46440",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:54:00 Địa Đồ Di Cốt - 15/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=59901",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:38:21 Địa Đồ Di Cốt - 16/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=63743",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:42:23 Địa Đồ Di Cốt - 17/18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=67282",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:41:22 Địa Đồ Di Cốt - 18/18",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Địa Đồ Di Cốt - 1/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=2105",
+    "title" : "00:35:05 Địa Đồ Di Cốt - 2/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=5376",
+    "title" : "01:29:36 Địa Đồ Di Cốt - 3/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=9023",
+    "title" : "02:30:23 Địa Đồ Di Cốt - 4/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=11627",
+    "title" : "03:13:47 Địa Đồ Di Cốt - 5/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=15686",
+    "title" : "04:21:26 Địa Đồ Di Cốt - 6/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=19812",
+    "title" : "05:30:12 Địa Đồ Di Cốt - 7/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=23209",
+    "title" : "06:26:49 Địa Đồ Di Cốt - 8/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=26517",
+    "title" : "07:21:57 Địa Đồ Di Cốt - 9/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=29764",
+    "title" : "08:16:04 Địa Đồ Di Cốt - 10/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=32358",
+    "title" : "08:59:18 Địa Đồ Di Cốt - 11/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=35597",
+    "title" : "09:53:17 Địa Đồ Di Cốt - 12/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=39241",
+    "title" : "10:54:01 Địa Đồ Di Cốt - 13/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=42826",
+    "title" : "11:53:46 Địa Đồ Di Cốt - 14/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=46440",
+    "title" : "12:54:00 Địa Đồ Di Cốt - 15/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=59901",
+    "title" : "16:38:21 Địa Đồ Di Cốt - 16/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=63743",
+    "title" : "17:42:23 Địa Đồ Di Cốt - 17/18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9372-dia-do-di-cot-thuviensach.vn.mp3?t=67282",
+    "title" : "18:41:22 Địa Đồ Di Cốt - 18/18",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

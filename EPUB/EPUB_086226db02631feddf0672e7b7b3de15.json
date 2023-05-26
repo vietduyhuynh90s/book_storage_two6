@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cau-chuyen-linh-hon-13532.html",
+    "title" : "CÂU CHUYỆN LINH HỒN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tim Freke",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Xã hội đương đại đang trải qua một cuộc khủng hoảng linh hồn”, hình thành từ sự trỗi dậy của khoa học “cứng đầu” và sự lụi tàn của tôn giáo lỗi thời. Cuối cùng, con người chúng ta bị bỏ mặc cho trôi dạt trong một vũ trụ vô nghĩa. Triết gia tiên phong Tim Freke đã đề ra phương án thay thế đầy táo bạo cho thế giới quan ảm đạm này, bằng cách thúc đẩy sự chuyển đổi lý trí trong những hiểu biết của ta về khoa học và tâm linh. Ông khai phá thứ triết học mới mẻ và gọi đó là “Tâm linh hiện khởi”. Nó là sự kết hợp giữa quan điểm đột phá dựa trên học thuyết tiến hóa khoa học và sự thông hiểu mới mẻ về các nội tại tâm linh bất diệt</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_086226db02631feddf0672e7b7b3de15.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_086226db02631feddf0672e7b7b3de15.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13532-cau-chuyen-linh-hon-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13532-cau-chuyen-linh-hon-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

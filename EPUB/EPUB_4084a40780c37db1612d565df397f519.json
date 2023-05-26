@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bien-xanh-mau-la-13559.html",
+    "title" : "BIỂN XANH MÀU LÁ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Xuân Thủy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tiểu thuyết \"Biển xanh màu lá\" viết về số phận của cán bộ, chiến sĩ, quân dân đang sinh sống, làm việc và bảo vệ vùng đất thiêng Trường Sa, Hoàng Sa. Chúng ta gọi những con người bình dị, quả cảm ấy bằng cái tên chung: quân dân. Bởi ngoài những người lính biển, còn có cả những người dân đảo. Nhà văn Nguyễn Xuân Thủy đã nhiều năm là lính Trường Sa. Có thể xem cuốn tiểu thuyết này như những trang nhật ký của chính cuộc đời anh. Câu chuyện bắt đầu từ khi Phương, một chiến sĩ tân binh ra đảo nhận nhiệm vụ và kết thúc khi Phương trở lại đất liền. Thời gian gói gọn trong hai năm, là một khóa nghĩa vụ quân sự. Tác giả không dùng bất cứ một mẹo mực kỹ xảo nào của nghệ thuật tiểu thuyết. Câu chuyện cũng chẳng có gì éo le, gay cấn, mà rất bình dị. Bình dị như chính đời sống hàng ngày ở trên đảo. Cảm giác như Nguyễn Xuân Thủy cứ xắn từng mảng đời sống vật lên trang giấy mà không cần phải chọn lọc, hư cấu. Vì thế cuốn sách lại có sức hấp dẫn riêng. Đó chính là vẻ đẹp của sự chân thật.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_4084a40780c37db1612d565df397f519.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_4084a40780c37db1612d565df397f519.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Biển Xanh Màu Lá - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=1677",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:27:57 Biển Xanh Màu Lá - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=3380",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:56:20 Biển Xanh Màu Lá - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=5063",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:24:23 Biển Xanh Màu Lá - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=6727",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:52:07 Biển Xanh Màu Lá - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=8410",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:20:10 Biển Xanh Màu Lá - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=9956",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:45:56 Biển Xanh Màu Lá - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=11638",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:13:58 Biển Xanh Màu Lá - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=13319",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:41:59 Biển Xanh Màu Lá - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=14904",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:08:24 Biển Xanh Màu Lá - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=16513",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:35:13 Biển Xanh Màu Lá - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=18147",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:02:27 Biển Xanh Màu Lá - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=19792",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:29:52 Biển Xanh Màu Lá - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=21323",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:55:23 Biển Xanh Màu Lá - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=22892",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:21:32 Biển Xanh Màu Lá - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=24497",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:48:17 Biển Xanh Màu Lá - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=26107",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:15:07 Biển Xanh Màu Lá - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=27782",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:43:02 Biển Xanh Màu Lá - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=29389",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:09:49 Biển Xanh Màu Lá - Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=31015",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:36:55 Biển Xanh Màu Lá - Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=32672",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:04:32 Biển Xanh Màu Lá - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=34326",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:32:06 Biển Xanh Màu Lá - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=35980",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:59:40 Biển Xanh Màu Lá - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=37497",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:24:57 Biển Xanh Màu Lá - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Biển Xanh Màu Lá - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=1677",
+    "title" : "00:27:57 Biển Xanh Màu Lá - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=3380",
+    "title" : "00:56:20 Biển Xanh Màu Lá - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=5063",
+    "title" : "01:24:23 Biển Xanh Màu Lá - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=6727",
+    "title" : "01:52:07 Biển Xanh Màu Lá - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=8410",
+    "title" : "02:20:10 Biển Xanh Màu Lá - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=9956",
+    "title" : "02:45:56 Biển Xanh Màu Lá - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=11638",
+    "title" : "03:13:58 Biển Xanh Màu Lá - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=13319",
+    "title" : "03:41:59 Biển Xanh Màu Lá - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=14904",
+    "title" : "04:08:24 Biển Xanh Màu Lá - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=16513",
+    "title" : "04:35:13 Biển Xanh Màu Lá - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=18147",
+    "title" : "05:02:27 Biển Xanh Màu Lá - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=19792",
+    "title" : "05:29:52 Biển Xanh Màu Lá - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=21323",
+    "title" : "05:55:23 Biển Xanh Màu Lá - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=22892",
+    "title" : "06:21:32 Biển Xanh Màu Lá - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=24497",
+    "title" : "06:48:17 Biển Xanh Màu Lá - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=26107",
+    "title" : "07:15:07 Biển Xanh Màu Lá - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=27782",
+    "title" : "07:43:02 Biển Xanh Màu Lá - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=29389",
+    "title" : "08:09:49 Biển Xanh Màu Lá - Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=31015",
+    "title" : "08:36:55 Biển Xanh Màu Lá - Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=32672",
+    "title" : "09:04:32 Biển Xanh Màu Lá - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=34326",
+    "title" : "09:32:06 Biển Xanh Màu Lá - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=35980",
+    "title" : "09:59:40 Biển Xanh Màu Lá - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13559-bien-xanh-mau-la-thuviensach.vn.mp3?t=37497",
+    "title" : "10:24:57 Biển Xanh Màu Lá - Phần 24",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

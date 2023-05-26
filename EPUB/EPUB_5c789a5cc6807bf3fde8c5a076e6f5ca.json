@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/an-lac-tu-tam-611.html",
+    "title" : "AN LẠC TỪ TÂM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Thánh Nghiêm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC Lời giới thiệu Chương 1: Bạn có hạnh phúc không? Chương 2: Khổ đau là gì? Chương 3: Làm thế nào để đối diện với sinh tử- hợp tan Chương 4: Tìm được điểm khởi đầu của hạnh phúc Chương 5: Chuyển hóa cảm nhận chủ quan Chương 6: Tìm được hạnh phúc vô thường chính là sự vĩnh hằng bất biến Lời giới thiệu Con người có thể hạnh phúc, tươi vui mãi, không chút phiền não được không? Đương nhiên đó chỉ là điều không tưởng. Vì người đang yêu lo sợ đánh mất người yêu, người có tiền sợ mất của, người đắc ý sợ ngày bất đắc chí... Nhưng rốt cục có “hạnh phúc đích thực” hay không? Liệu con người có thể sống mãi trong niềm tin, hy vọng và không bao giờ thất vọng? Hòa thượng Thánh Nghiêm sẽ nghiên cứu, xem xét các khía cạnh khách quan khiến con người không được hạnh phúc như: cái khổ của sinh, của già, của bệnh, của chết, của oán thù gặp gỡ, của ân ái biệt li, của phiền muộn do thân tâm mang lại và ngài sẽ từng bước dẫn dắt chúng ta vượt lên lớp lớp mây mù gây nên đau khổ; không những cho chúng ta biết lí do tại sao con người đau khổ mà còn chỉ rõ cho chúng ta hướng đi tìm “hạnh phúc đích thực”. Những lời khai ngộ vàng ngọc của hòa thượng Thánh Nghiêm sẽ cho chúng ta thấy hạnh phúc không đơn thuần chỉ là những phản ứng tâm lí đối với ngoại cảnh mà nó có được do sức mạnh của tâm từ bi và ánh sáng trí tuệ soi đường giúp chúng ta có thái độ sống tốt đẹp.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_5c789a5cc6807bf3fde8c5a076e6f5ca.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_5c789a5cc6807bf3fde8c5a076e6f5ca.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/611-an-lac-tu-tam-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/611-an-lac-tu-tam-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

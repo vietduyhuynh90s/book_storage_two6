@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ai-cap-huyen-bi-961.html",
+    "title" : "AI CẬP HUYỀN BÍ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Paul Brunton",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Chương 1: Một Đêm Với Thần Tượng Sphinx Chương 2: Thần Canh Giữ Sa Mạc Chương 3: Ngọn Kim Tự Tháp Chương 4: Một Đêm Trong Kim Tự Tháp Chương 5: Nhà Phù Thủy Thành Cairo Chương 6: Niềm An Tĩnh Của Thánh Địa Abydos Chương 7: Lễ Điểm Đạo Huyền Bí Trong Đền Cổ Ai Cập Chương 8: Khoa Huyền Môn Thời Cổ Chương 9: Ngôi Đền Denderad Chương 10: Bí Mật Của Những Kỳ Quan Karnak Chương 11: Tôi Gặp Một Vị Chân Sư Chương 12: Thông Điệp Của Chân Sư</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_b44bf1650370646546af737b8d85c5f1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_b44bf1650370646546af737b8d85c5f1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/961-ai-cap-huyen-bi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/961-ai-cap-huyen-bi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

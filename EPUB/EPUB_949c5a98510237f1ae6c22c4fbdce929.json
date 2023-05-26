@@ -1,0 +1,605 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tuyen-tap-truyen-ngan-hay-viet-nam-13545.html",
+    "title" : "TUYỂN TẬP TRUYỆN NGẮN HAY VIỆT NAM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mỗi tác giả một giọng điệu. Mỗi tác phẩm là một không gian nghệ thuật phản ánh sinh động đời sống con người Việt Nam ở khắp địa bàn trong nước và cả nước ngoài. Đặc biệt, phần tự bạch của tác giả sẽ hé mở cho bạn đọc những thông tin thú vị về hoàn cảnh ra đời của truyện, tâm trạng của nhà văn khi thai nghén tác phẩm, sự trăn trở về cuộc sống, những suy ngẫm về văn hóa, gia đình, tình yêu, quan niệm lao động nghệ thuật...</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_949c5a98510237f1ae6c22c4fbdce929.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_949c5a98510237f1ae6c22c4fbdce929.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 A & Tôi & D (Tiến Đạt)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=1020",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:17:00 Ánh Trăng Treo Trên Ô Cửa Toa Tàu (Văn Thành Lê)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=2150",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:35:50 Bé Ngân (Văn Giá)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=3340",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:55:40 Bữa Tiệc Đêm Cuối Năm (Di Li)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=5647",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:34:07 Cá Chép (Lưu Quang Minh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=6444",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:47:24 Cánh Ban Bay Trong Gió (Dương Thùy)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=7675",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:07:55 Cát Sê Của Vip (Nguyễn Phương Liên)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=8455",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:20:55 Chữ Chết (Lê Bảo Chi)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=9351",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:35:51 Chùa Cổ (Phạm Thị Thúy Quỳnh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=10548",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:55:48 Chuyện Ngày Tết)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=11098",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:04:58 Dép Không Đôi (Tru Sa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=11982",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:19:42 Điện Thoại Đường Dài (Trương Quế Chi)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=13336",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:42:16 Gió Sông Hàn (Kiều Bích Hậu)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=15056",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:10:56 Giữa Cơn Mưa Trắng Xoá (Niê Thanh Mai)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=17813",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:56:53 Góc Rừng (Niê Thanh Mai)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=18606",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:10:06 Hạnh Phúc Có Thật (Trầm Nguyên Ý Anh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=19684",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:28:04 Hội Ngộ (Võ Thị Hảo (Vtc Sách Hay.mp3\"",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=21083",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:51:23 Hồn Piêu (Kiều Duy Khánh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=22947",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:22:27 Kẻ Tống Tình)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=24133",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:42:13 Không Đầu, Không Cuối, Không Biết Tại Sao (Nguyễn Thị Thu Huệ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=25486",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:04:46 Kiều Mạch Trắng (Tống Ngọc Hân)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=27329",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:35:29 Lá Lỗ (A Kiều)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=28187",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:49:47 Lấy Chồng Khác Làng (Tô Hoài)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=29111",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:05:11 Lều Cỏ Mục Đồng (Phạm Thanh Thúy)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=30272",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:24:32 Lộc Giả (Y Ban)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=31463",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:44:23 Ngõ Hy Vọng (Đỗ Phấn)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=32652",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:04:12 Người Đàn Bà Đợi Mưa (Đỗ Tiến Thụy)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=33732",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:22:12 Những Con Thú Trong Đoàn Xiếc (Hoàng Hải Lâm)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=34614",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:36:54 Những Mảnh Ghép (Trần Mỹ Hiền)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=36548",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:09:08 Những Ngày Xa Xưa (Ma Văn Kháng)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=38732",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:45:32 Những Viên Bi Tuổi Thơ (An Hạ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=39617",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:00:17 Nước Mắt Đàn Ông (Trần Thanh Cảnh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=41209",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:26:49 Ơi Những Chú Ngựa Bất Kham (Y Ban)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=42110",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:41:50 Phố Cối (Vũ Thanh Lịch)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=43579",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:06:19 Rượu Mai (Nguyễn Mỹ Nữ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=44640",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:24:00 Trùng Trùng Điệp Điệp (Nguyễn Việt Hà)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=45586",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:39:46 Tường (Chu Thùy Anh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=46383",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:53:03 Vàng Son Thạch Thủy Khí (Võ Thị Xuân Hà)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=49029",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:37:09 Về Đêm (Hoàng Hải Lâm)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=50181",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:56:21 Vợ Chồng Nhà Kiến (Trung Trung Đỉnh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=51592",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:19:52 Vòm Trời Của Mẹ (Vũ Thanh Lịch)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=52442",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:34:02 Vọng Trắng (Nguyễn Quang Lập)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=54044",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:00:44 Vứt Tốt Sang Sông (Trang Hạ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=55547",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:25:47 Xanh - Chẳng Hẳn Là Chuyện Tình (Chu Thùy Anh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=56249",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:37:29 Xanh - Mèo Mướp (Chu Thùy Anh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=56871",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:47:51 Xanh - Ngủ Trưa (Chu Thùy Anh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=57609",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:00:09 Xanh - Về Nhà (Chu Thùy Anh)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 A & Tôi & D (Tiến Đạt)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=1020",
+    "title" : "00:17:00 Ánh Trăng Treo Trên Ô Cửa Toa Tàu (Văn Thành Lê)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=2150",
+    "title" : "00:35:50 Bé Ngân (Văn Giá)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=3340",
+    "title" : "00:55:40 Bữa Tiệc Đêm Cuối Năm (Di Li)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=5647",
+    "title" : "01:34:07 Cá Chép (Lưu Quang Minh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=6444",
+    "title" : "01:47:24 Cánh Ban Bay Trong Gió (Dương Thùy)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=7675",
+    "title" : "02:07:55 Cát Sê Của Vip (Nguyễn Phương Liên)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=8455",
+    "title" : "02:20:55 Chữ Chết (Lê Bảo Chi)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=9351",
+    "title" : "02:35:51 Chùa Cổ (Phạm Thị Thúy Quỳnh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=10548",
+    "title" : "02:55:48 Chuyện Ngày Tết)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=11098",
+    "title" : "03:04:58 Dép Không Đôi (Tru Sa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=11982",
+    "title" : "03:19:42 Điện Thoại Đường Dài (Trương Quế Chi)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=13336",
+    "title" : "03:42:16 Gió Sông Hàn (Kiều Bích Hậu)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=15056",
+    "title" : "04:10:56 Giữa Cơn Mưa Trắng Xoá (Niê Thanh Mai)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=17813",
+    "title" : "04:56:53 Góc Rừng (Niê Thanh Mai)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=18606",
+    "title" : "05:10:06 Hạnh Phúc Có Thật (Trầm Nguyên Ý Anh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=19684",
+    "title" : "05:28:04 Hội Ngộ (Võ Thị Hảo (Vtc Sách Hay.mp3\"",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=21083",
+    "title" : "05:51:23 Hồn Piêu (Kiều Duy Khánh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=22947",
+    "title" : "06:22:27 Kẻ Tống Tình)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=24133",
+    "title" : "06:42:13 Không Đầu, Không Cuối, Không Biết Tại Sao (Nguyễn Thị Thu Huệ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=25486",
+    "title" : "07:04:46 Kiều Mạch Trắng (Tống Ngọc Hân)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=27329",
+    "title" : "07:35:29 Lá Lỗ (A Kiều)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=28187",
+    "title" : "07:49:47 Lấy Chồng Khác Làng (Tô Hoài)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=29111",
+    "title" : "08:05:11 Lều Cỏ Mục Đồng (Phạm Thanh Thúy)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=30272",
+    "title" : "08:24:32 Lộc Giả (Y Ban)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=31463",
+    "title" : "08:44:23 Ngõ Hy Vọng (Đỗ Phấn)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=32652",
+    "title" : "09:04:12 Người Đàn Bà Đợi Mưa (Đỗ Tiến Thụy)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=33732",
+    "title" : "09:22:12 Những Con Thú Trong Đoàn Xiếc (Hoàng Hải Lâm)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=34614",
+    "title" : "09:36:54 Những Mảnh Ghép (Trần Mỹ Hiền)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=36548",
+    "title" : "10:09:08 Những Ngày Xa Xưa (Ma Văn Kháng)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=38732",
+    "title" : "10:45:32 Những Viên Bi Tuổi Thơ (An Hạ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=39617",
+    "title" : "11:00:17 Nước Mắt Đàn Ông (Trần Thanh Cảnh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=41209",
+    "title" : "11:26:49 Ơi Những Chú Ngựa Bất Kham (Y Ban)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=42110",
+    "title" : "11:41:50 Phố Cối (Vũ Thanh Lịch)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=43579",
+    "title" : "12:06:19 Rượu Mai (Nguyễn Mỹ Nữ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=44640",
+    "title" : "12:24:00 Trùng Trùng Điệp Điệp (Nguyễn Việt Hà)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=45586",
+    "title" : "12:39:46 Tường (Chu Thùy Anh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=46383",
+    "title" : "12:53:03 Vàng Son Thạch Thủy Khí (Võ Thị Xuân Hà)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=49029",
+    "title" : "13:37:09 Về Đêm (Hoàng Hải Lâm)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=50181",
+    "title" : "13:56:21 Vợ Chồng Nhà Kiến (Trung Trung Đỉnh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=51592",
+    "title" : "14:19:52 Vòm Trời Của Mẹ (Vũ Thanh Lịch)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=52442",
+    "title" : "14:34:02 Vọng Trắng (Nguyễn Quang Lập)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=54044",
+    "title" : "15:00:44 Vứt Tốt Sang Sông (Trang Hạ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=55547",
+    "title" : "15:25:47 Xanh - Chẳng Hẳn Là Chuyện Tình (Chu Thùy Anh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=56249",
+    "title" : "15:37:29 Xanh - Mèo Mướp (Chu Thùy Anh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=56871",
+    "title" : "15:47:51 Xanh - Ngủ Trưa (Chu Thùy Anh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13545-tuyen-tap-truyen-ngan-hay-viet-nam-thuviensach.vn.mp3?t=57609",
+    "title" : "16:00:09 Xanh - Về Nhà (Chu Thùy Anh)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

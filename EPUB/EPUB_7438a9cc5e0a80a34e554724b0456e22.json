@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dam-uoc-mo-701.html",
+    "title" : "DÁM ƯỚC MƠ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Florence Littauer",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Rất nhiều người ngỡ rằng ước mơ là những gì xa xôi, ngoài tầm tay với; là những viễn cảnh xa rời thực tại; là kết quả của sự thăng hoa từ cảm xúc và trí tưởng tượng của những người có tâm hồn lãng mạn. Thậm chí, có người còn cho rằng ước mơ chỉ là suy nghĩ viển vông của những ai không có động lực phấn đấu, của những người ngồi đung đưa trên chiếc xích đu ở cổng nhà mà cứ ngỡ mình đang rong chơi cùng các vì sao, của những kẻ xem bói với hy vọng được nghe những điều phán tốt lành cho tương lai, của những người sống trong mộng ảo khi luôn phân tích và tin vào số phận của mình qua những giấc mơ, hoặc của những người mua vé số và mòn mỏi đợi đến ngày con số may mắn kia được xướng lên trong bản tin chiều... Có vẻ như ước mơ không phải là bạn đồng hành thân thiết của chúng ta, mà lại sánh đôi cùng sự Mơ Tưởng hoặc niềm May Mắn. Liệu ước mơ có chút liên quan nào đến những con người trong thế giới thực tại - những người không lãng mạn cùng các vì sao, mây trời; không sống trong tháp ngà của những câu chuyện cổ tích; mà là người luôn phải bôn ba với cuộc sống, nỗ lực tìm kiếm những điều rất thực tế như sự vững chắc trong sự nghiệp, sự thành công trong kinh doanh, niềm hạnh phúc với mái ấm gia đình? Thật ra, ước mơ trong đời thực chính là những mục tiêu mà bạn khao khát đạt được trong cuộc sống của mình. Tuy nhiên, vẫn có một chút khác biệt giữa mục tiêu và ước mơ. Mục tiêu thường cụ thể và rõ ràng. Mục tiêu có thể theo dõi và đánh giá. Mục tiêu có thể kiểm tra và thẩm định quá trình tiến triển. Còn ước mơ sẽ làm tăng thêm cảm xúc sáng tạo cho mục tiêu, mở rộng tầm nhìn cho những định hướng và làm chúng ta thêm hy vọng ở tương lai. Ước mơ sẽ làm cho thực tế cuộc sống thêm phần tốt đẹp và sinh động hơn. Đó cũng là nội dung của cuốn sách Dám Ước Mơ của nữ tác giả Florence Littauer. Cuốn sách được dẫn dắt xuyên suốt bằng câu chuyện về cuộc đời và sự thành công của một phát thanh viên - em trai tác giả. Hy vọng với cuốn sách này, những ai chưa từng ước mơ sẽ nhanh chóng tìm thấy ước mơ của riêng mình; những ai đang nuôi dưỡng ước mơ sẽ củng cố thêm quyết tâm để biến ước mơ trở thành hiện thực; và những ai đã hoàn thành, đã chinh phục được ước mơ của mình sẽ tiếp tục cuộc hành trình tìm kiếm một ước mơ mới. - First News</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_7438a9cc5e0a80a34e554724b0456e22.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_7438a9cc5e0a80a34e554724b0456e22.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/701-dam-uoc-mo-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Phần 1: Dám Ước Mơ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/701-dam-uoc-mo-thuviensach.vn.mp3?t=4370",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:12:50 Phần 2: Chuẩn Bị Cho Những Ước Mơ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/701-dam-uoc-mo-thuviensach.vn.mp3?t=6064",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:41:04 Phần 3: Theo Đuổi Ước Mơ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/701-dam-uoc-mo-thuviensach.vn.mp3?t=9090",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:31:30 Phần 4: Điều Chỉnh Ước Mơ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/701-dam-uoc-mo-thuviensach.vn.mp3?t=12200",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:23:20 Phần 5: Chia Sẻ Ước Mơ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/701-dam-uoc-mo-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Phần 1: Dám Ước Mơ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/701-dam-uoc-mo-thuviensach.vn.mp3?t=4370",
+    "title" : "01:12:50 Phần 2: Chuẩn Bị Cho Những Ước Mơ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/701-dam-uoc-mo-thuviensach.vn.mp3?t=6064",
+    "title" : "01:41:04 Phần 3: Theo Đuổi Ước Mơ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/701-dam-uoc-mo-thuviensach.vn.mp3?t=9090",
+    "title" : "02:31:30 Phần 4: Điều Chỉnh Ước Mơ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/701-dam-uoc-mo-thuviensach.vn.mp3?t=12200",
+    "title" : "03:23:20 Phần 5: Chia Sẻ Ước Mơ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

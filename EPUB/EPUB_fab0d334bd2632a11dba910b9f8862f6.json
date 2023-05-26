@@ -1,0 +1,509 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-nguoi-khon-kho-7867.html",
+    "title" : "NHỮNG NGƯỜI KHỐN KHỔ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Victor Hugo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Víchto Huygô (1802-1885) là đại văn hào Pháp, ông vừa là nhà thơ, nhà văn, nhà viết kịch vĩ đại sáng tác theo khuynh hướng lãng mạn. Các tác phẩm nổi tiếng của ông phải kể đến: vở hài kịch Hécnani, tiểu thuyết Thằng gù nhà thờ Đức Bà, Những người khốn khổ. Trong tác phẩm Những Người Khốn Khổ, cuộc sống cao đẹp của Giăngvăngiăng - người phải ngồi tù suốt 19 năm chỉ vì một chiếc bánh mỳ, tình nhân ái bao dung và tấm lòng độ lượng của đức cha Mirien, sự đeo bám dai dẳng của mật thám Giave, những mưu đồ đen tối và độc ác của vợ chồng Tênácđiê, sự ngây thơ trong trắng của Côdét, sự nhiệt tình hăng hái của Mariuýt... Tất cả đều được khắc họa một cách sinh động. Những Người Khốn Khổ là bài hát ca ngợi tình yêu và tự do của Giăngvăngiăng - một con người tái sinh trong đau khổ và tuyệt vọng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_fab0d334bd2632a11dba910b9f8862f6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_fab0d334bd2632a11dba910b9f8862f6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=1722",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:28:42 Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=3446",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:57:26 Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=5179",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:26:19 Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=6908",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:55:08 Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=8589",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:23:09 Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=10281",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:51:21 Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=11930",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:18:50 Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=13580",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:46:20 Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=15280",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:14:40 Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=17012",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:43:32 Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=18759",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:12:39 Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=20495",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:41:35 Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=22227",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:10:27 Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=23968",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:39:28 Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=25706",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:08:26 Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=27354",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:35:54 Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=29058",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:04:18 Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=30760",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:32:40 Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=32466",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:01:06 Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=34146",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:29:06 Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=35758",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:55:58 Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=37431",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:23:51 Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=39152",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:52:32 Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=40845",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:20:45 Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=42593",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:49:53 Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=44254",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:17:34 Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=45903",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:45:03 Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=47536",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:12:16 Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=49168",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:39:28 Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=50807",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:06:47 Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=52550",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:35:50 Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=54288",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:04:48 Phần 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=55979",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:32:59 Phần 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=57660",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:01:00 Phần 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=59371",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:29:31 Phần 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=61103",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:58:23 Phần 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=62811",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:26:51 Phần 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=64539",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:55:39 Phần 39",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=1722",
+    "title" : "00:28:42 Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=3446",
+    "title" : "00:57:26 Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=5179",
+    "title" : "01:26:19 Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=6908",
+    "title" : "01:55:08 Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=8589",
+    "title" : "02:23:09 Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=10281",
+    "title" : "02:51:21 Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=11930",
+    "title" : "03:18:50 Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=13580",
+    "title" : "03:46:20 Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=15280",
+    "title" : "04:14:40 Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=17012",
+    "title" : "04:43:32 Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=18759",
+    "title" : "05:12:39 Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=20495",
+    "title" : "05:41:35 Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=22227",
+    "title" : "06:10:27 Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=23968",
+    "title" : "06:39:28 Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=25706",
+    "title" : "07:08:26 Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=27354",
+    "title" : "07:35:54 Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=29058",
+    "title" : "08:04:18 Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=30760",
+    "title" : "08:32:40 Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=32466",
+    "title" : "09:01:06 Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=34146",
+    "title" : "09:29:06 Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=35758",
+    "title" : "09:55:58 Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=37431",
+    "title" : "10:23:51 Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=39152",
+    "title" : "10:52:32 Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=40845",
+    "title" : "11:20:45 Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=42593",
+    "title" : "11:49:53 Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=44254",
+    "title" : "12:17:34 Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=45903",
+    "title" : "12:45:03 Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=47536",
+    "title" : "13:12:16 Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=49168",
+    "title" : "13:39:28 Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=50807",
+    "title" : "14:06:47 Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=52550",
+    "title" : "14:35:50 Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=54288",
+    "title" : "15:04:48 Phần 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=55979",
+    "title" : "15:32:59 Phần 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=57660",
+    "title" : "16:01:00 Phần 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=59371",
+    "title" : "16:29:31 Phần 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=61103",
+    "title" : "16:58:23 Phần 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=62811",
+    "title" : "17:26:51 Phần 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7867-nhung-nguoi-khon-kho-thuviensach.vn.mp3?t=64539",
+    "title" : "17:55:39 Phần 39",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

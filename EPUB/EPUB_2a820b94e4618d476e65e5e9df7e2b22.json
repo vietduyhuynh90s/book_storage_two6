@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/su-that-toi-hau-221.html",
+    "title" : "SỰ THẬT TỐI HẬU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Ngọc Thuần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC. Lời mở đầu&Thôngđiệp..4 Phần I: Mối liên hệ giữa ngôn ngữ và sự thật. ……..9 1 -Có bao nhiêu Ba Ngôi?.10 2 -Tâm linh là gì?...11 3 -Tại sao gọi là Ông Trời?..12 4 -Con Người, Loài Người, Nhân loại có ý nghĩa gì?.12 5 -Đạo đức là gì?...13 6 -Bản ngã, chân ngã, vô ngã là gì?.15 7 -Tính không là gì?..16 8 -Vô vi có ý nghĩa gì?.18 9 -Siêu ý thức là gì?...….22 10 -Giác Ngộ và Thức tỉnh là gì?..24 11 -Chiều kích 1D...4D- 5D...12D có liên quan gì đến ý thức và quá trình tiến của Loài Người?...…...34 12 -Những cuộc chiến trên Nước Trời thực sự có hay không?...36 13 -Đức Chúa Guêsu cứu chuộc Loài người như thế nào?..39 14 -Người Lemuria và lục địa Atlantis thực sự ở đâu?...41 15 -Tư tưởng tạo nên sức mạnh gì?..42 Phần II: Thông Điệp -Thượng Đế và Vũ Trụ. I -Nguyên Thần Thượng Đế là cái gì?...…...49 II -Vũ trụ duy nhất hay nhiều hơn một?.55 III -Đại gia đình Thượng Đế có bao nhiêu Người?.56 IV -Tại sao các Thiên Thần rời Nước Trời?.63 V -Các Thiên Thần rời Nước Trời tìm kiếm điều gì?...68 VI -Làm thế nào các Thiên Thần có thể trải nghiệm được những gì mà Họ đã ước muốn trước khi rời Nước Trời?...72 Phần III: Thượng Đế và những sự kiện liên quan đến Nhân loại I -Lòng từ bi và bác ái giúp con người trải nghiệm được gì?.76 II -Theo đuổi tâm linh có ích lợi gì?.86 III -Khải Huyền có liên quan gì đến lịch sử Loài người?.96 IV -Ý nghĩa con số 666 liên quan gì đến lịch sử Loài người?..107 V -Con người nên làm gì, để được cứu rỗi trong thời gian tới? …….. 109 VI -Các tên gọi và ý nghĩa của thời kỳ từ năm 2000 đến năm 2334. 1 -Thời kỳ tiền phán xét...….119 2 -Thời kỳ tiền hội Long hoa...119 3 -Thời kỳ tiếp nhận ánh sáng.119 4 -Thời kỳ ân điển.…...121 5 -Thời kỳ hữu vi...126 6 -Thời kỳ bảo bình..128 7 -Thanh toán bù trừ...131 VII- Những điều liên quan trong thời đại mới..132 PHẦN KẾT;Bước cuối trên hành trình hội nhập với Tổng thể. I -Thời gian là gì? Sức ảnh hưởng của thời gian đối với con người như thế nào?...156 II -Con người nên hành động thế nào để có được sự thức tỉnh?...163 III -Sau khi giác ngộ, thức tỉnh con người nên hành động như thế nào?...171 Đôi Lời Cảm Tạ..…...198</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_2a820b94e4618d476e65e5e9df7e2b22.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_2a820b94e4618d476e65e5e9df7e2b22.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/221-su-that-toi-hau-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/221-su-that-toi-hau-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

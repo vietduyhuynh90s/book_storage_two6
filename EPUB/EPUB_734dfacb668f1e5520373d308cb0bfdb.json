@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hoa-tuy-lip-den-7796.html",
+    "title" : "HOA TUY LÍP ĐEN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alexandre Dumas",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một tình yêu, có thể nói không tưởng, giữa một thiếu nữ tầng lớp hạ tiện một chữ bẻ đôi không biết với một thanh niên quý tộc ưu tú, giàu có đã được A. Dumas, với tài năng kiệt xuất, xây dựng thật tuyệt vời trong bối cảnh chính trị biến động và sự say mê đến mức điên cuồng với hoa tuylip - loài hoa thần thánh nguồn gốc Đông phương - ở đất nước Hà Lan cuối thế kỉ XVII. Cornélius van Baërle có một gia sản kếch sù, có một người cha đỡ đầu danh tiếng, nhưng trên đời chàng không màng thứ gì ngoài hoa tuylip, nhất là hoa tuylip đen - loài hoa mà tất cả những nghệ nhân trồng hoa đều ao ước sáng tạo ra. Đúng vào lúc nắm được bí kíp của loài hoa kì diệu chàng bị bắt giam vào ngục, phải đối diện với án tử hình, chỉ vì nắm giữ một tài liệu chính trị mà bản thân chàng cũng không biết nội dung, do Boxtel - gã hàng xóm tị hiềm đã nặc danh tố cáo. Chính ở trong tù, trí tuệ và lòng nhân hậu của chàng đã cảm mến con gái người cai ngục và nàng với tình yêu thuần khiết cùng lòng tận tụy của mình đã giúp chàng tìm lại tự do. Hoa tuylip đen không phải là tiểu thuyết đặc sắc nhất của Dumas, nhưng chính câu chuyện đơn giản mà lãng mạn của nó đã chinh phục bao thế hệ người đọc. Vài nét về tác giả: Alexandre Dumas (1802-1870) (còn được gọi Alexandre Dumas cha để phân biệt với con trai ông cũng là một nhà văn) là một cây bút có sức sáng tác mạnh mẽ. Ông để lại hàng trăm tác phẩm, trong đó có khoảng 100 tiểu thuyết, số còn lại là kịch, bút kí, phóng sự, hồi kí. Những tiểu thuyết nổi tiếng của ông như là Ba người lính ngự lâm (Les trois mousquetaires -1844), Bá tước Monte-Cristo (Le Comte de Monte-Cristo - 1844),… giành được sự hâm mộ của độc giả khắp thế giới từ hơn một thế kỉ nay.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_734dfacb668f1e5520373d308cb0bfdb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_734dfacb668f1e5520373d308cb0bfdb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7796-hoa-tuy-lip-den-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7796-hoa-tuy-lip-den-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bo-me-khong-nen-noi-gi-voi-con-cai-1091.html",
+    "title" : "BỐ MẸ KHÔNG NÊN NÓI GÌ VỚI CON CÁI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trương Kiến Lệ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Người lớn hay coi nhẹ sự tổn thương của lời nói đối với con trẻ. Thực ra tổn thương này còn ghê gớm hơn cả roi vọt, để lại vết sẹo trong lòng con trẻ, khiến con trẻ dễ rời xa bố mẹ, chống đối bố mẹ. Một lời nói ra không thể rút lại. Bất cứ lời nói nào cũng đều thể hiện thái độ của bản thân người nói. Xuất phát từ những câu nói thường ngày của bố mẹ với con cái, chúng ta có thể biết được bố mẹ còn giữ nguyên cách giáo dục truyền thống, không áp dụng cách giáo dục hiện đại. Vì các con yêu, vì bản thân mình nên mỗi bậc phụ huynh đều cần phải học nữa, học mãi. Cuốn sách này sẽ đưa ra và phân tích những câu nói sẽ ảnh hưởng tiêu cực tới quá trình dạy dỗ giúp trẻ hình thành nhân cách tốt. Nội dung quyển sách gồm các phần: Những lời không được nói với con cái Nên ít nói “không” với con trẻ Những đứa trẻ bất hạnh Bình tĩnh nhìn nhận thất bại Thuận lòng thì mới thuận tai Những thông tin hiểu nhầm Phát triển ưu điểm, giảm bớt khuyết điểm Nghiêm khắc đúng mực Hãy để con trẻ tự do hơn Học tập quan trọng hơn số điểm Những lời phê bình khó hiểu Con trẻ phát triển toàn diện</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_bd21cf6b15ee27b7d8ab7eb26e8bb355.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_bd21cf6b15ee27b7d8ab7eb26e8bb355.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1091-bo-me-khong-nen-noi-gi-voi-con-cai-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1091-bo-me-khong-nen-noi-gi-voi-con-cai-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

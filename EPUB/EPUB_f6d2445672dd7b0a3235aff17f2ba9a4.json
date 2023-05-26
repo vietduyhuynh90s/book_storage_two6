@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/de-che-alibaba-13471.html",
+    "title" : "ĐẾ CHẾ ALIBABA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Vĩ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Vẽ ra được một kế hoạch lớn là một tài năng thiên bẩm, nhưng cái hơn người của Jack Ma khi tạo ra được con chiến mã Alibaba chính là nhờ phong cách quản trị nhân sự đặc biệt, thu hút được lực lượng nhân sự giúp ông hoàn thiện giấc mơ lớn của mình. Cuốn sách này sẽ tiết lộ những nguyên tắc riêng về quản trị nhân sự của ông chủ Alibaba - Jack Ma: Văn hóa doanh nghiệp nhất quán Tuyển dụng người phù hợp, không cần người giỏi Cách thức xây dựng đội ngũ không ai đánh cắp được Giai đoạn của các nhà lãnh đạo tư duy kiểu cũ một mình chiếm trọn sân chơi đã qua rồi. Những năm gần đây, tư duy quản trị nhân sự của Jack Ma đang là kim chỉ nam cho rất nhiều doanh nghiệp. Hy vọng rằng cuốn sách này sẽ giúp người đọc có cái nhìn mới trong quản trị nhân sự, đặc biệt là cách tuyển dụng và quản lý nguồn nhân sự hiệu quả - một tài sản quý giá của bất kỳ doanh nghiệp nào nếu muốn phát triển mạnh mẽ trên thương trường.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_f6d2445672dd7b0a3235aff17f2ba9a4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_f6d2445672dd7b0a3235aff17f2ba9a4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13471-de-che-alibaba-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13471-de-che-alibaba-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

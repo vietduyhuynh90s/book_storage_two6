@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/trang-tu-tam-dac-901.html",
+    "title" : "TRANG TỬ TÂM ĐẮC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Yu Dan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>LỜI GIỚI THIỆU Bách Trang Tử, còn có tên là Nam hoa kinh của Trang Chu không chỉ là bộ kinh điển của bách gia chư tử, mà còn là bộ sách hội tụ tinh hoa của triết học và văn hóa Trung Quốc. Lỗ Tấn, cha đẻ của nền văn học hiện đại Trung Quốc, từng nhận xét về Trang Tử như sau: \"Bao la vạn khoảnh, biến hóa khôn lường, trong hết thảy các nhà chư tử cuối đời Chu, không nhà nào có thể vượt qua Trang Tử vậy\". Hồi còn là Nghiên cứu sinh tại Đại học Nam Kinh, tôi từng nghe Giáo sư mỹ học Phan Tri Thường nói: \"Nếu nội trong một đêm, mọi sách vở về văn hóa Trung Quốc biến mất khỏi mặt đất, trước sự kiện này có một học giả được báo trước, đồng thời cho phép ông ta chọn mười đầu sách kinh điển nhất để lưu lại, thế thì trong mười đầu sách ấy sẽ có Luận ngữ của Khổng Tử, Đạo đức kinh của Lão Tử, Nam hoa kinh của Trang Tử, Đàn kinh của Huệ Năng, Hồng lâu mộng của Tào Tuyết Cần,... Nhưng nếu chỉ được phép chọn một đầu sách duy nhất, thì chỉ có thể chọn Nam hoa kinh, vì còn Trang Tử thì còn có thể trùng kiến lại văn hóa Trung Quốc, mất Trang Tử đồng nghĩa với việc văn hóa Trung Quốc diệt vong. Bởi vì triết học nhập thế của Khổng Tử ở đời thường dễ có, triết lý Thiền tông vẫn có thể sản sinh nếu có sự gặp gỡ giữa Phật giáo và tư tưởng của Đạo gia, nhưng triết học ngoạn thế của Trang Tử thì thực không dễ có\". Từ những điều trên đây có thể thấy rõ tầm quan trọng cũng như sức ảnh hưởng to lớn của Trang Tử đối với văn hóa Trung Quốc, thậm chí đối với cả nền văn hóa Đông Á nói chung. Văn nhân Trung Quốc xưa đối với việc xuất sĩ làm quan, trọng tư tưởng nhập thế của Khổng Tử; đối với việc tu tâm dưỡng tính, thường ký thác nơi quan điểm xuất thế của Đạo gia. Cuộc đời con người ta ắt cần đến công danh, nhưng công danh không phải là tất cả; ngoài công danh, con người ta bất cứ lúc nào cũng phải đối mặt với vô vàn vấn đề to lớn, như sống chết, tự do, bất tử,… Chìa khóa để vượt qua tất cả những điều này, theo chúng tôi có lẽ không thể tìm ở đâu khác ngoài Trang Tử. Giáo sư Vu Đan là một trong những học giả nổi danh ở mảng văn hóa truyền thống Trung Quốc, những bài giảng của bà về Nam hoa kinh của Trang Tử và Luận ngữ của Khổng Tử phát trên Đài truyền hình Trung ương Trung Quốc luôn chiếm được rất nhiều cảm tình của người xem. Chúng tôi trân trọng giới thiệu đến độc giả Việt Nam và tin rằng quý độc giả sẽ tìm thấy rất nhiều điều tâm đắc sau khi đọc xong quyển sách này. Nguyễn Đình Phức Viết tại Thư trai, Sài Gòn</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_9ce57877a373f9f6650ac2eceb6f16cc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_9ce57877a373f9f6650ac2eceb6f16cc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/901-trang-tu-tam-dac-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/901-trang-tu-tam-dac-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

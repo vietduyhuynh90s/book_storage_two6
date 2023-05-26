@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tren-buc-giang-7865.html",
+    "title" : "TRÊN BỤC GIẢNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Brad Cohen",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Khi còn mài đũng quần trên ghế nhà trường, ai là người thầy người cô mà bạn yêu quý nhất, hay ít ra là người tạo ấn tượng tốt nhất với bạn? Đa số chúng ta, nếu có cơ hội được cắp sách đến trường, đều có thể dễ dàng trả lời câu hỏi này. Nhưng đối với Brad Cohen, tác giả của quyển sách Trên Bục Giảng, thì không dễ chút nào! Từ nhỏ, Brad đã mắc phải một hội chứng rối loạn thần kinh tên là Tourette. Anh thường xuyên bị co giật và phát ra những âm thanh ồn ào, có khi nghe như tiếng chó sủa, ngoài mong muốn và không thể nào kiểm soát được. Vào những năm 1980 khi Brad lớn lên, các bác sĩ không biết nhiều về chứng rối loạn thần kinh này, và xã hội hầu như chưa biết đến sự tồn tại của nó. Hậu quả là anh bị mọi người chung quanh kỳ thị, chế nhạo, thậm chí đánh đập, có người còn nghĩ anh bị ma ám. Anh bị cấm bén mảng đến rạp chiếu phim, rạp hát, nhà hàng… chung quy là tất cả những nơi đông người. Tệ hơn cả, những người thầy, người cô mà anh hết lòng tin tưởng cũng nhiều lần đuổi anh ra khỏi lớp. Những tưởng một đứa trẻ bị cô lập và đối xử tàn nhẫn như thế sẽ lựa chọn trốn ru rú trong nhà, tránh xa những ánh mắt mỉa mai soi mói, như bao người tật nguyền khác. Nhưng không, chính thời thơ ấu khắc nghiệt lại càng thôi thúc anh trở thành một người thầy biết động viên và cảm thông với học trò - người thầy mà chính anh chưa bao giờ có được. Đi học còn khó, huống chi là đi dạy. Hiển nhiên, cuộc hành trình trở thành người thầy của anh đầy rẫy những chông gai Về tác giả Brad Cohen là một diễn giả, giáo viên và tác giả đầy nhiệt huyết, chủ nhân của giải thưởng Giáo viên giỏi nhất năm, bang Georgia. Anh sáng lập nên trung tâm dành cho trẻ mắc hội chứng Tourette và được đưa lên chương trình Oprah. Năm 2006, quyển sách Trên Bục Giảng giành được giải thưởng sách giáo dục dành cho những nhà xuất bản tự do. Cuộc đời của Brad là chủ đề cho bộ phim của hãng Hallmark Hall of Fame. Cảm nhận về quyển sách Trên Bục Giảng “Quyển sách Trên Bục Giảng là câu chuyện dành riêng cho những người chịu thiệt thòi trong cuộc sống, những người từng vấp ngã trên đường đời, những người cho rằng cuộc đời này gây cho mình quá nhiều khó khăn trắc trở.” - Jim Eisenreich, cựu vận động viên bóng chày Major League, mắc hội chứng Tourette “Tác giả Brad Cohen đã biến hội chứng Tourette thành tài sản quý giá, và biến cuộc đời anh thành nguồn cảm hứng vô tận.” - Nghị sĩ Johnny Isakson, bang Georgia “Câu chuyện về một đứa trẻ gặp trở ngại to lớn trong việc học, cuối cùng lại giành được giải thưởng Giáo viên giỏi nhất năm ở bang Georgia là một minh chứng cho ý chí bất diệt của con người.”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_7982ad06236c45fec707b35e6f6bb059.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_7982ad06236c45fec707b35e6f6bb059.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7865-tren-buc-giang-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7865-tren-buc-giang-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

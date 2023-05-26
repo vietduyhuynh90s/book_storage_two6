@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/phuong-phap-giao-duc-con-cua-nguoi-do-thai-386.html",
+    "title" : "PHƯƠNG PHÁP GIÁO DỤC CON CỦA NGƯỜI DO THÁI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Hân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nói đến người Do Thái, bạn sẽ nghĩ đến ai đầu tiên? Cha đẻ của ngành vật lí hiện đại Albert Einstein, nhà thơ vĩ đại Heinrich Heine, họa sĩ trường phái lập thể Picasso, cha đẻ của chủ nghĩa cộng sản Karl Marx hay tỉ phú - nhà đầu cơ tài chính nổi tiếng George Soros… Bất luận là nhà khoa học, nhà thơ, nhà nghệ thuật, nhà tư tưởng, hay doanh nhân… bất kể ngành nghề nào, người Do Thái đều chứng tỏ được sức ảnh hưởng mạnh mẽ của mình đồng thời họ cũng đạt được nhiều thành tựu to lớn. Đại đa số chuyên gia cho rằng: Người Do Thái sở dĩ đạt được nhiều thành tựu như vậy nguyên nhân căn bản là bởi họ vô cùng xem trọng giáo dục gia đình. Thật vậy, xem trọng giáo dục của cha mẹ với con cái là truyền thống tốt đẹp nổi bật nhất của dân tộc Do Thái. Mặc dù, phải trải qua rất nhiều khó khăn và luôn phải phiêu bạt khắp nơi, nhưng người Do Thái không quên dành cho con nền giáo dục tốt nhất. Và trải qua cuộc sống khó khăn suốt một thời gian dài, người Do Thái còn dần dần tìm ra bộ phương pháp giáo dục gia đình đặc biệt. Cuốn sách lấy phương pháp giáo dục gia đình của người Do Thái làm nền tảng: Từ trí tuệ, sinh tồn, kinh doanh, giao tiếp đến đạo đức… rất nhiều phương diện để lý giải cho tinh hoa trí tuệ của người Do Thái. Cuốn sách gồm 7 chương, 56 mục, mỗi mục đều có cấu tạo gồm những ví dụ hấp dẫn về một bài học mà trẻ em Do Thái được dạy và một vài phương pháp dạy trẻ bài học đó của người Do Thái. Trong đó, ví dụ rất sinh động, đa dạng, minh họa trực tiếp và đầy đủ những đặc thù trong phương pháp giáo dục gia đình của người Do Thái, biến chúng thành những kiến thức khoa học nhưng lại gần gũi dễ áp dụng để các bậc cha mẹ dễ dàng làm theo nhằm bồi dưỡng con thành những con người ưu tú. Ngoài ra, cuốn sách có lối viết nhẹ nhàng, sinh động tạo cho người đọc cảm giác tươi mới, khiến độc giả được hòa mình trong đại dương trí tuệ. “Đá ở ngọn núi khác có thể đẽo ra ngọc”. Hi vọng các bậc cha mẹ có thể lĩnh ngộ được quan điểm giáo dục “Tất cả vì tương lai” của trí giả Do Thái, học tập và làm theo kinh nghiệm giáo dục gia đình của người Do Thái sớm giúp con bạn làm chủ tương lai.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_13113416cb138621fe77f4c5c8dc0fb8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_13113416cb138621fe77f4c5c8dc0fb8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/386-phuong-phap-giao-duc-con-cua-nguoi-do-thai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/386-phuong-phap-giao-duc-con-cua-nguoi-do-thai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

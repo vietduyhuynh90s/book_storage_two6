@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/masayoshi-ty-phu-lieu-an-nhieu-13489.html",
+    "title" : "MASAYOSHI TỶ PHÚ LIỀU ĂN NHIỀU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Onishi Takahiro",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Masayoshi Son là một giám đốc điều hành được coi là “điên” nhất Nhật Bản với triết lý kinh doanh “liều ăn nhiều” - ông đã gây dựng tập đoàn viễn thông đa quốc gia và Internet SoftBank với tổng tài sản vào khoảng 20,7 nghìn tỉ Yên (theo ước tính năm 2015). Với những cuộc phỏng vấn, trao đổi thẳng thắn giữa Son và tác giả, cuốn sách cho thấy hành trình sôi nổi của Son trong sự nghiệp kinh doanh cũng như hiểu rõ hơn về con người ông, làm sáng tỏ những điều mà nhiều bạn đọc quan tâm: lý tưởng kinh doanh của Son là gì, phương thức kinh doanh khó nắm bắt của ông được thực thi ra sao, và con người của Son thể hiện qua đời sống hằng ngày và trong công việc. Đó không chỉ là những cuộc đầu tư mạo hiểm,những nỗ lựckhông ngừng, nhữngphát ngôn ngông cuồng; mà còn là cuộc rượt đuổi không mệt mỏi các sáng chế và sự cách tân vớimột tinh thần doanh nhân mang đậm màu sắc Samurai, đầy lòng tự tôn và trách nhiệm với cộng đồng. “Chúng ta có mặt trên đời này là để khiến mọi việc xảy ra.” - Masayoshi Son</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_e183ccf1ac29320c205fb4a81ec91bf5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_e183ccf1ac29320c205fb4a81ec91bf5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13489-masayoshi-ty-phu-lieu-an-nhieu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13489-masayoshi-ty-phu-lieu-an-nhieu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

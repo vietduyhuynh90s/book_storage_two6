@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/con-duong-tro-thanh-dang-hanh-tinh-thuong-de-247.html",
+    "title" : "CON ĐƯỜNG TRỞ THÀNH ĐẤNG HÀNH TINH THƯỢNG ĐẾ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sanat Kumara",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lời mở đầu Cuốn sách này được dịch thuật bởi Neverland, nhờ sự hỗ trợ lớn lao của Orgonitehoangkim.com và Hiện Hữu. Neverland đã có duyên được biết tới cuốn sách này để dịch thuật, chia sẻ tới cộng đồng. Xin gửi tặng tất cả các bạn hữu duyên biết tới và đón đọc cuốn sách: Câu truyện của Sanat Kumara - Con đường trở thành đấng Hành Tinh Thượng Đế. Mỗi từng chương là một câu chuyện của chính đức Hành Tinh Thượng Đế của Trái Đất chúng ta, trước khi đảm nhận vai trò này, Ngài đã trải qua những bài học tiến hóa cũng như chúng ta đang học hiện nay với rất nhiều kiếp sống trên rất nhiều các hành tinh trong Thiên Hà, do đó khi đọc chúng ta cũng sẽ thấy có sự tương phản nào đó như một cuộc đời nào đó của chúng ta, như Ngài giải thích lý do vì không hề có sự chia rẽ nào giữa tất cả chúng ta với nhau, đó chính là Sự Hợp Nhất, mỗi chúng ta đều được liên kết với nhau, mỗi sinh mệnh đều đang thực hiện một vai trò, một sứ mệnh nào đó trong Sự Hợp Nhất. Ngài là người đã leo lên đỉnh núi cao và giờ đây Ngài đang thực hiện một trách nhiệm lớn lao được Đấng Sáng Tạo gửi gắm qua ngài, để hướng dẫn những người leo núi để họ vươn tới đỉnh núi theo cách của riêng họ. Mười tám triệu năm đã qua kể từ ngày đức Sanat Kumara hoàn thành khóa đạo tạo trên Sao Kim tới Trái Đất để đảm nhận vai trò của mình, tới thời điểm này trong sự tiến hóa của mình và của Thiên Hà, Ngài sẽ bước lên một đỉnh núi cao mới, một cột mốc tiến hóa mới và do đó toàn thể sự sống nơi Trái Đất này cũng đang tiến hóa thăng thiên lên chiều kích 5D của ánh sáng, một thời đại hoàng kim sẽ hiện hữu nơi Trái Đất này. Và cũng là thời điểm thích hợp để Ngài tiết lộ bản thân mình cho nhân loại, vào một thời điểm cực kỳ quan trọng trong sự tiến hóa.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_314ad3c4bfa6902e681045103fa8093b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_314ad3c4bfa6902e681045103fa8093b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/247-con-duong-tro-thanh-dang-hanh-tinh-thuong-de-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/247-con-duong-tro-thanh-dang-hanh-tinh-thuong-de-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

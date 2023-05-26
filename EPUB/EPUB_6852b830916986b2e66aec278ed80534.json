@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/su-that-ve-ung-thu-hieu-dung-chua-dung-va-phong-ngua-dung-13485.html",
+    "title" : "SỰ THẬT VỀ UNG THƯ: HIỂU ĐÚNG, CHỮA ĐÚNG VÀ PHÒNG NGỪA ĐÚNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "David Khayat",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Sự Thật Về Ung Thư: Hiểu Đúng, Chữa Đúng Và Phòng Ngừa Đúng” là cẩm nang cung cấp cho bạn những hiểu biết cần thiết về căn bệnh ung thư cũng như cách chữa trị căn bệnh này. - Phần I là tổng quan về toàn bộ cuốn sách tác giả sẽ dẫn bạn đi vào tìm hiểu lịch sử của y khoa cùng những quan điểm việc điều trị ung thư. - Phần II của cuốn sách, Bollinger sẽ đi sâu hơn vào việc chẩn đoán, phát hiện nguyên nhân và cách phòng tránh ung thư, những điều gì bạn nên làm và không nên làm trong khi điều trị và làm cách nào để ngăn ngừa ung thư. Đến với phần cuối cùng, tác giả sẽ nêu bật lên các phương pháp điều trị ung thư hiệu quả từ tự nhiên mà ông đã nghiên cứu trong suốt 20 năm. Hơn cả một cuốn sách, “Sự thật về bệnh ung thư” sẽ trao cho bạn sức mạnh và niềm tin mãnh liệt để dành chiến thắng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_6852b830916986b2e66aec278ed80534.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_6852b830916986b2e66aec278ed80534.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13485-su-that-ve-ung-thu-hieu-dung-chua-dung-va-phong-ngua-dung-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13485-su-that-ve-ung-thu-hieu-dung-chua-dung-va-phong-ngua-dung-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

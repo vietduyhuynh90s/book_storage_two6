@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/long-da-an-ba-7842.html",
+    "title" : "LÒNG DẠ ÐÀN BÀ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mặt trời chen lặn, ngọn gió lao rao. Dọc theo đường Cái-Tắc đi Long-Mỹ, lúa gần chín, nên trông ra ruộng có đám ửng vàng, có đám còn xanh lét. Ngang mấy xóm, người ta thừa hứng cái cảnh trời chiều mát-mẻ, nên lăng-xăng ngoài đường, người thì chấp tay sau đít, bước chẫm-rãi, mắt ngó mông vô đồng; kẻ thì ngồi dựa bên lề, mặt tươi cười, miệng nhai nhóc-nhách; khúc thì dụm năm dụm ba hỏi nhau lúa trúng ước mấy giạ một công; chỗ thì con gái con trai trửng-giởn chạy tứ tung, nói cười inh-ỏi. Cái cảnh vui-vẻ dường ấy, con người thảnh thơi dường ấy, mà sao trước nhà của ông Hội-Ðồng Lê-Tấn-Thành, cũng ở dựa bên khúc lộ nầy, lại vắng-hoe, trong nhà lặng-lẽ, ngoài ngõ im-lìm. Hàng rào dưới xây gạch, trên song sắt, chạy dọc theo đường bị cỏ mọc che khuất nhiều khúc, coi chẳng khác rào hư. Cái cửa ngõ sắt, một cánh mở hé, còn một cánh thì khép hoài, nên chốt bị sét đóng, xô mở không nổi.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_0a66f26ca699d01dad786ffd7a42b513.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_0a66f26ca699d01dad786ffd7a42b513.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7842-long-da-an-ba-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7842-long-da-an-ba-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-13544.html",
+    "title" : "TUYỂN TẬP TRUYỆN NGẮN HAY VIỆT NAM DÀNH CHO THIẾU NHI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tuyển tập truyện ngắn hay Việt Nam dành cho thiếu nhi là một tuyển tập gồm 5 tập, giới thiệu cùng các em truyện ngắn của các tác giả, thuộc nhiều thế hệ viết cho thiếu nhi trên cả nước. Bên cạnh những truyện ngắn là tự giới thiệu của chính các tác giả nhằm giúp các em hiểu rõ hơn về thân thế, sự nghiệp và có cái nhìn tổng quan hơn về những tác giả mình yêu thích.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_4ef33222feaf36fff1e28654d3a0a24e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_4ef33222feaf36fff1e28654d3a0a24e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Ngôi Đền Đỏ (Phạm Hổ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=361",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:06:01 Cô Gió Mất Tên (Xuân Quỳnh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=870",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:14:30 Cá Chuối Con (Xuân Quỳnh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=1141",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:19:01 Chú Gấu Trong Vòng Đu Quay (Xuân Quỳnh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=1520",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:25:20 Con Chuột Láu (Vũ Tú Nam)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=1848",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:30:48 Con Luýt (Xuân Quỳnh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=2028",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:33:48 Con Sáo Của Hoàn (Xuân Quỳnh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=2419",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:40:19 Chuyện Hoa Mặt Trời (Vũ Tú Nam)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=2532",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:42:12 Những Thanh Gươm Xanh (Phạm Hổ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=2920",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:48:40 Cây Một Quả (Phạm Hổ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=3422",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:57:02 Những Bàn Tay Nhiều Ngón (Phạm Hổ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=3724",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:02:04 Chú Sẻ Con Và Bông Hoa Bằng Lăng (Phạm Hổ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=3979",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:06:19 Cất Nhà Giữa Hồ (Phạm Hổ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=4763",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:19:23 Ngựa Thần Từ Đâu Đến- (Phạm Hổ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=5511",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:31:51 Chú Bé Người Và Ông Trăng (Phạm Hổ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=5984",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:39:44 Măng Tre (Vũ Tú Nam)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=6108",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:41:48 Công Chúa Ốc Sên (Vũ Tú Nam)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=6350",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:45:50 Mặt Trời Và Gà Trống (Vũ Tú Nam)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=6563",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:49:23 Vịt Và Gà Tranh Cãi (Vũ Tú Nam)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=6740",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:52:20 Chị Em Gà Con (Xuân Quỳnh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=6972",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:56:12 Chú Niệc (Xuân Quỳnh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=7355",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:02:35 Hai Mẹ Con Mối (Xuân Quỳnh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=7536",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:05:36 Hoa Dâm Bụt (Xuân Quỳnh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=7778",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:09:38 Mùa Xuân Trên Cánh Đồng (Xuân Quỳnh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=8227",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:17:07 Quả Bầu Nhớ Đất (Xuân Quỳnh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=8415",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:20:15 Sự Tích Núi Ngũ Hành (Xuân Quỳnh)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=9061",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:31:01 Sự Tích Vịnh Hạ Long (Xuân Quỳnh)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Ngôi Đền Đỏ (Phạm Hổ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=361",
+    "title" : "00:06:01 Cô Gió Mất Tên (Xuân Quỳnh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=870",
+    "title" : "00:14:30 Cá Chuối Con (Xuân Quỳnh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=1141",
+    "title" : "00:19:01 Chú Gấu Trong Vòng Đu Quay (Xuân Quỳnh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=1520",
+    "title" : "00:25:20 Con Chuột Láu (Vũ Tú Nam)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=1848",
+    "title" : "00:30:48 Con Luýt (Xuân Quỳnh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=2028",
+    "title" : "00:33:48 Con Sáo Của Hoàn (Xuân Quỳnh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=2419",
+    "title" : "00:40:19 Chuyện Hoa Mặt Trời (Vũ Tú Nam)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=2532",
+    "title" : "00:42:12 Những Thanh Gươm Xanh (Phạm Hổ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=2920",
+    "title" : "00:48:40 Cây Một Quả (Phạm Hổ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=3422",
+    "title" : "00:57:02 Những Bàn Tay Nhiều Ngón (Phạm Hổ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=3724",
+    "title" : "01:02:04 Chú Sẻ Con Và Bông Hoa Bằng Lăng (Phạm Hổ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=3979",
+    "title" : "01:06:19 Cất Nhà Giữa Hồ (Phạm Hổ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=4763",
+    "title" : "01:19:23 Ngựa Thần Từ Đâu Đến- (Phạm Hổ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=5511",
+    "title" : "01:31:51 Chú Bé Người Và Ông Trăng (Phạm Hổ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=5984",
+    "title" : "01:39:44 Măng Tre (Vũ Tú Nam)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=6108",
+    "title" : "01:41:48 Công Chúa Ốc Sên (Vũ Tú Nam)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=6350",
+    "title" : "01:45:50 Mặt Trời Và Gà Trống (Vũ Tú Nam)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=6563",
+    "title" : "01:49:23 Vịt Và Gà Tranh Cãi (Vũ Tú Nam)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=6740",
+    "title" : "01:52:20 Chị Em Gà Con (Xuân Quỳnh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=6972",
+    "title" : "01:56:12 Chú Niệc (Xuân Quỳnh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=7355",
+    "title" : "02:02:35 Hai Mẹ Con Mối (Xuân Quỳnh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=7536",
+    "title" : "02:05:36 Hoa Dâm Bụt (Xuân Quỳnh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=7778",
+    "title" : "02:09:38 Mùa Xuân Trên Cánh Đồng (Xuân Quỳnh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=8227",
+    "title" : "02:17:07 Quả Bầu Nhớ Đất (Xuân Quỳnh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=8415",
+    "title" : "02:20:15 Sự Tích Núi Ngũ Hành (Xuân Quỳnh)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13544-tuyen-tap-truyen-ngan-hay-viet-nam-danh-cho-thieu-nhi-thuviensach.vn.mp3?t=9061",
+    "title" : "02:31:01 Sự Tích Vịnh Hạ Long (Xuân Quỳnh)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

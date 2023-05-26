@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nguoi-me-cam-sung-7827.html",
+    "title" : "NGƯỜI MẸ CẦM SÚNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>\"Tại xã Tam Ngãi, huyện Cầu Kè, tỉnh Trà Vinh có một người đàn bà đã có sáu con tên là Nguyễn Thị Út. Dáng người nhỏ gọn, chị có khuôn mặt tròn và đôi mắt to, sáng. Cô bác lớn tuổi quen gọi chị là con Út Trầu, vì chị hay ăn trầu. Lại có người đặt danh cho chị là \"Bà Hồng\" vì chị đánh giặc rất giỏi. Xóm giềng theo phong tục địa phương, ghép tên chị với tên chồng, cứ kêu là Út Tịch. Mới đây bà con lại bàn tán một chuyện xảy ra về chị\" - Trích \"Người Mẹ Cầm Súng\" (Nguyễn Thi)</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_5601ce697878a7e767f8561792ba1f29.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_5601ce697878a7e767f8561792ba1f29.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7827-nguoi-me-cam-sung-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7827-nguoi-me-cam-sung-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

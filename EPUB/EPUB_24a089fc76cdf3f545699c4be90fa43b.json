@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ban-ve-tu-do-536.html",
+    "title" : "BÀN VỀ TỰ DO",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "John Stuart Mill",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC Chương 1: LỜI GIỚI THIỆU.……...3 Chương 2: BÀN VỀ TỰ DO TƯ TƯỞNG VÀ TỰ DO THẢO LUẬN.….……18 Chương 3: CON NGƯỜI CÁ NHÂN NHƯ MỘT THÀNH TỐ CỦA AN SINH……….57 Chương 4: GIỚI HẠN CỦA QUYỀN UY XÃ HỘI ĐỐI VỚI CÁ NHÂN…...……..77 Chương 5: CÁC ỨNG DỤNG..…….97 1 LỜI ĐỀ TẶNG Mọi luận cứ trình bày trên các trang viết này đều trực tiếp hướng đồng quy về một nguyên lý chủ đạo lớn lao: ấy là tầm quan trọng cơ bản và tuyệt đối của sự phát triển con người trong sự đa dạng phong phú của nó. Wilhelm von Humboldt Phạm vi và những Bổn phận của Chính quyền (Sphere and Duties of Government) Để tưởng nhớ với lòng yêu mến và tiếc thương tới nàng, người truyền cảm hứng và một phần là tác giả của những gì tốt đẹp nhất mà tôi viết ra - người bạn và người vợ, mà sự thấu hiểu tuyệt vời của nàng đối với chân lý và quyền năng là sự cổ vũ mạnh mẽ nhất cho tôi, và sự tán thành của nàng là phần thưởng lớn nhất cho tôi - tôi xin dâng tặng tập sách này. Cũng giống như tất cả những gì tôi đã viết ra nhiều năm nay, cuốn sách này thuộc về nàng cũng như thuộc về tôi; bản thảo trước đây là rất thiếu sót, nhưng điều vô cùng quý giá là được nàng sửa chữa lại. Nhiều phần quan trọng nhất đã được để dành lại để nghiên cứu cNn thận hơn, nhưng giờ đây chúng chịu số phận chung chẳng bao giờ còn được nàng nghiên cứu nữa. Ước gì tôi có khả năng diễn giải được cho thế gian phân nửa những ý tưởng vĩ đại và tình cảm cao quý chôn giấu dưới mộ nàng, tôi sẽ làm người nhập đồng đem lại lợi ích lớn hơn cho nhân gian, hơn là những lợi ích không biết khi nào có được từ những gì tôi có thể viết ra, những điều không còn được nàng gợi ý và giúp đỡ, có là gì thì cũng không phải là điều thông tuệ tuyệt đỉnh.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_24a089fc76cdf3f545699c4be90fa43b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_24a089fc76cdf3f545699c4be90fa43b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/536-ban-ve-tu-do-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/536-ban-ve-tu-do-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

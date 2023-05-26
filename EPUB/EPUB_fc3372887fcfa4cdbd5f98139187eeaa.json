@@ -1,0 +1,377 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dung-cam-vui-song-hiem-nguy-8.html",
+    "title" : "DŨNG CẢM - VUI SỐNG HIỂM NGUY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Osho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Mục lục...1 Lời nói đầu..3 Dũng cảm là gì?.11 Đạo của dũng cảm..13 Con đường của trái tim...18 Con đường của thông minh..29 Con đường của tin cậy.37 Con đường của hồn nhiên..49 Khi cái mới gõ cửa, mở cửa ra!...73 Dũng cảm của tình yêu...85 Không phải mối quan hệ, mà trạng thái của bản thể...101 Cái bánh này ngon tuyệt!.103 Thế giới không biên giới..111 Không dễ không khó, chỉ tự nhiên.117 Đưa bản thân bạn ra khỏi đám đông...133 Chính trị của con số...139 Nghe \"cảm nhận bên trong\"..141 Tự do cho bạn đôi cánh.149 Tự do với, tự do vì.152 Tìm ra khuôn mặt nguyên thuỷ... 155 Vui sống hiểm nguy... 163 Dù bạn làm bất kì cái gì,cuộc sống vẫn là điều bí ẩn. 170 Cuộc sống bao giờ cũng trong hoang dã. 176 Dũng cảm tối thượng:Vô thuỷ vô chung.. 183 Đi tìm vô sợ hãi.. 205 Thiền về nỗi sợ cái trống rỗng. 243 Thiền làm tan biến hình mẫu cũ về sợ hãi.. 244 Thiền về tin cậy.. 246 Thiền biến đổi sợ hãi thành tình yêu... 247 Và câu hỏi cuối cùng: Nỗi sợ về Thượng đế.. 249 Về tác giả. 269 Nơi Thiền. 271</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_fc3372887fcfa4cdbd5f98139187eeaa.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_fc3372887fcfa4cdbd5f98139187eeaa.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Chương 01 Dũng Cảm Là Gì",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=140",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:02:20 Chương 02 Đạo Của Dũng Cảm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=570",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:09:30 Chương 03 Con Đường Của Trái Tim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=1435",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:23:55 Chương 04 Con Đường Của Thông Minh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=2045",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:34:05 Chương 05 Con Đường Của Tin Cậy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=3006",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:50:06 Chương 06 Con Đường Của Hồn Nhiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=4907",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:21:47 Chương 07 Khi Cái Mới Gõ Cửa, Mở Cửa Ra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=5906",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:38:26 Chương 08 Dũng Cảm Của Tình Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=7282",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:01:22 Chương 09 Không Phải Mối Quan Hệ Mà Trạng Thái Của Bạn Thể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=7452",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:04:12 Chương 10 Cái Bánh Này Ngon Tuyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=8085",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:14:45 Chương 11 Thế Giới Không Biên Giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=8509",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:21:49 Chương 12 Không Dễ, Không Khó, Chỉ Tự Nhiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=9821",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:43:41 Chương 13 Đưa Bản Thân Bạn Ra Khỏi Đám Đông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=10297",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:51:37 Chương 14 Chính Trị Của Con Số",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=10494",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:54:54 Chương 15 Nghe Cảm Nhận Bên Trong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=11035",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:03:55 Chương 16 Tự Do Cho Bạn Đôi Cánh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=11251",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:07:31 Chương 17 Tự Do Với, Tự Do Vì",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=11484",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:11:24 Chương 18 Tìm Ra Khuôn Mặt Nguyên Thủy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=12100",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:21:40 Chương 19 Vui Sống Hiểm Nguy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=12723",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:32:03 Chương 20 Dù Bạn Làm Bất Kỳ Cái Gì, Cuộc Sống Vẫn Là Điều Bí Ẩn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=13235",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:40:35 Chương 21 Cuộc Sống Bao Giờ Cũng Trong Hoang Dã",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=13752",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:49:12 Chương 22 Dũng Cảm Tối Thượng, Vô Thủy Vô Chung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=15543",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:19:03 Chương 23 Đi Tìm Vô Sợ Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=18687",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:11:27 Chương 24 Thiền Về Nỗi Sợ Cái Trống Rỗng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=18817",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:13:37 Chương 25 Thiền Làm Tan Biến Hình Mẫu Cũ Về Sợ Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=18955",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:15:55 Chương 26 Thiền Về Tin Cậy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=19101",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:18:21 Chương 27 Thiền Biến Đổi Sợ Hãi Thành Tình Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=19278",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:21:18 Chương 28 Nỗi Sợ Về Thượng Đế",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Chương 01 Dũng Cảm Là Gì",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=140",
+    "title" : "00:02:20 Chương 02 Đạo Của Dũng Cảm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=570",
+    "title" : "00:09:30 Chương 03 Con Đường Của Trái Tim",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=1435",
+    "title" : "00:23:55 Chương 04 Con Đường Của Thông Minh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=2045",
+    "title" : "00:34:05 Chương 05 Con Đường Của Tin Cậy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=3006",
+    "title" : "00:50:06 Chương 06 Con Đường Của Hồn Nhiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=4907",
+    "title" : "01:21:47 Chương 07 Khi Cái Mới Gõ Cửa, Mở Cửa Ra",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=5906",
+    "title" : "01:38:26 Chương 08 Dũng Cảm Của Tình Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=7282",
+    "title" : "02:01:22 Chương 09 Không Phải Mối Quan Hệ Mà Trạng Thái Của Bạn Thể",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=7452",
+    "title" : "02:04:12 Chương 10 Cái Bánh Này Ngon Tuyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=8085",
+    "title" : "02:14:45 Chương 11 Thế Giới Không Biên Giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=8509",
+    "title" : "02:21:49 Chương 12 Không Dễ, Không Khó, Chỉ Tự Nhiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=9821",
+    "title" : "02:43:41 Chương 13 Đưa Bản Thân Bạn Ra Khỏi Đám Đông",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=10297",
+    "title" : "02:51:37 Chương 14 Chính Trị Của Con Số",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=10494",
+    "title" : "02:54:54 Chương 15 Nghe Cảm Nhận Bên Trong",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=11035",
+    "title" : "03:03:55 Chương 16 Tự Do Cho Bạn Đôi Cánh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=11251",
+    "title" : "03:07:31 Chương 17 Tự Do Với, Tự Do Vì",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=11484",
+    "title" : "03:11:24 Chương 18 Tìm Ra Khuôn Mặt Nguyên Thủy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=12100",
+    "title" : "03:21:40 Chương 19 Vui Sống Hiểm Nguy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=12723",
+    "title" : "03:32:03 Chương 20 Dù Bạn Làm Bất Kỳ Cái Gì, Cuộc Sống Vẫn Là Điều Bí Ẩn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=13235",
+    "title" : "03:40:35 Chương 21 Cuộc Sống Bao Giờ Cũng Trong Hoang Dã",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=13752",
+    "title" : "03:49:12 Chương 22 Dũng Cảm Tối Thượng, Vô Thủy Vô Chung",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=15543",
+    "title" : "04:19:03 Chương 23 Đi Tìm Vô Sợ Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=18687",
+    "title" : "05:11:27 Chương 24 Thiền Về Nỗi Sợ Cái Trống Rỗng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=18817",
+    "title" : "05:13:37 Chương 25 Thiền Làm Tan Biến Hình Mẫu Cũ Về Sợ Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=18955",
+    "title" : "05:15:55 Chương 26 Thiền Về Tin Cậy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=19101",
+    "title" : "05:18:21 Chương 27 Thiền Biến Đổi Sợ Hãi Thành Tình Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8-dung-cam-vui-song-hiem-nguy-thuviensach.vn.mp3?t=19278",
+    "title" : "05:21:18 Chương 28 Nỗi Sợ Về Thượng Đế",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

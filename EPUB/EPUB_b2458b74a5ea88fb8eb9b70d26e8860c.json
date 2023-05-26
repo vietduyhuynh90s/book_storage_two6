@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/vu-tru-trong-vo-hat-de-538.html",
+    "title" : "VŨ TRỤ TRONG VỎ HẠT DẺ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Stephen Hawking",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC GIỚI THIỆU CỦA VIETSCIENCES GIỚI THIỆU CỦA NHÀ XUẤT BẢN LỜI NÓI ĐẦU CHƯƠNG 1 LƯỢC SỬ VỀ THUYẾT TƯƠNG ĐỐI CHƯƠNG 2 HÌNH DÁNG CỦA THỜI GIAN CHƯƠNG 3 VŨ TRỤ TRONG MỘT VỎ HẠT CHƯƠNG 4 TIÊN ĐOÁN TƯƠNG LAI CHƯƠNG 5 BẢO VỆ QUÁ KHỨ CHƯƠNG 6 TƯƠNG LAI CỦA CHÚNG TA? CÓ THỂ LÀ STAR TREK HAY KHÔNG? CHƯƠNG 7 MÀNG VŨ TRỤ MỚI THUẬT NGỮ CHỈ MỤC GIỚI THIỆU CỦA VIETSCIENCES Thời gian gần đây các ngành khoa học đặc biệt ngành vật lý đã làm được một bước tiến rất dài. Kiến thức của ngành vật lý đã không còn rời rạc, xa vời mà nó đã dần trở thành một khoa học thống nhất. Các lý thuyết đã và đang kết nối với nhau thành một bản trường ca. Bản trường ca này không chỉ nhằm giải thích các quan điểm triết học cao siêu của con người với vũ trụ mà nó lại còn thâm nhập vào mọi lĩnh vực mọi ngõ ngách ứng dụng trong đời sống. Một trong những nhà vật lý nổi bật nhất sau Newton và Einstein sống ở cuối thiên niên kỷ thứ hai của nhân loại không ai khác hơn là Stephen Hawking (sinh năm 1942). Ngoài những đóng góp vĩ đại của ông trong nỗ lực thống nhất các qui luật của vật lý thì ông còn có một khả năng truyền đạt tư tưởng tuyệt vời. Các sách của ông viết nhằm giới thiệu về triết học, vật lý cũng như về vũ trụ quan sinh động và dễ hiểu đến nỗi có nhiều lần những sách này đã dược dịch ra nhiều thứ tiếng và chúng còn bán chạy hơn cả những tiểu thuyết hay ho hấp dẫn nhất. Vietsciences xin giới thiệu với các bạn tác phẩm “Vũ Trụ Trong Một Vỏ Hạt” của dịch giả Dạ Trạch từ nguyên bản Anh ngữ “The Universe in a Nutshell” (2001). Vì là người làm việc nghiên cứu trong chuyên ngành vật lý nên anh Dạ Trạch hiểu rất sâu, chính xác, và rõ ràng các tư tưởng mà Hawking nêu ra trong cuốn sách mới này của ông. Chúng tôi tin rằng bản dịch Việt ngữ mà anh Dạ Trạch đã dày công dịch thuật sẽ mang đến cho các bạn đúng những cảm giác và các kiến thức lý thú, hấp dẫn, bất ngờ mà Hawking đã đem lại cho hàng triệu độc giả bằng tiếng mẹ đẻ là Anh ngữ. Trân Trọng Võ Quang Nhân</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_b2458b74a5ea88fb8eb9b70d26e8860c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_b2458b74a5ea88fb8eb9b70d26e8860c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/538-vu-tru-trong-vo-hat-de-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/538-vu-tru-trong-vo-hat-de-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

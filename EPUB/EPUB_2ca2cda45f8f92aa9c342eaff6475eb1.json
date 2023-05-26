@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/phuong-phap-bam-huyet-chua-benh-1234.html",
+    "title" : "PHƯƠNG PHÁP BẤM HUYỆT CHỮA BỆNH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phùng Lực Sinh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>\"Liệu pháp huyệt đạo cực kỳ có hiệu quả đối với bệnh tật\". Điều này đã đƣợc khá nhiều ngƣời nhất trí khẳng định. Trên thực tế, nhìn chung quanh, bên mình chúng ta không thiếu ví dụ về những phƣơng pháp châm cứu, day bằng ngón tay v.v... chữa khỏi bệnh hoặc khiến bệnh tình chuyển biến tốt. Ngoài ra, có không ít những ngƣời ƣa thích liệu pháp huyệt đạo, đã lấy bản thân mình để thể nghiệm hiệu quả của nó. Về liệu pháp trị bệnh, không nói nhiều ở đây, nhƣng điều có thể khẳng định, liệu pháp huyệt đạo tuyệt đối không phải là lừa bịp, mà hết sức rõ ràng, nó có tác dụng trợ lực rất lớn trong trị liệu bệnh tật. \"Vì sao nó có hiệu quả như vậy\"? Câu hỏi này, kể cả những ngƣời hết lòng ủng hộ về hiệu quả của liệu pháp huyệt đạo, cũng sẽ đột nhiên phải ấp úng. Bởi vì, mặc dù hết sức có hiệu quả, nhƣng ta vẫn không thể hiểu rõ nguyên nhân đích thực của nó. Trong y học Trung Quốc, từ xƣa đến nay đều sử dụng phƣơng thức suy nghĩ độc đáo của nó để giải thích hiệu quả của liệu pháp huyệt đạo. Ví dụ nhƣ, trong sách cổ \"Hoàng đế nội kinh - Tố vấn\" có câu \"Khí, huyết không thuận, trăm bệnh sinh ra\". Gọi là khí, huyết chính là một loại năng lƣợng chi phối nội tạng, mà loại năng lƣợng này nếu nhƣ lƣu thông hỗn loạn, tất sẽ dẫn đến các loại bệnh tật, đó là tƣ tƣởng truyền thống của y học Trung Quốc từ xƣa đến nay. Huyệt vị chính nằm trên con đƣờng của sự lƣu thông năng lƣợng. Con đƣờng lƣu thông này gọi là \"kinh, lạc\", cách gọi chính xác của huyệt đạo phải là \"huyệt kinh”. Nội tạng nếu nhƣ có hiện tƣợng khác thƣờng, liền sẽ phản ứng ở một vị trí nào đó có trạng thái khác lạ trên kinh, lạc nội tạng, tiếp đó sẽ phản ứng trên những huyệt kinh có năng lƣợng không thuận. Do đó, kích thích vào huyệt đạo, để làm cho năng lƣợng đƣợc lƣu thông, mà đạt đƣợc hiệu quả trị bệnh. Đó là mục đích của liệu pháp bằng huyệt đạo.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_2ca2cda45f8f92aa9c342eaff6475eb1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_2ca2cda45f8f92aa9c342eaff6475eb1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1234-phuong-phap-bam-huyet-chua-benh-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1234-phuong-phap-bam-huyet-chua-benh-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

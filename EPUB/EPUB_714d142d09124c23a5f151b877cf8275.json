@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chuyen-tinh-romeo-va-juliet-7873.html",
+    "title" : "CHUYỆN TÌNH ROMEO VÀ JULIET",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Willam Shakespeare",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>William Shakespeare, sinh năm 1564, mất ngày 23 tháng 4, 1616 là một nhà văn và nhà viết kịch Anh, được coi là nhà văn vĩ đại nhất của Anh và là nhà viết kịch đi trước thời đại. Ông cũng được vinh danh là nhà thơ tiêu biểu của nước Anh và là \"Nhà thơ của Avon\" (Avon là quê của Shakespeare, viết tắt của Stratford-upon-Avon). Những tác phẩm của ông, bao gồm cả những tác phẩm hợp tác, bao gồm 38 vở kịch, 154 bản sonnet, 2 bản thơ tường thuật dài, và vài bài thơ ngắn. Những vở kịch của ông đã được dịch ra thành rất nhiều ngôn ngữ lớn và được trình diễn nhiều hơn bất kì nhà viết kịch nào. Truyền thuyết về Roméo và Juliette đã được kể lại nhiều lần hơn 100 năm trước khi William Shakespeare viết thành kịch bản. Vào năm 1476 trong cuốn sách Ý nhan đề là Il Novellino, tác giả Masuccio Salernitano đã kể về mối tình vụng trộm, về vụ giết người, vụ đầy đi khỏi xứ, về một nhà tu sẵn lòng giúp đỡ và cả về đám cưới của hai gia đình thù nghịch. Năm 1530, Luigi da Porta cũng kể lại câu chuyện tình này, gắn cho các nhân vật trong truyện các tên Ý và nơi diễn ra nghịch cảnh là thành phố Verona. Theo truyện của Da Porta, đôi tình nhân này cũng tự sát. Tới năm 1562 tại nước Anh, nhà thơ Arthur Brooke đã dùng đề tài này trong tập thơ dài “The Tragical Historye of Romeus and Julius” (Lịch sử bi thương của Romeus và Julius), đã đề cập tới một thứ đam mê không thánh thiện, một thứ tình yêu vụng trộm, sự không vâng lời cha mẹ và bất tuân luật pháp. Ngôn ngữ trong tập thơ của Brooke thì khô khan, thiếu hấp dẫn dù cho tác giả có cảm tình với cặp uyên ương. Tới khi William Shakespeare dùng câu chuyện tình kể trên làm chất liệu cho vở bi kịch, thì Đại Văn Hào đã làm cho các nhân vật hành xử giống như chúng ta ngày nay: họ có các ưu điểm và khuyết điểm, có lúc nổi giận, có lúc khôi hài… Vở kịch “Roméo và Juliette” là một chuyện tình và một định mạng bi thương. Các nhân vật trong vở kịch đã suy nghĩ như thế nào, tại sao họ đã chọn các cách hành động như vậy? Trong vở kịch “Roméo và Juliette” của Shakespeare, có hai loại nhân vật: loại chuyển biến và loại thụ động. Các nhân vật chuyển biến đã phát triển và thay đổi qua thời gian, đã hành động theo nhiều cách tùy theo các hoàn cảnh khác nhau, gồm có Juliet, Roméo, Cha Lawrence, Hoàng Tử Escalus. Loại thụ động không thay đổi, hành động theo lề lối chúng ta có thể đoán ra được, gồm có bà vú nuôi, Mercutio, Hầu Tước và bà Montague, Hầu Tước và bà Capulet, Tybalt, Benvolio, Paris … Mời các bạn đón đọc Roméo và Juliette của tác giả William Shakespeare.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_714d142d09124c23a5f151b877cf8275.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_714d142d09124c23a5f151b877cf8275.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7873-chuyen-tinh-romeo-va-juliet-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7873-chuyen-tinh-romeo-va-juliet-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

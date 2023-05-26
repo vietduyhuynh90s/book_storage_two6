@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/quyet-dinh-ky-nang-lanh-dao-hang-dau-cua-nha-lanh-dao-tai-ba-13507.html",
+    "title" : "QUYẾT ĐỊNH - KỸ NĂNG LÃNH ĐẠO HÀNG ĐẦU CỦA NHÀ LÃNH ĐẠO TÀI BA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jim Treliving",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Không có quyết định nào đơn giản, quyết định luôn phải đúng đắn, hạn chế tối đa rủi ro với doanh nghiệp. Hiểu được vấn đề này, Jim Treliving - một trong những “con rồng” của nhà đầu tư trong chương trình truyền hình Canada Dragons ‘Den với những thành tựu đáng ngưỡng mộ đã nhiệt huyết khi trả lời: “Làm thế nào để nhà lãnh đạo có thể đưa ra quyết định chính xác?” trong cuốn sách Quyết định: Kỹ năng lãnh đạo hàng đầu của nhà lãnh đạo tài ba của mình. Bạn sẽ lần lượt tự trả lời được các câu hỏi dưới đây, như cách ông nói về chính bản thân mình: “Tôi dùng tình cảm để ra các quyết định về công việc, dùng lý trí để ra các quyết định về tiền bạc và dùng trực giác để ra quyết định về các mối quan hệ xã hội”. - 3 xu hướng quyết định của tác giả chia sẻ trong cuốn sách. Ra quyết định chính xác, được mọi người ủng hộ và đem lại chất lượng công việc tốt nhất là cả một nghệ thuật mà tất cả các nhà lãnh đạo đều phải học hỏi và rèn luyện. Nếu bạn thực sự nắm được 7 yếu tố cần thiết để đưa ra quyết định đúng đắn trên đây, bạn chắc chắn sẽ ngạc nhiên với những bước tiến mà mình có thể đạt được trong công việc hiện tại và sự nghiệp tương lai. Nhà quản lý hiện đại đang phải đối mặt với nhiều thách thức khác trong quá trình chèo lái doanh nghiệp tới được mục đích sau cùng. Đừng quên lựa chọn vị “quân sư” thông thái, để người đầu tàu là bạn luôn đưa ra được những quyết định đúng đắn!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_043388115d64e086f7c9b3c4f73bc496.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_043388115d64e086f7c9b3c4f73bc496.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13507-quyet-dinh-ky-nang-lanh-dao-hang-dau-cua-nha-lanh-dao-tai-ba-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13507-quyet-dinh-ky-nang-lanh-dao-hang-dau-cua-nha-lanh-dao-tai-ba-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

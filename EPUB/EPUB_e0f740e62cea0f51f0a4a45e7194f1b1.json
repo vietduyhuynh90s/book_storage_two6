@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/vo-nga-vo-uu-308.html",
+    "title" : "VÔ NGÃ VÔ ƯU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ayya Khema",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Vô Ngã Vô Ưu” (Being Nobody, Going Nowhere) là một cuốn sách về Thiền quán hay nhất của Ni sư người Đức Ayya Khema. Là một tuyệt tác viết về Thiền quán, cuốn sách đã được giải thưởng của Chrismas Humphreys và là cuốn sách bán chạy nhất tại Mỹ năm 1988. Trong cuốn sách này, Ni sư Ayya Kherma đã giới thiệu với người đọc những gì tinh tuý nhất trên con đường Phật pháp. Bà nhấn mạnh đến cách thức và tại sao lại cần hành thiền cũng như cung cấp cho ta một nền tảng hiểu biết cơ bản về bản chất của Nghiệp, Tái sinh và Bát chính đạo - những giáo lý căn bản của Đạo Phật. Với những lời khuyên hữu ích và thiết thực, Ni sư Ayya Khema đã dẫn dắt cho chúng ta những cách thức thực hành tứ vô lượng tâm: từ, bi, hỷ, xả và cách vượt qua những chướng ngại trên con đường tu tập. Rất ít cuốn sách cơ bản về Phật giáo có thể bao chứa cả hai tiêu chí giản dị và sâu sắc. Nhưng vô ngã vô ưu đã làm được cả hai điều này. Đây không những là một cuốn sách mọi thiền sinh không thể bỏ qua, mà còn là cuốn sách tuyệt vời cho tất cả mọi người.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_e0f740e62cea0f51f0a4a45e7194f1b1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_e0f740e62cea0f51f0a4a45e7194f1b1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Giới Thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=395",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:06:35 Thiền - Lý Do Và Phương Pháp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=2106",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:35:06 Ảnh Hưởng Của Thiền & Đời Sống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=2937",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:48:57 Thanh Tịnh Và Tỉnh Giác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=4733",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:18:53 Tứ Vô Lượng Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=7815",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:10:15 Từ Bi Quán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=8051",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:14:11 Năm Chướng Ngại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=12927",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:35:27 Nghiệp & Luân Hồi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=14519",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:01:59 Kinh Từ Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=17458",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:50:58 Bốn Hỷ Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=19014",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:16:54 Ngũ Uẩn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=20537",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:42:17 Mười Điều Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=23383",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:29:43 Tứ Diệu Đế & Bát Chánh Đạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=27821",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:43:41 Một Cuộc Bắt Đầu Mới",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=395",
+    "title" : "00:06:35 Thiền - Lý Do Và Phương Pháp",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=2106",
+    "title" : "00:35:06 Ảnh Hưởng Của Thiền & Đời Sống",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=2937",
+    "title" : "00:48:57 Thanh Tịnh Và Tỉnh Giác",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=4733",
+    "title" : "01:18:53 Tứ Vô Lượng Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=7815",
+    "title" : "02:10:15 Từ Bi Quán",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=8051",
+    "title" : "02:14:11 Năm Chướng Ngại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=12927",
+    "title" : "03:35:27 Nghiệp & Luân Hồi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=14519",
+    "title" : "04:01:59 Kinh Từ Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=17458",
+    "title" : "04:50:58 Bốn Hỷ Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=19014",
+    "title" : "05:16:54 Ngũ Uẩn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=20537",
+    "title" : "05:42:17 Mười Điều Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=23383",
+    "title" : "06:29:43 Tứ Diệu Đế & Bát Chánh Đạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/308-vo-nga-vo-uu-thuviensach.vn.mp3?t=27821",
+    "title" : "07:43:41 Một Cuộc Bắt Đầu Mới",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

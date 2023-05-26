@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/48-nguyen-tac-chu-chot-cua-quyen-luc-1850.html",
+    "title" : "48 NGUYÊN TẮC CHỦ CHỐT CỦA QUYỀN LỰC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robert Greene",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bạn hãy xem 48 Nguyên Tắc Chủ Chốt Của Quyền Lực như là quyển sổ tay của nghệ thuật đánh lạc hướng. Những nguyên tắc được trình bày đều là ghi chép của những người từng nghiên cứu và thuần thục trò chơi quyền lực.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_58982fdc6cd48a05af8b3bcb54ca1b0d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_58982fdc6cd48a05af8b3bcb54ca1b0d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1850-48-nguyen-tac-chu-chot-cua-quyen-luc-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 48 Nguyên Tắc Chủ Chốt Của Quyền Lực - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1850-48-nguyen-tac-chu-chot-cua-quyen-luc-thuviensach.vn.mp3?t=23308",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:28:28 48 Nguyên Tắc Chủ Chốt Của Quyền Lực - Phần 2 (Hết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1850-48-nguyen-tac-chu-chot-cua-quyen-luc-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 48 Nguyên Tắc Chủ Chốt Của Quyền Lực - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1850-48-nguyen-tac-chu-chot-cua-quyen-luc-thuviensach.vn.mp3?t=23308",
+    "title" : "06:28:28 48 Nguyên Tắc Chủ Chốt Của Quyền Lực - Phần 2 (Hết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

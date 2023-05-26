@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tuyet-son-phi-ho-7805.html",
+    "title" : "TUYẾT SƠN PHI HỒ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Dung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tuyết Sơn Phi Hồ là ngoại hiệu của Hồ Phỉ trẻ tuổi, trí tuệ và võ công hơn người. Câu chuyện xảy ra từ hơn một trăm năm trước, bốn vệ sĩ trung thành của Sấm Vương Lý Tự Thành là bốn họ Hồ, Miêu, Điền, Phạm, bốn người kết nghĩa anh em, cùng nhau sinh tử và đều trung thành với Lý Tự Thành. Tuy nhiên vì hiểu lầm Hồ phản bội mà ba anh em đã tìm để giết. Mối thù kéo dài đến mấy đời sau. Cuộc gặp gỡ định mệnh dẫn đến tình yêu giữa Hồ Phỉ và Miêu Nhược Lan liệu có hoá giải được mối thâm thù, ân oán tổ tiên?</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_d34a4c27bf22ba31080153f678d0f1ba.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_d34a4c27bf22ba31080153f678d0f1ba.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7805-tuyet-son-phi-ho-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7805-tuyet-son-phi-ho-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

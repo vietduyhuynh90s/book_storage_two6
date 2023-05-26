@@ -1,0 +1,821 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-dich-tron-bo-326.html",
+    "title" : "KINH DỊCH TRỌN BỘ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngô Tất Tố",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục NHỮNG ĐIỀU NÊN BIẾT TỰA CỦA TRÌNH DI ĐỒ THUYẾT CỦA CHU HY DỊCH THUYẾT CƯƠNG LĨNH CHU DỊCH THƯỢNG KINH QUẺ KIỀN QUẺ KHÔN QUẺ TRUÂN QUẺ MÔNG QUẺ NHU QUẺ TỤNG QUẺ SƯ QUẺ TỴ QUẺ TIỂU SÚC QUẺ LÝ QUẺ THÁI QUẺ BĨ QUẺ ĐỒNG NHÂN QUẺ ĐẠI HỮU QUẺ KHIÊM QUẺ DỰ QUẺ TÙY QUẺ CỔ QUẺ LÂM QUẺ QUÁN QUẺ PHỆ HẠP QUẺ BÍ QUẺ BÁC QUẺ PHỤC QUẺ VÔ VỌNG QUẺ ĐẠI SÚC QUẺ DI QUẺ ĐẠI QUÁ QUẺ TẬP KHẢM QUẺ LY CHU DỊCH HẠ KINH QUẺ HÀM QUẺ HẰNG QUẺ ĐỘN QUẺ ĐẠI TRÁNG QUẺ TẤN QUẺ MINH DI QUẺ GIA NHÂN QUẺ KHUÊ QUẺ KIỂN QUẺ GIẢI QUẺ TỔN QUẺ ÍCH QUẺ QUẢI QUẺ CẤU QUẺ TỤY QUẺ THĂNG QUẺ KHỐN QUẺ TỈNH QUẺ CÁCH QUẺ ĐỈNH QUẺ CHẤN QUẺ CẤN QUẺ TIỆM QUẺ QUI MUỘI QUẺ PHONG QUẺ LỮ QUẺ TỐN QUẺ ĐOÁI QUẺ HOÁN QUẺ TIẾT QUẺ TRUNG PHU QUẺ TIỂU QUÁ QUẺ KÝ TẾ QUẺ VỊ TẾ</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_258ba7a6a689d511764ea39471a0fbee.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_258ba7a6a689d511764ea39471a0fbee.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Những Điều Nên Biết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=6817",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:53:37 Quẻ Số 01: Thuần Kiền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=11589",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:13:09 Quẻ Số 02: Thuần Khôn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=14333",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:58:53 Quẻ Số 03: Thủy Lôi Truân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=16436",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:33:56 Quẻ Số 04: Sơn Thủy Mông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=18032",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:00:32 Quẻ Số 05: Thủy Thiên Nhu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=19231",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:20:31 Quẻ Số 06: Thiên Thủy Tụng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=20371",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:39:31 Quẻ Số 07: Địa Thủy Sư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=21689",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:01:29 Quẻ Số 08: Thủy Địa Tỷ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=23121",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:25:21 Quẻ Số 09: Phong Thiên Tiểu Súc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=24520",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:48:40 Quẻ Số 10: Thiên Trạch Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=25521",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:05:21 Quẻ Số 11: Địa Thiên Thái",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=26974",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:29:34 Quẻ Số 12: Thiên Địa Bĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=27948",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:45:48 Quẻ Số 13: Thiên Hỏa Đồng Nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=29148",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:05:48 Quẻ Số 14: Hỏa Thiên Đại Hữu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=30332",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:25:32 Quẻ Số 15: Địa Sơn Khiêm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=31352",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:42:32 Quẻ Số 16: Lôi Địa Dự",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=32354",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:59:14 Quẻ Số 17: Trạch Lôi Tùy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=33525",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:18:45 Quẻ Số 18: Sơn Phong Cổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=34773",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:39:33 Quẻ Số 19: Địa Trạch Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=35858",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:57:38 Quẻ Số 20: Phong Địa Quán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=36814",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:13:34 Quẻ Số 21: Hỏa Lôi Phệ Hạp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=37918",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:31:58 Quẻ Số 22: Sơn Hỏa Bí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=38980",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:49:40 Quẻ Số 23: Sơn Địa Bác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=39878",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:04:38 Quẻ Số 24: Địa Lôi Phục",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=40991",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:23:11 Quẻ Số 25: Thiên Lôi Vô Vọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=42247",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:44:07 Quẻ Số 26: Sơn Thiên Đại Súc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=43455",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:04:15 Quẻ Số 27: Sơn Lôi Di",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=44579",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:22:59 Quẻ Số 28: Trạch Phong Đại Quá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=45490",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:38:10 Quẻ Số 29: Thuần Khảm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=46724",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:58:44 Quẻ Số 30: Thuần Ly",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=47615",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:13:35 Quẻ Số 31: Trạch Sơn Hàm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=48884",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:34:44 Quẻ Số 32: Lôi Phong Hằng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=49992",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:53:12 Quẻ Số 33: Thiên Sơn Độn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=50981",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:09:41 Quẻ Số 34: Lôi Thiên Đại Tráng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=52042",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:27:22 Quẻ Số 35: Hỏa Địa Tấn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=53067",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:44:27 Quẻ Số 36: Địa Hỏa Minh Di",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=54537",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:08:57 Quẻ Số 37: Phong Hỏa Gia Nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=55637",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:27:17 Quẻ Số 38: Hỏa Trạch Khuê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=57100",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:51:40 Quẻ Số 39: Thủy Sơn Kiển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=58348",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:12:28 Quẻ Số 40: Lôi Thủy Giải",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=59578",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:32:58 Quẻ Số 41: Sơn Trạch Tổn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=61268",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:01:08 Quẻ Số 42: Phong Lôi Ích",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=62826",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:27:06 Quẻ Số 43: Trạch Thiên Quải",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=64447",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:54:07 Quẻ Số 44: Thiên Phong Cấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=65666",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:14:26 Quẻ Số 45: Trạch Địa Tụy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=67082",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:38:02 Quẻ Số 46: Địa Phong Thăng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=68005",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:53:25 Quẻ Số 47: Trạch Thủy Khốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=69450",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:17:30 Quẻ Số 48: Thủy Phong Tĩnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=70698",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:38:18 Quẻ Số 49: Trạch Hỏa Cách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=71957",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:59:17 Quẻ Số 50: Hỏa Phong Đỉnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=73248",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:20:48 Quẻ Số 51: Thuần Chấn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=74385",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:39:45 Quẻ Số 52: Thuần Cấn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=75347",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:55:47 Quẻ Số 53: Phong Sơn Tiệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=76306",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:11:46 Quẻ Số 54: Lôi Trạch Quy Muội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=77387",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:29:47 Quẻ Số 55: Phong Hỏa Gia Nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=78544",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:49:04 Quẻ Số 56: Hỏa Sơn Lữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=79576",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:06:16 Quẻ Số 57: Thuần Tốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=80593",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:23:13 Quẻ Số 58: Thuần Đoài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=81517",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:38:37 Quẻ Số 59: Phong Thủy Hoán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=82583",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:56:23 Quẻ Số 60: Thủy Trạch Tiết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=83258",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:07:38 Quẻ Số 61: Phong Trạch Trung Phu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=84252",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:24:12 Quẻ Số 62: Lôi Sơn Tiểu Quá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=85353",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:42:33 Quẻ Số 63: Thủy Hỏa Ký Tế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=86272",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:57:52 Quẻ Số 64: Hỏa Thủy Vị Tế",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Những Điều Nên Biết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=6817",
+    "title" : "01:53:37 Quẻ Số 01: Thuần Kiền",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=11589",
+    "title" : "03:13:09 Quẻ Số 02: Thuần Khôn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=14333",
+    "title" : "03:58:53 Quẻ Số 03: Thủy Lôi Truân",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=16436",
+    "title" : "04:33:56 Quẻ Số 04: Sơn Thủy Mông",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=18032",
+    "title" : "05:00:32 Quẻ Số 05: Thủy Thiên Nhu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=19231",
+    "title" : "05:20:31 Quẻ Số 06: Thiên Thủy Tụng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=20371",
+    "title" : "05:39:31 Quẻ Số 07: Địa Thủy Sư",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=21689",
+    "title" : "06:01:29 Quẻ Số 08: Thủy Địa Tỷ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=23121",
+    "title" : "06:25:21 Quẻ Số 09: Phong Thiên Tiểu Súc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=24520",
+    "title" : "06:48:40 Quẻ Số 10: Thiên Trạch Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=25521",
+    "title" : "07:05:21 Quẻ Số 11: Địa Thiên Thái",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=26974",
+    "title" : "07:29:34 Quẻ Số 12: Thiên Địa Bĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=27948",
+    "title" : "07:45:48 Quẻ Số 13: Thiên Hỏa Đồng Nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=29148",
+    "title" : "08:05:48 Quẻ Số 14: Hỏa Thiên Đại Hữu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=30332",
+    "title" : "08:25:32 Quẻ Số 15: Địa Sơn Khiêm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=31352",
+    "title" : "08:42:32 Quẻ Số 16: Lôi Địa Dự",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=32354",
+    "title" : "08:59:14 Quẻ Số 17: Trạch Lôi Tùy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=33525",
+    "title" : "09:18:45 Quẻ Số 18: Sơn Phong Cổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=34773",
+    "title" : "09:39:33 Quẻ Số 19: Địa Trạch Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=35858",
+    "title" : "09:57:38 Quẻ Số 20: Phong Địa Quán",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=36814",
+    "title" : "10:13:34 Quẻ Số 21: Hỏa Lôi Phệ Hạp",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=37918",
+    "title" : "10:31:58 Quẻ Số 22: Sơn Hỏa Bí",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=38980",
+    "title" : "10:49:40 Quẻ Số 23: Sơn Địa Bác",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=39878",
+    "title" : "11:04:38 Quẻ Số 24: Địa Lôi Phục",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=40991",
+    "title" : "11:23:11 Quẻ Số 25: Thiên Lôi Vô Vọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=42247",
+    "title" : "11:44:07 Quẻ Số 26: Sơn Thiên Đại Súc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=43455",
+    "title" : "12:04:15 Quẻ Số 27: Sơn Lôi Di",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=44579",
+    "title" : "12:22:59 Quẻ Số 28: Trạch Phong Đại Quá",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=45490",
+    "title" : "12:38:10 Quẻ Số 29: Thuần Khảm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=46724",
+    "title" : "12:58:44 Quẻ Số 30: Thuần Ly",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=47615",
+    "title" : "13:13:35 Quẻ Số 31: Trạch Sơn Hàm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=48884",
+    "title" : "13:34:44 Quẻ Số 32: Lôi Phong Hằng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=49992",
+    "title" : "13:53:12 Quẻ Số 33: Thiên Sơn Độn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=50981",
+    "title" : "14:09:41 Quẻ Số 34: Lôi Thiên Đại Tráng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=52042",
+    "title" : "14:27:22 Quẻ Số 35: Hỏa Địa Tấn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=53067",
+    "title" : "14:44:27 Quẻ Số 36: Địa Hỏa Minh Di",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=54537",
+    "title" : "15:08:57 Quẻ Số 37: Phong Hỏa Gia Nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=55637",
+    "title" : "15:27:17 Quẻ Số 38: Hỏa Trạch Khuê",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=57100",
+    "title" : "15:51:40 Quẻ Số 39: Thủy Sơn Kiển",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=58348",
+    "title" : "16:12:28 Quẻ Số 40: Lôi Thủy Giải",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=59578",
+    "title" : "16:32:58 Quẻ Số 41: Sơn Trạch Tổn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=61268",
+    "title" : "17:01:08 Quẻ Số 42: Phong Lôi Ích",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=62826",
+    "title" : "17:27:06 Quẻ Số 43: Trạch Thiên Quải",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=64447",
+    "title" : "17:54:07 Quẻ Số 44: Thiên Phong Cấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=65666",
+    "title" : "18:14:26 Quẻ Số 45: Trạch Địa Tụy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=67082",
+    "title" : "18:38:02 Quẻ Số 46: Địa Phong Thăng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=68005",
+    "title" : "18:53:25 Quẻ Số 47: Trạch Thủy Khốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=69450",
+    "title" : "19:17:30 Quẻ Số 48: Thủy Phong Tĩnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=70698",
+    "title" : "19:38:18 Quẻ Số 49: Trạch Hỏa Cách",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=71957",
+    "title" : "19:59:17 Quẻ Số 50: Hỏa Phong Đỉnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=73248",
+    "title" : "20:20:48 Quẻ Số 51: Thuần Chấn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=74385",
+    "title" : "20:39:45 Quẻ Số 52: Thuần Cấn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=75347",
+    "title" : "20:55:47 Quẻ Số 53: Phong Sơn Tiệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=76306",
+    "title" : "21:11:46 Quẻ Số 54: Lôi Trạch Quy Muội",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=77387",
+    "title" : "21:29:47 Quẻ Số 55: Phong Hỏa Gia Nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=78544",
+    "title" : "21:49:04 Quẻ Số 56: Hỏa Sơn Lữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=79576",
+    "title" : "22:06:16 Quẻ Số 57: Thuần Tốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=80593",
+    "title" : "22:23:13 Quẻ Số 58: Thuần Đoài",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=81517",
+    "title" : "22:38:37 Quẻ Số 59: Phong Thủy Hoán",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=82583",
+    "title" : "22:56:23 Quẻ Số 60: Thủy Trạch Tiết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=83258",
+    "title" : "23:07:38 Quẻ Số 61: Phong Trạch Trung Phu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=84252",
+    "title" : "23:24:12 Quẻ Số 62: Lôi Sơn Tiểu Quá",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=85353",
+    "title" : "23:42:33 Quẻ Số 63: Thủy Hỏa Ký Tế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/326-kinh-dich-tron-bo-thuviensach.vn.mp3?t=86272",
+    "title" : "23:57:52 Quẻ Số 64: Hỏa Thủy Vị Tế",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

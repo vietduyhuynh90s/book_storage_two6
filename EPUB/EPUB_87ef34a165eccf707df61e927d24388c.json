@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nghe-tay-trai-hai-ra-tien-5027.html",
+    "title" : "NGHỀ TAY TRÁI HÁI RA TIỀN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chris Guillebeau",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bạn đang có mong muốn thực hiện một ý tưởng làm thêm (phục vụ, gia sư, viết bài SEO, chỉnh sửa ảnh, tiếp thị liên kết,…) nhưng chưa biết phải bắt đầu từ đâu? Công việc hiện tại của bạn đã quá nhàm chán và bạn muốn theo đuổi sự nghiệp với những tài lẻ của mình? Bạn đang còn đi học và hầu như chưa có kinh nghiệm về việc làm thêm, bạn muốn tìm hiểu kĩ càng những công việc mình sẽ trải qua?... Tất tần tật những ý niệm của các bạn sẽ được đáp ứng chỉ trong 27 ngày. Tin được không? Hãy cùng mình đến với cuốn sách Nghề Tay Trái Hái Ra Tiền - Chris Guillebeau, một lộ trình các bước giúp bạn từ khâu tìm tòi, lên ý tưởng cho đến thực hiện và gặt hái thành quả trong việc làm thêm nhưng không tiêu tốn quá nhiều tiền bạc và thời gian. Nghề tay trái hái ra tiền - 27 ngày biến ý tưởng thành thu nhập Gồm 363 trang với 27 ngày thực hiện và những tài liệu, công cụ học miễn phí. Những nhu cầu bạn sẽ được đáp ứng từ cuốn sách Nếu bạn chưa nghĩ ra mình sẽ làm thêm việc gì hay công việc thế nào là phù hợp với bạn? Hãy tìm đến cuốn sách. Nếu đã có hàng loạt những ý tưởng nhưng chưa biết phải ưu tiên cái nào trước hay xem xét cái nào quan trọng hơn? Những kinh nghiệm của tác giả sẽ rất cần thiết. Bạn đang nắm trong tay những ý tưởng thiết thực nhưng quá trình bắt đầu lại quá khó khăn với bạn? Động lực của bạn sẽ được tìm thấy nếu như bạn đang đi đúng hướng. Bạn là một người có kinh nghiệm làm thêm từ lâu nhưng lại quá tập trung vào làm việc để rồi tiêu tốn hàng tá thời gian? Đừng lãng phí như thế, hãy học cách sắp xếp. Ngân sách của bạn đang dần eo hẹp và bạn muốn cải thiện chúng? Thật ra nó không khó để làm đâu. Đáng chú ý là những nhu cầu ấy được đáp ứng chỉ trong vòng 27 ngày hay có thể 30 ngày nếu tính thêm thời gian cho bạn suy ngẫm và thực hiện nhiều lần một hành động.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_87ef34a165eccf707df61e927d24388c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_87ef34a165eccf707df61e927d24388c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/5027-nghe-tay-trai-hai-ra-tien-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/5027-nghe-tay-trai-hai-ra-tien-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
