@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dung-voi-vang-phan-xet-nguoi-khac-khi-ban-than-khong-hieu-gi-ve-ho-13895.html",
+    "title" : "ĐỪNG VỘI VÀNG PHÁN XÉT NGƯỜI KHÁC KHI BẢN THÂN KHÔNG HIỂU GÌ VỀ HỌ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mỗi người sống đều có một hoàn cảnh, một số phận khác nhau, người khác sẽ không cách nào hiểu được tường tận. Vậy nên, đừng vội vàng chỉ trích hay phán xét người khác khi không hiểu gì về tình huống chân thực của họ. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_da8378f39afa46b04cbdac048a8eed04.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_da8378f39afa46b04cbdac048a8eed04.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13895-dung-voi-vang-phan-xet-nguoi-khac-khi-ban-than-khong-hieu-gi-ve-ho-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13895-dung-voi-vang-phan-xet-nguoi-khac-khi-ban-than-khong-hieu-gi-ve-ho-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

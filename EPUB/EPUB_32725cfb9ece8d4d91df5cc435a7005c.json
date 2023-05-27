@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cuoc-song-nay-thuc-ra-rat-cong-bang-hon-ban-nghi-13906.html",
+    "title" : "CUỘC SỐNG NÀY THỰC RA RẤT CÔNG BẰNG HƠN BẠN NGHĨ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tôi nói thật với bạn không một công việc nào đem lại thu nhập mà bản thân không phải bỏ mồ hôi công sức. Việc nhàn hạ thì lương thấp, muốn lương cao phải chịu được công việc áp lực. Điều đáng sợ là nhiều bạn trẻ ngày nay mắc hội chứng gọi là “ảo tưởng sức mạnh” xin việc luôn offer ở mức lương trên trời nhưng thực sự trình độ của các bạn chưa đạt đến mức thượng thừa đấy. Bạn học ở trường đại học danh tiếng thì sao? Bằng giỏi thì đã sao? Nhà tuyển dụng quan tâm là năng lực thực tế. Chúng tôi trả tiền để có được đóng góp chất xám của bạn chứ không phải là chúng tôi bỏ tiền ra mua tấm bằng giỏi. Cái gọi là “việc nhẹ lương cao” không bao giờ có ở người lao động chân chính, đó hoặc là lừa đảo hoặc là hãy tìm kiếm nó trong truyện cổ tích. Giọng đọc: Sand</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_32725cfb9ece8d4d91df5cc435a7005c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_32725cfb9ece8d4d91df5cc435a7005c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13906-cuoc-song-nay-thuc-ra-rat-cong-bang-hon-ban-nghi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13906-cuoc-song-nay-thuc-ra-rat-cong-bang-hon-ban-nghi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

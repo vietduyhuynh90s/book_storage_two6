@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/im-lang-khong-phai-vi-khong-muon-noi-ma-la-giu-lay-co-hoi-ngan-vang-13925.html",
+    "title" : "IM LẶNG KHÔNG PHẢI VÌ KHÔNG MUỐN NÓI, MÀ LÀ GIỮ LẤY CƠ HỘI NGÀN VÀNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong cuộc sống, khi bị người khác hiểu lầm nếu có thể mỉm cười cho qua, thì đó là một tố chất hàm dưỡng. Khi chịu ấm ức nếu có thể mỉm cười thản nhiên, thì đó là sự độ lượng. Khi chịu thiệt thòi vẫn có thể cười xoà vui vẻ, thì đó là sự khoáng đạt. Khi bất lực vẫn có thể mỉm cười lạc quan, thì đó lại là một cảnh giới. Lúc gặp nguy nan vẫn có thể điềm nhiên mỉm cười, ắt đó là bậc quý nhân. Khi bị khinh miệt vẫn có thể bình tĩnh mỉm cười, thì đó là sự tự tin. Khi thất tình vẫn có thể nhoẻn miệng cười, thì đó là sự giải thoát, an nhiên tự tại. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_969e63f628f4a61c164237d22935e3c7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_969e63f628f4a61c164237d22935e3c7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13925-im-lang-khong-phai-vi-khong-muon-noi-ma-la-giu-lay-co-hoi-ngan-vang-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13925-im-lang-khong-phai-vi-khong-muon-noi-ma-la-giu-lay-co-hoi-ngan-vang-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

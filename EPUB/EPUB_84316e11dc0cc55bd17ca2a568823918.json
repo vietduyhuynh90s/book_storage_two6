@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mot-dem-xuan-13934.html",
+    "title" : "MỘT ĐÊM XUÂN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tối hôm ấy, cũng không biết là tối hôm nào, lòng sư cụ lại tự nhiên ngờ là đêm ba mươi Tết. Sư cụ đến thắp đèn ở trước Phật đài thật sáng và đốt trầm nhiều trong một cái đỉnh hình hoa sen. Đoạn sư cụ quỳ trên chiếu cỏ cố thành tâm tụng niệm để quên những chuyện xa xưa. Một sự thầm tiếc thoáng qua lòng, sư cụ vội vàng đánh mõ khua chuông để che lấp. Đôi mắt của sư cụ luôn luôn nhìn tượng Đức Thích Già như để cầu mong sự che chở. Giọng đọc: Hằng Nga</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_84316e11dc0cc55bd17ca2a568823918.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_84316e11dc0cc55bd17ca2a568823918.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13934-mot-dem-xuan-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13934-mot-dem-xuan-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

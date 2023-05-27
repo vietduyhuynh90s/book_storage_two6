@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/minh-yeu-nhau-di-anh-khong-muon-lam-ban-em-nua-13966.html",
+    "title" : "MÌNH YÊU NHAU ĐI, ANH KHÔNG MUỐN LÀM BẠN EM NỮA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>- Kể từ hôm nay, anh sẽ không đứng bên ngoài cuộc sống của em nữa. Cũng không cho phép em nói không với anh. Tôi nhìn đăm đăm lên trần nhà, dùng giọng bình thản nhất hỏi anh: - Anh có biết mình vừa tỏ tình với một đứa con gái vừa bị bồ đá phút trước, phút sau đã dễ dàng lên giường với người đàn ông khác không? - Anh chỉ cần biết, người đàn ông đó là anh. Anh không muốn làm bạn em nữa. Ba năm cấp ba, năm năm đại học, hai năm đi làm, chừng đó thời gian phải mang mác là bạn thân với anh là quá đủ rồi. - anh gay gắt. Thái độ của anh làm tôi bất ngờ. Từ trước tới giờ, chưa bao giờ anh tức giận với tôi. Im lặng một lúc lâu, Vân ghì chặt lấy tôi, đặt lên trán tôi một nụ hôn trìu mến rồi cất tiếng, tha thiết mà khiến tôi thấy sống mũi cay cay: - Đừng từ chối anh, nhé!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_6dced2ed53c2e70921dcdcac824997ec.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_6dced2ed53c2e70921dcdcac824997ec.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13966-minh-yeu-nhau-di-anh-khong-muon-lam-ban-em-nua-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Anh Không Muốn Làm Bạn Em Nữa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13966-minh-yeu-nhau-di-anh-khong-muon-lam-ban-em-nua-thuviensach.vn.mp3?t=1778",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:29:38 Ngoảnh Lại Nhìn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13966-minh-yeu-nhau-di-anh-khong-muon-lam-ban-em-nua-thuviensach.vn.mp3?t=6625",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:50:25 Anh Yêu Em, Bạn Thân À!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13966-minh-yeu-nhau-di-anh-khong-muon-lam-ban-em-nua-thuviensach.vn.mp3?t=9478",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:37:58 Một Tiếng Gọi Cho Tôi Cảm Giác Ấm Lòng",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13966-minh-yeu-nhau-di-anh-khong-muon-lam-ban-em-nua-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Anh Không Muốn Làm Bạn Em Nữa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13966-minh-yeu-nhau-di-anh-khong-muon-lam-ban-em-nua-thuviensach.vn.mp3?t=1778",
+    "title" : "00:29:38 Ngoảnh Lại Nhìn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13966-minh-yeu-nhau-di-anh-khong-muon-lam-ban-em-nua-thuviensach.vn.mp3?t=6625",
+    "title" : "01:50:25 Anh Yêu Em, Bạn Thân À!",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13966-minh-yeu-nhau-di-anh-khong-muon-lam-ban-em-nua-thuviensach.vn.mp3?t=9478",
+    "title" : "02:37:58 Một Tiếng Gọi Cho Tôi Cảm Giác Ấm Lòng",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
