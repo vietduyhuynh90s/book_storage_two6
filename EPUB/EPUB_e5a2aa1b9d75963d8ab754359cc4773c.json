@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thien-su-tang-hoi-135.html",
+    "title" : "THIỀN SƯ TĂNG HỘI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục Lục Lời Mở Đầu..4 Trung Tâm Luy Lâu...4 Trung Tâm Kiến Nghiệp.7 Một Vị Thiền Sư Lớn.8 Khởi nguyên Của Đạo Bụt Việt Nam.10 Đạo Bụt Đi Vào Việt Nam...10 Giao Chỉ: Vùng Giao Lưu Của Hai Nền Văn Hóa..10 Ba Trung Tâm Phật Giáo Đời Hán.13 Đạo Bụt Có Cơ Sở Ở Giao Châu Trước...16 Sự Nghiệp Thiền Tổ Tăng Hội.18 Liên Hệ Giữa Thầy Tăng Hội Và Thầy Thế Cao...21 Thiền Học Của Thiền Sư Tăng Hội..24 Định Nghĩa Về Thiền..24 Thiền Là Loại Trừ.27 Thực Tập Hơi Thở Chánh Niệm.30 Tâm Vốn Là Tấm Gương Sáng Chói: Sự Hình Thành Tư Tưởng Duy Biểu Và Tư Tưởng Hoa Nghiêm.32 Nền Tảng Tâm Học Của Thầy Tăng Hội...36 Tâm Là Đất Gieo Hạt..40 Cái Tất Cả Nằm Trong Cái Một...44 Mười Sáu Hơi Thở...46 Hình Thức Và Nội Dung Của Thiền...49 Hiện Pháp Lạc Trú...49 A La Hán Là Một Vị Bồ Tát.53 Buông Bỏ Để Có Thảnh Thơi Và An Lạc...55 Đạo Và Đạo Chí..57 Nuôi Dưỡng Đạo Chí Bằng Cái Nhìn Sâu Sắc...60 Niệm, Tưởng Và Công Án..63 Quán Niệm Và Quán Tưởng.67 Quán Niệm Và Quán Tưởng.67 Phiền Não Là Bồ Đề: Năm Phép Quán Chiếu Về Sự Biến Đổi.71 Tăng Hội Là Sơ Tổ Thiền Tông.74 Phương Pháp Đạt Thiền..78 Bài Tựa Kinh An Ban Thủ Ý..88 Thiền sư Tăng Hội (Cao Tăng Truyện)..92 Bài Tựa Sách Mâu Tử Lý Hoặc Luận...100 Khởi Nguyên Của Thiền Học Việt Nam...102 Khương Tăng Hội..102 Tư Tưởng Thiền Của Tăng Hội.105 Chi Cương Lương Tiếp..110 Đạt Ma Đề Bà và Huệ Thắng..111 Vai Trò Quan Trọng Của Tăng Hội Tại Kiến Nghiệp.114 Quốc sư Thông Biện.116</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_e5a2aa1b9d75963d8ab754359cc4773c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_e5a2aa1b9d75963d8ab754359cc4773c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/135-thien-su-tang-hoi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/135-thien-su-tang-hoi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thuat-tu-tuong-830.html",
+    "title" : "THUẬT TƯ TƯỞNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thu Giang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lời nói đầu Tư tưởng ở một con người là vấn đề rất quan trọng mà cũng rất phức tạp. Do vậy không phải ai cũng hiểu và làm chủ tư tưởng của mình. - Tư tưởng là gì? - Làm thế nào để giúp tư tưởng đúng? Đây là những vấn đề cốt lõi mà nội dung cuốn THUẬT TƯ TƯỞNG sẽ làm rõ hơn, giúp người đọc lĩnh hội được nhiều vấn đề bổ ích. Được sự đồng ý của người đại diện tác giả, chúng tôi in cuốn sách trên có sửa chữa đôi chỗ để bạn đọc dễ tiếp thu. Tư tưởng là một vấn đề lớn vừa có tính khoa học vừa có tính nghệ thuật, do vậy đây cũng chỉ là tài liệu để bạn đọc tham khảo là chính và cũng khó tránh khỏi những khiếm khuyết, rất mong bạn đọc lượng thứ và đóng góp trao đổi thêm. Nhà Xuất Bản Thanh Niên</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_bb28a497300384820c0fea5c89028930.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_bb28a497300384820c0fea5c89028930.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/830-thuat-tu-tuong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/830-thuat-tu-tuong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/90-ngay-cho-mai-mai-13968.html",
+    "title" : "90 NGÀY CHO MÃI MÃI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Người ta có thể lãng quên nhau như trái tim sẽ dẫn lối chúng ta đến bên người mình thương nhớ nhất. Có những chuyến đi, tưởng là ngẫu nhiên trong đời nhưng lại là cơ duyên để ta tìm lại định mệnh của đời mình. - Em thích mưa? Tiếng anh ta phả một làn hơi ấm sau gáy tôi. - Sao anh biết? - Và thích cả mùa đông? Tôi lặp lại câu hỏi, hoang mang cực độ. - Vì trước đây tôi đã từng yêu một người giống hệt em, cũng có thể là chính em! Câu nói như một tia chớp lóe lên ngay trước mắt tôi, dữ dội và khó tin. Anh ta đang đùa giỡn tôi sao, nhưng vẻ mặt đó không mang chút gì bông đùa, lại còn có nét gì đó buồn bã đau đớn. - Không thể nào là thế được, tôi nói một cách chân thành, có thể anh nhầm em với ai đó, em không hề biết anh cho đến khi em đặt chân đến INC. Tôi lấy hết bình tĩnh để dằn từng từ một cách rõ ràng rành mạch nhưng cũng không quá gay gắt, tự nhiên tôi không muốn thấy vẻ mặt khó xử của anh khi tôi nói lời phủ nhận. - Nhưng em giống hệt cô ấy, ngoại hình, tính cách, sở thích, mọi thứ về em. - Cũng có thể có những người giống hệt nhau tồn tại trên thế giới này kia mà. - Thật sự em không nhớ tôi là ai ư? Em chưa hề gặp tôi ư? Hay em đang đóng kịch quá xuất sắc? Anh chộp lấy bờ vai tôi lay mạnh như kẻ mất trí. Từ khi biết anh ta đến giờ, tôi hoàn toàn chưa bao giờ thấy anh ta mất kiểm soát đến như vậy. - Có phải em có một chiếc hộp giấy màu hồng, dưới đáy hộp có ghi hàng chữ: “Hãy luôn mỉm cười và nhớ rằng luôn có ai đó bên cạnh mình!”? Đôi mắt anh long lanh những giọt nước mắt trong như pha lê. Tại sao đến cả điều bí mật của riêng tôi mà anh ta cũng biết, tôi thật sự hoảng hốt, rốt cuộc anh ta biết về tôi nhiều bao nhiêu, rõ bao nhiêu? Hàng loạt câu hỏi cứ nhảy nhót loạn xạ trong đầu. Tác giả: Tăng Hà Vân Giọng đọc: Titi, Thắng Leo Thực hiện: Hằng Nga Thiết kế: Hương Giang</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_af0b84fbca2c6d5e6e4a9d8bc2ea806a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_af0b84fbca2c6d5e6e4a9d8bc2ea806a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13968-90-ngay-cho-mai-mai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13968-90-ngay-cho-mai-mai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

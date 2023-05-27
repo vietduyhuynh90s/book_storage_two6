@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cuoc-song-tinh-yeu-tieng-cuoi-3.html",
+    "title" : "CUỘC SỐNG TÌNH YÊU TIẾNG CƯỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Osho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Cuộc sống.. 1 Không bắt đầu, không kết thúc... 3 Vấn đề sống và chết. 7 Vứt bỏ quá khứ từng khoảnh khắc. 41 Tỉnh rượu đi!... 57 Tình yêu.. 83 Phép màu của tình yêu. 85 Để yêu là lời nguyện của bạn. 121 Ba câu hỏi.. 153 Tiếng cười.. 179 Cuộc sống là không nghiêm chỉnh... 181 Đừng làm trò đùa ác... 189 Lại trở thành đứa trẻ... 195 Khả năng khôi hài bên ngoài tâm trí... 207 Học cười chính mình... 217 Về Osho. 223 Nghiêm chỉnh là một loại bệnh tật: nó là ung thư của linh hồn... Chỉ qua tình yêu và tiếng cười và vui vẻ vô cùng trong cuộc sống mà bạn bắt đầu cảm thấy sự hiện diện của cái gì đó ở cõi bên kia. Khi cuộc sống trở thành cuộc phiêu lưu, điệu vũ của cực lạc, chỉ thế thì bạn mới đi ra ngoài những giới hạn của thân thể và tâm trí và soải cánh bay cao vào vô tận. Nếu bạn có thể yêu, và nếu bạn có thể cười, một cách toàn bộ, toàn tâm, cuộc sống của bạn sẽ trở thành phúc lạc thế và phúc lành thế, không chỉ cho bản thân bạn mà còn cho mọi người khác. Bạn sẽ là phúc lành cho thế giới. OSHO</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_5d6cccbeaaeabd70b11fcf1bc26abdef.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_5d6cccbeaaeabd70b11fcf1bc26abdef.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/3-cuoc-song-tinh-yeu-tieng-cuoi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/3-cuoc-song-tinh-yeu-tieng-cuoi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

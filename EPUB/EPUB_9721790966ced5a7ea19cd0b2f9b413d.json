@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tu-thuoc-cho-linh-hon-21.html",
+    "title" : "TỦ THUỐC CHO LINH HỒN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Osho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một tuyển tập toàn diện về các phương pháp và lời khuyên về thiền để thúc đẩy ý thức lớn hơn về mạnh khoẻ trong mọi mặt của cuộc sống của chúng ta. Tuyển tập này được rút ra từ hàng trăm cuộc gặp gỡ của Osho với các cá nhân thuộc đủ mọi lứa tuổi và nền tảng, cũng như từ các giáo huấn của các trường phái huyền bí của phần lớn các truyền thống tâm linh kể cả Yoga, Đạo, Sufi giáo, Phật giáo và Tantra. Phương pháp và kĩ thuật được trình bày theo dạng thức thân thiện người dùng, được sắp xếp theo các tiêu đề đề cập tới đa dạng các mối quan tâm sự sống, các triệu chứng hay mục đích, và đề cập tới đa dạng khía cạnh của sự sống đương đại như giản căng thẳng, quản lí tâm trạng và các mối quan hệ. Bên cạnh các phương pháp đặc biệt, cuốn sách này được pha thêm với những bình luận liên quan mà thường là thơ ca, thường khôi hài, và bao giờ cũng toả sáng. Với những thiền nhân có kinh nghiệm đi tìm kiếm hứng khởi thêm, hay cho người mới vào đang cần chiều hướng, đây là cuốn sách \"phải có\" về sống sự sống mạnh khoẻ, thảnh thơi và đầy niềm vui tự phát. Bao gồm các phương pháp để giải quyết cho: - mất ngủ - đau - lo lắng - cáu bẳn - chán - mệt - bồn chồn - “thần kinh” - quá cân - căng mắt - đơn độc - chán nản - không có khả năng tập trung - căng thẳng</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_9721790966ced5a7ea19cd0b2f9b413d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_9721790966ced5a7ea19cd0b2f9b413d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/21-tu-thuoc-cho-linh-hon-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/21-tu-thuoc-cho-linh-hon-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/8-bai-hoc-kinh-dien-cua-gia-cat-luong-thay-doi-van-menh-hang-trieu-nguoi-13900.html",
+    "title" : "8 BÀI HỌC KINH ĐIỂN CỦA GIA CÁT LƯỢNG THAY ĐỔI VẬN MỆNH HÀNG TRIỆU NGƯỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Khổng Minh khuyên rằng, ý chí sẽ giảm sút theo thời gian. Có câu rằng: “Trẻ không gắng học hành, về già mới bi thương”. Quản lý thời gian là một khái niệm quản lý hiện đại. Mỗi ngày chỉ có 24 giờ, không hơn không kém, chỉ có bản thân mỗi người dùng mỗi giây phút ấy như thế nào. Bạn hãy suy nghĩ một chút xem, những năm tháng qua bản thân có biết trân quý thời gian không? Ông nhắc nhở con cháu: “Đừng để đến lúc sắp lìa đời mới thấy hối hận vì thời gian đã qua đi mà còn có quá nhiều lý tưởng chưa thực hiện được”. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_7764a20753685bae7ce10517252c6616.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_7764a20753685bae7ce10517252c6616.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13900-8-bai-hoc-kinh-dien-cua-gia-cat-luong-thay-doi-van-menh-hang-trieu-nguoi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13900-8-bai-hoc-kinh-dien-cua-gia-cat-luong-thay-doi-van-menh-hang-trieu-nguoi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

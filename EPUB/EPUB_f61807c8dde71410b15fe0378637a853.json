@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doi-thay-doi-khi-chung-ta-thay-doi-tap-3-1124.html",
+    "title" : "ĐỜI THAY ĐỔI KHI CHÚNG TA THAY ĐỔI - TẬP 3",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Andrew Matthews",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Nhiệm vụ của bạn trong cuộc đời không phải là để KHÔNG GẶP BẤT KỲ RẮC RỐI NÀO… mà là để SỐNG SÔI NỔI, LẠC QUAN.” “Dù bạn là ai, bạn không chết dí một chỗ - bạn là con người chứ không phải cây cối” Quyển sách này hướng dẫn - Làm điều bạn thích - Ứng phó với những giai đoạn khó khăn, thất bại - Khám phá sức mạnh của chính mình - Tìm được sự bình yên cho tâm hồn - Đối phó với tai ương, thảm họa - Không trách cứ cha mẹ Quyển sách này viết về… - Người HẠNH PHÚC suy nghĩ như thế nào - Tại sao người GIÀU làm ra tiền - Người THẤT BẠI làm điều gì và làm sao để bạn đừng giống họ!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_f61807c8dde71410b15fe0378637a853.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_f61807c8dde71410b15fe0378637a853.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1124-doi-thay-doi-khi-chung-ta-thay-doi-tap-3-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1124-doi-thay-doi-khi-chung-ta-thay-doi-tap-3-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hay-mim-cuoi-nhu-loai-hoa-vo-uu-13924.html",
+    "title" : "HÃY MỈM CƯỜI NHƯ LOÀI HOA VÔ ƯU!",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Những ngày vừa qua, đôi khi tôi cảm thấy cuộc sống của mình trôi qua có một chút gì đó nhạt nhạt, không buồn, không vui. Tôi thường rất sợ những cảm xúc đó vì những lúc đó tôi không bao giờ thấy mình bình yên. Chiều nay đi dạy về, tôi cầm cuốn \"Để trở thành một Phật tử\" trong tay, lật từng trang, từng trang và dừng lại ở dòng chữ: \"Pháp danh: Hiệu Diệu Đào”, đó là cái tên của tôi. Tôi không hiểu ý nghĩa của cái tên Pháp danh đó mà mẹ hay một ai đó đã đặt cho mình, nhưng tôi thấy hay hay và khẽ mỉm cười. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_6c48ccf625f795f4fb03dbdefb470e53.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_6c48ccf625f795f4fb03dbdefb470e53.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13924-hay-mim-cuoi-nhu-loai-hoa-vo-uu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13924-hay-mim-cuoi-nhu-loai-hoa-vo-uu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

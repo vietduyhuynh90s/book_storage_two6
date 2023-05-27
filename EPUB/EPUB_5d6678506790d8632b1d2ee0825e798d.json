@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/co-thu-tinh-yeu-goi-la-chia-tay-13946.html",
+    "title" : "CÓ THỨ TÌNH YÊU GỌI LÀ CHIA TAY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Khi chia tay một mối tình, chúng ta thường cố tìm những nguyên do. Nếu không phải do thời gian thì do khoảng cách, do người thứ ba xen vào, hoặc chỉ đơn giản là cả hai không còn dành tình cảm cho nhau nữa. Thế nhưng, đôi khi vì tình yêu mà người ta xa nhau. Chia tay khi lòng vẫn còn yêu, cảm giác đó thật khổ đau và khó nhọc biết nhường nào. Mở đầu chương trình hôm nay, mời bạn lắng nghe lá thư tâm sự Vì tình yêu mà chúng ta xa nhau, được gửi đến từ bạn Kim Ngọc Anh.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_5d6678506790d8632b1d2ee0825e798d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_5d6678506790d8632b1d2ee0825e798d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13946-co-thu-tinh-yeu-goi-la-chia-tay-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13946-co-thu-tinh-yeu-goi-la-chia-tay-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

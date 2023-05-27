@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/coi-troi-chan-phuc-249.html",
+    "title" : "CÕI TRỜI CHÂN PHÚC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "C. W. Leadbeater",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC GHI CHÚ VỀ TỰA ĐỀ QUYỂN SÁCH LỜI MỞ ĐẦU PHẦN GIỚI THIỆU NHỮNG ĐẶC TÍNH TỔNG QUÁT MỘT CẢNH TRÍ LỘNG LẪY SỰ CHÍ PHÚC NƠI CÕI THIÊN ĐÀNG MỘT PHƯƠNG PHÁP NHẬN THỨC MỚI MÔI TRƯỜNG SINH HOẠT NHỮNG LÀN SÓNG VĨ ĐẠI (The Great Waves) CÕI HẠ THIÊN VÀ CÕI THƯỢNG THIÊN HOẠT ĐỘNG CỦA TƯ TƯỞNG HÌNH TƯ TƯỞNG NHỮNG CẢNH CỦA CÕI THƯỢNG GIỚI NHỮNG LƯU TRỮ CỦA QUÁ KHỨ (The Records of The Past) NHỮNG CƯ DÂN I. NHÂN LOẠI (HUMAN) NHỮNG HIỆN THÂN (THE EMBODIED) TRONG GIẤC NGỦ HOẶC XUẤT THẦN NHỮNG NHÂN VẬT KHÔNG CÒN GIỮ XÁC THÂN NHỮNG ĐỨC TÍNH CẦN CHO CUỘC SỐNG Ở CÕI THIÊN ĐÀNG LÀM THẾ NÀO CON NGƯỜI ĐẠT ĐƯỢC SỰ SỐNG TRÊN CÕI THIÊN ĐÀNG LẦN ĐẦU TIÊN CẢNH THỨ BẢY, CẢNH THẤP NHẤT CỦA CÕI THIÊN ĐÀNG CẢNH THỨ SÁU, VÙNG THỨ NHÌ CỦA CÕI THIÊN ĐÀNG CẢNH THỨ NĂM; VÙNG THỨ BA CỦA CÕI THIÊN ĐÀNG CẢNH THỨ TƯ; VÙNG TRỜI THỨ TƯ CỦA CÕI THIÊN ĐÀNG THỰC TẠI CỦA SỰ SỐNG THIÊN ĐÀNG (The Reality of The Heaven Life) SỰ TỪ BỎ CUỘC SỐNG CÕI THIÊN ĐÀNG CÕI THƯỢNG THIÊN (The Higher Heaven - World) CẢNH THỨ BA; VÙNG THỨ NĂM CỦA CÕI THIÊN ĐÀNG CẢNH THỨ NHÌ; VÙNG THỨ SÁU CỦA CÕI THIÊN ĐÀNG CẢNH THỨ NHẤT; VÙNG THỨ BẢY CỦA CÕI THIÊN ĐÀNG II. NHỮNG LOÀI KHÔNG THUỘC HÀNG NGŨ NHÂN LOẠI (Non - human) LOÀI TINH HOA CHẤT (The Elemental Essence) LOÀI TINH HOA CHẤT LÀ GÌ? SỰ CHE PHỦ CỦA LINH HỒN (The Veiling of The Spirit) CÁC LOÀI TINH LINH (The Elemental Kingdom) CÁCH TIẾN HOÁ CỦA LOÀI TINH HOA CHẤT LOÀI CẦM THÚ NHỮNG VỊ THIÊN THẦN (The Devas or Angels) NHỮNG ĐẲNG CẤP THIÊN THẦN III. NHỮNG LOÀI GIẢ TẠO (Artificial) KẾT LUẬN HỘI THÔNG THIÊN HỌC CÓ BA MỤC ĐÍCH CHÂN THÀNH TRI ÂN</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_a51cb1f662ffaa8ce2ae262f10befd7c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_a51cb1f662ffaa8ce2ae262f10befd7c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/249-coi-troi-chan-phuc-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/249-coi-troi-chan-phuc-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
