@@ -1,0 +1,516 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.nettruyento.com/truyen-tranh/hoshi-no-koe-25660",
+    "title" : "Hoshi no Koe - Chapter 2",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-06",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 10,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_d439b1af6ae7b235b4db1899de8cca0f.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/001.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_f7e972855f088171c459dc3c893f1357.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/002.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_c6305be305822995d1fe4f0afa9b86c8.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/003.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_8520b512826cadd4e91b6b707e737d40.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/004.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_da8cfbb501afdee90ade7964841c6a1a.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/005.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_9a8d6e995962d87579ab643fb94351c7.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/006.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_9aed54ef2c025b50725c892ab4f805e1.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/007.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_f9f761fb8b217ed33a71ca7c28c4ef3f.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/008.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_730721a5b577b84e15ae06b81b339f72.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/009.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_9c255ddcacb95cbe69e0c84c8f867412.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/010.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_b5d6568f0cd30c952d65d9823b268fd3.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/011.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_631e97fabcd0a3325d67633de7737ce6.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/012.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_ca805db16d035032db17d58632989a76.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/013.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_1088399159cf5009d043b5c8a15da331.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/014.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_05c88d0d9681037f1ae9d8eb4eb71802.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/015.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_31ef695e81117e914ddc4750a9b8673d.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/016.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_f548e43bfd6ea2de9c60018c92336846.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/017.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_c724283da56097e18de1a27ba1cec941.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/018.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_de181d771f921f884bd8df712306c4ee.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/019.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_3145d51409073dc58a5d48a91b9d85bc.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/020.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_f79550119baa0d3fa5390f6e16264119.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/021.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_1ccab8297b00ac7d3ce31702d98313a6.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/022.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_a54593d10a8d3c1417241900235a2321.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/023.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_5081b58ac8e965bcc92b36045f1ae71b.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/024.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_5ec433fbce90698276700b1010f2dca4.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/025.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_b558b31d87c79790908c2a9dd5ffe974.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/026.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_0832aa7b78867497cc1c2951720267c5.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/027.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_ee23574168be9ed0b0630af668a79a0c.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/028.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_3faca51f9b649711e6fe439724a0a106.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/029.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_674a68d0372ea61a98ba7625942ffabc_c28857b3da3cb81bb4f41441aacb010d_17e1e2871c457bd31b0f67760a77f11a.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i111.ntcdntempv3.com/data/images/2566/30938/030.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
