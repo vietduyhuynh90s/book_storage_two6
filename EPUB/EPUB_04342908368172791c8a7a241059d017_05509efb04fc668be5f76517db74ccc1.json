@@ -1,0 +1,412 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.nettruyento.com/truyen-tranh/tiem-hoa-huong-duong-goc-pho-555780",
+    "title" : "Tiệm Hoa Hướng Dương Góc Phố - Chapter 1",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-06",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 68,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/001.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/002.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/003.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/004.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/005.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/006.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/007.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/008.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/009.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/010.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/011.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/012.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/013.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/014.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/015.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/016.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/017.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/018.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/019.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/020.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/021.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/022.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/023.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/024.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/025.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/026.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/027.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/028.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/029.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/030.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/031.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/032.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/033.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/034.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/035.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/036.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/037.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/038.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/039.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/040.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/041.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/042.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/043.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/044.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/045.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/046.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://i226.ntcdntempv26.com/data/images/55578/806387/047.jpg?data=net",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
