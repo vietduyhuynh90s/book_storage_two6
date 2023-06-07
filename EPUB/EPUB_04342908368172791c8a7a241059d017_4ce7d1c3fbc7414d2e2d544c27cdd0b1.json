@@ -10,7 +10,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-06-06",
+    "published" : "2023-06-07",
     "duration" : 0,
     "abridged" : false,
     "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
@@ -31,485 +31,965 @@
     "type" : "application/divina+json"
   } ],
   "readingOrder" : [ {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/001-b3954f91.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_6ad3773aaa8eb2f0fbb49a5097ea3fb3.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/001-b3954f91.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/002-f064e351.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_f90dfacd1b20ee403df16b4e0993d48c.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/002-f064e351.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/003-b52e29a1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_97974b62b214265d0726ad9e5f7a484d.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/003-b52e29a1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/004-ec6b3021.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_1e5a1d7faaf830440b1d5e53a069e634.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/004-ec6b3021.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/005-e65bcf41.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_191d31eb08d5956898bd4b49b16ba46e.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/005-e65bcf41.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/006-2c33f931.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_1b71bfd61411c5dea44001f82dcd28b5.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/006-2c33f931.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/007-d1f33771.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_d0bf7fb9fd8f65c7f54ae66a67a6b752.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/007-d1f33771.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/008-c505b2a1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_00ece4a5b1b38156dac05d46b4ee96dd.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/008-c505b2a1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/009-554480b1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_81ac2f2ff1622f8f50b592212ded7c99.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/009-554480b1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/010-30ac9701.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_8a463e0d3a8b81498b647060851dd089.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/010-30ac9701.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/011-05d4aae1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_8a605c65502f428b9a4cbddb83001261.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/011-05d4aae1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/012-0854f681.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_7578f43d1988cf74559f96a3212f72c7.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/012-0854f681.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/013-7a15ef91.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_43a517115d809d06f1375a82515adb97.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/013-7a15ef91.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/014-6a7876d1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_89a7ed9b7044544790ef01a94bbe872e.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/014-6a7876d1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/015-102f4e01.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_057b3ebbcd3343e4ada6d2bb7ce4c76d.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/015-102f4e01.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/016-bb4a9671.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_5f951b9fa9683a9c1e00dcc8c46d271e.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/016-bb4a9671.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/017-e64416b1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_2b2e95f77019e160b5672ec434a6af7f.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/017-e64416b1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/018-fd3d5051.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_d62dfdb99a9b0fb0ee74f0810212ec69.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/018-fd3d5051.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/019-81420a71.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_337bf799f2afaab84f88ef3405ee21c3.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/019-81420a71.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/020-dcf265b1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_ed5d8dada55109fabaf50b6ca720a41f.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/020-dcf265b1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/021-eef0b681.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_887aa5deff3c8d75e50b85287682dc0b.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/021-eef0b681.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/022-3d366a51.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_52ffc25ccf4f062d21546fa30a73d650.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/022-3d366a51.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/023-5a923e61.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_86ebf439c922d8af52491ff3b9dce070.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/023-5a923e61.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/024-ac073d31.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_3ab79ccb6092d99164d53a3ebf457699.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/024-ac073d31.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/025-03d033b1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_296fc9d0ec1570bc4e5cd92ef1912eca.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/025-03d033b1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/026-81e4e361.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_37374c25e5bc289a223e5e4ff3091a4c.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/026-81e4e361.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/027-2bbc3a51.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_326bd745392cb726ffdc217791da1ae3.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/027-2bbc3a51.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/028-62c986b1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_3b96a58adec8ff2e304101de25b79e15.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/028-62c986b1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/029-a9fe1531.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_7e81e59b837d5ed649da728d6e1ae256.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/029-a9fe1531.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/030-d2c4c501.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_99c29c4f3291e68dd5c4df44d4c5c445.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/030-d2c4c501.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/031-42ea0791.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_39aad0173da021596c3280539259ef14.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/031-42ea0791.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/032-e3248831.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_b5940eff6608c3efac444899c9454e22.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/032-e3248831.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/033-8287ad41.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_da5192abe65bdcd64dd9897b8fb544b3.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/033-8287ad41.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/034-46918e21.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_4ae0c8d5ac18ce3e5a8eb9254a722e1d.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/034-46918e21.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/035-6cf3c541.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_c3ada99830396ee2c891cde0b7e600e0.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/035-6cf3c541.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/036-62e78101.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_4f8befce743ec5a8b3bb0be11c3bedd3.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/036-62e78101.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/037-ceec30a1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_b4cf37d50c2f587f1abe547b46174bd3.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/037-ceec30a1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/038-a28c7ca1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_661633a39efb3ba7a1a8972dad33a04a.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/038-a28c7ca1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/039-ab43a9f1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_ef7e32207cf449718a0646817aaced0f.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/039-ab43a9f1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/040-00cfd401.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_38d5adf634e02e332310e912e2f62b05.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/040-00cfd401.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/041-3c9e8921.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_d2742747f24aa2318e1cecd26e72793a.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/041-3c9e8921.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/042-894feea1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_738ba41de1c424ae533c865422584093.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/042-894feea1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/043-0cdaa361.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_b5c4371eca330b5752d7ba02ba2f3ba6.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/043-0cdaa361.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/044-e66b4211.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_79cb78f89ad12d81314dca2fbdf7e1ef.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/044-e66b4211.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/045-56a29491.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_928a82c8e18e6288698b015ea5a92e8e.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/045-56a29491.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/046-9f95a231.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_62838e55799a96508b5d694d255fa9aa.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/046-9f95a231.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/047-8df7f0e1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_e1c5ffe74b66d0ee5ec74605f7a17422.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/047-8df7f0e1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/048-f6bf3f71.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_f076c207e81eac14427440db3abd5c58.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/048-f6bf3f71.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/049-97eedde1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_1924bb18d3687b0c235c091709f116f2.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/049-97eedde1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/050-106556d1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_6b9a3d92f543b3f5e121c47d3e08819d.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/050-106556d1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/051-45e0d671.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_ec0efebaf71c90a964466062ece6b9d0.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/051-45e0d671.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/052-391ba5d1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_dc2aaed5479ceec84484296800784eb2.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/052-391ba5d1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/053-0d08e6b1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_02cd977449168fd70a8920569978940d.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/053-0d08e6b1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/054-9a2b2871.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_a2513374818b810781025f2e5343baea.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/054-9a2b2871.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/055-e38b1c41.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_a86736c4e6188527079d2aece9861d3e.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/055-e38b1c41.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/056-62984331.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_21dcf5903ac94d831cdfa8699e520398.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/056-62984331.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/057-2e853e21.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_60d96f4baf4804854d380dba8c459825.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/057-2e853e21.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/058-4a8e12b1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_28aea9686ee5cde43ec02cab69a8bcec.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/058-4a8e12b1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/059-5fd0bf91.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_e576bed32874947a3bcd5e9d42dce4b4.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/059-5fd0bf91.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/060-fa0aafe1.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_04342908368172791c8a7a241059d017_4ce7d1c3fbc7414d2e2d544c27cdd0b1_ce0d8213c4fefd286e0081c8866e730e.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/55578/998350/060-fa0aafe1.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   } ],
   "toc" : null,
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
