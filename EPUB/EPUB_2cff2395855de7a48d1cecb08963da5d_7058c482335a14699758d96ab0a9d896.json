@@ -31,13 +31,21 @@
     "type" : "application/divina+json"
   } ],
   "readingOrder" : [ {
-    "href" : "https://i331.ntcdntempv26.com/data/images/5699/111762/001.jpg?data=net",
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage6/main/IMAGE/IMAGE_2cff2395855de7a48d1cecb08963da5d_7058c482335a14699758d96ab0a9d896_ec96226734cec2c023f56e583e2a6b5a.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
-    "alternate" : [ ]
+    "alternate" : [ {
+      "href" : "https://i331.ntcdntempv26.com/data/images/5699/111762/001.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   } ],
   "toc" : null,
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
