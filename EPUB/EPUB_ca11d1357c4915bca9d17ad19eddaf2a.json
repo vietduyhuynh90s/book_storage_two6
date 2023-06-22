@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/the-gioi-nhu-toi-thay-1679.html",
+    "title" : "THẾ GIỚI NHƯ TÔI THẤY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Albert Einstein",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Ebook này tập hợp những bài viết, bài nói chuyện, thư từ và tiểu luận khoa học của một trong những con người vĩ đại nhất của thế kỷ 20: Albert Einstein - Ông là một trong những thiên tài hiếm hoi, người không chỉ vô cùng xuất sắc trong lĩnh vực nghiên cứu của mình, mà còn có ảnh hưởng sâu rộng tới các lĩnh vực khác: tư tưởng, tôn giáo và chính trị.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_ca11d1357c4915bca9d17ad19eddaf2a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_ca11d1357c4915bca9d17ad19eddaf2a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Phần 1.1 - Thế Giới Như Tôi Thấy 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=432",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:07:12 Phần 1.2 - Thế Giới Như Tôi Thấy 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=813",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:13:33 Phần 1.3 - Tôn Giáo Và Khoa Học",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=1010",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:16:50 Phần 1.4 - Tôn Giáo Và Khoa Học",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=1586",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:26:26 Phần 1.5 - Thiên Đường Đánh Mất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=1652",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:27:32 Phần 1.6 Sự Cần Thiết Của Văn Hóa Đạo Đức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=1816",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:30:16 Phần 1.7 Chủ Nghĩa Phát Xít Và Khoa Học",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=1946",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:32:26 Phần 49 - Phần 62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=2920",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:48:40 Phần 63 - Phần 73: H. A. Lorentz",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=3641",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:00:41 Phần 73 - Phần 89: Bertrand Russell Và Tư Duy Triết Học",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=4738",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:18:58 Phần 89 - Phần 99: Đám Nhà Báo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=5363",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:29:23 Phần 100 - Phần 114: Chủ Nghĩa Hòa Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=6106",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:41:46 Phần 115 - Phần 135: Phụ Nữ Và Chiến Tranh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=7431",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:03:51 Phần 135 - Phần 162: Văn Hóa Và Phồn Thịnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=9039",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:30:39 Phần 162 - Phần 170: Chúng Ta - Những Người Thừa Kế Di Sản",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=9560",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:39:20 Phần 171 - Phần 184: Trong Cuộc Đấu Tranh Chống Chủ Nghĩa Quốc Xã",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=10295",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:51:35 Phần 185 - Phần 204: Các Vấn Đề Về Do Thái",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=11444",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:10:44 Phần Cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Phần 1.1 - Thế Giới Như Tôi Thấy 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=432",
+    "title" : "00:07:12 Phần 1.2 - Thế Giới Như Tôi Thấy 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=813",
+    "title" : "00:13:33 Phần 1.3 - Tôn Giáo Và Khoa Học",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=1010",
+    "title" : "00:16:50 Phần 1.4 - Tôn Giáo Và Khoa Học",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=1586",
+    "title" : "00:26:26 Phần 1.5 - Thiên Đường Đánh Mất",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=1652",
+    "title" : "00:27:32 Phần 1.6 Sự Cần Thiết Của Văn Hóa Đạo Đức",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=1816",
+    "title" : "00:30:16 Phần 1.7 Chủ Nghĩa Phát Xít Và Khoa Học",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=1946",
+    "title" : "00:32:26 Phần 49 - Phần 62",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=2920",
+    "title" : "00:48:40 Phần 63 - Phần 73: H. A. Lorentz",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=3641",
+    "title" : "01:00:41 Phần 73 - Phần 89: Bertrand Russell Và Tư Duy Triết Học",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=4738",
+    "title" : "01:18:58 Phần 89 - Phần 99: Đám Nhà Báo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=5363",
+    "title" : "01:29:23 Phần 100 - Phần 114: Chủ Nghĩa Hòa Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=6106",
+    "title" : "01:41:46 Phần 115 - Phần 135: Phụ Nữ Và Chiến Tranh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=7431",
+    "title" : "02:03:51 Phần 135 - Phần 162: Văn Hóa Và Phồn Thịnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=9039",
+    "title" : "02:30:39 Phần 162 - Phần 170: Chúng Ta - Những Người Thừa Kế Di Sản",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=9560",
+    "title" : "02:39:20 Phần 171 - Phần 184: Trong Cuộc Đấu Tranh Chống Chủ Nghĩa Quốc Xã",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=10295",
+    "title" : "02:51:35 Phần 185 - Phần 204: Các Vấn Đề Về Do Thái",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1679-the-gioi-nhu-toi-thay-thuviensach.vn.mp3?t=11444",
+    "title" : "03:10:44 Phần Cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

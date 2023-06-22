@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/pha-me-khai-ngo-1776.html",
+    "title" : "PHÁ MÊ KHAI NGỘ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Sỹ Minh Tùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>1. Tiểu Sử Đức Phật Thích Ca 2. Đời Là Bể Khổ 3. Xuất Gia Tìm Đạo 4. Thành Đạo 5. Hóa Độ Chúng Sinh 6. An Cư Kiết Hạ Và Tịnh Xá 7. Pháp Nạn 8. Tam Tạng Kinh 9. Đức Phật Nhập Diệt 10. Lời Tán Thán Đức Phật 11. Phổ Hiền Bồ Tát 12. Văn Thù Sư Lợi Bổ Tát 13. Nghiệp Và Nghiệp Quả 14. Luân Hồi 15. Sự Thờ Cúng Và Lễ Bái 16. Nhân Quả 17. Giới Thiệu Kinh Pháp Hoa 18. Nhẫn Nhục 19. Từ Bi Hỷ Xả 20. Bố Thí Ba-la-mật 21. Ý Nghĩa Chũ Vạn Trong Phật Giáo 22. Trì Giới Ba-la-mật 23. 32 Tướng Tốt Của Đức Phật 24. Quy y Tam Bảo 25. Sự Tích Kinh Lăng Nghiêm 26. Lục Căn, Lục Trần, Lục Thức 27. Giới Thiệu Kinh Hoa Nghiêm 28. Vô Thường - Vô Ngã 29. Con Người Từ Đâu Đến 30. Kinh Kim Cang Bát Nhã 31. Tứ Diệu Đế 32. Khổ Đế 33. Tập Đế 34. Diệt Đế 35. Niết Bàn 36. Đạo Đế 37. Tứ Niệm Xứ 38. Tứ Chánh Cần 39. Ngũ Căn - Ngũ Lực 40. Thất Bồ-đề 41. Bát Chánh Đạo 42. Bồ-tát Di Lặc 43. Tổ Bồ Đề Đạt Ma 44. Thiền 45. Đức Phật A Di Đà 46. Đại Thế Chí Bồ Tát 47. Quán Thế Âm Bồ Tát 48. Pháp Tu Tịnh Độ 49. Ăn Chay 50. Quan Thánh 51. Nho Giáo 52. Đạo Giáo</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_cf200573d2c45982d67060dbb9a89c36.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_cf200573d2c45982d67060dbb9a89c36.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1776-pha-me-khai-ngo-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1776-pha-me-khai-ngo-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

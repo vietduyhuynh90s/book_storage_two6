@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/huong-di-cho-cuoc-doi-12516.html",
+    "title" : "HƯỚNG ĐI CHO CUỘC ĐỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jiddu Krishnamurti",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hướng Đi Cho Cuộc Đời - Những bài viết và những cuộc thảo luận về việc tìm kiếm hướng đi cho cuộc đời bạn, giúp bạn vững tin trong cuộc sống: Tình yêu là nhân tố duy nhất có thể giải quyết tất cả mọi khó khăn của chúng ta... Đôi khi, trong trạng thái cô độc một mình, nếu bạn may mắn nó sẽ đến với bạn, trên chiếc lá vàng rơi, hoặc từ cái cây đơn độc xa xa kia trong cánh đồng bao la hiu quạnh. Trong cuốn cẩm nang này, quyển sách trích dẫn những đoạn ghi sâu sắc nhất, ý nghĩa nhất từ những bài giảng của Krishnamurti, người đã trình bày rõ những suy nghĩ mới mẻ về tình yêu, chính trị, xã hội, cái chết, sự khắc kỷ, mối quan hệ, trạng thái cô độc, thiền định, sự phát triển tâm linh, và hơn thế nữa. Qua quá trình chiêm nghiệm thiền định, Krishnamurti cho chúng ta câu trả lời đối với những câu hỏi: - Thiền định là gì? - Tình yêu và sự cô độc là gì? - Mối quan hệ của chúng ta dưới sự tác động của sức mạnh uy quyền là gì? Nội dung cuốn sách này được trích dẫn từ những Tập san cơ bản của Krishamurti. Hầu hết các đoạn trích này đã được xuất bản lần đầu tiên trong Tập san Triết lý niềm tin cơ bản của Krishnamurti, có vài đoạn trích xuất hiện trong các Tập san được phát hành tại Mỹ và Ấn Độ và sau đó được in lại trên Tập san được phát hành tại Anh quốc. Các con số Tập san được giới thiệu ở đây là những Tập san được phát hành tại Anh Quốc. Sách này được chia làm ba phần: Phần 1: gồm 16 mẫu truyện ngắn do Krishnamrti đọc Phần 2: là những câu trả lời của Krishnamuti trước các câu hỏi của khán thính giả đặt ra sau những buổi thảo luận của người hoặc tại các buổi thảo luận nhỏ Phần 3: gồm những cuộc trò chuyện trao đổi của Krishnamuri tại Thuỵ Sĩ, Ấn Độ, Anh Quốc và California</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_76c092a51b75aa616d872a8e7bbc7dc7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_76c092a51b75aa616d872a8e7bbc7dc7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12516-huong-di-cho-cuoc-doi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12516-huong-di-cho-cuoc-doi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

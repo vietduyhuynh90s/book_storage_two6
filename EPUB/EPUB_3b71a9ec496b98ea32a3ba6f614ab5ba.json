@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/he-thong-chia-khoa-chinh-7789.html",
+    "title" : "HỆ THỐNG CHÌA KHÓA CHÍNH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Charles F. Haanel",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_3b71a9ec496b98ea32a3ba6f614ab5ba.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_3b71a9ec496b98ea32a3ba6f614ab5ba.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Phần 01 - Thực Hành Tuần 01.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=2472",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:41:12 Phần 02 - Thực Hành Tuần 02.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=3596",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:59:56 Phần 03 - Thực Hành Tuần 03.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=4598",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:16:38 Phần 04 - Thực Hành Tuần 04.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=5625",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:33:45 Phần 05 - Thực Hành Tuần 05.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=6604",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:50:04 Phần 06 - Thực Hành Tuần 06.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=7539",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:05:39 Phần 07 - Thực Hành Tuần 07.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=8623",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:23:43 Phần 08 - Thực Hành Tuần 08.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=9755",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:42:35 Phần 09 - Thực Hành Tuần 09.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=10932",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:02:12 Phần 10 - Thực Hành Tuần 10.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=11944",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:19:04 Phần 11 - Thực Hành Tuần 11.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=12978",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:36:18 Phần 12 - Thực Hành Tuần 12.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=14012",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:53:32 Phần 13 - Thực Hành Tuần 13.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=15084",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:11:24 Phần 14 - Thực Hành Tuần 14.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=16048",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:27:28 Phần 15 - Thực Hành Tuần 15.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=17074",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:44:34 Phần 16 - Thực Hành Tuần 16.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=18138",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:02:18 Phần 17 - Thực Hành Tuần 17.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=19134",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:18:54 Phần 18 - Thực Hành Tuần 18.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=19954",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:32:34 Phần 19 - Thực Hành Tuần 19.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=20849",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:47:29 Phần 20 - Thực Hành Tuần 20.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=21814",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:03:34 Phần 21 - Thực Hành Tuần 21.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=22864",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:21:04 Phần 22 - Thực Hành Tuần 22.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=23884",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:38:04 Phần 23 - Thực Hành Tuần 23.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=24869",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:54:29 Phần 24 - Thực Hành Tuần 24 (Hết).",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Phần 01 - Thực Hành Tuần 01.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=2472",
+    "title" : "00:41:12 Phần 02 - Thực Hành Tuần 02.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=3596",
+    "title" : "00:59:56 Phần 03 - Thực Hành Tuần 03.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=4598",
+    "title" : "01:16:38 Phần 04 - Thực Hành Tuần 04.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=5625",
+    "title" : "01:33:45 Phần 05 - Thực Hành Tuần 05.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=6604",
+    "title" : "01:50:04 Phần 06 - Thực Hành Tuần 06.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=7539",
+    "title" : "02:05:39 Phần 07 - Thực Hành Tuần 07.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=8623",
+    "title" : "02:23:43 Phần 08 - Thực Hành Tuần 08.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=9755",
+    "title" : "02:42:35 Phần 09 - Thực Hành Tuần 09.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=10932",
+    "title" : "03:02:12 Phần 10 - Thực Hành Tuần 10.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=11944",
+    "title" : "03:19:04 Phần 11 - Thực Hành Tuần 11.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=12978",
+    "title" : "03:36:18 Phần 12 - Thực Hành Tuần 12.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=14012",
+    "title" : "03:53:32 Phần 13 - Thực Hành Tuần 13.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=15084",
+    "title" : "04:11:24 Phần 14 - Thực Hành Tuần 14.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=16048",
+    "title" : "04:27:28 Phần 15 - Thực Hành Tuần 15.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=17074",
+    "title" : "04:44:34 Phần 16 - Thực Hành Tuần 16.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=18138",
+    "title" : "05:02:18 Phần 17 - Thực Hành Tuần 17.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=19134",
+    "title" : "05:18:54 Phần 18 - Thực Hành Tuần 18.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=19954",
+    "title" : "05:32:34 Phần 19 - Thực Hành Tuần 19.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=20849",
+    "title" : "05:47:29 Phần 20 - Thực Hành Tuần 20.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=21814",
+    "title" : "06:03:34 Phần 21 - Thực Hành Tuần 21.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=22864",
+    "title" : "06:21:04 Phần 22 - Thực Hành Tuần 22.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=23884",
+    "title" : "06:38:04 Phần 23 - Thực Hành Tuần 23.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7789-he-thong-chia-khoa-chinh-thuviensach.vn.mp3?t=24869",
+    "title" : "06:54:29 Phần 24 - Thực Hành Tuần 24 (Hết).",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

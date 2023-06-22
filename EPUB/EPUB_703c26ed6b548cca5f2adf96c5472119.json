@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-duoc-su-bon-nguyen-cong-duc-3119.html",
+    "title" : "KINH DƯỢC SƯ BỔN NGUYỆN CÔNG ĐỨC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Huyền Dung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đây là một trong những bản kinh tụng thông dụng của người Phật tử. Kinh Dược sư nói về đại nguyện rộng lớn của đức Dược Sư Lưu Ly Quang Như Lai. Kinh thuyết dạy về công đức của người trì tụng kinh, xưng niệm danh hiệu đức Phật Dược Sư cũng như nói theo hạnh nguyện của ngài.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_703c26ed6b548cca5f2adf96c5472119.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_703c26ed6b548cca5f2adf96c5472119.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/3119-kinh-duoc-su-bon-nguyen-cong-duc-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/3119-kinh-duoc-su-bon-nguyen-cong-duc-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

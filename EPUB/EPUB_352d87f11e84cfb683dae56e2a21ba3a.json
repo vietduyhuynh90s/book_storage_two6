@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/duong-vao-hien-sinh-11868.html",
+    "title" : "ĐƯỜNG VÀO HIỆN SINH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jiddu Krishnamurti",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Jiddu Krishnamruti sinh năm 1895 tại Ấn Độ, ở độ tuổi 13 được Hội Thông Thiên Học nhận về và xem ông là phương tiện truyền bá chân lý cho bậc \"đạo sư của thế giới\" mà sự sắp xuất hiện của ngài đã luôn được họ công bố. Krishnamurti nhanh chóng nổi bật là một bậc đạo sư có quyền lực, không thoả hiệp và không thể xếp loại, vì những cuộc nói chuyện và tác phẩm của ông không hề có liên kết gì với bất kỳ tôn giáo cá biệt nào và cũng không thuộc về Đông phương hay Tây phương mà là cho toàn thể thế giới. Kiên quyết chối từ hình ảnh cứu thế, năm 1929 ông đột ngột giải tán tổ chức lớn lao có nhiều tiền bạc được tạo dựng xung quanh ông và tuyên bố chân lý là một \"lãnh địa không có đường vào\" mà không một tôn giáo, triết học hay tông phái chính thức nào có thể tiếp cận đến được. Trọn phần còn lại của đời minh, Krishnamurti khăng khăng nhất mực bác bỏ địa vị đạo sư mà người ta đã cố gán cho ông. Ông vẫn tiếp tục thu hút thính giả đông đảo khắp thế giới nhưng không hề đòi hỏi quyền lực nào, không hề muốn có đệ tử, và luôn luôn nói chuyện như là một cá nhân với một cá nhân. Cốt lõi giáo lý của ông là sự nhận thức rõ ràng rằng những cuộc thay đổi nền tảng trong xã hội có thể được phát sinh chỉ bởi một sự chuyển hoá thức tâm cá nhân. Sự cần thiết phải có sự tự tri và tự thấu hiểu chính mình những ảnh hưởng có tính giới hạn, chia rẽ của những quy định tôn giáo và quốc gia không ngừng được nhấn mạnh. Krishnamurti đã luôn luôn vạch ra cho thấy sự mở rộng tâm hồn, vì \"khoảng không bao la trong trí não đó sẽ có thứ năng lực không thể tưởng được\". Điều này dường như đã là suối nguồn cảm hứng sáng tạo của riêng ông và là chìa khoá cho ảnh hưởng của ông đối với một công chúng rộng lớn đa dạng như thế. Krishamurti tiếp tục nói chuyện khắp nơi trên thế giới cho đến khi ông mất năm 1986 ở tuổi 90. Những cuộc nói chuyện và đàm thoại, những bài viết, nhật ký và thư từ của ông đã được lưu trữ giữ gìn trong 60 quyển sách và hàng trăm băng đĩa. Quyển sách này được kết tập từ khối lượng giáo lý đồ sộ đó, đặc biệt thích hợp và khẩn thiết cho cuộc sống hằng ngày của chúng ta.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_352d87f11e84cfb683dae56e2a21ba3a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_352d87f11e84cfb683dae56e2a21ba3a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/11868-duong-vao-hien-sinh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/11868-duong-vao-hien-sinh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

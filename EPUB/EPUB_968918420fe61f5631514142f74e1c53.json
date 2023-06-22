@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bac-si-tot-nhat-la-chinh-minh-tap-2-2122.html",
+    "title" : "BÁC SĨ TỐT NHẤT LÀ CHÍNH MÌNH - TẬP 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trân trọng sức khỏe! Tận hưởng sức khỏe! Sáng tạo sức khỏe! Nếu bạn còn trẻ, và mong muốn được sống vui vẻ và khỏe mạnh, hãy đọc quyển sách này! Nếu bạn đã già, và mong muốn sức khỏe sống lâu, hãy đọc quyển sách này! Nếu bạn nghèo khó, không đủ sức mua thuốc men giá đắt, hãy đọc quyển sách này! Nếu bạn giàu có, nhưng lại kém sức khỏe và kém vui, hãy đọc quyển sách này! Chỉ cần 4 giờ ít ỏi đọc kỹ quyển sách này, nó sẽ mang lại 36.000 ngày thu hoạch quí giá cho cả cuộc đời bạn! MỤC LỤC Lời khuyên cho mọi người 6 cách làm tăng sức sống 7 thói quen sinh hoạt nguy hiểm 8 bí mật của cơ thể 5 điều bạn nên nói với bác sĩ 10 lối sống tự sát Một nghệ thuật ngủ 7 thói quen có ích 10 phút thư giãn cơ thể 7 hormone quan trọng cho cơ thể 7 điều nên tránh sau bữa ăn</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_968918420fe61f5631514142f74e1c53.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_968918420fe61f5631514142f74e1c53.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/2122-bac-si-tot-nhat-la-chinh-minh-tap-2-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Sáu Cách Làm Tăng Sức Sống.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2122-bac-si-tot-nhat-la-chinh-minh-tap-2-thuviensach.vn.mp3?t=1915",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:31:55 Mười Phút Thư Giãn Cơ Thể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2122-bac-si-tot-nhat-la-chinh-minh-tap-2-thuviensach.vn.mp3?t=4018",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:06:58 Bốn Thói Quen Xấu Trong Ăn Uống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2122-bac-si-tot-nhat-la-chinh-minh-tap-2-thuviensach.vn.mp3?t=6046",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:40:46 13 Triệu Chứng Không Được Bỏ Qua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2122-bac-si-tot-nhat-la-chinh-minh-tap-2-thuviensach.vn.mp3?t=7859",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:10:59 10 Thực Phẩm Chống Mệt Mỏi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/2122-bac-si-tot-nhat-la-chinh-minh-tap-2-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Sáu Cách Làm Tăng Sức Sống.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2122-bac-si-tot-nhat-la-chinh-minh-tap-2-thuviensach.vn.mp3?t=1915",
+    "title" : "00:31:55 Mười Phút Thư Giãn Cơ Thể",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2122-bac-si-tot-nhat-la-chinh-minh-tap-2-thuviensach.vn.mp3?t=4018",
+    "title" : "01:06:58 Bốn Thói Quen Xấu Trong Ăn Uống",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2122-bac-si-tot-nhat-la-chinh-minh-tap-2-thuviensach.vn.mp3?t=6046",
+    "title" : "01:40:46 13 Triệu Chứng Không Được Bỏ Qua",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2122-bac-si-tot-nhat-la-chinh-minh-tap-2-thuviensach.vn.mp3?t=7859",
+    "title" : "02:10:59 10 Thực Phẩm Chống Mệt Mỏi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

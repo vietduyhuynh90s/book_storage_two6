@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thuong-kinh-ky-su-1411.html",
+    "title" : "THƯỢNG KINH KÝ SỰ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Hữu Trác",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thượng Kinh Ký Sự là tập ký của đại danh y và danh nho Việt Nam Lê Hữu Trác, hiệu Hải Thượng Lãn Ông, kể lại cuộc hành trình của Ông lên Kinh để chữa bệnh cho Chúa Trịnh và Thế tử ở phủ Chúa. Tập ký thuật lại sinh hoạt, sự gặp gỡ, chữa bệnh của Lãn Ông cho nhiều người tại kinh thành, các biến cố trong phủ, thắng cảnh trên đường từ Nghệ Tĩnh ra Thăng Long, việc xướng họa với các công khanh và tâm sự của Ông luôn mong thoát vòng danh lợi để quay về với cuộc sống ẩn dật, an nhàn ở quê nhà. Tác phẩm, ngoài giá trị một thiên ký sự đặc sắc, còn là bản chép nhiều bài thơ hay chữ Hán do Ông sáng tác và các bài xướng họa. Đây là bản dịch ra chữ quốc ngữ từ nguyên tác Hán văn tác phẩm Thượng Kinh Ký Sự kèm Phụ lục “Một nhà danh-y và danh-nho nước ta ngày xưa: Cụ Lãn Ông”, cả hai do Nguyễn Trọng Thuật biên dịch và đăng trên Nam Phong Tạp chí. Hải Thượng Lãn Ông là tên hiệu của Lê Hữu Trác, một nho gia và danh y Việt Nam vào cuối đời Hậu Lê. Ông sinh năm 1721, người xã Liêu xá, huyện Đường Hào, trấn Hải Dương (nay thuộc huyện Yên Mỹ, tỉnh Hưng Yên).</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_18fa1861ad021f2ed5d1733ac93ba051.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_18fa1861ad021f2ed5d1733ac93ba051.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1411-thuong-kinh-ky-su-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Thượng Kinh Ký Sự - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1411-thuong-kinh-ky-su-thuviensach.vn.mp3?t=3048",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:50:48 Thượng Kinh Ký Sự - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1411-thuong-kinh-ky-su-thuviensach.vn.mp3?t=6051",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:40:51 Thượng Kinh Ký Sự - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1411-thuong-kinh-ky-su-thuviensach.vn.mp3?t=9467",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:37:47 Thượng Kinh Ký Sự - Phần 4 (Hết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1411-thuong-kinh-ky-su-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Thượng Kinh Ký Sự - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1411-thuong-kinh-ky-su-thuviensach.vn.mp3?t=3048",
+    "title" : "00:50:48 Thượng Kinh Ký Sự - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1411-thuong-kinh-ky-su-thuviensach.vn.mp3?t=6051",
+    "title" : "01:40:51 Thượng Kinh Ký Sự - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1411-thuong-kinh-ky-su-thuviensach.vn.mp3?t=9467",
+    "title" : "02:37:47 Thượng Kinh Ký Sự - Phần 4 (Hết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

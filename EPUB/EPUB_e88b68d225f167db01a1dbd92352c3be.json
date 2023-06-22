@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tam-the-tu-than-song-mai-tap-3-12138.html",
+    "title" : "TAM THỂ: TỬ THẦN SỐNG MÃI - TẬP 3",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lưu Từ Hân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đe dọa khu rừng đen tối giúp nhân loại duy trì thế cân bằng chiến lược với thế giới Tam Thể suốt sáu mươi năm. Song rốt cuộc, một đòn tấn công bất ngờ đã làm thay đổi cục diện. Loài người cận kề bờ vực diệt vong, buộc phải phát đi thông tin tọa độ của hệ sao Tam Thể. Nhưng rồi, họ đối mặt với một vấn đề sinh tồn mới: vị trí của Hệ Mặt trời sớm muộn gì cũng bị lộ trước những tay “thợ săn” vũ trụ. Mọi hy vọng đều gửi gắm vào việc giải mã ba câu chuyện cổ tích được truyền về từ một cá thể nhân loại giấu mình trong nội bộ hạm đội người ngoài hành tinh. Tử Thần sống mãi là kết thúc hoành tráng và hoàn hảo cho tam bộ khúc của Lưu Từ Hân, như một thiên sử thi về hành trình của mỗi nền văn minh, từ khi thức tỉnh, “chập chững bước ra ngoài, bay lên, bay càng lúc càng nhanh, bay càng lúc càng xa, cuối cùng thì hòa làm một với vận mệnh của vũ trụ.”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_e88b68d225f167db01a1dbd92352c3be.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_e88b68d225f167db01a1dbd92352c3be.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12138-tam-the-tu-than-song-mai-tap-3-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12138-tam-the-tu-than-song-mai-tap-3-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

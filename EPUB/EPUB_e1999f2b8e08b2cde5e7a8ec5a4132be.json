@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/an-mang-tren-chuyen-tau-toc-hanh-phuong-dong-8037.html",
+    "title" : "ÁN MẠNG TRÊN CHUYẾN TÀU TỐC HÀNH PHƯƠNG ĐÔNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Án Mạng Trên Chuyến Tàu Tốc Hành Phương Đông là một cuốn tiểu thuyết trinh thám được độc giả quan tâm và cuốn hút bởi chính là yếu tố gây cấn, bất ngờ, sự logic và hợp lí. Một tên giết người trên chuyến tàu tốc hành Phương Đông được phát hiện đã bị giết chết bởi 12 nhát dao khác nhau. Phải chăng hung thủ là người ngoài hay chính 12 hành khách - vốn có mối thù với hắn - thông đồng với nhau để trả thù? Thám tử Poirot đã ra tay và vụ án dần dần được làm sáng tỏ. Kết quả thu được không chỉ đơn thuần là câu trả lời cho vấn đề hung thủ là ai, mà chính là lương tâm của con người trước ánh sáng của công lí đã mở ra, anh lại tìm đến bên cô để cùng nhìn về một khoảng trời bình yên. *** Vào lúc năm giờ sáng, con tàu có tên gọi rất kiêu \"Taurus Express\" (Tốc hành Bò tót) đang nằm yên chờ khách tại nhà ga Alep. Đó là một con tàu tốc hành gồm một toa ăn, một toa ngủ và hai toa khác chở hành khách. Đứng trên bậc thang của toa ngủ, một thiếu úy trẻ người Pháp ngoài bộ đồng phục, bên ngoài mặc chiếc áo choàng dày đang đứng nói chuyện với một người đàn ông nhỏ thó, quần áo ấm che đến mang tai, chỉ còn chừa có chóp mũi đỏ và bộ ria mép hất quặt lên má. Với thời tiết buốt giá này, hộ tống một nhân vật quan trọng ra ga không phải là một điều lý thú, nhưng thiếu úy Dubose thi hành nhiệm vụ này một cách hòa nhã và hầu chuyện với vị khách quí này một cách lịch thiệp. Thật ra anh cũng không biết ất giáp gì. Vị chỉ huy của Dubose đã tỏ ra gắt gỏng khi người đàn ông bé nhỏ người Bỉ này đến. Ông đã phải trải qua cuộc hành trình vất vả từ Anh đến Syrie. Một tuần lễ trôi qua trong không khí căng thẳng, nhiều biến cố dồn dập đã xảy ra: Một sĩ quan đã từ chức, một nhân vật giữ chức vụ cao trong bộ máy hành chính đã bị đưa về nước. Và rồi những khuôn mặt lo lắng đã trở lại tươi và một vài biện pháp gắt gao đã được giảm dần.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_e1999f2b8e08b2cde5e7a8ec5a4132be.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_e1999f2b8e08b2cde5e7a8ec5a4132be.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8037-an-mang-tren-chuyen-tau-toc-hanh-phuong-dong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8037-an-mang-tren-chuyen-tau-toc-hanh-phuong-dong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

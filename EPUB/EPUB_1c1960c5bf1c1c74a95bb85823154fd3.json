@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhat-ky-anne-frank-1407.html",
+    "title" : "NHẬT KÝ ANNE FRANK",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Anne Frank",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nhật Ký Anne Frank là một cuốn sách bao gồm các trích đọan từ một cuốn nhật ký do viết trong khi cô bé đang trốn cùng gia đình trong thời kỳ Đức Quốc Xã chiếm đóng Hà Lan. Gia đình cô bé đã bị bắt năm 1944 và Frank cuối cùng đã chết vì bệnh sốt phát ban ở trại tập trung Bergen-Belsen. Sau chiến tranh cuốn nhật ký đã được cha của Frank là Otto Frank tìm lại được. Xuất bản lần đầu với tựa Het Achterhuis: Dagboekbrieven van 12 Juni 1942 - 1 Augustus 1944 (The Annex: diary notes from 12 June 1942 - 1 August 1944) bởi NXB Contact ở Amsterdam năm 1947, cuốn sách đã nhận được sự chú ý của công chúng và bình phẩm rộng rãi khi có bản dịch tiếng Anh với tên: The Diary of a Young Girl bởi Doubleday & Company (Hoa Kỳ) và Vallentine Mitchell (Vương quốc Liên hiệp Anh và Bắc Ireland) năm 1952. Sự phổ biến của nó đã truyền cảm hứng cho sự ra đời của vở kịch năm 1955 bởi nhà biên kịch Frances Goodrich và Albert Hackett, và sau đó họ đã chuyển thể thành phim năm 1959. Hơn 25 triệu bản Nhật Ký Anne Frank đã được bán ra và đã được dịch ra hơn 50 thứ tiếng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_1c1960c5bf1c1c74a95bb85823154fd3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_1c1960c5bf1c1c74a95bb85823154fd3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1407-nhat-ky-anne-frank-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1407-nhat-ky-anne-frank-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

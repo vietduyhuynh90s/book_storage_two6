@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tho-va-thien-9905.html",
+    "title" : "THỞ VÀ THIỀN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thở Và Thiền là tuyển tập những cái nhìn về thiền dưới nhiều góc độ của hơn 30 bậc thánh nhân và đạo sư trong lịch sử nhân loại. Thở Và Thiền cho chúng ta một cái nhìn đa dạng dưới các góc độ tôn giáo và tâm linh khác nhau, từ quan kiến của Đức Phật hàng ngàn năm trước cho đến quan niệm của các thiền sư hiện đại trong thế kỷ 20. Thông qua phân tích của các trào lưu tâm linh khác nhau, độc giả có cơ hội đối chiếu, cảm nhận và khám phá khoa học thiền bằng tư duy của chính mình. Hiểu thiền theo con đường thích ứng của bản thân và gặt hái nhiều lời khuyên quý báu từ kho tàng của những bậc đã thành tựu trên con đường giác ngộ.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_3bf921e5131a601f9ef161c3c7ef1d1f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_3bf921e5131a601f9ef161c3c7ef1d1f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9905-tho-va-thien-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Thở Và Thiền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9905-tho-va-thien-thuviensach.vn.mp3?t=2555",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:42:35 Người Thầy Vĩ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9905-tho-va-thien-thuviensach.vn.mp3?t=5398",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:29:58 Thân Hòa Cùng Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9905-tho-va-thien-thuviensach.vn.mp3?t=8266",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:17:46 Tập Trung Vào Hơi Thở",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9905-tho-va-thien-thuviensach.vn.mp3?t=10800",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:00:00 Thiền Ánh Sáng Nội Tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9905-tho-va-thien-thuviensach.vn.mp3?t=13630",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:47:10 Thiền Để Phát Triển Lên Tầng Ý Thức Cao Hơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9905-tho-va-thien-thuviensach.vn.mp3?t=15588",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:19:48 Yên Lặng Tình Tại , Đơn Độc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9905-tho-va-thien-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Thở Và Thiền",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9905-tho-va-thien-thuviensach.vn.mp3?t=2555",
+    "title" : "00:42:35 Người Thầy Vĩ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9905-tho-va-thien-thuviensach.vn.mp3?t=5398",
+    "title" : "01:29:58 Thân Hòa Cùng Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9905-tho-va-thien-thuviensach.vn.mp3?t=8266",
+    "title" : "02:17:46 Tập Trung Vào Hơi Thở",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9905-tho-va-thien-thuviensach.vn.mp3?t=10800",
+    "title" : "03:00:00 Thiền Ánh Sáng Nội Tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9905-tho-va-thien-thuviensach.vn.mp3?t=13630",
+    "title" : "03:47:10 Thiền Để Phát Triển Lên Tầng Ý Thức Cao Hơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9905-tho-va-thien-thuviensach.vn.mp3?t=15588",
+    "title" : "04:19:48 Yên Lặng Tình Tại , Đơn Độc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

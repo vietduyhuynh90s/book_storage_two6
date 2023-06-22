@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tu-chua-lanh-co-the-101-1154.html",
+    "title" : "TỰ CHỮA LÀNH CƠ THỂ 101",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Markus Rothkranz",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Ebook 101 cách giúp bạn tự chữa lành cơ thể tổng hợp cách mọi người trên khắp thế giới đang tự chữa khỏi mọi thứ tại nhà mà hầu như không có gì. Phần 1 của ebook gồm các nội dung: giới thiệu, bắt đầu chữa khỏi bệnh từ bây giờ; protein và thịt; sữa, phô mát và sản phẩm bơ sữa; thực phẩm sấy; thực phẩm và chất bổ sung nước; làm sạch enema; phương pháp chữa lành phổ biến.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_084642ee8e2c0c4ab90813429e3e30da.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_084642ee8e2c0c4ab90813429e3e30da.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1154-tu-chua-lanh-co-the-101-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1154-tu-chua-lanh-co-the-101-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

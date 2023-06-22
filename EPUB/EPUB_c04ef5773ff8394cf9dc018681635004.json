@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hanh-hieu-trong-dao-phat-14022.html",
+    "title" : "HẠNH HIẾU TRONG ĐẠO PHẬT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhật Quang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Theo cứ vào ngày rằm tháng 7, ngày Tăng Ni tự tứ, toàn thể Tăng Ni Phật tử noi theo gương hiếu của truyền thống Phật giáo Bắc tông, hằng năm đức Mục-kiền-liên, long trọng tổ chức đại lễ Vu-lan-bồn, để tưởng nhớ và báo đáp công ơn sinh thành và dưỡng dục của cha mẹ. Chính vì thế ngày Vu-Lan đã được xem là ngày Cha Mẹ trong Phật giáo. Trong lễ tưởng niệm ngày hôm ấy, ai diễm phúc còn đầy đủ song thân sẽ được cài lên áo một bông hồng đỏ. Những ai không may mắn đã mất cha hoặc mẹ hoặc cả song thân sẽ được cài lên áo một bông hồng trắng. Để buổi lễ được tổ chức trọng thể, các Phật tử tạm dừng mọi công việc hằng ngày để đi lễ chùa, chúc thọ, cầu an hoặc cầu siêu cho cha mẹ. Chư Tăng Ni tại các tự viện, tùng lâm sẽ thuyết giảng về hiếu hạnh, sẽ tụng kinh Vu-lan, kinh Báo Ân Cha Mẹ. Ngoài ra, Tăng Ni, Phật tử còn làm lễ khánh tuế, mừng các bậc sư trưởng của mình được thêm một tuổi đạo.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_c04ef5773ff8394cf9dc018681635004.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_c04ef5773ff8394cf9dc018681635004.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14022-hanh-hieu-trong-dao-phat-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14022-hanh-hieu-trong-dao-phat-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

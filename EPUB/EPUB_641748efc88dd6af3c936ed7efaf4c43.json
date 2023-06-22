@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-14017.html",
+    "title" : "CHUYỆN TÌNH CÁC DANH NHÂN VIỆT NAM - TẬP 1",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Minh Quốc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong hơn bốn ngàn năm giữ nước và dựng nước, dân tộc ta đã sinh ra những người con ưu tú trên nhiều lãnh vực. Nói như nhà chính trị thiên tài Nguyễn Trãi, hào kiệt không bao giờ thiếu và thời nào cũng có. Ở lãnh vực quân sự, chúng ta có thể kể đến những anh hùng kiệt xuất như Ngô Quyền, Lê Lợi, Quang Trung, Đề Thám… Ở lãnh vực văn hóa, chúng ta có thể tự hào với đại thi hào Nguyễn Du, nữ sĩ Đoàn Thị Điểm..., nhà thơ Nguyễn Đình Chiểu, Tản Đà, Tú Xương, Nguyễn Khuyến… Và dân tộc ta cũng là con dân của một đất nước có truyền thống hiếu học, chúng ta làm sao quên những bậc tài danh như Trạng nguyên Nguyễn Đăng Đạo, Hứa Tam Tỉnh, nhà đạo học Cao Xuân Huy…</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_641748efc88dd6af3c936ed7efaf4c43.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_641748efc88dd6af3c936ed7efaf4c43.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14017-chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14017-chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
