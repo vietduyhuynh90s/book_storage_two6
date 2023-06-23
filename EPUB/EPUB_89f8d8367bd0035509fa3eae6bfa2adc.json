@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/jen-ero-14076.html",
+    "title" : "JÊN ERƠ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Charlotte Bronte",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Jane Eyre được đánh giá là một trong những tác phẩm vĩ đại và có sức sống trường tồn nhất trong kho tàng văn học Anh. Nhân vật chính là một cô gái tuy nghèo về vật chất nhưng rất can trường và gan dạ, dù có một vẻ bề ngoài giản dị, mộc mạc nhưng cô sở hữu một tinh thần không thể khuất phục được, một trí tuệ sắc sảo và một lòng can đảm phi thường. Cô đã buộc phải đấu tranh để từ chối khao khát của một người bảo trợ hà khắc, một ông chủ khắc nghiệt và một trật tự xã hội cứng nhắc. Tất cả được gói gọn trong quãng đời khi cô trở thành cô giáo dạy trẻ cho con gái của ông Rochester bí ẩn, đầy châm biếm nhưng không kém phần hấp dẫn. Tuy nhiên, điều ấm áp và tuyệt vời nhất trong thiên tình sử này lại chỉ được thể hiện sau lần trở về từ Yorkshine Moors. Sau bao nhiêu thăng trầm, tan hợp và những bi kịch, mối tình lớn của Jane và ông Rochester cũng thành hiện thực. Cuối cùng họ đã được đoàn viên.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_89f8d8367bd0035509fa3eae6bfa2adc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_89f8d8367bd0035509fa3eae6bfa2adc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14076-jen-ero-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Jen Erơ (Tập 01)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14076-jen-ero-thuviensach.vn.mp3?t=41353",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:29:13 Jen Erơ (Tập 02)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14076-jen-ero-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Jen Erơ (Tập 01)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14076-jen-ero-thuviensach.vn.mp3?t=41353",
+    "title" : "11:29:13 Jen Erơ (Tập 02)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

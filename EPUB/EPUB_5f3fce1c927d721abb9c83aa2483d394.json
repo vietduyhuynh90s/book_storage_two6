@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/xom-bau-lang-14096.html",
+    "title" : "XÓM BÀU LÁNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sơn Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đối với các bạn đọc nhiều thế hệ, nhà văn Sơn Nam được biết đến như một cây bút truyện ngắn xuất sắc, một nhà nghiên cứu về đất và người Nam Bộ. Thế nhưng, ít ai ngờ rằng, nhà văn Sơn Nam cũng có viết truyện dài và tiểu thuyết, tuy số lượng không nhiều, nhưng cũng tạo được một nét riêng từ phong cách Sơn Nam. Xóm Bàu Láng là một truyện dài được Sơn Nam viết cách nay gần 40 năm, giữa những ngày chiến tranh ác liệt, câu chuyện như một nhắc nhớ về một thời hoà bình, về một vùng quê, về nghĩa tình trong cuộc sống… giúp người dân vùng đô thị có điều gì đó tin tưởng và hoài vọng ở quê hương. Câu chuyện tưởng xưa cũ nhưng chất chứa nhiều giá trị nhân văn của đời sống thôn dã thuở yên bình không giặc giã, cái nghèo về kinh tế không làm người ta nghèo nghĩa khí, tình thương. “- Bộ mày muốn ăn cướp như tao hả? Vô ích. Xưa nay chưa thằng nào ăn cướp mà làm giàu, ngay tới mấy thằng chúa đảng cũng kiếm nghề khác. - Nghề gì, nhờ bác chỉ dạy. - Nghề giang hồ. Ông cha mày để lại lá quẻ tử vi, lá quẻ đựng trong cái trấp. Đó là khuyên răn kỹ lưỡng, bày con cháu nên lập tức dời chỗ ở.Lão lật ngược cái trấp, sờ vào mặt gỗ. - Dấu hiệu rành rành. Cái trấp này làm ở huyện Triều Dương tức là xứ Triều Châu. Ông bà của mày thời xưa qua đây với cái trấp. Nhờ cái trấp mà xứ Rạch Giá, Cà Mau, xứ Hà Tiên, Sóc Trăng trở nên sung túc.” (Trích Xóm Bàu Láng)</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_5f3fce1c927d721abb9c83aa2483d394.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_5f3fce1c927d721abb9c83aa2483d394.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14096-xom-bau-lang-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14096-xom-bau-lang-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

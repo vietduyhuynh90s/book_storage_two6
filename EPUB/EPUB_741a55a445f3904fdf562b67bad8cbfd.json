@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-chuyen-xa-nha-cua-katy-14078.html",
+    "title" : "NHỮNG CHUYẾN XA NHÀ CỦA KATY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Susan Coolidge",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Quãng thời gian bốn năm khó khăn đã khép lại để Katy, bằng đôi chân như chưa hề trải qua cú ngã định mệnh từ xích đu và bằng sự nhẫn nại được rèn luyện qua thử thách ấy, bước ra khám phá cuộc đời bao la. Rời xa gia đình bé nhỏ, Katy hòa vào cuộc sống học đường, nơi không phải người bạn nào cũng như Rose Red, và rồi rộng hơn nữa là thế giới châu Âu, nơi nguy nga thành quách đẹp tươi đến nao lòng lẫn những cảnh tượng tiêu điều, xơ xác, nơi những ngày hân hoan ngập tràn còn kèm theo đôi lúc là nghịch cảnh đến độ có thể khiến con người ngã lòng. Hai lần xa nhà ấy, Katy nếm trải cuộc sống tươi mới như chưa từng thấy, và trên tất cả, cô học được cách gạt đi lớp vỏ ngoài để nhìn thấu cốt bên torng sự vật và con người, thấm thía hơn bao giờ hết giá trị của thứ mình đã để lại phía sau.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_741a55a445f3904fdf562b67bad8cbfd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_741a55a445f3904fdf562b67bad8cbfd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14078-nhung-chuyen-xa-nha-cua-katy-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Những Chuyến Xa Nhà Của Katy (Tập 01)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14078-nhung-chuyen-xa-nha-cua-katy-thuviensach.vn.mp3?t=20563",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:42:43 Những Chuyến Xa Nhà Của Katy (Tập 02)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14078-nhung-chuyen-xa-nha-cua-katy-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Những Chuyến Xa Nhà Của Katy (Tập 01)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14078-nhung-chuyen-xa-nha-cua-katy-thuviensach.vn.mp3?t=20563",
+    "title" : "05:42:43 Những Chuyến Xa Nhà Của Katy (Tập 02)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
