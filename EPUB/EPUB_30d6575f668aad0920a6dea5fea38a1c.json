@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/tinh-oan-nha-hoi-dong-bui.html",
+    "title" : "Tình Oán Nhà Hội Đồng Bùi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Xư An",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 11445,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_30d6575f668aad0920a6dea5fea38a1c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_30d6575f668aad0920a6dea5fea38a1c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tinh-oan-nha-hoi-dong-bui/tinh-oan-nha-hoi-dong-bui.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5907,
+    "title" : "tinh-oan-nha-hoi-dong-bui",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-oan-nha-hoi-dong-bui/tinh-oan-nha-hoi-dong-bui-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5538,
+    "title" : "tinh-oan-nha-hoi-dong-bui-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tinh-oan-nha-hoi-dong-bui/tinh-oan-nha-hoi-dong-bui.mp3",
+    "title" : "tinh-oan-nha-hoi-dong-bui",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-oan-nha-hoi-dong-bui/tinh-oan-nha-hoi-dong-bui-tap-2.mp3",
+    "title" : "tinh-oan-nha-hoi-dong-bui-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

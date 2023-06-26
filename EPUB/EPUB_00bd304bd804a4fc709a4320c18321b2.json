@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/chung-cu-tu-s-at.html",
+    "title" : "Chung Cư Tự S.át",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Triết Sâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 23783,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_00bd304bd804a4fc709a4320c18321b2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_00bd304bd804a4fc709a4320c18321b2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chung-cu-tu-s-at/chung-cu-tu-s-at.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3766,
+    "title" : "chung-cu-tu-s-at",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-cu-tu-s-at/chung-cu-tu-s-at-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4146,
+    "title" : "chung-cu-tu-s-at-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-cu-tu-s-at/chung-cu-tu-sat-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3873,
+    "title" : "chung-cu-tu-sat-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-cu-tu-s-at/chung-cu-tu-sat-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4024,
+    "title" : "chung-cu-tu-sat-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-cu-tu-s-at/chung-cu-tu-sat-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3672,
+    "title" : "chung-cu-tu-sat-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-cu-tu-s-at/chung-cu-tu-sat-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4302,
+    "title" : "chung-cu-tu-sat-tap-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chung-cu-tu-s-at/chung-cu-tu-s-at.mp3",
+    "title" : "chung-cu-tu-s-at",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-cu-tu-s-at/chung-cu-tu-s-at-tap-2.mp3",
+    "title" : "chung-cu-tu-s-at-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-cu-tu-s-at/chung-cu-tu-sat-tap-3.mp3",
+    "title" : "chung-cu-tu-sat-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-cu-tu-s-at/chung-cu-tu-sat-tap-4.mp3",
+    "title" : "chung-cu-tu-sat-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-cu-tu-s-at/chung-cu-tu-sat-tap-5.mp3",
+    "title" : "chung-cu-tu-sat-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-cu-tu-s-at/chung-cu-tu-sat-tap-6.mp3",
+    "title" : "chung-cu-tu-sat-tap-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

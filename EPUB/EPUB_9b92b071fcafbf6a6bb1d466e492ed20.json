@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/hon-thieng-tay-bac.html",
+    "title" : "Hồn Thiêng Tây Bắc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đỗ Thị Ngát",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 8910,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_9b92b071fcafbf6a6bb1d466e492ed20.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_9b92b071fcafbf6a6bb1d466e492ed20.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hon-thieng-tay-bac/hon-thieng-tay-bac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4516,
+    "title" : "hon-thieng-tay-bac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hon-thieng-tay-bac/hon-thieng-tay-bac-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4394,
+    "title" : "hon-thieng-tay-bac-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hon-thieng-tay-bac/hon-thieng-tay-bac.mp3",
+    "title" : "hon-thieng-tay-bac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hon-thieng-tay-bac/hon-thieng-tay-bac-tap-2.mp3",
+    "title" : "hon-thieng-tay-bac-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/mo-yem.html",
+    "title" : "Mo Yểm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Tuấn Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 33822,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_9ab68a715e88f6a0fc8c535a0990c05a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_9ab68a715e88f6a0fc8c535a0990c05a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mo-yem/mo-yem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4336,
+    "title" : "mo-yem",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-yem/mo-yem-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4070,
+    "title" : "mo-yem-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-yem/mo-yem-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4526,
+    "title" : "mo-yem-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-yem/mo-yem-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4461,
+    "title" : "mo-yem-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-yem/mo-yem-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3783,
+    "title" : "mo-yem-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-yem/mo-yem-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4241,
+    "title" : "mo-yem-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-yem/mo-yem-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3917,
+    "title" : "mo-yem-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-yem/mo-yem-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4488,
+    "title" : "mo-yem-tap-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mo-yem/mo-yem.mp3",
+    "title" : "mo-yem",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-yem/mo-yem-tap-2.mp3",
+    "title" : "mo-yem-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-yem/mo-yem-tap-3.mp3",
+    "title" : "mo-yem-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-yem/mo-yem-tap-4.mp3",
+    "title" : "mo-yem-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-yem/mo-yem-tap-5.mp3",
+    "title" : "mo-yem-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-yem/mo-yem-tap-6.mp3",
+    "title" : "mo-yem-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-yem/mo-yem-tap-7.mp3",
+    "title" : "mo-yem-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-yem/mo-yem-tap-8.mp3",
+    "title" : "mo-yem-tap-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

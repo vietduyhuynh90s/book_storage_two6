@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nhan-qua-giua-ruong-dua.html",
+    "title" : "Nhân Quả Giữa Ruộng Dưa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Phương Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 7913,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_5c5f05e4a9b46642402d00e673bfb5e5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_5c5f05e4a9b46642402d00e673bfb5e5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhan-qua-giua-ruong-dua/nhan-qua-giua-ruong-dua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7913,
+    "title" : "nhan-qua-giua-ruong-dua",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhan-qua-giua-ruong-dua/nhan-qua-giua-ruong-dua.mp3",
+    "title" : "nhan-qua-giua-ruong-dua",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

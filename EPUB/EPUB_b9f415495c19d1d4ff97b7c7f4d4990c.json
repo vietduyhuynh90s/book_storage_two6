@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/don-dien-dat-do.html",
+    "title" : "Đồn Điền Đất Đỏ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Xư An",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 14420,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_b9f415495c19d1d4ff97b7c7f4d4990c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_b9f415495c19d1d4ff97b7c7f4d4990c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/don-dien-dat-do/don-dien-dat-do.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4723,
+    "title" : "don-dien-dat-do",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/don-dien-dat-do/don-dien-dat-do-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4304,
+    "title" : "don-dien-dat-do-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/don-dien-dat-do/don-dien-dat-do-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5393,
+    "title" : "don-dien-dat-do-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/don-dien-dat-do/don-dien-dat-do.mp3",
+    "title" : "don-dien-dat-do",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/don-dien-dat-do/don-dien-dat-do-tap-2.mp3",
+    "title" : "don-dien-dat-do-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/don-dien-dat-do/don-dien-dat-do-tap-3.mp3",
+    "title" : "don-dien-dat-do-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

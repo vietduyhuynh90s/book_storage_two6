@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/chi-do-dam-m-au.html",
+    "title" : "Chỉ Đỏ Đẫm M.áu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kinh Hỷ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 21735,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_6d0a400efc3cdd5aca769c516815f00c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_6d0a400efc3cdd5aca769c516815f00c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chi-do-dam-mau/chi-do-dam-mau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4328,
+    "title" : "chi-do-dam-mau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-do-dam-mau/chi-do-dam-mau-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4390,
+    "title" : "chi-do-dam-mau-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-do-dam-mau/chi-do-dam-mau-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4163,
+    "title" : "chi-do-dam-mau-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-do-dam-mau/chi-do-dam-mau-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4353,
+    "title" : "chi-do-dam-mau-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-do-dam-mau/chi-do-dam-mau-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4501,
+    "title" : "chi-do-dam-mau-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chi-do-dam-mau/chi-do-dam-mau.mp3",
+    "title" : "chi-do-dam-mau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-do-dam-mau/chi-do-dam-mau-tap-2.mp3",
+    "title" : "chi-do-dam-mau-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-do-dam-mau/chi-do-dam-mau-tap-3.mp3",
+    "title" : "chi-do-dam-mau-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-do-dam-mau/chi-do-dam-mau-tap-4.mp3",
+    "title" : "chi-do-dam-mau-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-do-dam-mau/chi-do-dam-mau-tap-5.mp3",
+    "title" : "chi-do-dam-mau-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

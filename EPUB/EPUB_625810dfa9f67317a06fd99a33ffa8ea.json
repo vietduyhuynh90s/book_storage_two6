@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/oan-hon-anh-thanh-nien-theo-bam-co-duoc-si.html",
+    "title" : "Oan Hồn Anh Thanh Niên Theo Bám Cô Dược Sĩ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Duy Lương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 5430,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_625810dfa9f67317a06fd99a33ffa8ea.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_625810dfa9f67317a06fd99a33ffa8ea.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/anh-thanh-nien-am-co-duoc-si/anh-thanh-nien-am-co-duoc-si.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5430,
+    "title" : "anh-thanh-nien-am-co-duoc-si",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/anh-thanh-nien-am-co-duoc-si/anh-thanh-nien-am-co-duoc-si.mp3",
+    "title" : "anh-thanh-nien-am-co-duoc-si",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
