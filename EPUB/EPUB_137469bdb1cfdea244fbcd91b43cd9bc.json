@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=_sQZEJ84ioU&list=PLUbXYC-BxgNUc_lYeNSDxdsq5WojRQpV0&index=1",
+    "title" : "Đứa Trẻ Hiểu Chuyện Thường Không Có Kẹo Ăn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyên Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "“Đứa trẻ hiểu chuyện thường không có kẹo ăn” – Cuốn sách dành cho những thời thơ ấu đầy vết thương.",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 28230,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_137469bdb1cfdea244fbcd91b43cd9bc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_137469bdb1cfdea244fbcd91b43cd9bc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "1. Hiểu chuyện, gánh nặng cuộc đời khó lòng chấp nhận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2525,
+    "title" : "2. Nổi loạn, con đường độc lập",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2907,
+    "title" : "3. Trả cho con cuộc sống của mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2683,
+    "title" : "4. Sự hy sinh của cha mẹ khiến con hổ thẹn không chịu nổi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2493,
+    "title" : "5. Bạn K thể hình dung được tổn thương mà sự thờ ơ gây nên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2882,
+    "title" : "6. Tôi có thể làm gì để cứu bạn hỡi đứa trẻ bị tổn thương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2554,
+    "title" : "7. Sự hoàn mỹ là ngọn núi cao mà ta không thể với tới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2736,
+    "title" : "8. Sự hoàn mỹ là ngọn núi cao mà ta không thể với tới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2015,
+    "title" : "9. Sự hoàn mỹ là ngọn núi cao mà ta không thể với tới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3792,
+    "title" : "10. Sự hoàn mỹ là ngọn núi cao mà ta không thể với tới",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-1.mp3",
+    "title" : "1. Hiểu chuyện, gánh nặng cuộc đời khó lòng chấp nhận",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-2.mp3",
+    "title" : "2. Nổi loạn, con đường độc lập",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-3.mp3",
+    "title" : "3. Trả cho con cuộc sống của mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-4.mp3",
+    "title" : "4. Sự hy sinh của cha mẹ khiến con hổ thẹn không chịu nổi",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-5.mp3",
+    "title" : "5. Bạn K thể hình dung được tổn thương mà sự thờ ơ gây nên",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-6.mp3",
+    "title" : "6. Tôi có thể làm gì để cứu bạn hỡi đứa trẻ bị tổn thương",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-7.mp3",
+    "title" : "7. Sự hoàn mỹ là ngọn núi cao mà ta không thể với tới",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-8.mp3",
+    "title" : "8. Sự hoàn mỹ là ngọn núi cao mà ta không thể với tới",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-9.mp3",
+    "title" : "9. Sự hoàn mỹ là ngọn núi cao mà ta không thể với tới",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia902709.us.archive.org/3/items/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10/dua-tre-hieu-chuyen-thuong-khong-co-keo-an-10.mp3",
+    "title" : "10. Sự hoàn mỹ là ngọn núi cao mà ta không thể với tới",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
