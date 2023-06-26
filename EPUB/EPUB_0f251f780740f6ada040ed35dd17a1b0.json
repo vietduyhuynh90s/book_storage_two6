@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nang-dau-huyen-bi.html",
+    "title" : "Nàng Dâu Huyền Bí",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khánh Vi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 26263,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_0f251f780740f6ada040ed35dd17a1b0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_0f251f780740f6ada040ed35dd17a1b0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nang-dau-huyen-bi/nang-dau-huyen-bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4333,
+    "title" : "nang-dau-huyen-bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-dau-huyen-bi/nang-dau-huyen-bi-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4353,
+    "title" : "nang-dau-huyen-bi-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-dau-huyen-bi/nang-dau-huyen-bi-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4253,
+    "title" : "nang-dau-huyen-bi-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-dau-huyen-bi/nang-dau-huyen-bi-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4373,
+    "title" : "nang-dau-huyen-bi-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-dau-huyen-bi/nang-dau-huyen-bi-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4245,
+    "title" : "nang-dau-huyen-bi-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-dau-huyen-bi/nang-dau-huyen-bi-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4706,
+    "title" : "nang-dau-huyen-bi-tap-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nang-dau-huyen-bi/nang-dau-huyen-bi.mp3",
+    "title" : "nang-dau-huyen-bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-dau-huyen-bi/nang-dau-huyen-bi-tap-2.mp3",
+    "title" : "nang-dau-huyen-bi-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-dau-huyen-bi/nang-dau-huyen-bi-tap-3.mp3",
+    "title" : "nang-dau-huyen-bi-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-dau-huyen-bi/nang-dau-huyen-bi-tap-4.mp3",
+    "title" : "nang-dau-huyen-bi-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-dau-huyen-bi/nang-dau-huyen-bi-tap-5.mp3",
+    "title" : "nang-dau-huyen-bi-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-dau-huyen-bi/nang-dau-huyen-bi-tap-6.mp3",
+    "title" : "nang-dau-huyen-bi-tap-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

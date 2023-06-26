@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ngoi-lang-c-het-choc.html",
+    "title" : "Ngôi Làng C.hết Chóc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chiến Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 16729,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_6ac10b156212d4ad61dc04ac2837a95c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_6ac10b156212d4ad61dc04ac2837a95c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngoi-lang-c-het-choc/ngoi-lang-c-het-choc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3262,
+    "title" : "ngoi-lang-c-het-choc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-c-het-choc/ngoi-lang-chet-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3085,
+    "title" : "ngoi-lang-chet-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-c-het-choc/ngoi-lang-chet-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3017,
+    "title" : "ngoi-lang-chet-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-c-het-choc/ngoi-lang-chet-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3190,
+    "title" : "ngoi-lang-chet-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-c-het-choc/ngoi-lang-chet-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4175,
+    "title" : "ngoi-lang-chet-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngoi-lang-c-het-choc/ngoi-lang-c-het-choc.mp3",
+    "title" : "ngoi-lang-c-het-choc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-c-het-choc/ngoi-lang-chet-tap-2.mp3",
+    "title" : "ngoi-lang-chet-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-c-het-choc/ngoi-lang-chet-tap-3.mp3",
+    "title" : "ngoi-lang-chet-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-c-het-choc/ngoi-lang-chet-tap-4.mp3",
+    "title" : "ngoi-lang-chet-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-c-het-choc/ngoi-lang-chet-tap-5.mp3",
+    "title" : "ngoi-lang-chet-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
