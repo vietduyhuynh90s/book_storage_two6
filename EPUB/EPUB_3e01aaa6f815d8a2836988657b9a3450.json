@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/vong-hon-ben-bo-bien.html",
+    "title" : "Vong Hồn Bên Bờ Biển",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thảo Trang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 8190,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_3e01aaa6f815d8a2836988657b9a3450.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_3e01aaa6f815d8a2836988657b9a3450.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vong-hon-tren-bo-bien/vong-hon-tren-bo-bien-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3825,
+    "title" : "vong-hon-tren-bo-bien-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-hon-tren-bo-bien/vong-hon-tren-bo-bien-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4365,
+    "title" : "vong-hon-tren-bo-bien-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vong-hon-tren-bo-bien/vong-hon-tren-bo-bien-tap-1.mp3",
+    "title" : "vong-hon-tren-bo-bien-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-hon-tren-bo-bien/vong-hon-tren-bo-bien-tap-2.mp3",
+    "title" : "vong-hon-tren-bo-bien-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/con-duong-ma.html",
+    "title" : "Con đường ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đại Thất Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_6ddc053af76995a0b761e46335db3858.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_6ddc053af76995a0b761e46335db3858.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801408.us.archive.org/3/items/con-duong-ma/ConDuongMa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Con đường ma",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801408.us.archive.org/3/items/con-duong-ma/ConDuongMa.mp3",
+    "title" : "Con đường ma",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

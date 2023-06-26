@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/co-ba-luyen-bua.html",
+    "title" : "Cô Ba Luyện Bùa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Danh Giác",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 3625,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_6a62b3d10b189982dc88f86bb63cf747.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_6a62b3d10b189982dc88f86bb63cf747.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-ba-luyen-bua/co-ba-luyen-bua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3625,
+    "title" : "co-ba-luyen-bua",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-ba-luyen-bua/co-ba-luyen-bua.mp3",
+    "title" : "co-ba-luyen-bua",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

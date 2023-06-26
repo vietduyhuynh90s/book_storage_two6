@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/menh-chi-am.html",
+    "title" : "Mệnh Chí Âm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoa Dành Dành",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 24945,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_1590241f95cbacb62a5bd4d41f2747c6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_1590241f95cbacb62a5bd4d41f2747c6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/menh-chi-am/menh-chi-am.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4208,
+    "title" : "menh-chi-am",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/menh-chi-am/menh-chi-am-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4300,
+    "title" : "menh-chi-am-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/menh-chi-am/menh-chi-am-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4139,
+    "title" : "menh-chi-am-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/menh-chi-am/menh-chi-am-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4150,
+    "title" : "menh-chi-am-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/menh-chi-am/menh-chi-am-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3928,
+    "title" : "menh-chi-am-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/menh-chi-am/menh-chi-am-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4220,
+    "title" : "menh-chi-am-tap-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/menh-chi-am/menh-chi-am.mp3",
+    "title" : "menh-chi-am",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/menh-chi-am/menh-chi-am-tap-2.mp3",
+    "title" : "menh-chi-am-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/menh-chi-am/menh-chi-am-tap-3.mp3",
+    "title" : "menh-chi-am-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/menh-chi-am/menh-chi-am-tap-4.mp3",
+    "title" : "menh-chi-am-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/menh-chi-am/menh-chi-am-tap-5.mp3",
+    "title" : "menh-chi-am-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/menh-chi-am/menh-chi-am-tap-6.mp3",
+    "title" : "menh-chi-am-tap-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

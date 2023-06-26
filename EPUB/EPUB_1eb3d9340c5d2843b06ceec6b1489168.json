@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/hai-do-ve-thi.html",
+    "title" : "Hai Đỗ Vệ Thi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cao Minh Sang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 8364,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_1eb3d9340c5d2843b06ceec6b1489168.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_1eb3d9340c5d2843b06ceec6b1489168.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hai-do-ve-thi/hai-do-ve-thi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8364,
+    "title" : "hai-do-ve-thi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hai-do-ve-thi/hai-do-ve-thi.mp3",
+    "title" : "hai-do-ve-thi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

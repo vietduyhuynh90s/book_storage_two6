@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/vong-hon-nguoi-c-het-tro-ve.html",
+    "title" : "Vong Hồn Người C.hết Trở Về",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lan AJC",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 3506,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_349cc8367ca40d79b9898c28f491b3d7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_349cc8367ca40d79b9898c28f491b3d7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vong-hon-nguoi-c-het-tro-ve/vong-hon-nguoi-c-het-tro-ve.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3506,
+    "title" : "vong-hon-nguoi-c-het-tro-ve",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vong-hon-nguoi-c-het-tro-ve/vong-hon-nguoi-c-het-tro-ve.mp3",
+    "title" : "vong-hon-nguoi-c-het-tro-ve",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

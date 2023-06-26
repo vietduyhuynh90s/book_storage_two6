@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ngay-le-cua-cac-vong-hon.html",
+    "title" : "Ngày Lễ Của Các Vong Hồn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Phú Dương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 4807,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_69a2220ee6b0f02cf22a912cfa767f36.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_69a2220ee6b0f02cf22a912cfa767f36.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngay-le-cua-cac-vong-hon/ngay-le-cua-cac-vong-hon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4807,
+    "title" : "ngay-le-cua-cac-vong-hon",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngay-le-cua-cac-vong-hon/ngay-le-cua-cac-vong-hon.mp3",
+    "title" : "ngay-le-cua-cac-vong-hon",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

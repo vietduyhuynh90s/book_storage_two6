@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ranh-gioi-mong-manh.html",
+    "title" : "Ranh giới mong manh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cú Heo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_6b01b11bf0e4568b38d36a92e61bdb39.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_6b01b11bf0e4568b38d36a92e61bdb39.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801506.us.archive.org/7/items/ranh-gioi-mong-manh/ranh-gioi-mong-manh-quang-a-tun-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ranh giới mong manh Tập 1 - Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801506.us.archive.org/7/items/ranh-gioi-mong-manh/ranh-gioi-mong-manh-quang-a-tun-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ranh giới mong manh Tập 2 - Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801506.us.archive.org/7/items/ranh-gioi-mong-manh/ranh-gioi-mong-manh-quang-a-tun-tap-1.mp3",
+    "title" : "Ranh giới mong manh Tập 1 - Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801506.us.archive.org/7/items/ranh-gioi-mong-manh/ranh-gioi-mong-manh-quang-a-tun-tap-2.mp3",
+    "title" : "Ranh giới mong manh Tập 2 - Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

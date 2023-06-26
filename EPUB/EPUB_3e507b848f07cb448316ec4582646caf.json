@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/quy-nhap-trang-ban-dao-thanh-da.html",
+    "title" : "Quỷ Nhập Tràng Bán Đảo Thanh Đa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vương Quyền",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 4815,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_3e507b848f07cb448316ec4582646caf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_3e507b848f07cb448316ec4582646caf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quy-nhap-trang-ban-dao-thanh-da/quy-nhap-trang-ban-dao-thanh-da.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4815,
+    "title" : "quy-nhap-trang-ban-dao-thanh-da",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quy-nhap-trang-ban-dao-thanh-da/quy-nhap-trang-ban-dao-thanh-da.mp3",
+    "title" : "quy-nhap-trang-ban-dao-thanh-da",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

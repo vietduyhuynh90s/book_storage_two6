@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nguoi-dan-ba-bat-tu.html",
+    "title" : "Người Đàn Bà Bất Tử",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Phùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 6378,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_dbd2165c1725bca823ea3cfba5d9e716.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_dbd2165c1725bca823ea3cfba5d9e716.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-dan-ba-bat-tu/nguoi-dan-ba-bat-tu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6378,
+    "title" : "nguoi-dan-ba-bat-tu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-dan-ba-bat-tu/nguoi-dan-ba-bat-tu.mp3",
+    "title" : "nguoi-dan-ba-bat-tu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dai-viet-cao-nhan-ky.html",
+    "title" : "Đại Việt Cao Nhân Ký",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phạm Minh Hải",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_830d0eef5cb3b5352877b0aef7acccde.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_830d0eef5cb3b5352877b0aef7acccde.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801505.us.archive.org/18/items/dai-viet-cao-nhan-ky/dai-viet-cao-nhan-ky-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đại Việt Cao Nhân Ký Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801505.us.archive.org/18/items/dai-viet-cao-nhan-ky/dai-viet-cao-nhan-ky-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đại Việt Cao Nhân Ký Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801505.us.archive.org/18/items/dai-viet-cao-nhan-ky/dai-viet-cao-nhan-ky-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đại Việt Cao Nhân Ký Tập 3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801505.us.archive.org/18/items/dai-viet-cao-nhan-ky/dai-viet-cao-nhan-ky-tap-1.mp3",
+    "title" : "Đại Việt Cao Nhân Ký Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801505.us.archive.org/18/items/dai-viet-cao-nhan-ky/dai-viet-cao-nhan-ky-tap-2.mp3",
+    "title" : "Đại Việt Cao Nhân Ký Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801505.us.archive.org/18/items/dai-viet-cao-nhan-ky/dai-viet-cao-nhan-ky-tap-3.mp3",
+    "title" : "Đại Việt Cao Nhân Ký Tập 3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/long-nguoi-da-quy.html",
+    "title" : "Lòng người dạ quỷ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_43bdd8300f3b2df91221dc8638697a08.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_43bdd8300f3b2df91221dc8638697a08.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801404.us.archive.org/33/items/long-nguoi-da-quy/LongNguoiDaQuy_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lòng người dạ quỷ tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801404.us.archive.org/33/items/long-nguoi-da-quy/LongNguoiDaQuy_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lòng người dạ quỷ tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801404.us.archive.org/33/items/long-nguoi-da-quy/LongNguoiDaQuy_01.mp3",
+    "title" : "Lòng người dạ quỷ tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801404.us.archive.org/33/items/long-nguoi-da-quy/LongNguoiDaQuy_02.mp3",
+    "title" : "Lòng người dạ quỷ tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

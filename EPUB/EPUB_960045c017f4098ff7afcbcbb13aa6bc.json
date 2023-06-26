@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ac-nghiep-ba-ho-than.html",
+    "title" : "Ác Nghiệp Bá Hộ Thần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mây Hạ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 6843,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_960045c017f4098ff7afcbcbb13aa6bc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_960045c017f4098ff7afcbcbb13aa6bc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ac-nghiep-ba-ho-than/ac-nghiep-ba-ho-than.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6843,
+    "title" : "ac-nghiep-ba-ho-than",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ac-nghiep-ba-ho-than/ac-nghiep-ba-ho-than.mp3",
+    "title" : "ac-nghiep-ba-ho-than",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

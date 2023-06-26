@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/me.html",
+    "title" : "Mẹ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Thu Huyền",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 20580,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_d3cb868b5c2c112d60e8edb657b33f6f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_d3cb868b5c2c112d60e8edb657b33f6f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/me_20211221/me.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4215,
+    "title" : "me",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me_20211221/me-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4100,
+    "title" : "me-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me_20211221/me-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4114,
+    "title" : "me-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me_20211221/me-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4098,
+    "title" : "me-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me_20211221/me-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4053,
+    "title" : "me-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/me_20211221/me.mp3",
+    "title" : "me",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me_20211221/me-tap-2.mp3",
+    "title" : "me-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me_20211221/me-tap-3.mp3",
+    "title" : "me-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me_20211221/me-tap-4.mp3",
+    "title" : "me-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me_20211221/me-tap-5.mp3",
+    "title" : "me-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

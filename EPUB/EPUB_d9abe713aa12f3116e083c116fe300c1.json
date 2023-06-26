@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/tan-lang-khong-d-au.html",
+    "title" : "Tân Lang Không Đ.ầu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Nguyệt Vô Ưu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_d9abe713aa12f3116e083c116fe300c1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_d9abe713aa12f3116e083c116fe300c1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801508.us.archive.org/1/items/tan-lang-khong-dau/TanLangKhongDau_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tân Lang Không Đ.ầu Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801508.us.archive.org/1/items/tan-lang-khong-dau/TanLangKhongDau_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tân Lang Không Đ.ầu Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801508.us.archive.org/1/items/tan-lang-khong-dau/TanLangKhongDau_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tân Lang Không Đ.ầu Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801508.us.archive.org/1/items/tan-lang-khong-dau/TanLangKhongDau_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tân Lang Không Đ.ầu Tập 4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801508.us.archive.org/1/items/tan-lang-khong-dau/TanLangKhongDau_01.mp3",
+    "title" : "Tân Lang Không Đ.ầu Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801508.us.archive.org/1/items/tan-lang-khong-dau/TanLangKhongDau_02.mp3",
+    "title" : "Tân Lang Không Đ.ầu Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801508.us.archive.org/1/items/tan-lang-khong-dau/TanLangKhongDau_03.mp3",
+    "title" : "Tân Lang Không Đ.ầu Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801508.us.archive.org/1/items/tan-lang-khong-dau/TanLangKhongDau_04.mp3",
+    "title" : "Tân Lang Không Đ.ầu Tập 4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

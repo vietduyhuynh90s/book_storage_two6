@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/kim-thiem-thu.html",
+    "title" : "Kim Thiềm Quỷ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dash Tuấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 24055,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_237430e8ed38324560354b90b7ee6a88.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_237430e8ed38324560354b90b7ee6a88.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/kim-thiem-thu/kim-thiem-thu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3917,
+    "title" : "kim-thiem-thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-thiem-thu/kim-thiem-quy-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3870,
+    "title" : "kim-thiem-quy-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-thiem-thu/kim-thiem-quy-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4286,
+    "title" : "kim-thiem-quy-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-thiem-thu/kim-thiem-quy-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3836,
+    "title" : "kim-thiem-quy-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-thiem-thu/kim-thiem-quy-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4065,
+    "title" : "kim-thiem-quy-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-thiem-thu/kim-thiem-quy-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4081,
+    "title" : "kim-thiem-quy-tap-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/kim-thiem-thu/kim-thiem-thu.mp3",
+    "title" : "kim-thiem-thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-thiem-thu/kim-thiem-quy-tap-2.mp3",
+    "title" : "kim-thiem-quy-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-thiem-thu/kim-thiem-quy-tap-3.mp3",
+    "title" : "kim-thiem-quy-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-thiem-thu/kim-thiem-quy-tap-4.mp3",
+    "title" : "kim-thiem-quy-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-thiem-thu/kim-thiem-quy-tap-5.mp3",
+    "title" : "kim-thiem-quy-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-thiem-thu/kim-thiem-quy-tap-6.mp3",
+    "title" : "kim-thiem-quy-tap-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

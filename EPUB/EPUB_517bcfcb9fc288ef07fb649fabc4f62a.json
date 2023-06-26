@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/an-yen.html",
+    "title" : "An Yên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hàn Du",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_517bcfcb9fc288ef07fb649fabc4f62a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_517bcfcb9fc288ef07fb649fabc4f62a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801409.us.archive.org/16/items/an-yen-full/AnYen_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "An Yên tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801409.us.archive.org/16/items/an-yen-full/AnYen_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "An Yên tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801409.us.archive.org/16/items/an-yen-full/AnYen_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "An Yên tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801409.us.archive.org/16/items/an-yen-full/AnYen_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "An Yên tập 4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801409.us.archive.org/16/items/an-yen-full/AnYen_01.mp3",
+    "title" : "An Yên tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801409.us.archive.org/16/items/an-yen-full/AnYen_02.mp3",
+    "title" : "An Yên tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801409.us.archive.org/16/items/an-yen-full/AnYen_03.mp3",
+    "title" : "An Yên tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801409.us.archive.org/16/items/an-yen-full/AnYen_04.mp3",
+    "title" : "An Yên tập 4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

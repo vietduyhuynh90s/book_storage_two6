@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ke-thach-thuc-coi-am.html",
+    "title" : "Kẻ thách thức cõi âm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cú Heo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_1a88f595c2c7e5d29f2e79f03af0c161.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_1a88f595c2c7e5d29f2e79f03af0c161.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801406.us.archive.org/3/items/ke-thach-thuc-coi-am/ke-thach-thuc-coi-am-quang-a-tun-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kẻ thách thức cõi âm Tập 1 - Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801406.us.archive.org/3/items/ke-thach-thuc-coi-am/ke-thach-thuc-coi-am-quang-a-tun-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kẻ thách thức cõi âm Tập 2 - Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801406.us.archive.org/3/items/ke-thach-thuc-coi-am/ke-thach-thuc-coi-am-quang-a-tun-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kẻ thách thức cõi âm Tập 3 - Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801406.us.archive.org/3/items/ke-thach-thuc-coi-am/ke-thach-thuc-coi-am-quang-a-tun-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kẻ thách thức cõi âm Tập 4 - Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801406.us.archive.org/3/items/ke-thach-thuc-coi-am/ke-thach-thuc-coi-am-quang-a-tun-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kẻ thách thức cõi âm Tập 5 - Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801406.us.archive.org/3/items/ke-thach-thuc-coi-am/ke-thach-thuc-coi-am-quang-a-tun-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kẻ thách thức cõi âm Tập 6 - Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801406.us.archive.org/3/items/ke-thach-thuc-coi-am/ke-thach-thuc-coi-am-quang-a-tun-tap-1.mp3",
+    "title" : "Kẻ thách thức cõi âm Tập 1 - Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801406.us.archive.org/3/items/ke-thach-thuc-coi-am/ke-thach-thuc-coi-am-quang-a-tun-tap-2.mp3",
+    "title" : "Kẻ thách thức cõi âm Tập 2 - Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801406.us.archive.org/3/items/ke-thach-thuc-coi-am/ke-thach-thuc-coi-am-quang-a-tun-tap-3.mp3",
+    "title" : "Kẻ thách thức cõi âm Tập 3 - Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801406.us.archive.org/3/items/ke-thach-thuc-coi-am/ke-thach-thuc-coi-am-quang-a-tun-tap-4.mp3",
+    "title" : "Kẻ thách thức cõi âm Tập 4 - Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801406.us.archive.org/3/items/ke-thach-thuc-coi-am/ke-thach-thuc-coi-am-quang-a-tun-tap-5.mp3",
+    "title" : "Kẻ thách thức cõi âm Tập 5 - Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801406.us.archive.org/3/items/ke-thach-thuc-coi-am/ke-thach-thuc-coi-am-quang-a-tun-tap-6.mp3",
+    "title" : "Kẻ thách thức cõi âm Tập 6 - Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

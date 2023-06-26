@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/diem-bao-tu-coi-am.html",
+    "title" : "Điềm Báo Từ Cõi Âm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Lệ Hoa Tiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 3793,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_d0b538bfbfd21be4b9a2b160fc11df8c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_d0b538bfbfd21be4b9a2b160fc11df8c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/diem-bao-tu-coi-am/diem-bao-tu-coi-am.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3793,
+    "title" : "diem-bao-tu-coi-am",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/diem-bao-tu-coi-am/diem-bao-tu-coi-am.mp3",
+    "title" : "diem-bao-tu-coi-am",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

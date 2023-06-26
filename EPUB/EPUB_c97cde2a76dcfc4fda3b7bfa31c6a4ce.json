@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/loi-hua-voi-ban-than.html",
+    "title" : "Lời Hứa Với Bạn Thân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tuấn Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 3989,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_c97cde2a76dcfc4fda3b7bfa31c6a4ce.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_c97cde2a76dcfc4fda3b7bfa31c6a4ce.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/loi-hua-voi-ban-than/loi-hua-voi-ban-than.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3989,
+    "title" : "loi-hua-voi-ban-than",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/loi-hua-voi-ban-than/loi-hua-voi-ban-than.mp3",
+    "title" : "loi-hua-voi-ban-than",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
