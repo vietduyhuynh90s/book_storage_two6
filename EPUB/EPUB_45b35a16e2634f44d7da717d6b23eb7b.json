@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/an-oan-hoa-xa.html",
+    "title" : "Pháp Sư Đen Phần 5 : Ân Oán Hỏa Xà",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diễm Hằng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 16055,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_45b35a16e2634f44d7da717d6b23eb7b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_45b35a16e2634f44d7da717d6b23eb7b.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/anoanhoaxaNTM/an-oan-hoa-xa-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3926,
+    "title" : "an-oan-hoa-xa-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anoanhoaxaNTM/an-oan-hoa-xa-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4223,
+    "title" : "an-oan-hoa-xa-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anoanhoaxaNTM/an-oan-hoa-xa-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4043,
+    "title" : "an-oan-hoa-xa-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anoanhoaxaNTM/an-oan-hoa-xa-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3863,
+    "title" : "an-oan-hoa-xa-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/anoanhoaxaNTM/an-oan-hoa-xa-tap-1.mp3",
+    "title" : "an-oan-hoa-xa-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anoanhoaxaNTM/an-oan-hoa-xa-tap-2.mp3",
+    "title" : "an-oan-hoa-xa-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anoanhoaxaNTM/an-oan-hoa-xa-tap-3.mp3",
+    "title" : "an-oan-hoa-xa-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anoanhoaxaNTM/an-oan-hoa-xa-tap-4.mp3",
+    "title" : "an-oan-hoa-xa-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

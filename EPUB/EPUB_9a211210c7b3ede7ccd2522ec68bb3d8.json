@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/thay-cung-gangster-san-ma-ca-rong.html",
+    "title" : "Thầy Cúng Gangster Săn Ma Cà Rồng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hắc Ám",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 12065,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_9a211210c7b3ede7ccd2522ec68bb3d8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_9a211210c7b3ede7ccd2522ec68bb3d8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thay-cung-gangster-san-ma-ca-rong/thay-cung-gangster-san-ma-ca-rong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6167,
+    "title" : "thay-cung-gangster-san-ma-ca-rong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-cung-gangster-san-ma-ca-rong/thay-cung-gangster-san-ma-ca-rong-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5898,
+    "title" : "thay-cung-gangster-san-ma-ca-rong-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thay-cung-gangster-san-ma-ca-rong/thay-cung-gangster-san-ma-ca-rong.mp3",
+    "title" : "thay-cung-gangster-san-ma-ca-rong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-cung-gangster-san-ma-ca-rong/thay-cung-gangster-san-ma-ca-rong-tap-2.mp3",
+    "title" : "thay-cung-gangster-san-ma-ca-rong-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

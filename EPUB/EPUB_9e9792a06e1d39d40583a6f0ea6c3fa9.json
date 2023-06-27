@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/cau-tay-bat-ta-linh-o-thai-nguyen.html",
+    "title" : "Cậu Tẩy Bắt Tà Linh Ở Thái Nguyên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Cơ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 18912,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_9e9792a06e1d39d40583a6f0ea6c3fa9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_9e9792a06e1d39d40583a6f0ea6c3fa9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cau-tay-bat-ta-linh-o-thai-nguyen/cau-tay-bat-ta-linh-o-thai-nguyen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5820,
+    "title" : "cau-tay-bat-ta-linh-o-thai-nguyen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-tay-bat-ta-linh-o-thai-nguyen/cau-tay-bat-ta-linh-o-thai-nguyen-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6307,
+    "title" : "cau-tay-bat-ta-linh-o-thai-nguyen-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-tay-bat-ta-linh-o-thai-nguyen/cau-tay-bat-ta-linh-o-thai-nguyen-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6785,
+    "title" : "cau-tay-bat-ta-linh-o-thai-nguyen-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cau-tay-bat-ta-linh-o-thai-nguyen/cau-tay-bat-ta-linh-o-thai-nguyen.mp3",
+    "title" : "cau-tay-bat-ta-linh-o-thai-nguyen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-tay-bat-ta-linh-o-thai-nguyen/cau-tay-bat-ta-linh-o-thai-nguyen-tap-2.mp3",
+    "title" : "cau-tay-bat-ta-linh-o-thai-nguyen-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-tay-bat-ta-linh-o-thai-nguyen/cau-tay-bat-ta-linh-o-thai-nguyen-tap-3.mp3",
+    "title" : "cau-tay-bat-ta-linh-o-thai-nguyen-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

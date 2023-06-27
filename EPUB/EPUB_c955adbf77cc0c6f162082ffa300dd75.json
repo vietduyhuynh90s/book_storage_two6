@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/cau-trieu-phuu-luu-ky-diet-thu-no.html",
+    "title" : "Cậu Triệu Phưu Lưu Ký – Diệt Thú Nô",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đỗ Quang Triệu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 4121,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_c955adbf77cc0c6f162082ffa300dd75.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_c955adbf77cc0c6f162082ffa300dd75.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cau-trieu-phuu-luu-ky-diet-thu-no/cau-trieu-phuu-luu-ky-diet-thu-no.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4121,
+    "title" : "cau-trieu-phuu-luu-ky-diet-thu-no",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cau-trieu-phuu-luu-ky-diet-thu-no/cau-trieu-phuu-luu-ky-diet-thu-no.mp3",
+    "title" : "cau-trieu-phuu-luu-ky-diet-thu-no",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

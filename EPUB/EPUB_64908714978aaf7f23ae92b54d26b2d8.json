@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/bong-trang-trong-biet-thu-co.html",
+    "title" : "Bóng Trắng Trong Biệt Thự Cổ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tuyết Lan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 4461,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_64908714978aaf7f23ae92b54d26b2d8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_64908714978aaf7f23ae92b54d26b2d8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bong-trang-trong-biet-thu-co/bong-trang-trong-biet-thu-co.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4461,
+    "title" : "bong-trang-trong-biet-thu-co",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bong-trang-trong-biet-thu-co/bong-trang-trong-biet-thu-co.mp3",
+    "title" : "bong-trang-trong-biet-thu-co",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

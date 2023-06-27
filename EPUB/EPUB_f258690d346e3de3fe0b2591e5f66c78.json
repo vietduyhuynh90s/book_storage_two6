@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/cai-c-het-cua-thay-bay.html",
+    "title" : "Cái C.hết Của Thầy Bảy",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quỷ Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 14603,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_f258690d346e3de3fe0b2591e5f66c78.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_f258690d346e3de3fe0b2591e5f66c78.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cai-c-het-cua-thay-bay/cai-c-het-cua-thay-bay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7178,
+    "title" : "cai-c-het-cua-thay-bay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cai-c-het-cua-thay-bay/cai-chet-cua-thay-bay-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7425,
+    "title" : "cai-chet-cua-thay-bay-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cai-c-het-cua-thay-bay/cai-c-het-cua-thay-bay.mp3",
+    "title" : "cai-c-het-cua-thay-bay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cai-c-het-cua-thay-bay/cai-chet-cua-thay-bay-tap-2.mp3",
+    "title" : "cai-chet-cua-thay-bay-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

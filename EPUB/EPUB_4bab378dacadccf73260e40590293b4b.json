@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/oan-hon-doi-vo.html",
+    "title" : "Oan Hồn Đòi Vợ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trung Kiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 11006,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_4bab378dacadccf73260e40590293b4b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_4bab378dacadccf73260e40590293b4b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/oan-hon-doi-vo/oan-hon-doi-vo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5714,
+    "title" : "oan-hon-doi-vo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-doi-vo/oan-hon-doi-vo-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5292,
+    "title" : "oan-hon-doi-vo-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/oan-hon-doi-vo/oan-hon-doi-vo.mp3",
+    "title" : "oan-hon-doi-vo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-doi-vo/oan-hon-doi-vo-tap-2.mp3",
+    "title" : "oan-hon-doi-vo-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

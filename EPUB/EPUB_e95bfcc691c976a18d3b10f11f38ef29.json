@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/vong-quy-sau-nha.html",
+    "title" : "Vong Quỷ Sau Nhà",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mộc Mộc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 8731,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_e95bfcc691c976a18d3b10f11f38ef29.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_e95bfcc691c976a18d3b10f11f38ef29.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vong-quy-sau-nha/vong-quy-sau-nha.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4130,
+    "title" : "vong-quy-sau-nha",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-quy-sau-nha/vong-quy-sau-nha-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4601,
+    "title" : "vong-quy-sau-nha-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vong-quy-sau-nha/vong-quy-sau-nha.mp3",
+    "title" : "vong-quy-sau-nha",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-quy-sau-nha/vong-quy-sau-nha-tap-2.mp3",
+    "title" : "vong-quy-sau-nha-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

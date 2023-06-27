@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/doc-co-dong-de-phan-2-mo-kiem-son-trang.html",
+    "title" : "Độc Cô Đồng Đế Phần 2 – Mộ Kiếm Sơn Trang",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hải Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 7328,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_869acb3f13082ea92d60a666cf9bf46c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_869acb3f13082ea92d60a666cf9bf46c.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mo-kiem-son-trang/mo-kiem-son-trang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "mo-kiem-son-trang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kiem-son-trang/mo-kiem-son-trang-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3718,
+    "title" : "mo-kiem-son-trang-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mo-kiem-son-trang/mo-kiem-son-trang.mp3",
+    "title" : "mo-kiem-son-trang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kiem-son-trang/mo-kiem-son-trang-tap-2.mp3",
+    "title" : "mo-kiem-son-trang-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

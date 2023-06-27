@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/con-quy-nha-ong-lang-hoang.html",
+    "title" : "Con Quỷ Nhà Ông Lang Hoàng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quác Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 9466,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_e83581c406d6c17ae0c5e7dfd6cbc62e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_e83581c406d6c17ae0c5e7dfd6cbc62e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/con-quy-nha-ong-lang-hoang/con-quy-nha-ong-lang-hoang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4895,
+    "title" : "con-quy-nha-ong-lang-hoang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-quy-nha-ong-lang-hoang/con-quy-nha-ong-lang-hoang-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4571,
+    "title" : "con-quy-nha-ong-lang-hoang-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/con-quy-nha-ong-lang-hoang/con-quy-nha-ong-lang-hoang.mp3",
+    "title" : "con-quy-nha-ong-lang-hoang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-quy-nha-ong-lang-hoang/con-quy-nha-ong-lang-hoang-tap-2.mp3",
+    "title" : "con-quy-nha-ong-lang-hoang-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

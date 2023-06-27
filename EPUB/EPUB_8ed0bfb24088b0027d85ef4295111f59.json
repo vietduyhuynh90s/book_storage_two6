@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ngoi-nha-cu-cua-lao-cai.html",
+    "title" : "Ngôi Nhà Cũ Của Lão Cải",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồi Ức",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 6661,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_8ed0bfb24088b0027d85ef4295111f59.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_8ed0bfb24088b0027d85ef4295111f59.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngoi-nha-cu-cua-lao-cai/ngoi-nha-cu-cua-lao-cai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6661,
+    "title" : "ngoi-nha-cu-cua-lao-cai",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngoi-nha-cu-cua-lao-cai/ngoi-nha-cu-cua-lao-cai.mp3",
+    "title" : "ngoi-nha-cu-cua-lao-cai",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

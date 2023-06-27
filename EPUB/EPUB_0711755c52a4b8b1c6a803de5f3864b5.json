@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/bong-meo-duoi-trang.html",
+    "title" : "Bóng Mèo Dưới Trăng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diễm Hằng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 11883,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_0711755c52a4b8b1c6a803de5f3864b5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_0711755c52a4b8b1c6a803de5f3864b5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bong-meo-duoi-trang/bong-meo-duoi-trang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3948,
+    "title" : "bong-meo-duoi-trang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bong-meo-duoi-trang/bong-meo-duoi-trang-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4062,
+    "title" : "bong-meo-duoi-trang-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bong-meo-duoi-trang/bong-meo-duoi-trang-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3873,
+    "title" : "bong-meo-duoi-trang-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bong-meo-duoi-trang/bong-meo-duoi-trang.mp3",
+    "title" : "bong-meo-duoi-trang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-meo-duoi-trang/bong-meo-duoi-trang-tap-2.mp3",
+    "title" : "bong-meo-duoi-trang-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-meo-duoi-trang/bong-meo-duoi-trang-tap-3.mp3",
+    "title" : "bong-meo-duoi-trang-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

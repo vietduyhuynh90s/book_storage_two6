@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/c-het-khong-toan-thay.html",
+    "title" : "C.hết Không Toàn Thây",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đặng Thùy Dương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 19498,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_ea67a2fb644a9fb1dbc3e5c9e038a1bd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_ea67a2fb644a9fb1dbc3e5c9e038a1bd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/c-het-khong-toan-thay/c-het-khong-toan-thay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6334,
+    "title" : "c-het-khong-toan-thay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/c-het-khong-toan-thay/c-het-khong-toan-thay-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6431,
+    "title" : "c-het-khong-toan-thay-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/c-het-khong-toan-thay/c-het-khong-toan-thay-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6733,
+    "title" : "c-het-khong-toan-thay-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/c-het-khong-toan-thay/c-het-khong-toan-thay.mp3",
+    "title" : "c-het-khong-toan-thay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/c-het-khong-toan-thay/c-het-khong-toan-thay-tap-2.mp3",
+    "title" : "c-het-khong-toan-thay-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/c-het-khong-toan-thay/c-het-khong-toan-thay-tap-3.mp3",
+    "title" : "c-het-khong-toan-thay-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

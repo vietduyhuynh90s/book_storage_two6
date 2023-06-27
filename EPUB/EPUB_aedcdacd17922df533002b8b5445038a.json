@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/cha-con-ma-da-theo-am-ong-ngoai.html",
+    "title" : "Cha Con Ma Da Theo Ám Ông Ngoại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mây Hạ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 6851,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_aedcdacd17922df533002b8b5445038a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_aedcdacd17922df533002b8b5445038a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cha-con-ma-da-theo-am-ong-ngoai/cha-con-ma-da-theo-am-ong-ngoai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6851,
+    "title" : "cha-con-ma-da-theo-am-ong-ngoai",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cha-con-ma-da-theo-am-ong-ngoai/cha-con-ma-da-theo-am-ong-ngoai.mp3",
+    "title" : "cha-con-ma-da-theo-am-ong-ngoai",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

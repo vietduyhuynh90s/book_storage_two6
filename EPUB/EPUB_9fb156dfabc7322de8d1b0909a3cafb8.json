@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/co-dong-thao-o-giao-xu-son-doan.html",
+    "title" : "Cô Đồng Thao ở Giáo xứ Sơn Đoan",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trung Kiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 24101,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_9fb156dfabc7322de8d1b0909a3cafb8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_9fb156dfabc7322de8d1b0909a3cafb8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-dong-thao-o-du-doan-son-doan/co-dong-thao-o-du-doan-son-doan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6240,
+    "title" : "co-dong-thao-o-du-doan-son-doan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dong-thao-o-du-doan-son-doan/co-dong-thao-o-giao-xu-son-doan-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5790,
+    "title" : "co-dong-thao-o-giao-xu-son-doan-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dong-thao-o-du-doan-son-doan/co-dong-thao-o-giao-xu-son-doan-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5586,
+    "title" : "co-dong-thao-o-giao-xu-son-doan-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dong-thao-o-du-doan-son-doan/co-dong-thao-o-giao-xu-son-doan-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6485,
+    "title" : "co-dong-thao-o-giao-xu-son-doan-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-dong-thao-o-du-doan-son-doan/co-dong-thao-o-du-doan-son-doan.mp3",
+    "title" : "co-dong-thao-o-du-doan-son-doan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dong-thao-o-du-doan-son-doan/co-dong-thao-o-giao-xu-son-doan-tap-2.mp3",
+    "title" : "co-dong-thao-o-giao-xu-son-doan-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dong-thao-o-du-doan-son-doan/co-dong-thao-o-giao-xu-son-doan-tap-3.mp3",
+    "title" : "co-dong-thao-o-giao-xu-son-doan-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dong-thao-o-du-doan-son-doan/co-dong-thao-o-giao-xu-son-doan-tap-4.mp3",
+    "title" : "co-dong-thao-o-giao-xu-son-doan-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

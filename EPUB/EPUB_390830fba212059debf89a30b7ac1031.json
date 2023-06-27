@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/loai-khi-bao-oan.html",
+    "title" : "Loài Khỉ Báo Oán",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoài Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 7853,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_390830fba212059debf89a30b7ac1031.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_390830fba212059debf89a30b7ac1031.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/loai-khi-bao-oan/loai-khi-bao-oan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4351,
+    "title" : "loai-khi-bao-oan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loai-khi-bao-oan/loai-khi-bao-oan-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3502,
+    "title" : "loai-khi-bao-oan-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/loai-khi-bao-oan/loai-khi-bao-oan.mp3",
+    "title" : "loai-khi-bao-oan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loai-khi-bao-oan/loai-khi-bao-oan-tap-2.mp3",
+    "title" : "loai-khi-bao-oan-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
