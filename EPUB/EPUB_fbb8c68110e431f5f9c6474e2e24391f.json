@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=8s6H0f9k_qo",
+    "title" : "Điều Đẹp Nhất Có Khi Là Buông Tay (Audio Ha Xinh)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thought Catalog",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "“Những điều được định sẵn là dành cho bạn sẽ đến với bạn, ngay cả khi nó bị chôn vùi dưới hai ngọn núi. Những điều không được định sẵn là dành cho bạn sẽ không đến với bạn, cho dù nó nằm ngay giữa hai đầu môi bạn.” Thought Catalog là một nhóm tác giả nổi tiếng tại Mỹ, với những câu chuyện giúp bạn đi sâu hơn vào phần yếu mềm bên trong trái tim của mình, ôm ấp nỗi cô đơn và khiến bạn mạnh mẽ rời bỏ những điều, những người làm bạn đau. “Điều đẹp nhất có khi là buông tay” như một cái chạm, để bạn thốt lên lời tạm biệt đúng lú Lời tạm biệt cần được thốt ra khi bạn đang cảm thấy cô độc trong mối quan hệ của chính mình.Người ấy đã thôi làm bạn mỉm cười, mà thay vào đó là những “nỗi buồn” thường trực lăn dài từ khoé mắt.Thay cho những nụ hôn giờ chỉ còn là dáng vẻ dửng dưng như chưa từng tồn tại những thương yêu… Lời tạm biệt cần được thốt ra, khi chúng ta đã không còn muốn nói mình yêu nhau thế nào vào mỗi sáng hay khi màn đêm khép lại.",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-21",
+    "duration" : 3643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_fbb8c68110e431f5f9c6474e2e24391f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_fbb8c68110e431f5f9c6474e2e24391f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_fbb8c68110e431f5f9c6474e2e24391f_bf9199c93537ffd44fb828b3a078cb20_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_fbb8c68110e431f5f9c6474e2e24391f_bf9199c93537ffd44fb828b3a078cb20_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_fbb8c68110e431f5f9c6474e2e24391f_bf9199c93537ffd44fb828b3a078cb20_1.mp3",
+    "title" : "Trọn bộ (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_fbb8c68110e431f5f9c6474e2e24391f_bf9199c93537ffd44fb828b3a078cb20_2.mp3",
+    "title" : "Trọn bộ (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
