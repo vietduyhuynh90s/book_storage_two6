@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/day-con-lam-giau-tap-7-14234.html",
+    "title" : "DẠY CON LÀM GIÀU - TẬP 7",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robert T. Kiyosaki",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Quyển sách sẽ giúp hiểu rõ được như thế nào là kiếm tiền, như thế nào để làm giàu, và trả lời câu hỏi: Làm thế nào để biến 10.000 đôla thành 10 triệu đôla trong 10 năm? Dù không chỉ cho bạn chính xác phải làm gì, bởi vì mọi thứ tùy thuộc vào bạn, nhưng quyển sách này sẽ cung cấp cho bạn kiến thức và những kinh nghiệm để kiểm soát tiền bạc, tương lai tài chính của mình và còn làm ra nhiều tiền hơn nữa. Giúp bạn hiểu: Tại sao một số nhà đầu tư thu được nhiều lợi nhuận nhanh hơn những nhà đầu tư trung bình với ít nguy cơ, tiền bạc và thời gian và đưa ra nhiều chiến lược đầu tư để bạn có thể xem xét và chọn lựa.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_a39998311066e989a1e1c6b29bdfc672.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_a39998311066e989a1e1c6b29bdfc672.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14234-day-con-lam-giau-tap-7-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14234-day-con-lam-giau-tap-7-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

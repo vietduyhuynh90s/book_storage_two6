@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/em-that-giong-mot-chu-nhim-nhung-anh-van-rat-muon-om-em-14447.html",
+    "title" : "EM THẬT GIỐNG MỘT CHÚ NHÍM NHƯNG ANH VẪN RẤT MUỐN ÔM EM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nam Hữu Tiên Sinh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trên cõi đời này, thật ra tồn tại rất nhiều những “chú nhím”, ban ngày làm việc, ban đêm thao thức, không thôi mong muốn gần kề người khác, song cũng sợ người ta đến quá gần mình. Trong mắt người khác, mẫu người như thế là kiểu người cực kỳ kiêu ngạo. Không thích cười đùa, cũng chẳng ưa quậy phá, suốt ngày chỉ thích làm bạn với bản thân, một mình ngồi chờ cho đến khi những tia nắng đầu tiên của bình mình ló dạng. Mỗi chúng ta đều tựa như một chú nhím. Đơn độc, song lại chẳng thể làm được gì khác ngoài việc tiếp tục giơ những chiếc gai nhọn ra. Nhưng không ai hay biết, những chiếc gai nhọn của nhím cũng có thể bị bào mòn. Chúng ta đều mong mỏi những điều tốt đẹp từ người khác, cũng rất mong mỏi những chiếc ôm ấm áp. Nhưng chúng ta cũng e sợ, rằng tình yêu sẽ gây nên sự tổn thương. Có lẽ một lúc nào đó trong cuộc đời, chúng ta đều như thế này: sống một mình nơi thành thị. Cố gắng, trăn trở, bất an, nghiêm túc, kiên trì, nhiệt tình, nhụt chí, trông mong. Có lẽ mỗi chúng ta đều đã từng trải qua nỗi buồn và sự bất an, nhưng vẫn chọn cách kiên trì. Chúng ta đều là những chú nhím, kiêu hãnh và đơn độc, nhưng tất cả chẳng qua chỉ là vẻ bề ngoài. Sóng nhiệt trong lòng cuồn cuộn và sục sôi, chờ một mai sẽ xuất hiện người có thể đến gần ta, sau đó cười và nói với ta rằng: “Không sao, dù cho có bị gai nhọn của người đâm phải, tôi vẫn sẽ ôm lấy người”. Em thật giống một chú nhím, nhưng anh vẫn rất muốn ôm em - Nguyện rằng chúng ta đều không cần làm những chú nhím đầy gai nhọn, có thể ôm nhau mà chẳng sợ tổn thương.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_cc0156c5dc5cf20f7a2633074ed5bcd0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_cc0156c5dc5cf20f7a2633074ed5bcd0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14447-em-that-giong-mot-chu-nhim-nhung-anh-van-rat-muon-om-em-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Em Thật Giống Một Chú Nhím Nhưng Anh Vẫn Rất Muốn Ôm Em - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14447-em-that-giong-mot-chu-nhim-nhung-anh-van-rat-muon-om-em-thuviensach.vn.mp3?t=2123",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:35:23 Em Thật Giống Một Chú Nhím Nhưng Anh Vẫn Rất Muốn Ôm Em - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14447-em-that-giong-mot-chu-nhim-nhung-anh-van-rat-muon-om-em-thuviensach.vn.mp3?t=3546",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:59:06 Em Thật Giống Một Chú Nhím Nhưng Anh Vẫn Rất Muốn Ôm Em - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14447-em-that-giong-mot-chu-nhim-nhung-anh-van-rat-muon-om-em-thuviensach.vn.mp3?t=6229",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:43:49 Em Thật Giống Một Chú Nhím Nhưng Anh Vẫn Rất Muốn Ôm Em - Phần 4 End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14447-em-that-giong-mot-chu-nhim-nhung-anh-van-rat-muon-om-em-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Em Thật Giống Một Chú Nhím Nhưng Anh Vẫn Rất Muốn Ôm Em - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14447-em-that-giong-mot-chu-nhim-nhung-anh-van-rat-muon-om-em-thuviensach.vn.mp3?t=2123",
+    "title" : "00:35:23 Em Thật Giống Một Chú Nhím Nhưng Anh Vẫn Rất Muốn Ôm Em - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14447-em-that-giong-mot-chu-nhim-nhung-anh-van-rat-muon-om-em-thuviensach.vn.mp3?t=3546",
+    "title" : "00:59:06 Em Thật Giống Một Chú Nhím Nhưng Anh Vẫn Rất Muốn Ôm Em - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14447-em-that-giong-mot-chu-nhim-nhung-anh-van-rat-muon-om-em-thuviensach.vn.mp3?t=6229",
+    "title" : "01:43:49 Em Thật Giống Một Chú Nhím Nhưng Anh Vẫn Rất Muốn Ôm Em - Phần 4 End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

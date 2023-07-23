@@ -1,0 +1,773 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/sung-mi-14179.html",
+    "title" : "SỦNG MỊ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngư Thiên Không",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Vân Điểu giương cánh bay lượn giữa trời xanh. Dã Huyết Lang cuồng ngạo tung hoành hoang nguyên, sa mạc. Hải Linh cự thú khổng lồ tựa núi Thái Sơn, một thân trấn ải không người nào qua nổi. Dạ Mộng Thú nương nhờ ánh trăng, xuyên qua rừng rậm nhanh như tia chớp. Quỷ Khung Quân Vương đứng trên vách núi không ngừng thôn mây hấp khí, tư thế kiêu hùng bá chủ một phương. Kiếm Chập, Tịch Tịch Dương Bằng, Viễn Cổ Mộc Yêu, Hỗn Độn Lôi Quan Tinh Linh, Lăng Băng Trớ Ấn Yêu Hồ... Chủng tộc thực vật, yêu thú, nguyên tố, vong linh thiên kỳ bách quái tạo ra một thế giới Hồn Sủng vô cùng rộng lớn.” Nhân vật chính của Sủng Mị là một vị Hồn sủng sư trẻ tuổi, lúc ban đầu mang theo một con dị biến Nguyệt Quang Hồ chiến đấu liên miên bất tuyệt, vượt qua vô vàn khó khăn cách trở, hiểm cảnh cầu sinh từ từ phát triển biến hóa thành Tà Diễm Lục Vĩ Yêu Hồ, Miện Diễm Cửu Vĩ Yêu Hồ và chủng tộc cao cấp hơn nữa. Hắn chậm rãi bước lên con đường cường giả, không ngừng thu phục các loại Hồn sủng trân quý, phấn đấu vì một ngày đứng trên đỉnh thế giới. Vương - Hắn sẽ ngồi lên Kim Đỉnh Vương Tọa, vị trí cao nhất của thế giới nhân loại. Hồn sủng của hắn phải là Vạn Thú Vương thống lĩnh muôn loài. Theo từng bước chân của hắn, một con đường máu kéo dài liên tu bất tận…</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_03873151dd0cd283794676963b266ed2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_03873151dd0cd283794676963b266ed2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Sủng Mị - Giới Thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=144",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:02:24 Sủng Mị - Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=3838",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:03:58 Sủng Mị - Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=7472",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:04:32 Sủng Mị - Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=11173",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:06:13 Sủng Mị - Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=14839",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:07:19 Sủng Mị - Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=18506",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:08:26 Sủng Mị - Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=22212",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:10:12 Sủng Mị - Tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=25815",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:10:15 Sủng Mị - Tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=29476",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:11:16 Sủng Mị - Tập 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=32989",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:09:49 Sủng Mị - Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=37841",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:30:41 Sủng Mị - Tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=41619",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:33:39 Sủng Mị - Tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=45331",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:35:31 Sủng Mị - Tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=48872",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:34:32 Sủng Mị - Tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=52285",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:31:25 Sủng Mị - Tập 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=55935",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:32:15 Sủng Mị - Tập 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=59496",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:31:36 Sủng Mị - Tập 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=61424",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:03:44 Sủng Mị - Tập 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=63536",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:38:56 Sủng Mị - Tập 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=67806",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:50:06 Sủng Mị - Tập 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=72019",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:00:19 Sủng Mị - Tập 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=75705",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:01:45 Sủng Mị - Tập 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=79921",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:12:01 Sủng Mị - Tập 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=84225",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:23:45 Sủng Mị - Tập 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=88668",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:37:48 Sủng Mị - Tập 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=92457",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:40:57 Sủng Mị - Tập 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=96306",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "26:45:06 Sủng Mị - Tập 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=99999",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "27:46:39 Sủng Mị - Tập 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=103723",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "28:48:43 Sủng Mị - Tập 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=107573",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "29:52:53 Sủng Mị - Tập 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=111375",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "30:56:15 Sủng Mị - Tập 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=115022",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "31:57:02 Sủng Mị - Tập 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=118942",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "33:02:22 Sủng Mị - Tập 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=122732",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:05:32 Sủng Mị - Tập 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=126546",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "35:09:06 Sủng Mị - Tập 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=130881",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "36:21:21 Sủng Mị - Tập 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=134770",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "37:26:10 Sủng Mị - Tập 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=138513",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "38:28:33 Sủng Mị - Tập 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=142491",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "39:34:51 Sủng Mị - Tập 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=146763",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "40:46:03 Sủng Mị - Tập 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=150745",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "41:52:25 Sủng Mị - Tập 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=155198",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "43:06:38 Sủng Mị - Tập 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=159554",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "44:19:14 Sủng Mị - Tập 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=164183",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "45:36:23 Sủng Mị - Tập 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=168060",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "46:41:00 Sủng Mị - Tập 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=172601",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "47:56:41 Sủng Mị - Tập 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=176554",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "49:02:34 Sủng Mị - Tập 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=180516",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "50:08:36 Sủng Mị - Tập 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=184696",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "51:18:16 Sủng Mị - Tập 49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=188460",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "52:21:00 Sủng Mị - Tập 50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=192236",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "53:23:56 Sủng Mị - Tập 51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=199443",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "55:24:03 Sủng Mị - Tập 52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=203456",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "56:30:56 Sủng Mị - Tập 53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=210746",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "58:32:26 Sủng Mị - Tập 54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=215099",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "59:44:59 Sủng Mị - Tập 55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=218642",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "60:44:02 Sủng Mị - Tập 56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=224091",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "62:14:51 Sủng Mị - Tập 57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=230189",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "63:56:29 Sủng Mị - Tập 58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=234148",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "65:02:28 Sủng Mị - Tập 59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=239924",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "66:38:44 Sủng Mị - Tập 60",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Sủng Mị - Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=144",
+    "title" : "00:02:24 Sủng Mị - Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=3838",
+    "title" : "01:03:58 Sủng Mị - Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=7472",
+    "title" : "02:04:32 Sủng Mị - Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=11173",
+    "title" : "03:06:13 Sủng Mị - Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=14839",
+    "title" : "04:07:19 Sủng Mị - Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=18506",
+    "title" : "05:08:26 Sủng Mị - Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=22212",
+    "title" : "06:10:12 Sủng Mị - Tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=25815",
+    "title" : "07:10:15 Sủng Mị - Tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=29476",
+    "title" : "08:11:16 Sủng Mị - Tập 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=32989",
+    "title" : "09:09:49 Sủng Mị - Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=37841",
+    "title" : "10:30:41 Sủng Mị - Tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=41619",
+    "title" : "11:33:39 Sủng Mị - Tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=45331",
+    "title" : "12:35:31 Sủng Mị - Tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=48872",
+    "title" : "13:34:32 Sủng Mị - Tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=52285",
+    "title" : "14:31:25 Sủng Mị - Tập 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=55935",
+    "title" : "15:32:15 Sủng Mị - Tập 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=59496",
+    "title" : "16:31:36 Sủng Mị - Tập 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=61424",
+    "title" : "17:03:44 Sủng Mị - Tập 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=63536",
+    "title" : "17:38:56 Sủng Mị - Tập 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=67806",
+    "title" : "18:50:06 Sủng Mị - Tập 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=72019",
+    "title" : "20:00:19 Sủng Mị - Tập 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=75705",
+    "title" : "21:01:45 Sủng Mị - Tập 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=79921",
+    "title" : "22:12:01 Sủng Mị - Tập 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=84225",
+    "title" : "23:23:45 Sủng Mị - Tập 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=88668",
+    "title" : "24:37:48 Sủng Mị - Tập 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=92457",
+    "title" : "25:40:57 Sủng Mị - Tập 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=96306",
+    "title" : "26:45:06 Sủng Mị - Tập 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=99999",
+    "title" : "27:46:39 Sủng Mị - Tập 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=103723",
+    "title" : "28:48:43 Sủng Mị - Tập 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=107573",
+    "title" : "29:52:53 Sủng Mị - Tập 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=111375",
+    "title" : "30:56:15 Sủng Mị - Tập 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=115022",
+    "title" : "31:57:02 Sủng Mị - Tập 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=118942",
+    "title" : "33:02:22 Sủng Mị - Tập 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=122732",
+    "title" : "34:05:32 Sủng Mị - Tập 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=126546",
+    "title" : "35:09:06 Sủng Mị - Tập 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=130881",
+    "title" : "36:21:21 Sủng Mị - Tập 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=134770",
+    "title" : "37:26:10 Sủng Mị - Tập 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=138513",
+    "title" : "38:28:33 Sủng Mị - Tập 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=142491",
+    "title" : "39:34:51 Sủng Mị - Tập 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=146763",
+    "title" : "40:46:03 Sủng Mị - Tập 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=150745",
+    "title" : "41:52:25 Sủng Mị - Tập 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=155198",
+    "title" : "43:06:38 Sủng Mị - Tập 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=159554",
+    "title" : "44:19:14 Sủng Mị - Tập 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=164183",
+    "title" : "45:36:23 Sủng Mị - Tập 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=168060",
+    "title" : "46:41:00 Sủng Mị - Tập 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=172601",
+    "title" : "47:56:41 Sủng Mị - Tập 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=176554",
+    "title" : "49:02:34 Sủng Mị - Tập 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=180516",
+    "title" : "50:08:36 Sủng Mị - Tập 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=184696",
+    "title" : "51:18:16 Sủng Mị - Tập 49",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=188460",
+    "title" : "52:21:00 Sủng Mị - Tập 50",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=192236",
+    "title" : "53:23:56 Sủng Mị - Tập 51",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=199443",
+    "title" : "55:24:03 Sủng Mị - Tập 52",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=203456",
+    "title" : "56:30:56 Sủng Mị - Tập 53",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=210746",
+    "title" : "58:32:26 Sủng Mị - Tập 54",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=215099",
+    "title" : "59:44:59 Sủng Mị - Tập 55",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=218642",
+    "title" : "60:44:02 Sủng Mị - Tập 56",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=224091",
+    "title" : "62:14:51 Sủng Mị - Tập 57",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=230189",
+    "title" : "63:56:29 Sủng Mị - Tập 58",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=234148",
+    "title" : "65:02:28 Sủng Mị - Tập 59",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14179-sung-mi-thuviensach.vn.mp3?t=239924",
+    "title" : "66:38:44 Sủng Mị - Tập 60",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ai-se-den-du-tang-le-cua-toi-14245.html",
+    "title" : "AI SẼ ĐẾN DỰ TANG LỄ CỦA TÔI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sanghyun Kim",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách được hàng triệu độc giả Hàn Quốc tìm đọc! Xin được gửi tặng đôi lời tới những người đang loay hoay giữa cuộc đời: Hãy nhớ, luôn có người yêu thương bạn, bởi bạn chính là niềm tự hào, sự an ủi của ai đó. Hãy tin là đến một lúc nào đó mọi thứ rồi sẽ ổn, và bạn sẽ không còn bị tổn thương thêm nữa. Hãy sống cuộc đời của chính bạn chứ không phải ai khác. Dù phải đau đớn, dù nước mắt rơi, nhưng mọi thứ đều không hề vô ích. Sau tất cả, chúc bạn có những ngày tháng tràn ngập yêu thương, ấm áp trong đời. Từ chương đầu tiên đến chương cuối cùng, tác giả chủ yếu cho những lời khuyên dành cho bạn trẻ. Ví dụ như tác giả lấy bản thân làm chủ thể “Tôi phải sống chính mình dù ai nói gì”. Hoặc khuyên mọi người “Hãy sống với sắc màu của riêng bạn”. Nội dung sách không có cao trào, vô cùng nhẹ nhàng mà thâm thúy. Bởi khi con người đứng giữa ranh giới của sinh và tử, họ thường suy nghĩ tiêu cực. Không biết sau này khi chết đi, có bao nhiêu người đến dự tang lễ của mình. Vì số người đến dự phụ thuộc vào sự yêu mến của họ dành cho ta…</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_49d71738c7cb099e1f902a049348ee78.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_49d71738c7cb099e1f902a049348ee78.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14245-ai-se-den-du-tang-le-cua-toi-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Ai Sẽ Đến Dự Tang Lễ Của Tôi - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14245-ai-se-den-du-tang-le-cua-toi-thuviensach.vn.mp3?t=1603",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:26:43 Ai Sẽ Đến Dự Tang Lễ Của Tôi - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14245-ai-se-den-du-tang-le-cua-toi-thuviensach.vn.mp3?t=3327",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:55:27 Ai Sẽ Đến Dự Tang Lễ Của Tôi - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14245-ai-se-den-du-tang-le-cua-toi-thuviensach.vn.mp3?t=4841",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:20:41 Ai Sẽ Đến Dự Tang Lễ Của Tôi - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14245-ai-se-den-du-tang-le-cua-toi-thuviensach.vn.mp3?t=6509",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:48:29 Ai Sẽ Đến Dự Tang Lễ Của Tôi - Phần 5 Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14245-ai-se-den-du-tang-le-cua-toi-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Ai Sẽ Đến Dự Tang Lễ Của Tôi - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14245-ai-se-den-du-tang-le-cua-toi-thuviensach.vn.mp3?t=1603",
+    "title" : "00:26:43 Ai Sẽ Đến Dự Tang Lễ Của Tôi - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14245-ai-se-den-du-tang-le-cua-toi-thuviensach.vn.mp3?t=3327",
+    "title" : "00:55:27 Ai Sẽ Đến Dự Tang Lễ Của Tôi - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14245-ai-se-den-du-tang-le-cua-toi-thuviensach.vn.mp3?t=4841",
+    "title" : "01:20:41 Ai Sẽ Đến Dự Tang Lễ Của Tôi - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14245-ai-se-den-du-tang-le-cua-toi-thuviensach.vn.mp3?t=6509",
+    "title" : "01:48:29 Ai Sẽ Đến Dự Tang Lễ Của Tôi - Phần 5 Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

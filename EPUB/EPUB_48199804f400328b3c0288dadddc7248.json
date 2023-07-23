@@ -1,0 +1,413 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/muoi-bay-mua-he-o-nam-giang-14293.html",
+    "title" : "MƯỜI BẢY MÙA HÈ Ở NAM GIANG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Nguyệt Hi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Số chương: 31 chương lớn (mỗi chương chia làm 3 phần) + 1 ngoại truyện Thể loại: Hiện đại, cuộc sống thường ngày. Tag: Đô thị tình duyên, con cưng của trời, yêu nhau lắm cắn nhau đau. Nhân vật chính: Lương Thuỷ, Tô Khởi | Nhân vật phụ: Lý Phong Nhiên, Lâm Thanh, Lộ Tử Hạo, Lộ Tử Thâm | Khác: Phong Sinh Thuỷ Khởi. Văn án 1. Khi còn nhỏ, cuộc sống khốn khó, nhưng tâm tính trẻ thơ, có thể từ khổ mà tìm kiếm niềm vui. Sau này trưởng thành rồi, khổ chính là khổ, thật sự khổ, không có vui. 2. Những buổi trưa hè lúc đó, trời trong xanh, không lộng gió. Ngõ nhỏ an tĩnh, mọi người đều ngủ trưa. 3. Mình ghét tất cả những khuyết điểm của bố mẹ, nhưng thật xin lỗi, mình lớn lên thành một người lớn giống hệt như bố mẹ. - ————————- [Báo trước] Nhàn nhạt, chậm rãi, thường ngày. Tô Thất Thất: Thuỷ Tạp, tớ biết nói tiếng chim sẻ đó. Lương Thuỷ quay đầu nhìn cô, bày ra bộ dạng “để tớ xem cậu nghĩ ra trò mèo gì”. Tô Thất Thất: Cậu biết “tớ thích cậu” nói bằng tiếng chim sẻ thế nào không? Lương Thuỷ: Cậu nói đi. Tô Thất Thất: Chíp chíp chíp chíp~ Lương Thuỷ buồn cười: Nhảm nhí! Tô Thất Thất: Thật đó, Thuỷ Tạp, chíp chíp chíp chíp~.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_48199804f400328b3c0288dadddc7248.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_48199804f400328b3c0288dadddc7248.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Mười Bảy Mùa Hè Ở Nam Giang - Chương 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=2960",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:49:20 Mười Bảy Mùa Hè Ở Nam Giang - Chương 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=5982",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:39:42 Mười Bảy Mùa Hè Ở Nam Giang - Chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=8645",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:24:05 Mười Bảy Mùa Hè Ở Nam Giang - Chương 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=11955",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:19:15 Mười Bảy Mùa Hè Ở Nam Giang - Chương 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=15028",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:10:28 Mười Bảy Mùa Hè Ở Nam Giang - Chương 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=18072",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:01:12 Mười Bảy Mùa Hè Ở Nam Giang - Chương 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=22030",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:07:10 Mười Bảy Mùa Hè Ở Nam Giang - Chương 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=25339",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:02:19 Mười Bảy Mùa Hè Ở Nam Giang - Chương 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=28935",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:02:15 Mười Bảy Mùa Hè Ở Nam Giang - Chương 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=32750",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:05:50 Mười Bảy Mùa Hè Ở Nam Giang - Chương 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=36141",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:02:21 Mười Bảy Mùa Hè Ở Nam Giang - Chương 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=39801",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:03:21 Mười Bảy Mùa Hè Ở Nam Giang - Chương 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=42967",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:56:07 Mười Bảy Mùa Hè Ở Nam Giang - Chương 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=46005",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:46:45 Mười Bảy Mùa Hè Ở Nam Giang - Chương 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=51080",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:11:20 Mười Bảy Mùa Hè Ở Nam Giang - Chương 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=55373",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:22:53 Mười Bảy Mùa Hè Ở Nam Giang - Chương 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=60647",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:50:47 Mười Bảy Mùa Hè Ở Nam Giang - Chương 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=65313",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:08:33 Mười Bảy Mùa Hè Ở Nam Giang - Chương 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=69149",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:12:29 Mười Bảy Mùa Hè Ở Nam Giang - Chương 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=73916",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:31:56 Mười Bảy Mùa Hè Ở Nam Giang - Chương 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=79264",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:01:04 Mười Bảy Mùa Hè Ở Nam Giang - Chương 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=84024",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:20:24 Mười Bảy Mùa Hè Ở Nam Giang - Chương 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=88608",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:36:48 Mười Bảy Mùa Hè Ở Nam Giang - Chương 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=92713",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:45:13 Mười Bảy Mùa Hè Ở Nam Giang - Chương 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=98481",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "27:21:21 Mười Bảy Mùa Hè Ở Nam Giang - Chương 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=103838",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "28:50:38 Mười Bảy Mùa Hè Ở Nam Giang - Chương 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=109476",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "30:24:36 Mười Bảy Mùa Hè Ở Nam Giang - Chương 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=115160",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "31:59:20 Mười Bảy Mùa Hè Ở Nam Giang - Chương 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=119815",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "33:16:55 Mười Bảy Mùa Hè Ở Nam Giang - Chương 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=125059",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:44:19 Mười Bảy Mùa Hè Ở Nam Giang - Chương Cuối 31 + 32",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Mười Bảy Mùa Hè Ở Nam Giang - Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=2960",
+    "title" : "00:49:20 Mười Bảy Mùa Hè Ở Nam Giang - Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=5982",
+    "title" : "01:39:42 Mười Bảy Mùa Hè Ở Nam Giang - Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=8645",
+    "title" : "02:24:05 Mười Bảy Mùa Hè Ở Nam Giang - Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=11955",
+    "title" : "03:19:15 Mười Bảy Mùa Hè Ở Nam Giang - Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=15028",
+    "title" : "04:10:28 Mười Bảy Mùa Hè Ở Nam Giang - Chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=18072",
+    "title" : "05:01:12 Mười Bảy Mùa Hè Ở Nam Giang - Chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=22030",
+    "title" : "06:07:10 Mười Bảy Mùa Hè Ở Nam Giang - Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=25339",
+    "title" : "07:02:19 Mười Bảy Mùa Hè Ở Nam Giang - Chương 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=28935",
+    "title" : "08:02:15 Mười Bảy Mùa Hè Ở Nam Giang - Chương 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=32750",
+    "title" : "09:05:50 Mười Bảy Mùa Hè Ở Nam Giang - Chương 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=36141",
+    "title" : "10:02:21 Mười Bảy Mùa Hè Ở Nam Giang - Chương 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=39801",
+    "title" : "11:03:21 Mười Bảy Mùa Hè Ở Nam Giang - Chương 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=42967",
+    "title" : "11:56:07 Mười Bảy Mùa Hè Ở Nam Giang - Chương 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=46005",
+    "title" : "12:46:45 Mười Bảy Mùa Hè Ở Nam Giang - Chương 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=51080",
+    "title" : "14:11:20 Mười Bảy Mùa Hè Ở Nam Giang - Chương 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=55373",
+    "title" : "15:22:53 Mười Bảy Mùa Hè Ở Nam Giang - Chương 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=60647",
+    "title" : "16:50:47 Mười Bảy Mùa Hè Ở Nam Giang - Chương 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=65313",
+    "title" : "18:08:33 Mười Bảy Mùa Hè Ở Nam Giang - Chương 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=69149",
+    "title" : "19:12:29 Mười Bảy Mùa Hè Ở Nam Giang - Chương 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=73916",
+    "title" : "20:31:56 Mười Bảy Mùa Hè Ở Nam Giang - Chương 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=79264",
+    "title" : "22:01:04 Mười Bảy Mùa Hè Ở Nam Giang - Chương 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=84024",
+    "title" : "23:20:24 Mười Bảy Mùa Hè Ở Nam Giang - Chương 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=88608",
+    "title" : "24:36:48 Mười Bảy Mùa Hè Ở Nam Giang - Chương 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=92713",
+    "title" : "25:45:13 Mười Bảy Mùa Hè Ở Nam Giang - Chương 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=98481",
+    "title" : "27:21:21 Mười Bảy Mùa Hè Ở Nam Giang - Chương 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=103838",
+    "title" : "28:50:38 Mười Bảy Mùa Hè Ở Nam Giang - Chương 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=109476",
+    "title" : "30:24:36 Mười Bảy Mùa Hè Ở Nam Giang - Chương 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=115160",
+    "title" : "31:59:20 Mười Bảy Mùa Hè Ở Nam Giang - Chương 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=119815",
+    "title" : "33:16:55 Mười Bảy Mùa Hè Ở Nam Giang - Chương 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14293-muoi-bay-mua-he-o-nam-giang-thuviensach.vn.mp3?t=125059",
+    "title" : "34:44:19 Mười Bảy Mùa Hè Ở Nam Giang - Chương Cuối 31 + 32",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

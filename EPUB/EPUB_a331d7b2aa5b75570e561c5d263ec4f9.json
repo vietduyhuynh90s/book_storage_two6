@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/giua-nhung-nguoi-da-chet-14451.html",
+    "title" : "GIỮA NHỮNG NGƯỜI ĐÃ CHẾT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Hải Thủy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tên thật: Dương Trọng Hải, Ngày sinh: Sinh năm 1933 tại Hà Đông, Bút hiệu khác: Công Tử Hà Đông, Ngụy Công Tử, Con Trai Bà Cả Đọi, Hạ Thu, Hồ Thành Nhân, Văn Kỳ Thanh, Dương Hồng Ngọc, Triều Đông, Người Sài Gòn … Thân thế: Vào Nam năm 1951, từng trải qua các việc: phóng viên nhật báo Ánh Sáng Sài Gòn, phòng 5 bộ Tổng Tham Mưu quân đội VNCH, phóng viên nhật báo Sài Gòn Mới, thư ký sở viện trợ Mỹ. Năm 1977 bị Công An Việt Cộng bắt nhốt 2 năm (1977-1979) vì tội gửi một số bài thơ, bài viết sầu buồn ra nước ngoài. Tháng 5/1984 bị bắt lần thứ hai cũng vì tội gửi tác phẩm ra nước ngoài. Lần thứ hai này bị đưa ra tòa, bị án tù 6 năm. Năm 1990 trở về Sàigòn, năm 1994 sang Hoa Kỳ tị nạn, định cư ở Virginia.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_a331d7b2aa5b75570e561c5d263ec4f9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_a331d7b2aa5b75570e561c5d263ec4f9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14451-giua-nhung-nguoi-da-chet-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Giữa Những Người Đã Chết. Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14451-giua-nhung-nguoi-da-chet-thuviensach.vn.mp3?t=4893",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:21:33 Giữa Những Người Đã Chết. Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14451-giua-nhung-nguoi-da-chet-thuviensach.vn.mp3?t=9593",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:39:53 Giữa Những Người Đã Chết. Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14451-giua-nhung-nguoi-da-chet-thuviensach.vn.mp3?t=13749",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:49:09 Giữa Những Người Đã Chết. Tập 04 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14451-giua-nhung-nguoi-da-chet-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Giữa Những Người Đã Chết. Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14451-giua-nhung-nguoi-da-chet-thuviensach.vn.mp3?t=4893",
+    "title" : "01:21:33 Giữa Những Người Đã Chết. Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14451-giua-nhung-nguoi-da-chet-thuviensach.vn.mp3?t=9593",
+    "title" : "02:39:53 Giữa Những Người Đã Chết. Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14451-giua-nhung-nguoi-da-chet-thuviensach.vn.mp3?t=13749",
+    "title" : "03:49:09 Giữa Những Người Đã Chết. Tập 04 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

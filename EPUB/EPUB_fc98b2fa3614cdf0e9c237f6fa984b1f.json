@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doi-ngan-dung-khoc-hay-to-son-14269.html",
+    "title" : "ĐỜI NGẮN, ĐỪNG KHÓC, HÃY TÔ SON",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gari",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Vô vàn những câu hỏi đặt ra dành cho những ai đi bước vào tuổi trẻ. Không còn đơn giản là những câu hỏi ai-cũng-hỏi, chẳng biết tự bao giờ trở thành những quy chuẩn của xã hội áp lên những con người đang sống trong đó. Một khi bạn xác định bạn là ai, bạn không giống đám đông cho rằng “ai cũng như mình” ngoài kia, bạn sẽ không phải tuân theo những quy chuẩn của xã hội để “sống tốt”, mà bạn sẽ “sống hạnh phúc” với những lựa chọn của mình. Khi ấy, mục tiêu “có được bao nhiêu thứ trước tuổi 30”, trong mắt bạn, chỉ là một góc nhìn, không phải là tiêu chuẩn. Khi ấy, hạnh phúc không phải là những gì bạn đạt được, mà là những gì bạn lựa chọn, bởi bạn không giống đám đông. Muốn thật sự hạnh phúc, hãy học cách yêu thương bản thân mình để có thể đi xa trên đường đời. Trước khi có thể lo cho người khác, hãy tự biết cách giải quyết vấn đề của mình. Muốn được đời đối xử tốt, hãy trở thành một người có giá trị, bạn nhé! Đời ngắn lắm, các cô gái à! Đừng khóc, hãy tô son để tiếp tục chiến đấu và sống theo cách của bạn. Cuốn sách này không chỉ dành riêng cho phụ nữ, mà còn dành cho những ai đang khao khát tìm lại vẻ đẹp trong chính tâm hồn mình. Những “triết lý” đời thường truyền cảm hứng cho người đọc biết sống vì mình và chăm sóc tốt cho bản thân.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_fc98b2fa3614cdf0e9c237f6fa984b1f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_fc98b2fa3614cdf0e9c237f6fa984b1f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14269-doi-ngan-dung-khoc-hay-to-son-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Đời Ngắn, Đừng Khóc, Hãy Tô Son - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14269-doi-ngan-dung-khoc-hay-to-son-thuviensach.vn.mp3?t=3052",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:50:52 Đời Ngắn, Đừng Khóc, Hãy Tô Son - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14269-doi-ngan-dung-khoc-hay-to-son-thuviensach.vn.mp3?t=6570",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:49:30 Đời Ngắn, Đừng Khóc, Hãy Tô Son - Phần 3 End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14269-doi-ngan-dung-khoc-hay-to-son-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Đời Ngắn, Đừng Khóc, Hãy Tô Son - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14269-doi-ngan-dung-khoc-hay-to-son-thuviensach.vn.mp3?t=3052",
+    "title" : "00:50:52 Đời Ngắn, Đừng Khóc, Hãy Tô Son - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14269-doi-ngan-dung-khoc-hay-to-son-thuviensach.vn.mp3?t=6570",
+    "title" : "01:49:30 Đời Ngắn, Đừng Khóc, Hãy Tô Son - Phần 3 End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

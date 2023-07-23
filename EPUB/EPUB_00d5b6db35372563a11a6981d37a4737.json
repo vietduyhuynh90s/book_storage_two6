@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-cau-chuyen-ngay-mua-14300.html",
+    "title" : "NHỮNG CÂU CHUYỆN NGÀY MƯA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Naela Ali",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chúng mình. Nắm tay cùng nhau qua bao ngày nắng. Kề vai sát bước vào những ngày mưa. An yên bên nhau đủ bốn mùa xuân hạ thu đông. Vậy mà, giờ đây, bên em, chỉ còn là quá khứ “đã từng”. Đã từng là một điều kỳ diệu. Đã từng đắm say dẫu ngắn ngủi. Em vẫn nhớ những ngày mưa trước, anh nghiêng ô che mưa cho em, để đến nỗi ướt bờ vai áo. Mùa mưa năm nay, bóng hình anh bỗng nhòe đi trong ký ức. Anh vẫn ở đâu đó, nhưng không còn bên cạnh em nữa. Tình cảm này, nỗi nhớ này, đành giấu kỹ trong màn mưa dày đặc. Những câu chuyện ngày mưa là cuốn nhật ký viết bằng cơn mưa ướt đẫm vai áo anh ngày ra đi, như nụ cười ngưng đọng thành từng giọt tí tách trên mi mắt em. Những ngày mưa như thế, em thường tỉ mẩn cần mẫn vá lại những vết cắt trong tim. Vì em sợ, anh ở trong ấy sẽ lại ướt mưa… Chỉ mong rằng, mưa qua, tương lai sẽ là những ngày nắng đẹp!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_00d5b6db35372563a11a6981d37a4737.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_00d5b6db35372563a11a6981d37a4737.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14300-nhung-cau-chuyen-ngay-mua-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Những Câu Chuyện Ngày Mưa - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14300-nhung-cau-chuyen-ngay-mua-thuviensach.vn.mp3?t=5195",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:26:35 Những Câu Chuyện Ngày Mưa - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14300-nhung-cau-chuyen-ngay-mua-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Những Câu Chuyện Ngày Mưa - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14300-nhung-cau-chuyen-ngay-mua-thuviensach.vn.mp3?t=5195",
+    "title" : "01:26:35 Những Câu Chuyện Ngày Mưa - Phần 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

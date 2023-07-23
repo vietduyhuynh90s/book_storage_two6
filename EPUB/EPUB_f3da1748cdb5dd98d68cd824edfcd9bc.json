@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-tang-chi-bo-tap-3-14126.html",
+    "title" : "KINH TĂNG CHI BỘ - TẬP 3",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Minh Châu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Kinh Anguttara Nikàya, dịch là Kinh Tăng Chi Bộ, là bộ thứ tư trong năm bộ kinh tạng Pali: Dìgha Nikàya (Kinh Trường Bộ), Majjhima Nikàya (Kinh Trung Bộ), Samyutta Nikàya (Kinh Tương Ưng Bộ), Anguttara Nikàya (Kinh Tăng Chi Bộ), và Khuddaka Nikàya (Kinh Tiểu Bộ). Bộ kinh nầy được Hòa thượng Thích Minh Châu dịch từ tạng Pali sang Việt ngữ năm 1976-1977, và được Viện Phật Học Vạn Hạnh, Sài Gòn, ấn hành năm 1980-1981. Trong chương trình phiên dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được hiệu đính thành 4 tập và tái bản năm 1996, qua số thứ tự 21, 22, 23, và 24. Kinh Tăng Chi Bộ là một bộ kinh được sắp theo pháp số, từ một pháp đến mười một pháp, phân thành 11 chương (nipàtas). Mỗi chương lại chia thành nhiều phẩm (vaggas). Chương Một Pháp (Ekaka Nipàta) gồm các kinh đề cập đến một pháp. Chương Hai Pháp (Duka Nipàta) gồm các kinh có liên quan đến hai pháp, v.v... và tuần tự như thế đến Chương Mười Một Pháp (Ekàdasaka Nipata) gồm các kinh có đề cập đến 11 pháp. Tổng cộng số kinh được ghi nhận là 2,308 bài kinh, nhưng con số này không thống nhất vì số kinh phân biệt không được rõ ràng, và có học giả tính theo số đoạn, tổng cộng là 7,557. Kinh Tăng Chi Bộ của tạng Pali có bộ chữ Hán tương đương là Kinh Tăng Nhất A-hàm (Ekottara-Agama) do ngài Tăng-già Ðề-bà (Sanghadeva) dịch từ bộ chữ Sanskrit năm 397 TL, trong đời nhà Tiền Tần, và đã được quí ngài Hòa thượng Thích Thiện Siêu và Thích Thanh Từ dịch sang Việt văn (Ðại tạng kinh Việt Nam, số 25, 26, 27).</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_f3da1748cdb5dd98d68cd824edfcd9bc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_f3da1748cdb5dd98d68cd824edfcd9bc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Tập 2 - Chương 5: Phẩm 1-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=1757",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:29:17 Tập 2 - Chương 5: Phẩm Năm Phần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=4023",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:07:03 Tập 2 - Chương 5: Phẩm Sumana",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=5778",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:36:18 Tập 2 - Chương 5: Phẩm Vua Munda",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=8423",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:20:23 Tập 2 - Chương 5: Phẩm Triền Cái - Phẩm Tưởng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=11033",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:03:53 Tập 2 - Chương 5: Phẩm Chiến Sĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=12732",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:32:12 Tập 2 - Chương 5: Phẩm Chiến Sĩ - Tiếp Theo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=15409",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:16:49 Tập 2 - Chương 5: Phẩm Trưởng Lão - Phẩm Kakudha",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=21259",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:54:19 Tập 2 - Chương 5: Phẩm An Trú - Phẩm Andhakavinda",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=19682",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:28:02 Tập 2 - Chương 5: XIII - Phẩm Bịnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=20350",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:39:10 Tập 2 - Chương 5: XIV - Phẩm Vua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=21743",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:02:23 Tập 2 - Chương 5: XIV - Phẩm Vua Tiếp Theo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=22769",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:19:29 Tập 2 - Chương 5: XV - Phẩm Tikandaki",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=24120",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:42:00 Tập 2 - Chương 5: XVI - Phẩm Diệu Pháp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=25692",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:08:12 Tập 2 - Chương 5: XVII Phẩm Hiềm Hận - XVIII - XIX",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=29934",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:18:54 Tập 2 - Chương 5: XX Phẩm Balamon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=31757",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:49:17 Tập 2 - Chương 5: XX Phẩm Balamon (Tiếp Theo) - XXI Phẩm Kimbila",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=33937",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:25:37 Tập 2 - Chương 5: XXI Phẩm Mắng Nhiếc - Phẩm Du Hành Dài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=35187",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:46:27 Tập 2 - Chương 5: XXIV Phẩm Trú Tại Chỗ - XXV Phẩm Ác Hành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=36331",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:05:31 Tập 2 - Chương 5: XXVI Cụ Túc Giới",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Tập 2 - Chương 5: Phẩm 1-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=1757",
+    "title" : "00:29:17 Tập 2 - Chương 5: Phẩm Năm Phần",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=4023",
+    "title" : "01:07:03 Tập 2 - Chương 5: Phẩm Sumana",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=5778",
+    "title" : "01:36:18 Tập 2 - Chương 5: Phẩm Vua Munda",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=8423",
+    "title" : "02:20:23 Tập 2 - Chương 5: Phẩm Triền Cái - Phẩm Tưởng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=11033",
+    "title" : "03:03:53 Tập 2 - Chương 5: Phẩm Chiến Sĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=12732",
+    "title" : "03:32:12 Tập 2 - Chương 5: Phẩm Chiến Sĩ - Tiếp Theo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=15409",
+    "title" : "04:16:49 Tập 2 - Chương 5: Phẩm Trưởng Lão - Phẩm Kakudha",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=21259",
+    "title" : "05:54:19 Tập 2 - Chương 5: Phẩm An Trú - Phẩm Andhakavinda",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=19682",
+    "title" : "05:28:02 Tập 2 - Chương 5: XIII - Phẩm Bịnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=20350",
+    "title" : "05:39:10 Tập 2 - Chương 5: XIV - Phẩm Vua",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=21743",
+    "title" : "06:02:23 Tập 2 - Chương 5: XIV - Phẩm Vua Tiếp Theo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=22769",
+    "title" : "06:19:29 Tập 2 - Chương 5: XV - Phẩm Tikandaki",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=24120",
+    "title" : "06:42:00 Tập 2 - Chương 5: XVI - Phẩm Diệu Pháp",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=25692",
+    "title" : "07:08:12 Tập 2 - Chương 5: XVII Phẩm Hiềm Hận - XVIII - XIX",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=29934",
+    "title" : "08:18:54 Tập 2 - Chương 5: XX Phẩm Balamon",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=31757",
+    "title" : "08:49:17 Tập 2 - Chương 5: XX Phẩm Balamon (Tiếp Theo) - XXI Phẩm Kimbila",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=33937",
+    "title" : "09:25:37 Tập 2 - Chương 5: XXI Phẩm Mắng Nhiếc - Phẩm Du Hành Dài",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=35187",
+    "title" : "09:46:27 Tập 2 - Chương 5: XXIV Phẩm Trú Tại Chỗ - XXV Phẩm Ác Hành",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14126-kinh-tang-chi-bo-tap-3-thuviensach.vn.mp3?t=36331",
+    "title" : "10:05:31 Tập 2 - Chương 5: XXVI Cụ Túc Giới",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

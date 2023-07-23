@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-dong-tien-siet-mau-14471.html",
+    "title" : "NHỮNG ĐỒNG TIỀN SIẾT MÁU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Văn Trương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Năm ấy, tôi hai mươi bảy. Trong sáu năm nay nghĩa là từ ngày tôi từ giã cái nghề công chức và lấy vợ tôi đã sống trong cuộc đời phiêu lưu mà mỗi cuộc mạo hiểm lại làm cho con người của tôi dầy dạn thêm lên một chút. Cũng lại vui đời yêu đời, tin mình, tin người thêm lên một chút nữa. Mỗi lần tôi thắt cái dây lưng đạn trước khi ra đi, vợ tôi lại đặt nhẹ bàn tay lên cái bao súng: - Cẩn thận nhé, mình nhé. Rồi nhìn tôi, nghẹn ngào: - Mình đi độ bao nhiêu lâu hở mình? Tôi hiểu cái nhìn ấy, cho nên tôi không trả lời cái câu nhà tôi hỏi, mà tôi trả lời ngay vào cái chỗ lòng nhà tôi mong ước nhưng không dám nói ra: - Anh đi một lần này nữa thôi. Nhà tôi nắm chặt tay tôi từ từ đặt lên trên ngực: - Đúng nhé, mình nhé. Nhà ta thế này cũng là thừa ăn rồi mà. Tôi tuổi ngựa. Lại có lẽ đẻ vào giờ “thiên sát” cho nên tâm hồn bị hung tinh quấy rối, tôi chỉ có thể quan niệm hạnh phúc ở trên lưng ngựa, và hình dung đã sống trong nhịp nhàng của bốn chiếc vó câu. Các ông bố phương Nam bảo rằng: “Thằng ấy có máu giang hồ”. Mà người phương Tây thì cho là: “Tôi có quỷ sứ trong người”. Còn tôi thì lúc nào tôi cũng giẫy lên như đỉa phải vôi. Tôi mạo hiểm lần đầu có lẽ vì miếng ăn. Tôi không muốn cho cái cô bé ngu dại đã đi yêu thằng con trai ở trong thằng con trai nghèo nhất phải hối hận về sự kén chọn của mình. Lần đầu, tôi mạo hiểm để làm giàu. Nhưng đã giàu rồi, tôi muốn giàu thêm cũng có, tôi thích mạo hiểm cũng có. Một tí khó khăn, một tí vất vả, một tí nguy nan đối với cuộc đời trẻ trung cũng như một tí rượu mạnh đối với cơ thể. Nó quất, nó vụt, nó làm nẩy điện lòng. Nó làm cho ta nhận thấy rằng ta đã sống.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_3fe9c602f281a41a5685b211d1395dd4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_3fe9c602f281a41a5685b211d1395dd4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14471-nhung-dong-tien-siet-mau-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Những Đồng Tiền Siết Máu. Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14471-nhung-dong-tien-siet-mau-thuviensach.vn.mp3?t=6132",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:42:12 Những Đồng Tiền Siết Máu. Tập 02 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14471-nhung-dong-tien-siet-mau-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Những Đồng Tiền Siết Máu. Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14471-nhung-dong-tien-siet-mau-thuviensach.vn.mp3?t=6132",
+    "title" : "01:42:12 Những Đồng Tiền Siết Máu. Tập 02 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

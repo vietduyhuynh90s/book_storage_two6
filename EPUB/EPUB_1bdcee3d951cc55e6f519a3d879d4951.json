@@ -1,0 +1,881 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kiem-dao-doc-ton-phan-2-14190.html",
+    "title" : "KIẾM ĐẠO ĐỘC TÔN - PHẦN 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kiếm Du Thái Hư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chân Linh Đại Lục, hàng ngàn hàng vạn tông môn, cường giả như mây. Một đệ tử đại gia tộc bởi vì một biến cố kỳ dị mà từ người bình thường trở thành thiên tài, không chỉ cảm nhận trở nên nhạy cảm mà khả năng lĩnh ngộ cũng tăng vọt chỉ cần gặp qua là không thể quên, trở thành một tồn tại biến thái. Quyết đấu kịch liệt, nhiệt huyết phun trào, thiên tài đỉnh cấp va chạm, võ học trên thế gian không hề có cực hạn, có thể khiến con người phiên giang đảo hải, thông thiên độn địa. Tất cả đếu có ở Kiếm Đạo Độc Tôn. Phân chia cảnh giới trong Kiếm Đạo Độc Tôn: Luyện Khí Cảnh, Ngưng Chân Cảnh, Bão Nguyên Cảnh, Tinh Cực Cảnh, Linh Hải Cảnh, Sinh Tử Cảnh … updating … Luyện Khí Cảnh chia làm mười tầng, từ tầng một đến tầng mười. Ngưng Chân Cảnh, Bão Nguyên Cảnh, Tinh Cực Cảnh, Linh Hải Cảnh, Sinh Tử Cảnh chia thành sơ kỳ, trung kỳ, hậu kỳ, ở mỗi một tầng thứ đếu có thêm giai đoạn nối tiếp gọi là đỉnh phong.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_1bdcee3d951cc55e6f519a3d879d4951.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_1bdcee3d951cc55e6f519a3d879d4951.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Kiếm Đạo Độc Tôn - Tập 71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=3599",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:59:59 Kiếm Đạo Độc Tôn - Tập 72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=6947",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:55:47 Kiếm Đạo Độc Tôn - Tập 73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=10473",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:54:33 Kiếm Đạo Độc Tôn - Tập 74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=14051",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:54:11 Kiếm Đạo Độc Tôn - Tập 75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=17411",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:50:11 Kiếm Đạo Độc Tôn - Tập 76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=20721",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:45:21 Kiếm Đạo Độc Tôn - Tập 77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=24272",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:44:32 Kiếm Đạo Độc Tôn - Tập 78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=27678",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:41:18 Kiếm Đạo Độc Tôn - Tập 79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=31277",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:41:17 Kiếm Đạo Độc Tôn - Tập 80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=34718",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:38:38 Kiếm Đạo Độc Tôn - Tập 81",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=38053",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:34:13 Kiếm Đạo Độc Tôn - Tập 82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=41574",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:32:54 Kiếm Đạo Độc Tôn - Tập 83",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=45107",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:31:47 Kiếm Đạo Độc Tôn - Tập 84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=48356",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:25:56 Kiếm Đạo Độc Tôn - Tập 85",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=51798",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:23:18 Kiếm Đạo Độc Tôn - Tập 86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=55126",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:18:46 Kiếm Đạo Độc Tôn - Tập 87",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=58608",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:16:48 Kiếm Đạo Độc Tôn - Tập 88",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=62205",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:16:45 Kiếm Đạo Độc Tôn - Tập 89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=65778",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:16:18 Kiếm Đạo Độc Tôn - Tập 90",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=69185",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:13:05 Kiếm Đạo Độc Tôn - Tập 91",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=72747",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:12:27 Kiếm Đạo Độc Tôn - Tập 92",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=76125",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:08:45 Kiếm Đạo Độc Tôn - Tập 93",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=79570",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:06:10 Kiếm Đạo Độc Tôn - Tập 94",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=82930",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:02:10 Kiếm Đạo Độc Tôn - Tập 95",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=86424",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:00:24 Kiếm Đạo Độc Tôn - Tập 96",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=89782",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:56:22 Kiếm Đạo Độc Tôn - Tập 97",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=93246",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:54:06 Kiếm Đạo Độc Tôn - Tập 98",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=96554",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "26:49:14 Kiếm Đạo Độc Tôn - Tập 99",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=100135",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "27:48:55 Kiếm Đạo Độc Tôn - Tập 100",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=103538",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "28:45:38 Kiếm Đạo Độc Tôn - Tập 101",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=107068",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "29:44:28 Kiếm Đạo Độc Tôn - Tập 102",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=110582",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "30:43:02 Kiếm Đạo Độc Tôn - Tập 103",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=114101",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "31:41:41 Kiếm Đạo Độc Tôn - Tập 104",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=117639",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "32:40:39 Kiếm Đạo Độc Tôn - Tập 105",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=121187",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "33:39:47 Kiếm Đạo Độc Tôn - Tập 106",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=124688",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:38:08 Kiếm Đạo Độc Tôn - Tập 107",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=128256",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "35:37:36 Kiếm Đạo Độc Tôn - Tập 108",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=131686",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "36:34:46 Kiếm Đạo Độc Tôn - Tập 109",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=135188",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "37:33:08 Kiếm Đạo Độc Tôn - Tập 110",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=138718",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "38:31:58 Kiếm Đạo Độc Tôn - Tập 111",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=142159",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "39:29:19 Kiếm Đạo Độc Tôn - Tập 112",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=145691",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "40:28:11 Kiếm Đạo Độc Tôn - Tập 113",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=149142",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "41:25:42 Kiếm Đạo Độc Tôn - Tập 114",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=152738",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "42:25:38 Kiếm Đạo Độc Tôn - Tập 115",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=156193",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "43:23:13 Kiếm Đạo Độc Tôn - Tập 116",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=159770",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "44:22:50 Kiếm Đạo Độc Tôn - Tập 117",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=163366",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "45:22:46 Kiếm Đạo Độc Tôn - Tập 118",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=166844",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "46:20:44 Kiếm Đạo Độc Tôn - Tập 119",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=170246",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "47:17:26 Kiếm Đạo Độc Tôn - Tập 120",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=173687",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "48:14:47 Kiếm Đạo Độc Tôn - Tập 121",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=177089",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "49:11:29 Kiếm Đạo Độc Tôn - Tập 122",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=180668",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "50:11:08 Kiếm Đạo Độc Tôn - Tập 123",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=184176",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "51:09:36 Kiếm Đạo Độc Tôn - Tập 124",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=187772",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "52:09:32 Kiếm Đạo Độc Tôn - Tập 125",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=191167",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "53:06:07 Kiếm Đạo Độc Tôn - Tập 126",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=194538",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "54:02:18 Kiếm Đạo Độc Tôn - Tập 127",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=197961",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "54:59:21 Kiếm Đạo Độc Tôn - Tập 128",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=201429",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "55:57:09 Kiếm Đạo Độc Tôn - Tập 129",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=204895",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "56:54:55 Kiếm Đạo Độc Tôn - Tập 130",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=208429",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "57:53:49 Kiếm Đạo Độc Tôn - Tập 131",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=211917",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "58:51:57 Kiếm Đạo Độc Tôn - Tập 132",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=215459",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "59:50:59 Kiếm Đạo Độc Tôn - Tập 133",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=218986",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "60:49:46 Kiếm Đạo Độc Tôn - Tập 134",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=222512",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "61:48:32 Kiếm Đạo Độc Tôn - Tập 135",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=225958",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "62:45:58 Kiếm Đạo Độc Tôn - Tập 136",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=229425",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "63:43:45 Kiếm Đạo Độc Tôn - Tập 137",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=233014",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "64:43:34 Kiếm Đạo Độc Tôn - Tập 138",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=236559",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "65:42:39 Kiếm Đạo Độc Tôn - Tập 139",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=239896",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "66:38:16 Kiếm Đạo Độc Tôn - Tập 140",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Kiếm Đạo Độc Tôn - Tập 71",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=3599",
+    "title" : "00:59:59 Kiếm Đạo Độc Tôn - Tập 72",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=6947",
+    "title" : "01:55:47 Kiếm Đạo Độc Tôn - Tập 73",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=10473",
+    "title" : "02:54:33 Kiếm Đạo Độc Tôn - Tập 74",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=14051",
+    "title" : "03:54:11 Kiếm Đạo Độc Tôn - Tập 75",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=17411",
+    "title" : "04:50:11 Kiếm Đạo Độc Tôn - Tập 76",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=20721",
+    "title" : "05:45:21 Kiếm Đạo Độc Tôn - Tập 77",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=24272",
+    "title" : "06:44:32 Kiếm Đạo Độc Tôn - Tập 78",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=27678",
+    "title" : "07:41:18 Kiếm Đạo Độc Tôn - Tập 79",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=31277",
+    "title" : "08:41:17 Kiếm Đạo Độc Tôn - Tập 80",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=34718",
+    "title" : "09:38:38 Kiếm Đạo Độc Tôn - Tập 81",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=38053",
+    "title" : "10:34:13 Kiếm Đạo Độc Tôn - Tập 82",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=41574",
+    "title" : "11:32:54 Kiếm Đạo Độc Tôn - Tập 83",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=45107",
+    "title" : "12:31:47 Kiếm Đạo Độc Tôn - Tập 84",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=48356",
+    "title" : "13:25:56 Kiếm Đạo Độc Tôn - Tập 85",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=51798",
+    "title" : "14:23:18 Kiếm Đạo Độc Tôn - Tập 86",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=55126",
+    "title" : "15:18:46 Kiếm Đạo Độc Tôn - Tập 87",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=58608",
+    "title" : "16:16:48 Kiếm Đạo Độc Tôn - Tập 88",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=62205",
+    "title" : "17:16:45 Kiếm Đạo Độc Tôn - Tập 89",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=65778",
+    "title" : "18:16:18 Kiếm Đạo Độc Tôn - Tập 90",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=69185",
+    "title" : "19:13:05 Kiếm Đạo Độc Tôn - Tập 91",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=72747",
+    "title" : "20:12:27 Kiếm Đạo Độc Tôn - Tập 92",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=76125",
+    "title" : "21:08:45 Kiếm Đạo Độc Tôn - Tập 93",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=79570",
+    "title" : "22:06:10 Kiếm Đạo Độc Tôn - Tập 94",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=82930",
+    "title" : "23:02:10 Kiếm Đạo Độc Tôn - Tập 95",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=86424",
+    "title" : "24:00:24 Kiếm Đạo Độc Tôn - Tập 96",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=89782",
+    "title" : "24:56:22 Kiếm Đạo Độc Tôn - Tập 97",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=93246",
+    "title" : "25:54:06 Kiếm Đạo Độc Tôn - Tập 98",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=96554",
+    "title" : "26:49:14 Kiếm Đạo Độc Tôn - Tập 99",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=100135",
+    "title" : "27:48:55 Kiếm Đạo Độc Tôn - Tập 100",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=103538",
+    "title" : "28:45:38 Kiếm Đạo Độc Tôn - Tập 101",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=107068",
+    "title" : "29:44:28 Kiếm Đạo Độc Tôn - Tập 102",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=110582",
+    "title" : "30:43:02 Kiếm Đạo Độc Tôn - Tập 103",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=114101",
+    "title" : "31:41:41 Kiếm Đạo Độc Tôn - Tập 104",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=117639",
+    "title" : "32:40:39 Kiếm Đạo Độc Tôn - Tập 105",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=121187",
+    "title" : "33:39:47 Kiếm Đạo Độc Tôn - Tập 106",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=124688",
+    "title" : "34:38:08 Kiếm Đạo Độc Tôn - Tập 107",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=128256",
+    "title" : "35:37:36 Kiếm Đạo Độc Tôn - Tập 108",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=131686",
+    "title" : "36:34:46 Kiếm Đạo Độc Tôn - Tập 109",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=135188",
+    "title" : "37:33:08 Kiếm Đạo Độc Tôn - Tập 110",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=138718",
+    "title" : "38:31:58 Kiếm Đạo Độc Tôn - Tập 111",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=142159",
+    "title" : "39:29:19 Kiếm Đạo Độc Tôn - Tập 112",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=145691",
+    "title" : "40:28:11 Kiếm Đạo Độc Tôn - Tập 113",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=149142",
+    "title" : "41:25:42 Kiếm Đạo Độc Tôn - Tập 114",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=152738",
+    "title" : "42:25:38 Kiếm Đạo Độc Tôn - Tập 115",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=156193",
+    "title" : "43:23:13 Kiếm Đạo Độc Tôn - Tập 116",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=159770",
+    "title" : "44:22:50 Kiếm Đạo Độc Tôn - Tập 117",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=163366",
+    "title" : "45:22:46 Kiếm Đạo Độc Tôn - Tập 118",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=166844",
+    "title" : "46:20:44 Kiếm Đạo Độc Tôn - Tập 119",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=170246",
+    "title" : "47:17:26 Kiếm Đạo Độc Tôn - Tập 120",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=173687",
+    "title" : "48:14:47 Kiếm Đạo Độc Tôn - Tập 121",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=177089",
+    "title" : "49:11:29 Kiếm Đạo Độc Tôn - Tập 122",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=180668",
+    "title" : "50:11:08 Kiếm Đạo Độc Tôn - Tập 123",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=184176",
+    "title" : "51:09:36 Kiếm Đạo Độc Tôn - Tập 124",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=187772",
+    "title" : "52:09:32 Kiếm Đạo Độc Tôn - Tập 125",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=191167",
+    "title" : "53:06:07 Kiếm Đạo Độc Tôn - Tập 126",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=194538",
+    "title" : "54:02:18 Kiếm Đạo Độc Tôn - Tập 127",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=197961",
+    "title" : "54:59:21 Kiếm Đạo Độc Tôn - Tập 128",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=201429",
+    "title" : "55:57:09 Kiếm Đạo Độc Tôn - Tập 129",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=204895",
+    "title" : "56:54:55 Kiếm Đạo Độc Tôn - Tập 130",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=208429",
+    "title" : "57:53:49 Kiếm Đạo Độc Tôn - Tập 131",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=211917",
+    "title" : "58:51:57 Kiếm Đạo Độc Tôn - Tập 132",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=215459",
+    "title" : "59:50:59 Kiếm Đạo Độc Tôn - Tập 133",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=218986",
+    "title" : "60:49:46 Kiếm Đạo Độc Tôn - Tập 134",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=222512",
+    "title" : "61:48:32 Kiếm Đạo Độc Tôn - Tập 135",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=225958",
+    "title" : "62:45:58 Kiếm Đạo Độc Tôn - Tập 136",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=229425",
+    "title" : "63:43:45 Kiếm Đạo Độc Tôn - Tập 137",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=233014",
+    "title" : "64:43:34 Kiếm Đạo Độc Tôn - Tập 138",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=236559",
+    "title" : "65:42:39 Kiếm Đạo Độc Tôn - Tập 139",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14190-kiem-dao-doc-ton-phan-2-thuviensach.vn.mp3?t=239896",
+    "title" : "66:38:16 Kiếm Đạo Độc Tôn - Tập 140",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

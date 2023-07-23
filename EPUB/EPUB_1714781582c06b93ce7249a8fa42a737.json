@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/duoi-bong-dua-xanh-14445.html",
+    "title" : "DƯỚI BÓNG DỪA XANH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Xuân Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tiểu sử: Nhà văn Xuân Vũ, sinh quán tại Mỏ Cày, Bến Tre, ngày 19 tháng 3 năm 1930, lớn lên trong một gia đình nông dân từng học tại trường Collège Mỹ Tho. Ông theo chân cậu ruột, một nhà trí thức đi kháng chiến chống Pháp lúc 15 tuổi. Được nhà thơ Tâm Điền tức nhà thơ vàng Xuân Tước cố vấn lúc ban đầu, ông Xuân Vũ đã đăng bài thơ đầu tiên lên báo ở Hà Nội năm 1947. Năm 1950 ông làm cho báo &quot;Tiếng Súng Kháng Địch&quot; của khu 9 và tập kết ra Bắc vào năm 1954 sau hiệp định Genève. Ông tham gia hội nhà văn (cùng khóa với Phùng Cung (có bài viết là Phùng Quán [Thực ra Phùng Cung và Phùng Quán là hai người khác nhau. Phùng Cung là tác giả &quot;Con ngựa của chúa Trịnh&quot;, còn Phùng Quán là tác giả &quot;Tuổi thơ dữ dội&quot;. Sau đó ông làm việc cho Nhật báo Tiền Tuyến, và Ðài Mẹ Việt Nam trực thuộc Tòa Ðại Sứ Hoa Kỳ tại Sài Gòn. Xuân Vũ được trao Giải thưởng Văn Chương Toàn Quốc năm 1973 với tác phẩm Ðường Ði Không Ðến, tập hồi ký vượt Trường Sơn. Tỵ nạn sang Hoa Kỳ 1975, ông tiếp tục viết văn đến khi qua đời. Các tác phẩm gồm có hồi ký, truyện ngắn, truyện dài, truyện phim... Tổng cộng đến 90 cuốn. Ông qua đời ngày 1 tháng 1 năm 2004 tại San Antonio, Texas.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_1714781582c06b93ce7249a8fa42a737.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_1714781582c06b93ce7249a8fa42a737.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14445-duoi-bong-dua-xanh-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Dưới Bóng Dừa Xanh. Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14445-duoi-bong-dua-xanh-thuviensach.vn.mp3?t=2814",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:46:54 Dưới Bóng Dừa Xanh. Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14445-duoi-bong-dua-xanh-thuviensach.vn.mp3?t=6966",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:56:06 Dưới Bóng Dừa Xanh. Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14445-duoi-bong-dua-xanh-thuviensach.vn.mp3?t=10173",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:49:33 Dưới Bóng Dừa Xanh. Tập 04 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14445-duoi-bong-dua-xanh-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Dưới Bóng Dừa Xanh. Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14445-duoi-bong-dua-xanh-thuviensach.vn.mp3?t=2814",
+    "title" : "00:46:54 Dưới Bóng Dừa Xanh. Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14445-duoi-bong-dua-xanh-thuviensach.vn.mp3?t=6966",
+    "title" : "01:56:06 Dưới Bóng Dừa Xanh. Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14445-duoi-bong-dua-xanh-thuviensach.vn.mp3?t=10173",
+    "title" : "02:49:33 Dưới Bóng Dừa Xanh. Tập 04 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

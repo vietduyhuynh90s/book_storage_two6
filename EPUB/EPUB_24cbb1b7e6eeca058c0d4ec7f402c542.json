@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hon-trom-55-lan-14416.html",
+    "title" : "HÔN TRỘM 55 LẦN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diệp Phi Dạ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lục Cẩn Niên và An Hảo kết hôn trong sự ép buộc của gia đình hai bên. An Hảo cho rằng ban đầu họ sẽ hờ hững với nhau nhưng tình cảm sẽ ngày càng quấn quýt. Vào đêm tân hôn, cô vừa mở miệng liền tuôn một tràng &quot;3 KHÔNG&quot; với anh: - Không được chạm vào tôi ở nơi công cộng! - Không được nói tôi là vợ của anh! - Không được cho người khác biết chúng ta sống cùng với nhau! Lục Cẩn Niên mặt không biểu tình nhìn cô, nháy mắt một cái. - Không được chạm vào cô ấy ở nơi công cộng thì hắn có có thể vuốt ve trước mặt bao người. - Không cho nói là cô ấy là vợ của hắn thì hắn có thể nói hắn là ông xã của cô ấy. - Về điều cuối cùng... Trong một cuộc phỏng vấn, hắn nói “Ngày nào tôi cũng ngủ cùng với An Hảo”.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_24cbb1b7e6eeca058c0d4ec7f402c542.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_24cbb1b7e6eeca058c0d4ec7f402c542.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14416-hon-trom-55-lan-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Hôn Trộm 55 Lần - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14416-hon-trom-55-lan-thuviensach.vn.mp3?t=36175",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:02:55 Hôn Trộm 55 Lần - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14416-hon-trom-55-lan-thuviensach.vn.mp3?t=74907",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:48:27 Hôn Trộm 55 Lần - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14416-hon-trom-55-lan-thuviensach.vn.mp3?t=110003",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "30:33:23 Hôn Trộm 55 Lần - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14416-hon-trom-55-lan-thuviensach.vn.mp3?t=145418",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "40:23:38 Hôn Trộm 55 Lần - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14416-hon-trom-55-lan-thuviensach.vn.mp3?t=181022",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "50:17:02 Hôn Trộm 55 Lần - Phần Cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14416-hon-trom-55-lan-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Hôn Trộm 55 Lần - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14416-hon-trom-55-lan-thuviensach.vn.mp3?t=36175",
+    "title" : "10:02:55 Hôn Trộm 55 Lần - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14416-hon-trom-55-lan-thuviensach.vn.mp3?t=74907",
+    "title" : "20:48:27 Hôn Trộm 55 Lần - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14416-hon-trom-55-lan-thuviensach.vn.mp3?t=110003",
+    "title" : "30:33:23 Hôn Trộm 55 Lần - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14416-hon-trom-55-lan-thuviensach.vn.mp3?t=145418",
+    "title" : "40:23:38 Hôn Trộm 55 Lần - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14416-hon-trom-55-lan-thuviensach.vn.mp3?t=181022",
+    "title" : "50:17:02 Hôn Trộm 55 Lần - Phần Cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
