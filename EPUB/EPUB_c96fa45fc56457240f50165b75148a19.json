@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhi-gia-nha-ta-11394.html",
+    "title" : "NHỊ GIA NHÀ TA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Twentine",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>— ngươi nói trên đời này thứ gì là đáng quý nhất? — núi vàng núi bạc. — không đúng. — vậy đó là gì? — là lãng tử quay đầu. *** Truyện ngắn, thầm mến, não tàn, tiểu bạch (theo lời tác giả) =]] Nữ chính giả ngốc, ứ não tàn, cảm động và HE (theo lời editor) ^^ Tin ai cũng được, bạn đọc đi rồi sẽ biết:3 *** Thế nhưng ta lại nói với hắn: “Nhị gia, ta không thể ở lại được.” Tay Nhị gia vẫn che trên mắt, nghe xong lời ta nói, hắn không mở miệng, cũng không buông tay ra. Ta nói tiếp: “Nhị gia, ngài nên đem những điều cần phân phó nói với quản gia cả đi, nếu không sợ rằng ông ấy không thể hầu hạ ngài chu toàn được.” Nhị gia vẫn không động đậy. Ta liền tự mình làm chủ, gọi quản gia vào, quản gia nắm tay, đứng ở một bên. Ta nói với ông ấy: “Quản gia, những điều ta sắp nói xin ông nhớ kỹ một chút.” Quản gia gật đầu bảo được, “Cô nương muốn nói gì?” Ta nói: “Chân Nhị gia đã đỡn hơn nhiều rồi, thế nhưng khi vào ngày mưa dầm sẽ thường xuyên bị đau, ông nên chuẩn bị khăn ấm trước để đắp lên. Có một tiệm thuốc bắc, tên là ‘Hồi Xuân đường’, mặc dù chỉ là hiệu thuốc nhỏ, nhưng lang trung ở đó có tay nghề rất tốt, hơn nữa mấy năm nay vẫn là người chăm sóc chân cho Nhị gia, có vấn đề gì có thể đi tìm ông ấy.”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_c96fa45fc56457240f50165b75148a19.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_c96fa45fc56457240f50165b75148a19.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/11394-nhi-gia-nha-ta-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Nhị Gia Nhà Ta - Twentine - Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/11394-nhi-gia-nha-ta-thuviensach.vn.mp3?t=2367",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:39:27 Nhị Gia Nhà Ta - Twentine - Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/11394-nhi-gia-nha-ta-thuviensach.vn.mp3?t=4482",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:14:42 Nhị Gia Nhà Ta - Twentine - Tập 3 End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/11394-nhi-gia-nha-ta-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Nhị Gia Nhà Ta - Twentine - Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/11394-nhi-gia-nha-ta-thuviensach.vn.mp3?t=2367",
+    "title" : "00:39:27 Nhị Gia Nhà Ta - Twentine - Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/11394-nhi-gia-nha-ta-thuviensach.vn.mp3?t=4482",
+    "title" : "01:14:42 Nhị Gia Nhà Ta - Twentine - Tập 3 End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

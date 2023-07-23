@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mai-tang-tuoi-18-3515.html",
+    "title" : "MAI TÁNG TUỔI 18",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kỳ Thanh Nguyệt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Truyện Mai Táng Tuổi 18 của tác giả Kỳ Thanh Nguyệt kể về việc nắm giữ tình yêu thầm lặng như thế nào. Như thả diều, đôi khi chúng ta cho rằng mình đang kiểm soát được tình cảm của mình, nhưng thật ra, đôi khi lại khó điều khiển. Tác giả họa tình yêu thầm lặng như thế nào đến mức đau đớn, xé lòng của nhân vật chính. Dù biết rõ tình yêu này không nên, tuy nhiên, hy vọng vẫn còn luôn được ôm trọn trong lòng. Cho đến khi một ngày đẹp trời, người ấy bất ngờ thổ lộ tình cảm, tất cả những mong mỏi từ trước đó trở thành hiện thực. Tình yêu không còn là sự thầm lặng, mà trở thành cái gì đó có thật, làm tan chảy trái tim của nhân vật chính.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_fbb0d491773133a31e306e4ae3114892.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_fbb0d491773133a31e306e4ae3114892.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/3515-mai-tang-tuoi-18-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Mai Táng Tuổi 18 - Chương 1,2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3515-mai-tang-tuoi-18-thuviensach.vn.mp3?t=1445",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:24:05 Mai Táng Tuổi 18 - Chương 3,4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3515-mai-tang-tuoi-18-thuviensach.vn.mp3?t=2809",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:46:49 Mai Táng Tuổi 18 - Chương 5,6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3515-mai-tang-tuoi-18-thuviensach.vn.mp3?t=4025",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:07:05 Mai Táng Tuổi 18 - Chương 7,8,9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3515-mai-tang-tuoi-18-thuviensach.vn.mp3?t=5885",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:38:05 Mai Táng Tuổi 18 - Chương 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3515-mai-tang-tuoi-18-thuviensach.vn.mp3?t=6775",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:52:55 Mai Táng Tuổi 18 - Phiên Ngoại",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/3515-mai-tang-tuoi-18-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Mai Táng Tuổi 18 - Chương 1,2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3515-mai-tang-tuoi-18-thuviensach.vn.mp3?t=1445",
+    "title" : "00:24:05 Mai Táng Tuổi 18 - Chương 3,4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3515-mai-tang-tuoi-18-thuviensach.vn.mp3?t=2809",
+    "title" : "00:46:49 Mai Táng Tuổi 18 - Chương 5,6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3515-mai-tang-tuoi-18-thuviensach.vn.mp3?t=4025",
+    "title" : "01:07:05 Mai Táng Tuổi 18 - Chương 7,8,9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3515-mai-tang-tuoi-18-thuviensach.vn.mp3?t=5885",
+    "title" : "01:38:05 Mai Táng Tuổi 18 - Chương 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3515-mai-tang-tuoi-18-thuviensach.vn.mp3?t=6775",
+    "title" : "01:52:55 Mai Táng Tuổi 18 - Phiên Ngoại",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/minh-la-nang-viec-cua-minh-la-choi-chang-4908.html",
+    "title" : "MÌNH LÀ NẮNG, VIỆC CỦA MÌNH LÀ CHÓI CHANG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kazuko Watanabe",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Ước gì con tôi đỗ vào trường đó.” “Ước gì tôi khỏi bệnh.” “Ước gì mình xin được vào công ty ấy.” Chúng ta ai cũng cầu mong những điều tương tự như vậy. Thế nhưng, trên đời này, có biết bao nhiêu điều ước không trở thành sự thực: con bạn thi trượt, bệnh tình không thuyên giảm và bạn cũng không thể xin vào công ty mình muốn. Chính những lúc như thế, nhiều người đã tự hỏi “Liệu Đức Chúa hay Đức Phật có thật trên đời không?” Trên thực tế, tuy “cầu nguyện, tìm kiếm, gõ cửa hạnh phúc” là những việc rất quan trọng nhưng luôn giữ “lòng biết ơn”, khiêm nhường khi những ước nguyện được đáp ứng còn quan trọng hơn. Nếu bạn chỉ biết mong mỏi, chỉ biết ước ao, thì khi điều ước không trở thành sự thật hay khi bạn không thấy được những điều bạn luôn tìm kiếm, bạn sẽ càng buồn và thất vọng hơn. Thế nhưng thực ra, chính những nỗi buồn và tuyệt vọng đó lại khiến con người ta trở nên trưởng thành hơn. Rồi đến một ngày, nhất định chúng ta sẽ nhận ra “điều thực sự quan trọng” và “điều chúng ta thực sự cần”. Dù trong hoàn cảnh nào, vẫn hãy mỉm cười.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_4262fe6b71a3c9815d7d59dacd57fe6f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_4262fe6b71a3c9815d7d59dacd57fe6f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/4908-minh-la-nang-viec-cua-minh-la-choi-chang-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Làm Thế Nào Để Sống Trọn Vẹn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/4908-minh-la-nang-viec-cua-minh-la-choi-chang-thuviensach.vn.mp3?t=959",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:15:59 Nuôi Dưỡng Một Con Người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/4908-minh-la-nang-viec-cua-minh-la-choi-chang-thuviensach.vn.mp3?t=1779",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:29:39 Khi Điều Ước Thành Sự Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/4908-minh-la-nang-viec-cua-minh-la-choi-chang-thuviensach.vn.mp3?t=2612",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:43:32 Những Điều Mẹ Teresa Đã Dạy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/4908-minh-la-nang-viec-cua-minh-la-choi-chang-thuviensach.vn.mp3?t=3649",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:00:49 Bí Quyết Sống Đẹp # Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/4908-minh-la-nang-viec-cua-minh-la-choi-chang-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Làm Thế Nào Để Sống Trọn Vẹn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/4908-minh-la-nang-viec-cua-minh-la-choi-chang-thuviensach.vn.mp3?t=959",
+    "title" : "00:15:59 Nuôi Dưỡng Một Con Người",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/4908-minh-la-nang-viec-cua-minh-la-choi-chang-thuviensach.vn.mp3?t=1779",
+    "title" : "00:29:39 Khi Điều Ước Thành Sự Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/4908-minh-la-nang-viec-cua-minh-la-choi-chang-thuviensach.vn.mp3?t=2612",
+    "title" : "00:43:32 Những Điều Mẹ Teresa Đã Dạy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/4908-minh-la-nang-viec-cua-minh-la-choi-chang-thuviensach.vn.mp3?t=3649",
+    "title" : "01:00:49 Bí Quyết Sống Đẹp # Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
