@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=WUnhFrhxzrY",
+    "title" : "Tôi Đang Sống Cuộc Đời Tuyệt Vời Nhất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hanfu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<div>     <div>         <div>             <div>&ldquo;T&ocirc;i đang sống cuộc đời tuyệt vời nhất&rdquo; của Hanfu l&agrave; h&agrave;nh tr&igrave;nh tỉnh thức v&agrave; học y&ecirc;u bản th&acirc;n đ&uacute;ng c&aacute;ch của một c&ocirc; g&aacute;i từng mang trong m&igrave;nh nhiều tổn thương chưa được chữa l&agrave;nh.<br>Với những mẩu chuyện nhỏ nằm trong 4 phần ch&iacute;nh của cuốn s&aacute;ch (lặn s&acirc;u, lực đẩy, nổi l&ecirc;n v&agrave; trong d&ograve;ng chảy), mỗi phần sẽ đưa bạn đi theo từng chặng h&agrave;nh tr&igrave;nh quay trở về b&ecirc;n trong để c&ugrave;ng đối thoại, gỡ rối, tha thứ v&agrave; t&aacute;i sinh cho những &ldquo;vết nứt&rdquo; của bạn.<br>C&oacute; thể h&agrave;nh tr&igrave;nh n&agrave;y sẽ c&oacute; kh&oacute; khăn v&igrave; ch&uacute;ng ta phải đối mặt với những phần tối b&ecirc;n trong m&igrave;nh v&agrave; gặp lại những tổn thương xưa cũ. Nhưng với những chia sẻ qua đ&uacute;c kết của Hanfu về c&aacute;ch kết nối với Vũ trụ, kết nối với Higher self, c&acirc;n bằng t&iacute;nh nam v&agrave; t&iacute;nh nữ&hellip; sẽ gi&uacute;p bạn c&oacute; c&oacute; thể bắt đầu v&agrave; ki&ecirc;n tr&igrave; với h&agrave;nh tr&igrave;nh chữa l&agrave;nh cho tới khi c&oacute; kết quả tốt đẹp.<br>Tr&ecirc;n chặng đường n&agrave;y, Hanfu muốn nhắn nhủ với bạn rằng:<br>- Hạnh ph&uacute;c kh&ocirc;ng phải l&agrave; một đ&iacute;ch đến m&agrave; l&agrave; một h&agrave;nh tr&igrave;nh.<br>- H&atilde;y bu&ocirc;ng bỏ những g&igrave; thuộc về qu&aacute; khứ, to&agrave;n t&acirc;m to&agrave;n &yacute; ch&uacute;c ph&uacute;c l&agrave;nh cho nhau với tất cả l&ograve;ng biết ơn.<br>- Đừng trốn tr&aacute;nh b&oacute;ng tối khi bạn buộc phải bước qua n&oacute; để tiến về ph&iacute;a &aacute;nh s&aacute;ng. Sau chừng ấy thời gian, b&agrave;i học lớn nhất vẫn l&agrave; th&agrave;nh thật với bản th&acirc;n.<br>Mong rằng &ldquo;T&ocirc;i đang sống cuộc đời tuyệt vời nhất&rdquo; c&oacute; thể xoa dịu một v&agrave;i vết thương cũ, để n&oacute; được trở th&agrave;nh một người bạn kiệm lời, gửi lời an ủi đến bạn theo c&aacute;ch dịu d&agrave;ng nhất, để bạn c&oacute; th&ecirc;m động lực, mỗi khi cần sự động vi&ecirc;n c&oacute; thể t&ugrave;y &yacute; lật ra một trang s&aacute;ch bất kỳ v&agrave; được tiếp th&ecirc;m lửa để tiếp tục cuộc h&agrave;nh tr&igrave;nh của ri&ecirc;ng m&igrave;nh.</div>         </div>     </div> </div> <div>     <div>         <div>             <div><br></div>         </div>     </div> </div>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 10929,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_4f239e0e5a5645736f4644e24baea17a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_4f239e0e5a5645736f4644e24baea17a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_4f239e0e5a5645736f4644e24baea17a_e538b62bf7b1096e5e9c25a032389c01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_4f239e0e5a5645736f4644e24baea17a_06147eb4fe8e356154c487155ebfece1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_4f239e0e5a5645736f4644e24baea17a_2e3bcc6838ec8f7ecd13dbfde5c46fca_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_4f239e0e5a5645736f4644e24baea17a_2e3bcc6838ec8f7ecd13dbfde5c46fca_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 3 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_4f239e0e5a5645736f4644e24baea17a_e538b62bf7b1096e5e9c25a032389c01.mp3",
+    "title" : "Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_4f239e0e5a5645736f4644e24baea17a_06147eb4fe8e356154c487155ebfece1.mp3",
+    "title" : "Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_4f239e0e5a5645736f4644e24baea17a_2e3bcc6838ec8f7ecd13dbfde5c46fca_1.mp3",
+    "title" : "Phần 3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_4f239e0e5a5645736f4644e24baea17a_2e3bcc6838ec8f7ecd13dbfde5c46fca_2.mp3",
+    "title" : "Phần 3 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
