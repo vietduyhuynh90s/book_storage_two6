@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=oXGhkL1iHuU",
+    "title" : "[Short] Kỹ Năng Giao Tiếp Đỉnh Cao (Thư viện tỉnh Tây Ninh)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lý Tử Quyên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<div>     <div>         <div>             <div>                 <div>                     <div>                         <div>                             <p><strong>Kỹ Năng Giao Tiếp Đỉnh Cao:</strong></p>                             <p>&radic; Lắng nghe đ&uacute;ng c&aacute;ch</p>                             <p>&radic; Đ&agrave;m ph&aacute;n hiệu quả</p>                             <p>&radic; Từ chối kh&ocirc;ng mất l&ograve;ng</p>                             <p>&radic; Cải thiện mối quan hệ</p>                             <p>&radic; Những đ&ograve;n t&acirc;m l&yacute; trong thuyết phục</p>                             <p>&radic; N&oacute;i để được t&ocirc;n trọng</p>                             <p>Ngạn ngữ xưa c&oacute; c&acirc;u &ldquo;Học ăn, học n&oacute;i, học g&oacute;i, học mở&rdquo; đ&atilde; chỉ ra sự quan trọng của việc ăn n&oacute;i.</p>                             <p>Từ xưa đến nay, con người giao tiếp kh&ocirc;ng đơn thuần chỉ để truyền đạt những điều trong t&acirc;m tư m&agrave; n&oacute; c&ograve;n l&agrave; phương thức để người thấu hiểu người trong t&igrave;nh cảm, để thăng tiến trong sự nghiệp v&agrave; để tỏ r&otilde; sự hiểu biết của m&igrave;nh với thế giới b&ecirc;n ngo&agrave;i.</p>                             <p>Biết im lặng đ&uacute;ng l&uacute;c cũng l&agrave; một c&aacute;ch giao tiếp th&ocirc;ng minh, biết n&oacute;i đ&uacute;ng đủ để đem lại hiệu quả m&agrave; người n&oacute;i muốn l&agrave; điều ai cũng mong đạt được. Tất cả những kỹ năng được g&oacute;i gọn trong &ldquo;Giao tiếp đỉnh cao&rdquo;- cuốn s&aacute;ch gi&uacute;p bạn trở th&agrave;nh người l&agrave;m chủ được khả năng giao tiếp, mở rộng mối quan hệ v&agrave; đạt được th&agrave;nh c&ocirc;ng.</p>                             <p>Gi&aacute; sản phẩm tr&ecirc;n Tiki đ&atilde; bao gồm thuế theo luật hiện h&agrave;nh. B&ecirc;n cạnh đ&oacute;, tuỳ v&agrave;o loại sản phẩm, h&igrave;nh thức v&agrave; địa chỉ giao h&agrave;ng m&agrave; c&oacute; thể ph&aacute;t sinh th&ecirc;m chi ph&iacute; kh&aacute;c như ph&iacute; vận chuyển, phụ ph&iacute; h&agrave;ng cồng kềnh, thuế nhập khẩu (đối với đơn h&agrave;ng giao từ nước ngo&agrave;i c&oacute; gi&aacute; trị tr&ecirc;n 1 triệu đồng).....</p>                         </div>                     </div>                 </div>             </div>         </div>     </div> </div> <div><br></div>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-24",
+    "duration" : 3643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_743e5122e1d82ddfd2858e328560d1ab.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_743e5122e1d82ddfd2858e328560d1ab.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_743e5122e1d82ddfd2858e328560d1ab_4b518369d3b354e8b584cbe57da9eba6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_743e5122e1d82ddfd2858e328560d1ab_4b518369d3b354e8b584cbe57da9eba6.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
