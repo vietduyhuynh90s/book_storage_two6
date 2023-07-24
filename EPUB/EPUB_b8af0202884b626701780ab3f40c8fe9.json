@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=XVv-abweBow",
+    "title" : "[Short] Đương Đầu Với Thất Bại (Thư viện tỉnh Tây Ninh)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Zoe McKey",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<div>     <div>         <div>             <div>                 <div>                     <div>                         <p>Trong cuộc sống, ai trong ch&uacute;ng ta cũng sợ thất bại. Nhưng nếu bạn để cho nỗi sợ h&atilde;i kiểm so&aacute;t sự lựa chọn của m&igrave;nh, th&igrave; bạn đang x&acirc;y dựng tương lai của bạn tr&ecirc;n nỗi sợ h&atilde;i. Trong Đương Đầu Với Thất Bại, bạn sẽ học c&aacute;ch:<br>Vượt qua những tổn thương v&agrave; thất vọng trong qu&aacute; khứ<br>X&acirc;y dựng l&ograve;ng tự tin<br>D&ugrave;ng &oacute;c kh&ocirc;i h&agrave;i để đ&aacute;nh bại t&acirc;m tr&iacute; ti&ecirc;u cực<br>L&agrave;m quen với những điều chưa biết v&agrave; biến bất an th&agrave;nh khả năng</p>                         <p>Gi&aacute; sản phẩm tr&ecirc;n Tiki đ&atilde; bao gồm thuế theo luật hiện h&agrave;nh. B&ecirc;n cạnh đ&oacute;, tuỳ v&agrave;o loại sản phẩm, h&igrave;nh thức v&agrave; địa chỉ giao h&agrave;ng m&agrave; c&oacute; thể ph&aacute;t sinh th&ecirc;m chi ph&iacute; kh&aacute;c như ph&iacute; vận chuyển, phụ ph&iacute; h&agrave;ng cồng kềnh, thuế nhập khẩu (đối với đơn h&agrave;ng giao từ nước ngo&agrave;i c&oacute; gi&aacute; trị tr&ecirc;n 1 triệu đồng).....</p>                     </div>                 </div>             </div>         </div>     </div> </div> <div><br></div>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-24",
+    "duration" : 3643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_b8af0202884b626701780ab3f40c8fe9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_b8af0202884b626701780ab3f40c8fe9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_b8af0202884b626701780ab3f40c8fe9_7aa00508450c792faf32231e3703bf21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_b8af0202884b626701780ab3f40c8fe9_7aa00508450c792faf32231e3703bf21.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
