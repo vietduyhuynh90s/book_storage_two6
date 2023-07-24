@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=vnsN3Cy02sE",
+    "title" : "Nghệ Thuật Kể Chuyện Cho Trẻ Em (Thư viện tỉnh Tây Ninh)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Joseph Sarosy, Silke Rose West",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<div>     <div>         <div>             <div>                 <div>                     <div>                         <div>Nghệ Thuật Kể Chuyện Cho Trẻ Em<br>Cuốn s&aacute;ch m&agrave; bạn đang cầm trong tay kh&ocirc;ng phải l&agrave; tuyển tập c&aacute;c c&acirc;u chuyện. Đ&oacute; l&agrave; những phương ph&aacute;p đơn giản nhưng mang t&iacute;nh đột ph&aacute;, gi&uacute;p bạn tạo ra c&acirc;u chuyện của ri&ecirc;ng m&igrave;nh.<br>Nghệ Thuật Kể Chuyện Cho Trẻ Em được viết trau chuốt v&agrave; kh&eacute;o l&eacute;o truyền tải c&aacute;c b&agrave;i học tới người đọc, kh&ocirc;ng thuyết gi&aacute;o d&ocirc;ng d&agrave;i khi cho răng kể chuyện l&agrave; một c&aacute;ch thu h&uacute;t sự ch&uacute; &yacute; của trẻ.<br>Xuy&ecirc;n suốt cuốn, s&aacute;ch, c&aacute;c t&aacute;c giả đưa ra lập luận v&agrave; v&iacute; dụ vững chắc để chứng minh kể chuyện l&agrave; một kĩ năng m&agrave; ai cũng c&oacute; thể tập luyện v&agrave; ph&aacute;t triển được.<br>Khi kết th&uacute;c cuốn s&aacute;ch, độc giả sẽ cảm thấy m&igrave;nh ho&agrave;n to&agrave;n c&oacute; năng lượng v&agrave; năng lực để ph&aacute;t triển kĩ năng kể chuyện. Những c&acirc;u chuyện mẫu trong s&aacute;ch cũng cho thấy những c&acirc;u chuyện đơn giản c&oacute; thể thỏa m&atilde;n trẻ như thế n&agrave;o, đồng thời c&aacute;c t&aacute;c giả c&ograve;n cung cấp nhiều b&agrave;i tập hướng dẫn, khuyến kh&iacute;ch độc giả tự m&igrave;nh thử nghiệm.<br>Một cuốn s&aacute;ch gi&agrave;u th&ocirc;ng tin v&agrave; thiết thực d&agrave;nh cho những người mong muốn trở th&agrave;nh người kể chuyện th&agrave;nh c&ocirc;ng.</div>                     </div>                 </div>             </div>         </div>     </div> </div> <div><br></div>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-24",
+    "duration" : 3643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/EPUB/EPUB_f4f265ec447ebf67228ff4e7c2834109.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/IMAGE/IMAGE_f4f265ec447ebf67228ff4e7c2834109.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_f4f265ec447ebf67228ff4e7c2834109_ab0928dbadc229bc2526248da3decc89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_f4f265ec447ebf67228ff4e7c2834109_ab0928dbadc229bc2526248da3decc89.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
