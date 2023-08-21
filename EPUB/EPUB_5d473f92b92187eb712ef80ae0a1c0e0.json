@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 8004,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chung-ta_202111/chung-ta.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5d473f92b92187eb712ef80ae0a1c0e0_647914cf82b237b7120bd0e09c7b0345_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 8004,
-    "title" : "chung-ta",
+    "duration" : 0,
+    "title" : "chung-ta (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5d473f92b92187eb712ef80ae0a1c0e0_647914cf82b237b7120bd0e09c7b0345_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chung-ta (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5d473f92b92187eb712ef80ae0a1c0e0_647914cf82b237b7120bd0e09c7b0345_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chung-ta (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5d473f92b92187eb712ef80ae0a1c0e0_647914cf82b237b7120bd0e09c7b0345_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chung-ta (4)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chung-ta_202111/chung-ta.mp3",
-    "title" : "chung-ta",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5d473f92b92187eb712ef80ae0a1c0e0_647914cf82b237b7120bd0e09c7b0345_1.mp3",
+    "title" : "chung-ta (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5d473f92b92187eb712ef80ae0a1c0e0_647914cf82b237b7120bd0e09c7b0345_2.mp3",
+    "title" : "chung-ta (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5d473f92b92187eb712ef80ae0a1c0e0_647914cf82b237b7120bd0e09c7b0345_3.mp3",
+    "title" : "chung-ta (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5d473f92b92187eb712ef80ae0a1c0e0_647914cf82b237b7120bd0e09c7b0345_4.mp3",
+    "title" : "chung-ta (4)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

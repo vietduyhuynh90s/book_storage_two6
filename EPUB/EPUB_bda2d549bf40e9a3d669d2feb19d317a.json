@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 14653,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,65 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/dongbaomotcuoctinh/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_bda2d549bf40e9a3d669d2feb19d317a_7004bcee599c0551e8d1282eec70d59c_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5842,
-    "title" : "[Radio Truyện Ngắn] Dông Bão Một Cuộc Tình | Truyện ngắn hay về tình yêu",
+    "duration" : 0,
+    "title" : "[Radio Truyện Ngắn] Dông Bão Một Cuộc Tình | Truyện ngắn hay về tình yêu (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dongbaomotcuoctinh/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_bda2d549bf40e9a3d669d2feb19d317a_7004bcee599c0551e8d1282eec70d59c_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 8811,
-    "title" : "Tập 2 | Truyện ngắn hay về tình yêu",
+    "duration" : 0,
+    "title" : "[Radio Truyện Ngắn] Dông Bão Một Cuộc Tình | Truyện ngắn hay về tình yêu (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_bda2d549bf40e9a3d669d2feb19d317a_1e6b3283fd49432a4b1734d46cb1982c_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 | Truyện ngắn hay về tình yêu (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_bda2d549bf40e9a3d669d2feb19d317a_1e6b3283fd49432a4b1734d46cb1982c_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 | Truyện ngắn hay về tình yêu (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_bda2d549bf40e9a3d669d2feb19d317a_1e6b3283fd49432a4b1734d46cb1982c_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 | Truyện ngắn hay về tình yêu (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/dongbaomotcuoctinh/1.mp3",
-    "title" : "[Radio Truyện Ngắn] Dông Bão Một Cuộc Tình | Truyện ngắn hay về tình yêu",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_bda2d549bf40e9a3d669d2feb19d317a_7004bcee599c0551e8d1282eec70d59c_1.mp3",
+    "title" : "[Radio Truyện Ngắn] Dông Bão Một Cuộc Tình | Truyện ngắn hay về tình yêu (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dongbaomotcuoctinh/2.mp3",
-    "title" : "Tập 2 | Truyện ngắn hay về tình yêu",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_bda2d549bf40e9a3d669d2feb19d317a_7004bcee599c0551e8d1282eec70d59c_2.mp3",
+    "title" : "[Radio Truyện Ngắn] Dông Bão Một Cuộc Tình | Truyện ngắn hay về tình yêu (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_bda2d549bf40e9a3d669d2feb19d317a_1e6b3283fd49432a4b1734d46cb1982c_1.mp3",
+    "title" : "Tập 2 | Truyện ngắn hay về tình yêu (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_bda2d549bf40e9a3d669d2feb19d317a_1e6b3283fd49432a4b1734d46cb1982c_2.mp3",
+    "title" : "Tập 2 | Truyện ngắn hay về tình yêu (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_bda2d549bf40e9a3d669d2feb19d317a_1e6b3283fd49432a4b1734d46cb1982c_3.mp3",
+    "title" : "Tập 2 | Truyện ngắn hay về tình yêu (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

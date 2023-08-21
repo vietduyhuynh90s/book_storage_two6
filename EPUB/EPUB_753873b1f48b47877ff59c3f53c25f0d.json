@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 29844,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/BMCLCNCCDM/B%E1%BA%A1n%20m%E1%BB%9Bi%20ch%C3%ADnh%20l%C3%A0%20ch%E1%BB%A7%20nh%C3%A2n%20c%E1%BB%A7a%20cu%E1%BB%99c%20%C4%91%E1%BB%9Di%20m%C3%ACnh%20-%20L%C3%BD%20%C3%81i%20Linh%20%28128kbit_AAC%29.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_753873b1f48b47877ff59c3f53c25f0d_ded2a32a3df3349a35649abc004e1a47_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 29844,
-    "title" : "Bạn mới chính là chủ nhân của cuộc đời mình - Lý Ái Linh (128kbit AAC)",
+    "duration" : 0,
+    "title" : "Bạn mới chính là chủ nhân của cuộc đời mình - Lý Ái Linh (128kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_753873b1f48b47877ff59c3f53c25f0d_ded2a32a3df3349a35649abc004e1a47_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Bạn mới chính là chủ nhân của cuộc đời mình - Lý Ái Linh (128kbit AAC) (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/BMCLCNCCDM/B%E1%BA%A1n%20m%E1%BB%9Bi%20ch%C3%ADnh%20l%C3%A0%20ch%E1%BB%A7%20nh%C3%A2n%20c%E1%BB%A7a%20cu%E1%BB%99c%20%C4%91%E1%BB%9Di%20m%C3%ACnh%20-%20L%C3%BD%20%C3%81i%20Linh%20%28128kbit_AAC%29.mp3",
-    "title" : "Bạn mới chính là chủ nhân của cuộc đời mình - Lý Ái Linh (128kbit AAC)",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_753873b1f48b47877ff59c3f53c25f0d_ded2a32a3df3349a35649abc004e1a47_1.mp3",
+    "title" : "Bạn mới chính là chủ nhân của cuộc đời mình - Lý Ái Linh (128kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_753873b1f48b47877ff59c3f53c25f0d_ded2a32a3df3349a35649abc004e1a47_2.mp3",
+    "title" : "Bạn mới chính là chủ nhân của cuộc đời mình - Lý Ái Linh (128kbit AAC) (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
