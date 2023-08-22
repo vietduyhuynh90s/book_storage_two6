@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-22",
     "duration" : 10283,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nui-ma_202101/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_a3a39c8836e2db420f2efb73a3f7e530_f3c00381fc404d849a90176ce1e40244.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3480,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nui-ma_202101/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_a3a39c8836e2db420f2efb73a3f7e530_de5beebcdfb7e826fa20e318cbcb82e0.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3475,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nui-ma_202101/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_a3a39c8836e2db420f2efb73a3f7e530_8fec6126f6e7dcefc60bb907be3d2985.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3328,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nui-ma_202101/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_a3a39c8836e2db420f2efb73a3f7e530_f3c00381fc404d849a90176ce1e40244.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nui-ma_202101/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_a3a39c8836e2db420f2efb73a3f7e530_de5beebcdfb7e826fa20e318cbcb82e0.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nui-ma_202101/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_a3a39c8836e2db420f2efb73a3f7e530_8fec6126f6e7dcefc60bb907be3d2985.mp3",
     "title" : "3",
     "children" : [ ]
   } ],
