@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-19",
+    "published" : "2023-08-23",
     "duration" : 9081,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,23 +36,39 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/yeu-di-1/yeu-di-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6844e65ad6a0c63bacf888d2b083e5d2_d7cbeed0803c84a4236bf7825250e862_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
-    "title" : "yeu-di-1",
+    "duration" : 0,
+    "title" : "yeu-di-1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/yeu-di-1/yeu-di-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6844e65ad6a0c63bacf888d2b083e5d2_d7cbeed0803c84a4236bf7825250e862_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
-    "title" : "yeu-di-2",
+    "duration" : 0,
+    "title" : "yeu-di-1 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/yeu-di-1/yeu-di-3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6844e65ad6a0c63bacf888d2b083e5d2_4c85e35a6874b12363063bb3c2ad74a2_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "yeu-di-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6844e65ad6a0c63bacf888d2b083e5d2_4c85e35a6874b12363063bb3c2ad74a2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "yeu-di-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6844e65ad6a0c63bacf888d2b083e5d2_b3394074ccabb99bce83e019f1b98d39.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1881,
@@ -61,15 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/yeu-di-1/yeu-di-1.mp3",
-    "title" : "yeu-di-1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6844e65ad6a0c63bacf888d2b083e5d2_d7cbeed0803c84a4236bf7825250e862_1.mp3",
+    "title" : "yeu-di-1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/yeu-di-1/yeu-di-2.mp3",
-    "title" : "yeu-di-2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6844e65ad6a0c63bacf888d2b083e5d2_d7cbeed0803c84a4236bf7825250e862_2.mp3",
+    "title" : "yeu-di-1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/yeu-di-1/yeu-di-3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6844e65ad6a0c63bacf888d2b083e5d2_4c85e35a6874b12363063bb3c2ad74a2_1.mp3",
+    "title" : "yeu-di-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6844e65ad6a0c63bacf888d2b083e5d2_4c85e35a6874b12363063bb3c2ad74a2_2.mp3",
+    "title" : "yeu-di-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6844e65ad6a0c63bacf888d2b083e5d2_b3394074ccabb99bce83e019f1b98d39.mp3",
     "title" : "yeu-di-3",
     "children" : [ ]
   } ],
