@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-22",
     "duration" : 38394,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,125 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mieng-da-lua/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_af855e28223f9290d3cf85a9793ae9d0_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 10847,
-    "title" : "Honore De balzac - Phần 01",
+    "duration" : 0,
+    "title" : "Honore De balzac - Phần 01 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mieng-da-lua/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_af855e28223f9290d3cf85a9793ae9d0_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 14705,
-    "title" : "Honore De balzac - Phần 02",
+    "duration" : 0,
+    "title" : "Honore De balzac - Phần 01 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mieng-da-lua/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_af855e28223f9290d3cf85a9793ae9d0_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 12842,
-    "title" : "Honore De balzac - Phần 03 end",
+    "duration" : 0,
+    "title" : "Honore De balzac - Phần 01 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_17e4a13b7862fef75f8ca072ccf35cdb_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Honore De balzac - Phần 02 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_17e4a13b7862fef75f8ca072ccf35cdb_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Honore De balzac - Phần 02 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_17e4a13b7862fef75f8ca072ccf35cdb_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Honore De balzac - Phần 02 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_17e4a13b7862fef75f8ca072ccf35cdb_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Honore De balzac - Phần 02 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_1a14351df2253554a990c5d3babdc42d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Honore De balzac - Phần 03 end (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_1a14351df2253554a990c5d3babdc42d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Honore De balzac - Phần 03 end (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_1a14351df2253554a990c5d3babdc42d_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Honore De balzac - Phần 03 end (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mieng-da-lua/1.mp3",
-    "title" : "Honore De balzac - Phần 01",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_af855e28223f9290d3cf85a9793ae9d0_1.mp3",
+    "title" : "Honore De balzac - Phần 01 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mieng-da-lua/2.mp3",
-    "title" : "Honore De balzac - Phần 02",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_af855e28223f9290d3cf85a9793ae9d0_2.mp3",
+    "title" : "Honore De balzac - Phần 01 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mieng-da-lua/3.mp3",
-    "title" : "Honore De balzac - Phần 03 end",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_af855e28223f9290d3cf85a9793ae9d0_3.mp3",
+    "title" : "Honore De balzac - Phần 01 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_17e4a13b7862fef75f8ca072ccf35cdb_1.mp3",
+    "title" : "Honore De balzac - Phần 02 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_17e4a13b7862fef75f8ca072ccf35cdb_2.mp3",
+    "title" : "Honore De balzac - Phần 02 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_17e4a13b7862fef75f8ca072ccf35cdb_3.mp3",
+    "title" : "Honore De balzac - Phần 02 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_17e4a13b7862fef75f8ca072ccf35cdb_4.mp3",
+    "title" : "Honore De balzac - Phần 02 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_1a14351df2253554a990c5d3babdc42d_1.mp3",
+    "title" : "Honore De balzac - Phần 03 end (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_1a14351df2253554a990c5d3babdc42d_2.mp3",
+    "title" : "Honore De balzac - Phần 03 end (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_ef5d6891ba8c293f46d28ce0c2494999_1a14351df2253554a990c5d3babdc42d_3.mp3",
+    "title" : "Honore De balzac - Phần 03 end (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

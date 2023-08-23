@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-22",
     "duration" : 31763,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,113 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/xuyenkhongvelamtinhnhancuahoangde/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_7352a3c19213dbb4ad36268f9e36d347_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 11099,
-    "title" : "Thu Hà kể truyện ngôn tình mới tuyệt quá",
+    "duration" : 0,
+    "title" : "Thu Hà kể truyện ngôn tình mới tuyệt quá (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/xuyenkhongvelamtinhnhancuahoangde/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_7352a3c19213dbb4ad36268f9e36d347_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 9259,
-    "title" : "Truyện ngôn tình hay đáng nghe một lần",
+    "duration" : 0,
+    "title" : "Thu Hà kể truyện ngôn tình mới tuyệt quá (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/xuyenkhongvelamtinhnhancuahoangde/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_7352a3c19213dbb4ad36268f9e36d347_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 11405,
-    "title" : "Truyện ngôn tình siêu hay",
+    "duration" : 0,
+    "title" : "Thu Hà kể truyện ngôn tình mới tuyệt quá (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_333f4aef001ae9b95ca5d15b75d1de25_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện ngôn tình hay đáng nghe một lần (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_333f4aef001ae9b95ca5d15b75d1de25_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện ngôn tình hay đáng nghe một lần (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_333f4aef001ae9b95ca5d15b75d1de25_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện ngôn tình hay đáng nghe một lần (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_1b1b7ea192d05ed18acf37091088cdef_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện ngôn tình siêu hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_1b1b7ea192d05ed18acf37091088cdef_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện ngôn tình siêu hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_1b1b7ea192d05ed18acf37091088cdef_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện ngôn tình siêu hay (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/xuyenkhongvelamtinhnhancuahoangde/1.mp3",
-    "title" : "Thu Hà kể truyện ngôn tình mới tuyệt quá",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_7352a3c19213dbb4ad36268f9e36d347_1.mp3",
+    "title" : "Thu Hà kể truyện ngôn tình mới tuyệt quá (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/xuyenkhongvelamtinhnhancuahoangde/2.mp3",
-    "title" : "Truyện ngôn tình hay đáng nghe một lần",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_7352a3c19213dbb4ad36268f9e36d347_2.mp3",
+    "title" : "Thu Hà kể truyện ngôn tình mới tuyệt quá (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/xuyenkhongvelamtinhnhancuahoangde/3.mp3",
-    "title" : "Truyện ngôn tình siêu hay",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_7352a3c19213dbb4ad36268f9e36d347_3.mp3",
+    "title" : "Thu Hà kể truyện ngôn tình mới tuyệt quá (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_333f4aef001ae9b95ca5d15b75d1de25_1.mp3",
+    "title" : "Truyện ngôn tình hay đáng nghe một lần (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_333f4aef001ae9b95ca5d15b75d1de25_2.mp3",
+    "title" : "Truyện ngôn tình hay đáng nghe một lần (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_333f4aef001ae9b95ca5d15b75d1de25_3.mp3",
+    "title" : "Truyện ngôn tình hay đáng nghe một lần (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_1b1b7ea192d05ed18acf37091088cdef_1.mp3",
+    "title" : "Truyện ngôn tình siêu hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_1b1b7ea192d05ed18acf37091088cdef_2.mp3",
+    "title" : "Truyện ngôn tình siêu hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_098a50b995f2d40e6d8e07c78e00937b_1b1b7ea192d05ed18acf37091088cdef_3.mp3",
+    "title" : "Truyện ngôn tình siêu hay (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

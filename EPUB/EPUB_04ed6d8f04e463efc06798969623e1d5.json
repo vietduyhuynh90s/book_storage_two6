@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-22",
     "duration" : 39449,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,125 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tinh-mot-dem-cua-tong-giam-doc-hao-hoa/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_45dcb2ece69e63e84cd3a3887816d0fc_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 13619,
-    "title" : "1",
+    "duration" : 0,
+    "title" : "1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tinh-mot-dem-cua-tong-giam-doc-hao-hoa/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_45dcb2ece69e63e84cd3a3887816d0fc_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 11221,
-    "title" : "Truyện Ngôn Tình Hay Nhất Hành Tinh 2018",
+    "duration" : 0,
+    "title" : "1 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tinh-mot-dem-cua-tong-giam-doc-hao-hoa/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_45dcb2ece69e63e84cd3a3887816d0fc_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 14609,
-    "title" : "Truyện Ngôn Tình Hay Đặc Biệt Hay",
+    "duration" : 0,
+    "title" : "1 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_45dcb2ece69e63e84cd3a3887816d0fc_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "1 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_86c296dce2ccaea853255866cbe57295_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Nhất Hành Tinh 2018 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_86c296dce2ccaea853255866cbe57295_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Nhất Hành Tinh 2018 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_6397c6fa0f497a15dc74927181d2a389_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Đặc Biệt Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_6397c6fa0f497a15dc74927181d2a389_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Đặc Biệt Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_6397c6fa0f497a15dc74927181d2a389_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Đặc Biệt Hay (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_6397c6fa0f497a15dc74927181d2a389_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Đặc Biệt Hay (4)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tinh-mot-dem-cua-tong-giam-doc-hao-hoa/1.mp3",
-    "title" : "1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_45dcb2ece69e63e84cd3a3887816d0fc_1.mp3",
+    "title" : "1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tinh-mot-dem-cua-tong-giam-doc-hao-hoa/2.mp3",
-    "title" : "Truyện Ngôn Tình Hay Nhất Hành Tinh 2018",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_45dcb2ece69e63e84cd3a3887816d0fc_2.mp3",
+    "title" : "1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tinh-mot-dem-cua-tong-giam-doc-hao-hoa/3.mp3",
-    "title" : "Truyện Ngôn Tình Hay Đặc Biệt Hay",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_45dcb2ece69e63e84cd3a3887816d0fc_3.mp3",
+    "title" : "1 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_45dcb2ece69e63e84cd3a3887816d0fc_4.mp3",
+    "title" : "1 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_86c296dce2ccaea853255866cbe57295_1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất Hành Tinh 2018 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_86c296dce2ccaea853255866cbe57295_2.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất Hành Tinh 2018 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_6397c6fa0f497a15dc74927181d2a389_1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Đặc Biệt Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_6397c6fa0f497a15dc74927181d2a389_2.mp3",
+    "title" : "Truyện Ngôn Tình Hay Đặc Biệt Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_6397c6fa0f497a15dc74927181d2a389_3.mp3",
+    "title" : "Truyện Ngôn Tình Hay Đặc Biệt Hay (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_04ed6d8f04e463efc06798969623e1d5_6397c6fa0f497a15dc74927181d2a389_4.mp3",
+    "title" : "Truyện Ngôn Tình Hay Đặc Biệt Hay (4)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

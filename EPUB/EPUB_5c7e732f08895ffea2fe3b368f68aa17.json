@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-23",
     "duration" : 29411,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,113 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/yeu-em-hon-ca-sinh-menh/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_bfa7a0eb9a2f20c914de664e7eef519d_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 9817,
-    "title" : "Truyện Ngôn Tình Hắc Bang Hôn Ước Với Tổng Tài | Yêu Em Hơn Cả Sinh Mệnh MC Thu Hà",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hắc Bang Hôn Ước Với Tổng Tài | Yêu Em Hơn Cả Sinh Mệnh MC Thu Hà (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/yeu-em-hon-ca-sinh-menh/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_bfa7a0eb9a2f20c914de664e7eef519d_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 10226,
-    "title" : "Truyện Ngôn Tình Sắc Yêu Em Hơn Cả Sinh Mệnh [Tập 2] Cô Vợ Ngốc Bị Ăn Sạch Lần Nữa MC Thu Hà",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hắc Bang Hôn Ước Với Tổng Tài | Yêu Em Hơn Cả Sinh Mệnh MC Thu Hà (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/yeu-em-hon-ca-sinh-menh/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_bfa7a0eb9a2f20c914de664e7eef519d_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 9368,
-    "title" : "Tập Cuối Truyện Ngôn Tình Rất Lôi Cuốn Yêu Em Hơn Cả Sinh Mệnh 3 | MC Thu Hà Diễn Đọc",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hắc Bang Hôn Ước Với Tổng Tài | Yêu Em Hơn Cả Sinh Mệnh MC Thu Hà (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_3dd726becb705855e4a8f00bc3cebdf3_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Sắc Yêu Em Hơn Cả Sinh Mệnh [Tập 2] Cô Vợ Ngốc Bị Ăn Sạch Lần Nữa MC Thu Hà (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_3dd726becb705855e4a8f00bc3cebdf3_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Sắc Yêu Em Hơn Cả Sinh Mệnh [Tập 2] Cô Vợ Ngốc Bị Ăn Sạch Lần Nữa MC Thu Hà (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_3dd726becb705855e4a8f00bc3cebdf3_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Sắc Yêu Em Hơn Cả Sinh Mệnh [Tập 2] Cô Vợ Ngốc Bị Ăn Sạch Lần Nữa MC Thu Hà (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_0d7a06f22e666a5188d6267af7c5b801_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập Cuối Truyện Ngôn Tình Rất Lôi Cuốn Yêu Em Hơn Cả Sinh Mệnh 3 | MC Thu Hà Diễn Đọc (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_0d7a06f22e666a5188d6267af7c5b801_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập Cuối Truyện Ngôn Tình Rất Lôi Cuốn Yêu Em Hơn Cả Sinh Mệnh 3 | MC Thu Hà Diễn Đọc (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_0d7a06f22e666a5188d6267af7c5b801_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập Cuối Truyện Ngôn Tình Rất Lôi Cuốn Yêu Em Hơn Cả Sinh Mệnh 3 | MC Thu Hà Diễn Đọc (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/yeu-em-hon-ca-sinh-menh/1.mp3",
-    "title" : "Truyện Ngôn Tình Hắc Bang Hôn Ước Với Tổng Tài | Yêu Em Hơn Cả Sinh Mệnh MC Thu Hà",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_bfa7a0eb9a2f20c914de664e7eef519d_1.mp3",
+    "title" : "Truyện Ngôn Tình Hắc Bang Hôn Ước Với Tổng Tài | Yêu Em Hơn Cả Sinh Mệnh MC Thu Hà (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/yeu-em-hon-ca-sinh-menh/2.mp3",
-    "title" : "Truyện Ngôn Tình Sắc Yêu Em Hơn Cả Sinh Mệnh [Tập 2] Cô Vợ Ngốc Bị Ăn Sạch Lần Nữa MC Thu Hà",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_bfa7a0eb9a2f20c914de664e7eef519d_2.mp3",
+    "title" : "Truyện Ngôn Tình Hắc Bang Hôn Ước Với Tổng Tài | Yêu Em Hơn Cả Sinh Mệnh MC Thu Hà (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/yeu-em-hon-ca-sinh-menh/3.mp3",
-    "title" : "Tập Cuối Truyện Ngôn Tình Rất Lôi Cuốn Yêu Em Hơn Cả Sinh Mệnh 3 | MC Thu Hà Diễn Đọc",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_bfa7a0eb9a2f20c914de664e7eef519d_3.mp3",
+    "title" : "Truyện Ngôn Tình Hắc Bang Hôn Ước Với Tổng Tài | Yêu Em Hơn Cả Sinh Mệnh MC Thu Hà (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_3dd726becb705855e4a8f00bc3cebdf3_1.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Yêu Em Hơn Cả Sinh Mệnh [Tập 2] Cô Vợ Ngốc Bị Ăn Sạch Lần Nữa MC Thu Hà (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_3dd726becb705855e4a8f00bc3cebdf3_2.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Yêu Em Hơn Cả Sinh Mệnh [Tập 2] Cô Vợ Ngốc Bị Ăn Sạch Lần Nữa MC Thu Hà (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_3dd726becb705855e4a8f00bc3cebdf3_3.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Yêu Em Hơn Cả Sinh Mệnh [Tập 2] Cô Vợ Ngốc Bị Ăn Sạch Lần Nữa MC Thu Hà (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_0d7a06f22e666a5188d6267af7c5b801_1.mp3",
+    "title" : "Tập Cuối Truyện Ngôn Tình Rất Lôi Cuốn Yêu Em Hơn Cả Sinh Mệnh 3 | MC Thu Hà Diễn Đọc (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_0d7a06f22e666a5188d6267af7c5b801_2.mp3",
+    "title" : "Tập Cuối Truyện Ngôn Tình Rất Lôi Cuốn Yêu Em Hơn Cả Sinh Mệnh 3 | MC Thu Hà Diễn Đọc (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5c7e732f08895ffea2fe3b368f68aa17_0d7a06f22e666a5188d6267af7c5b801_3.mp3",
+    "title" : "Tập Cuối Truyện Ngôn Tình Rất Lôi Cuốn Yêu Em Hơn Cả Sinh Mệnh 3 | MC Thu Hà Diễn Đọc (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

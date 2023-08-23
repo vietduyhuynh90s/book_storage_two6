@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
+    "published" : "2023-08-22",
     "duration" : 10871,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/san-se-1/san-se-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_00affe24c017e9831b9e64d1ff8a56b7_371ce6fe047242e645f0e9aba726b135_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3660,
-    "title" : "san-se-1",
+    "duration" : 0,
+    "title" : "san-se-1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/san-se-1/san-se-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_00affe24c017e9831b9e64d1ff8a56b7_371ce6fe047242e645f0e9aba726b135_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3660,
-    "title" : "san-se-2",
+    "duration" : 0,
+    "title" : "san-se-1 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/san-se-1/san-se-3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_00affe24c017e9831b9e64d1ff8a56b7_d98a50afe9caa840a4f28e88c18df36e_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3551,
-    "title" : "san-se-3",
+    "duration" : 0,
+    "title" : "san-se-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_00affe24c017e9831b9e64d1ff8a56b7_d98a50afe9caa840a4f28e88c18df36e_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "san-se-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_00affe24c017e9831b9e64d1ff8a56b7_b96a4498b245a2d5976c9ca158b133b8_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "san-se-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_00affe24c017e9831b9e64d1ff8a56b7_b96a4498b245a2d5976c9ca158b133b8_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "san-se-3 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/san-se-1/san-se-1.mp3",
-    "title" : "san-se-1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_00affe24c017e9831b9e64d1ff8a56b7_371ce6fe047242e645f0e9aba726b135_1.mp3",
+    "title" : "san-se-1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/san-se-1/san-se-2.mp3",
-    "title" : "san-se-2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_00affe24c017e9831b9e64d1ff8a56b7_371ce6fe047242e645f0e9aba726b135_2.mp3",
+    "title" : "san-se-1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/san-se-1/san-se-3.mp3",
-    "title" : "san-se-3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_00affe24c017e9831b9e64d1ff8a56b7_d98a50afe9caa840a4f28e88c18df36e_1.mp3",
+    "title" : "san-se-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_00affe24c017e9831b9e64d1ff8a56b7_d98a50afe9caa840a4f28e88c18df36e_2.mp3",
+    "title" : "san-se-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_00affe24c017e9831b9e64d1ff8a56b7_b96a4498b245a2d5976c9ca158b133b8_1.mp3",
+    "title" : "san-se-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_00affe24c017e9831b9e64d1ff8a56b7_b96a4498b245a2d5976c9ca158b133b8_2.mp3",
+    "title" : "san-se-3 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
