@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-06-21",
+    "published" : "2023-08-24",
     "duration" : 10584,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/cuoc-doi-1_202203/cuoc-doi-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_8ca89c0e1269bd138db51b4f76fbdd63_5268ad6bb98bc06c09d4c2d87cb63eba_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
-    "title" : "cuoc-doi-1",
+    "duration" : 0,
+    "title" : "cuoc-doi-1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuoc-doi-1_202203/cuoc-doi-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_8ca89c0e1269bd138db51b4f76fbdd63_5268ad6bb98bc06c09d4c2d87cb63eba_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
-    "title" : "cuoc-doi-2",
+    "duration" : 0,
+    "title" : "cuoc-doi-1 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuoc-doi-1_202203/cuoc-doi-3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_8ca89c0e1269bd138db51b4f76fbdd63_9e85ecbc31172e7f330b521e3e6f7ca1_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3384,
-    "title" : "cuoc-doi-3",
+    "duration" : 0,
+    "title" : "cuoc-doi-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_8ca89c0e1269bd138db51b4f76fbdd63_9e85ecbc31172e7f330b521e3e6f7ca1_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cuoc-doi-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_8ca89c0e1269bd138db51b4f76fbdd63_0d0f0dfd5c0d5316d10269d9afa14c8d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cuoc-doi-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_8ca89c0e1269bd138db51b4f76fbdd63_0d0f0dfd5c0d5316d10269d9afa14c8d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cuoc-doi-3 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/cuoc-doi-1_202203/cuoc-doi-1.mp3",
-    "title" : "cuoc-doi-1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_8ca89c0e1269bd138db51b4f76fbdd63_5268ad6bb98bc06c09d4c2d87cb63eba_1.mp3",
+    "title" : "cuoc-doi-1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuoc-doi-1_202203/cuoc-doi-2.mp3",
-    "title" : "cuoc-doi-2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_8ca89c0e1269bd138db51b4f76fbdd63_5268ad6bb98bc06c09d4c2d87cb63eba_2.mp3",
+    "title" : "cuoc-doi-1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuoc-doi-1_202203/cuoc-doi-3.mp3",
-    "title" : "cuoc-doi-3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_8ca89c0e1269bd138db51b4f76fbdd63_9e85ecbc31172e7f330b521e3e6f7ca1_1.mp3",
+    "title" : "cuoc-doi-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_8ca89c0e1269bd138db51b4f76fbdd63_9e85ecbc31172e7f330b521e3e6f7ca1_2.mp3",
+    "title" : "cuoc-doi-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_8ca89c0e1269bd138db51b4f76fbdd63_0d0f0dfd5c0d5316d10269d9afa14c8d_1.mp3",
+    "title" : "cuoc-doi-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_8ca89c0e1269bd138db51b4f76fbdd63_0d0f0dfd5c0d5316d10269d9afa14c8d_2.mp3",
+    "title" : "cuoc-doi-3 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
