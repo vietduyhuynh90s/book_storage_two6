@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-28",
     "duration" : 14529,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,15 +36,23 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/am-muu-cua-co-ay/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_77eb86fb5f939857f87f48ecf19d4e4d_7cd1b893fe74c33c328c700eb811a6e2_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4981,
-    "title" : "Truyện Ngôn Tình Cực Hay 2017",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Cực Hay 2017 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/am-muu-cua-co-ay/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_77eb86fb5f939857f87f48ecf19d4e4d_7cd1b893fe74c33c328c700eb811a6e2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Cực Hay 2017 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_77eb86fb5f939857f87f48ecf19d4e4d_4e7e23e3cde836c61016e233b92e0fa0.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3294,
@@ -52,15 +60,23 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/am-muu-cua-co-ay/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_77eb86fb5f939857f87f48ecf19d4e4d_f7837a0ba9084f987b0dca5f468c0a6d_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4202,
-    "title" : "Truyện Ngôn Tình Cực Hay 2017",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Cực Hay 2017 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/am-muu-cua-co-ay/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_77eb86fb5f939857f87f48ecf19d4e4d_f7837a0ba9084f987b0dca5f468c0a6d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Cực Hay 2017 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_77eb86fb5f939857f87f48ecf19d4e4d_7d386d29043c909d34bda7b2413a0738.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2052,
@@ -69,19 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/am-muu-cua-co-ay/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_77eb86fb5f939857f87f48ecf19d4e4d_7cd1b893fe74c33c328c700eb811a6e2_1.mp3",
+    "title" : "Truyện Ngôn Tình Cực Hay 2017 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_77eb86fb5f939857f87f48ecf19d4e4d_7cd1b893fe74c33c328c700eb811a6e2_2.mp3",
+    "title" : "Truyện Ngôn Tình Cực Hay 2017 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_77eb86fb5f939857f87f48ecf19d4e4d_4e7e23e3cde836c61016e233b92e0fa0.mp3",
     "title" : "Truyện Ngôn Tình Cực Hay 2017",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/am-muu-cua-co-ay/2.mp3",
-    "title" : "Truyện Ngôn Tình Cực Hay 2017",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_77eb86fb5f939857f87f48ecf19d4e4d_f7837a0ba9084f987b0dca5f468c0a6d_1.mp3",
+    "title" : "Truyện Ngôn Tình Cực Hay 2017 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/am-muu-cua-co-ay/3.mp3",
-    "title" : "Truyện Ngôn Tình Cực Hay 2017",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_77eb86fb5f939857f87f48ecf19d4e4d_f7837a0ba9084f987b0dca5f468c0a6d_2.mp3",
+    "title" : "Truyện Ngôn Tình Cực Hay 2017 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/am-muu-cua-co-ay/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_77eb86fb5f939857f87f48ecf19d4e4d_7d386d29043c909d34bda7b2413a0738.mp3",
     "title" : "Truyện Ngôn Tình Cực Hay 2017",
     "children" : [ ]
   } ],
