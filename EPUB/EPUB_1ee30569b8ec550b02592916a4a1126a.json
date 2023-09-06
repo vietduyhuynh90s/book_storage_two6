@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-20",
-    "duration" : 2100,
+    "published" : "2023-09-06",
+    "duration" : 4200,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_1ee30569b8ec550b02592916a4a1126a_c7858683b171c457efb9aa9a962859c9.mp3",
+    "href" : "https://archive.org/download/DieuKyDieuONewYork/DieuKyDieuONewYork001.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1077,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_1ee30569b8ec550b02592916a4a1126a_c331bbb02ee843bbae70c78491f245de.mp3",
+    "href" : "https://archive.org/download/DieuKyDieuONewYork/DieuKyDieuONewYork002End.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1023,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_1ee30569b8ec550b02592916a4a1126a_c7858683b171c457efb9aa9a962859c9.mp3",
+    "href" : "https://archive.org/download/DieuKyDieuONewYork/DieuKyDieuONewYork001.mp3",
     "title" : "DieuKyDieuONewYork001",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_1ee30569b8ec550b02592916a4a1126a_c331bbb02ee843bbae70c78491f245de.mp3",
+    "href" : "https://archive.org/download/DieuKyDieuONewYork/DieuKyDieuONewYork002End.mp3",
     "title" : "DieuKyDieuONewYork002End",
     "children" : [ ]
   } ],
