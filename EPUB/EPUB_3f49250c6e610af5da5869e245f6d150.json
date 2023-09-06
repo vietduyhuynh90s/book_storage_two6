@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
+    "published" : "2023-09-06",
     "duration" : 16865,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,101 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3f49250c6e610af5da5869e245f6d150_defa189a31219bc5bccc4bf9277859ba_1.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bmxhv/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyện Tâm Linh Bí Mật Xứ Hoa Vàng mới cực hay (1)",
+    "duration" : 13345,
+    "title" : "Chuyện Tâm Linh Bí Mật Xứ Hoa Vàng mới cực hay",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3f49250c6e610af5da5869e245f6d150_defa189a31219bc5bccc4bf9277859ba_2.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bmxhv/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyện Tâm Linh Bí Mật Xứ Hoa Vàng mới cực hay (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3f49250c6e610af5da5869e245f6d150_defa189a31219bc5bccc4bf9277859ba_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyện Tâm Linh Bí Mật Xứ Hoa Vàng mới cực hay (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3f49250c6e610af5da5869e245f6d150_defa189a31219bc5bccc4bf9277859ba_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyện Tâm Linh Bí Mật Xứ Hoa Vàng mới cực hay (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3f49250c6e610af5da5869e245f6d150_defa189a31219bc5bccc4bf9277859ba_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyện Tâm Linh Bí Mật Xứ Hoa Vàng mới cực hay (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3f49250c6e610af5da5869e245f6d150_defa189a31219bc5bccc4bf9277859ba_6.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyện Tâm Linh Bí Mật Xứ Hoa Vàng mới cực hay (6)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3f49250c6e610af5da5869e245f6d150_67c771fbfbf039397c431f896a176ef4_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyện Tâm Linh Ma phần 2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3f49250c6e610af5da5869e245f6d150_67c771fbfbf039397c431f896a176ef4_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyện Tâm Linh Ma phần 2 (2)",
+    "duration" : 3520,
+    "title" : "Chuyện Tâm Linh Ma phần 2",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3f49250c6e610af5da5869e245f6d150_defa189a31219bc5bccc4bf9277859ba_1.mp3",
-    "title" : "Chuyện Tâm Linh Bí Mật Xứ Hoa Vàng mới cực hay (1)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bmxhv/1.mp3",
+    "title" : "Chuyện Tâm Linh Bí Mật Xứ Hoa Vàng mới cực hay",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3f49250c6e610af5da5869e245f6d150_defa189a31219bc5bccc4bf9277859ba_2.mp3",
-    "title" : "Chuyện Tâm Linh Bí Mật Xứ Hoa Vàng mới cực hay (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3f49250c6e610af5da5869e245f6d150_defa189a31219bc5bccc4bf9277859ba_3.mp3",
-    "title" : "Chuyện Tâm Linh Bí Mật Xứ Hoa Vàng mới cực hay (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3f49250c6e610af5da5869e245f6d150_defa189a31219bc5bccc4bf9277859ba_4.mp3",
-    "title" : "Chuyện Tâm Linh Bí Mật Xứ Hoa Vàng mới cực hay (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3f49250c6e610af5da5869e245f6d150_defa189a31219bc5bccc4bf9277859ba_5.mp3",
-    "title" : "Chuyện Tâm Linh Bí Mật Xứ Hoa Vàng mới cực hay (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3f49250c6e610af5da5869e245f6d150_defa189a31219bc5bccc4bf9277859ba_6.mp3",
-    "title" : "Chuyện Tâm Linh Bí Mật Xứ Hoa Vàng mới cực hay (6)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3f49250c6e610af5da5869e245f6d150_67c771fbfbf039397c431f896a176ef4_1.mp3",
-    "title" : "Chuyện Tâm Linh Ma phần 2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3f49250c6e610af5da5869e245f6d150_67c771fbfbf039397c431f896a176ef4_2.mp3",
-    "title" : "Chuyện Tâm Linh Ma phần 2 (2)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_bmxhv/2.mp3",
+    "title" : "Chuyện Tâm Linh Ma phần 2",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

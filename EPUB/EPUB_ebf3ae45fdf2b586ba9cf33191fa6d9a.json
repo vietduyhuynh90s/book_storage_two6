@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
+    "published" : "2023-09-06",
     "duration" : 9081,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,77 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_ebf3ae45fdf2b586ba9cf33191fa6d9a_3bd8c26ae100ae510f3b76f5303fd42c_1.mp3",
+    "href" : "https://archive.org/download/doi-ngan-2/doi-ngan-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "1 # Đời ngắn, đừng khóc, hãy tô son # Đời ngắn # Gari (1)",
+    "duration" : 3067,
+    "title" : "1 # Đời ngắn, đừng khóc, hãy tô son # Đời ngắn # Gari",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_ebf3ae45fdf2b586ba9cf33191fa6d9a_3bd8c26ae100ae510f3b76f5303fd42c_2.mp3",
+    "href" : "https://archive.org/download/doi-ngan-2/doi-ngan-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "1 # Đời ngắn, đừng khóc, hãy tô son # Đời ngắn # Gari (2)",
+    "duration" : 3532,
+    "title" : "2 # Đời ngắn, đừng khóc, hãy tô son # Đừng khóc # Gari",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_ebf3ae45fdf2b586ba9cf33191fa6d9a_32ff19be2b7a27e1651a61040c38fc19_1.mp3",
+    "href" : "https://archive.org/download/doi-ngan-2/doi-ngan-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2 # Đời ngắn, đừng khóc, hãy tô son # Đừng khóc # Gari (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_ebf3ae45fdf2b586ba9cf33191fa6d9a_32ff19be2b7a27e1651a61040c38fc19_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2 # Đời ngắn, đừng khóc, hãy tô son # Đừng khóc # Gari (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_ebf3ae45fdf2b586ba9cf33191fa6d9a_8eb905358e658681c53adb872ac4c0e7_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "3 # Đời ngắn, đừng khóc, hãy tô son # Hãy tô son # Hết # Gari (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_ebf3ae45fdf2b586ba9cf33191fa6d9a_8eb905358e658681c53adb872ac4c0e7_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "3 # Đời ngắn, đừng khóc, hãy tô son # Hãy tô son # Hết # Gari (2)",
+    "duration" : 2482,
+    "title" : "3 # Đời ngắn, đừng khóc, hãy tô son # Hãy tô son # Hết # Gari",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_ebf3ae45fdf2b586ba9cf33191fa6d9a_3bd8c26ae100ae510f3b76f5303fd42c_1.mp3",
-    "title" : "1 # Đời ngắn, đừng khóc, hãy tô son # Đời ngắn # Gari (1)",
+    "href" : "https://archive.org/download/doi-ngan-2/doi-ngan-1.mp3",
+    "title" : "1 # Đời ngắn, đừng khóc, hãy tô son # Đời ngắn # Gari",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_ebf3ae45fdf2b586ba9cf33191fa6d9a_3bd8c26ae100ae510f3b76f5303fd42c_2.mp3",
-    "title" : "1 # Đời ngắn, đừng khóc, hãy tô son # Đời ngắn # Gari (2)",
+    "href" : "https://archive.org/download/doi-ngan-2/doi-ngan-2.mp3",
+    "title" : "2 # Đời ngắn, đừng khóc, hãy tô son # Đừng khóc # Gari",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_ebf3ae45fdf2b586ba9cf33191fa6d9a_32ff19be2b7a27e1651a61040c38fc19_1.mp3",
-    "title" : "2 # Đời ngắn, đừng khóc, hãy tô son # Đừng khóc # Gari (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_ebf3ae45fdf2b586ba9cf33191fa6d9a_32ff19be2b7a27e1651a61040c38fc19_2.mp3",
-    "title" : "2 # Đời ngắn, đừng khóc, hãy tô son # Đừng khóc # Gari (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_ebf3ae45fdf2b586ba9cf33191fa6d9a_8eb905358e658681c53adb872ac4c0e7_1.mp3",
-    "title" : "3 # Đời ngắn, đừng khóc, hãy tô son # Hãy tô son # Hết # Gari (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_ebf3ae45fdf2b586ba9cf33191fa6d9a_8eb905358e658681c53adb872ac4c0e7_2.mp3",
-    "title" : "3 # Đời ngắn, đừng khóc, hãy tô son # Hãy tô son # Hết # Gari (2)",
+    "href" : "https://archive.org/download/doi-ngan-2/doi-ngan-3.mp3",
+    "title" : "3 # Đời ngắn, đừng khóc, hãy tô son # Hãy tô son # Hết # Gari",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

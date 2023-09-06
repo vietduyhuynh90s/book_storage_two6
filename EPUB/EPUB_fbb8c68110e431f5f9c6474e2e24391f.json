@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-29",
+    "published" : "2023-09-06",
     "duration" : 7286,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_fbb8c68110e431f5f9c6474e2e24391f_bf9199c93537ffd44fb828b3a078cb20_1.mp3",
+    "href" : "https://ia802701.us.archive.org/17/items/dieu-dep-nhat-co-khi-la-buon-tay/dieu-dep-nhat-co-khi-la-buon-tay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P1 (1)",
+    "duration" : 3643,
+    "title" : "P1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_fbb8c68110e431f5f9c6474e2e24391f_bf9199c93537ffd44fb828b3a078cb20_2.mp3",
+    "href" : "https://ia902707.us.archive.org/17/items/dieu-dep-nhat-co-khi-la-buon-tay-p2/dieu-dep-nhat-co-khi-la-buon-tay-p2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P1 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_fbb8c68110e431f5f9c6474e2e24391f_c5c347e078bb31b4be29d4575bef5810_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_fbb8c68110e431f5f9c6474e2e24391f_c5c347e078bb31b4be29d4575bef5810_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P2 (2)",
+    "duration" : 3643,
+    "title" : "P2",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_fbb8c68110e431f5f9c6474e2e24391f_bf9199c93537ffd44fb828b3a078cb20_1.mp3",
-    "title" : "P1 (1)",
+    "href" : "https://ia802701.us.archive.org/17/items/dieu-dep-nhat-co-khi-la-buon-tay/dieu-dep-nhat-co-khi-la-buon-tay.mp3",
+    "title" : "P1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_fbb8c68110e431f5f9c6474e2e24391f_bf9199c93537ffd44fb828b3a078cb20_2.mp3",
-    "title" : "P1 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_fbb8c68110e431f5f9c6474e2e24391f_c5c347e078bb31b4be29d4575bef5810_1.mp3",
-    "title" : "P2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_fbb8c68110e431f5f9c6474e2e24391f_c5c347e078bb31b4be29d4575bef5810_2.mp3",
-    "title" : "P2 (2)",
+    "href" : "https://ia902707.us.archive.org/17/items/dieu-dep-nhat-co-khi-la-buon-tay-p2/dieu-dep-nhat-co-khi-la-buon-tay-p2.mp3",
+    "title" : "P2",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

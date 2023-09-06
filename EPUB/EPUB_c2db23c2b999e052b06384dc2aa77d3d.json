@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-23",
+    "published" : "2023-09-06",
     "duration" : 7340,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,77 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c2db23c2b999e052b06384dc2aa77d3d_94e62a5cf7addf2a8dc0cec466d32925_1.mp3",
+    "href" : "https://archive.org/download/con-meo-1/Con-Meo-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Con-Meo-3 (1)",
+    "duration" : 1940,
+    "title" : "Con-Meo-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c2db23c2b999e052b06384dc2aa77d3d_94e62a5cf7addf2a8dc0cec466d32925_2.mp3",
+    "href" : "https://archive.org/download/con-meo-1/con-meo-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Con-Meo-3 (2)",
+    "duration" : 2700,
+    "title" : "con-meo-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c2db23c2b999e052b06384dc2aa77d3d_83acc7b099260a1ed471c50a6520e462_1.mp3",
+    "href" : "https://archive.org/download/con-meo-1/con-meo-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "con-meo-1 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c2db23c2b999e052b06384dc2aa77d3d_83acc7b099260a1ed471c50a6520e462_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "con-meo-1 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c2db23c2b999e052b06384dc2aa77d3d_3e065c4e83881dfac0b7414082f68e02_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "con-meo-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c2db23c2b999e052b06384dc2aa77d3d_3e065c4e83881dfac0b7414082f68e02_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "con-meo-2 (2)",
+    "duration" : 2700,
+    "title" : "con-meo-2",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c2db23c2b999e052b06384dc2aa77d3d_94e62a5cf7addf2a8dc0cec466d32925_1.mp3",
-    "title" : "Con-Meo-3 (1)",
+    "href" : "https://archive.org/download/con-meo-1/Con-Meo-3.mp3",
+    "title" : "Con-Meo-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c2db23c2b999e052b06384dc2aa77d3d_94e62a5cf7addf2a8dc0cec466d32925_2.mp3",
-    "title" : "Con-Meo-3 (2)",
+    "href" : "https://archive.org/download/con-meo-1/con-meo-1.mp3",
+    "title" : "con-meo-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c2db23c2b999e052b06384dc2aa77d3d_83acc7b099260a1ed471c50a6520e462_1.mp3",
-    "title" : "con-meo-1 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c2db23c2b999e052b06384dc2aa77d3d_83acc7b099260a1ed471c50a6520e462_2.mp3",
-    "title" : "con-meo-1 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c2db23c2b999e052b06384dc2aa77d3d_3e065c4e83881dfac0b7414082f68e02_1.mp3",
-    "title" : "con-meo-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c2db23c2b999e052b06384dc2aa77d3d_3e065c4e83881dfac0b7414082f68e02_2.mp3",
-    "title" : "con-meo-2 (2)",
+    "href" : "https://archive.org/download/con-meo-1/con-meo-2.mp3",
+    "title" : "con-meo-2",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

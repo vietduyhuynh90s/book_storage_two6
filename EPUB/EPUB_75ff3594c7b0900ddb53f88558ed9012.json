@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-28",
+    "published" : "2023-09-06",
     "duration" : 29427,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,101 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_75ff3594c7b0900ddb53f88558ed9012_4e30935ff9ff25c3683d6862c4085433_1.mp3",
+    "href" : "https://archive.org/download/con-giong_202009/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "1 (1)",
+    "duration" : 7200,
+    "title" : "1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_75ff3594c7b0900ddb53f88558ed9012_4e30935ff9ff25c3683d6862c4085433_2.mp3",
+    "href" : "https://archive.org/download/con-giong_202009/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "1 (2)",
+    "duration" : 7200,
+    "title" : "2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_75ff3594c7b0900ddb53f88558ed9012_0960c2a3ef7136f8aa110ab8d46d84bb_1.mp3",
+    "href" : "https://archive.org/download/con-giong_202009/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2 (1)",
+    "duration" : 7200,
+    "title" : "3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_75ff3594c7b0900ddb53f88558ed9012_0960c2a3ef7136f8aa110ab8d46d84bb_2.mp3",
+    "href" : "https://archive.org/download/con-giong_202009/4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_75ff3594c7b0900ddb53f88558ed9012_007e19df9d3e29486432a30005f277d7_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_75ff3594c7b0900ddb53f88558ed9012_007e19df9d3e29486432a30005f277d7_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_75ff3594c7b0900ddb53f88558ed9012_96c8302f15b147fbf8fae590d128a2aa_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_75ff3594c7b0900ddb53f88558ed9012_96c8302f15b147fbf8fae590d128a2aa_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "4 (2)",
+    "duration" : 7827,
+    "title" : "4",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_75ff3594c7b0900ddb53f88558ed9012_4e30935ff9ff25c3683d6862c4085433_1.mp3",
-    "title" : "1 (1)",
+    "href" : "https://archive.org/download/con-giong_202009/1.mp3",
+    "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_75ff3594c7b0900ddb53f88558ed9012_4e30935ff9ff25c3683d6862c4085433_2.mp3",
-    "title" : "1 (2)",
+    "href" : "https://archive.org/download/con-giong_202009/2.mp3",
+    "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_75ff3594c7b0900ddb53f88558ed9012_0960c2a3ef7136f8aa110ab8d46d84bb_1.mp3",
-    "title" : "2 (1)",
+    "href" : "https://archive.org/download/con-giong_202009/3.mp3",
+    "title" : "3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_75ff3594c7b0900ddb53f88558ed9012_0960c2a3ef7136f8aa110ab8d46d84bb_2.mp3",
-    "title" : "2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_75ff3594c7b0900ddb53f88558ed9012_007e19df9d3e29486432a30005f277d7_1.mp3",
-    "title" : "3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_75ff3594c7b0900ddb53f88558ed9012_007e19df9d3e29486432a30005f277d7_2.mp3",
-    "title" : "3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_75ff3594c7b0900ddb53f88558ed9012_96c8302f15b147fbf8fae590d128a2aa_1.mp3",
-    "title" : "4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_75ff3594c7b0900ddb53f88558ed9012_96c8302f15b147fbf8fae590d128a2aa_2.mp3",
-    "title" : "4 (2)",
+    "href" : "https://archive.org/download/con-giong_202009/4.mp3",
+    "title" : "4",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

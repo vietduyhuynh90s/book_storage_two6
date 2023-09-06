@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
-    "duration" : 7526,
+    "published" : "2023-09-06",
+    "duration" : 8770,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_d764fedff9256a831e8a7050125d26b4_682560f92020b92d1298e970b4b3d262.mp3",
+    "href" : "https://archive.org/download/02VuAnThuNhat/01_Loi%20tua%20%2B%20Phan%20mo%20dau%20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1244,
@@ -44,81 +44,33 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_d764fedff9256a831e8a7050125d26b4_c3325ecaebe5adf3f67da0085fd802f1_1.mp3",
+    "href" : "https://archive.org/download/02VuAnThuNhat/02_Vu%20an%20thu%20nhat.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "02 Vu an thu nhat (1)",
+    "duration" : 3150,
+    "title" : "02 Vu an thu nhat",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_d764fedff9256a831e8a7050125d26b4_c3325ecaebe5adf3f67da0085fd802f1_2.mp3",
+    "href" : "https://archive.org/download/02VuAnThuNhat/03_Vu%20an%20thu%20nhatP2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "02 Vu an thu nhat (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_d764fedff9256a831e8a7050125d26b4_c3325ecaebe5adf3f67da0085fd802f1_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "02 Vu an thu nhat (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_d764fedff9256a831e8a7050125d26b4_e9e174cb455a14d17ad40a9f804b47ba_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "03 Vu an thu nhatP2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_d764fedff9256a831e8a7050125d26b4_e9e174cb455a14d17ad40a9f804b47ba_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "03 Vu an thu nhatP2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_d764fedff9256a831e8a7050125d26b4_e9e174cb455a14d17ad40a9f804b47ba_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "03 Vu an thu nhatP2 (3)",
+    "duration" : 3132,
+    "title" : "03 Vu an thu nhatP2",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_d764fedff9256a831e8a7050125d26b4_682560f92020b92d1298e970b4b3d262.mp3",
+    "href" : "https://archive.org/download/02VuAnThuNhat/01_Loi%20tua%20%2B%20Phan%20mo%20dau%20.mp3",
     "title" : "01 Loi tua + Phan mo dau ",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_d764fedff9256a831e8a7050125d26b4_c3325ecaebe5adf3f67da0085fd802f1_1.mp3",
-    "title" : "02 Vu an thu nhat (1)",
+    "href" : "https://archive.org/download/02VuAnThuNhat/02_Vu%20an%20thu%20nhat.mp3",
+    "title" : "02 Vu an thu nhat",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_d764fedff9256a831e8a7050125d26b4_c3325ecaebe5adf3f67da0085fd802f1_2.mp3",
-    "title" : "02 Vu an thu nhat (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_d764fedff9256a831e8a7050125d26b4_c3325ecaebe5adf3f67da0085fd802f1_3.mp3",
-    "title" : "02 Vu an thu nhat (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_d764fedff9256a831e8a7050125d26b4_e9e174cb455a14d17ad40a9f804b47ba_1.mp3",
-    "title" : "03 Vu an thu nhatP2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_d764fedff9256a831e8a7050125d26b4_e9e174cb455a14d17ad40a9f804b47ba_2.mp3",
-    "title" : "03 Vu an thu nhatP2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_d764fedff9256a831e8a7050125d26b4_e9e174cb455a14d17ad40a9f804b47ba_3.mp3",
-    "title" : "03 Vu an thu nhatP2 (3)",
+    "href" : "https://archive.org/download/02VuAnThuNhat/03_Vu%20an%20thu%20nhatP2.mp3",
+    "title" : "03 Vu an thu nhatP2",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

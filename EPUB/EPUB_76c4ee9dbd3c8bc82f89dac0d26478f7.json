@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 29985,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_76c4ee9dbd3c8bc82f89dac0d26478f7_4278fd441155542391c36a7a7614a1e4_1.mp3",
+    "href" : "https://archive.org/download/cover_201901/THNC.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "THNC (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_76c4ee9dbd3c8bc82f89dac0d26478f7_4278fd441155542391c36a7a7614a1e4_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "THNC (2)",
+    "duration" : 29985,
+    "title" : "THNC",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_76c4ee9dbd3c8bc82f89dac0d26478f7_4278fd441155542391c36a7a7614a1e4_1.mp3",
-    "title" : "THNC (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_76c4ee9dbd3c8bc82f89dac0d26478f7_4278fd441155542391c36a7a7614a1e4_2.mp3",
-    "title" : "THNC (2)",
+    "href" : "https://archive.org/download/cover_201901/THNC.mp3",
+    "title" : "THNC",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

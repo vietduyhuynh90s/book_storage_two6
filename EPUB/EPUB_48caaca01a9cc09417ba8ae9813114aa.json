@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 8473,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_48caaca01a9cc09417ba8ae9813114aa_8b110c7e5a529ef47a4adc9f67b417f8_1.mp3",
+    "href" : "https://archive.org/download/coiamduonguminhgioi/CoiAmDuong_UMinhGioi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "CoiAmDuong UMinhGioi (1)",
+    "duration" : 4333,
+    "title" : "CoiAmDuong UMinhGioi",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_48caaca01a9cc09417ba8ae9813114aa_8b110c7e5a529ef47a4adc9f67b417f8_2.mp3",
+    "href" : "https://archive.org/download/coiamduonguminhgioi/UMinhGioi_02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "CoiAmDuong UMinhGioi (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_48caaca01a9cc09417ba8ae9813114aa_5d473da2dffcc61fe9eeeb439630f74f_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "UMinhGioi 02 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_48caaca01a9cc09417ba8ae9813114aa_5d473da2dffcc61fe9eeeb439630f74f_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "UMinhGioi 02 (2)",
+    "duration" : 4140,
+    "title" : "UMinhGioi 02",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_48caaca01a9cc09417ba8ae9813114aa_8b110c7e5a529ef47a4adc9f67b417f8_1.mp3",
-    "title" : "CoiAmDuong UMinhGioi (1)",
+    "href" : "https://archive.org/download/coiamduonguminhgioi/CoiAmDuong_UMinhGioi.mp3",
+    "title" : "CoiAmDuong UMinhGioi",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_48caaca01a9cc09417ba8ae9813114aa_8b110c7e5a529ef47a4adc9f67b417f8_2.mp3",
-    "title" : "CoiAmDuong UMinhGioi (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_48caaca01a9cc09417ba8ae9813114aa_5d473da2dffcc61fe9eeeb439630f74f_1.mp3",
-    "title" : "UMinhGioi 02 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_48caaca01a9cc09417ba8ae9813114aa_5d473da2dffcc61fe9eeeb439630f74f_2.mp3",
-    "title" : "UMinhGioi 02 (2)",
+    "href" : "https://archive.org/download/coiamduonguminhgioi/UMinhGioi_02.mp3",
+    "title" : "UMinhGioi 02",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

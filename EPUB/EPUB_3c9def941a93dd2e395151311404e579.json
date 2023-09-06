@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
-    "duration" : 7309,
+    "published" : "2023-09-06",
+    "duration" : 14618,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3c9def941a93dd2e395151311404e579_49351436170eee0a9b5d5cc01ce730b6.mp3",
+    "href" : "https://archive.org/download/2_20210116_202101/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3459,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3c9def941a93dd2e395151311404e579_3c15eeee389b6d73768a6371acc6ee12.mp3",
+    "href" : "https://archive.org/download/2_20210116_202101/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3850,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3c9def941a93dd2e395151311404e579_49351436170eee0a9b5d5cc01ce730b6.mp3",
+    "href" : "https://archive.org/download/2_20210116_202101/1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3c9def941a93dd2e395151311404e579_3c15eeee389b6d73768a6371acc6ee12.mp3",
+    "href" : "https://archive.org/download/2_20210116_202101/2.mp3",
     "title" : "2",
     "children" : [ ]
   } ],

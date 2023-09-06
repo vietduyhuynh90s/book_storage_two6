@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-11",
+    "published" : "2023-09-06",
     "duration" : 17986,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,245 +36,125 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_56fa58d7f29449669ff8ede0fed80564_1.mp3",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-01 (1)",
+    "duration" : 1808,
+    "title" : "cay-cam-01",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_56fa58d7f29449669ff8ede0fed80564_2.mp3",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-01 (2)",
+    "duration" : 1792,
+    "title" : "cay-cam-02",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_059b92fb69de8191f7cac94d99804a5a_1.mp3",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-02 (1)",
+    "duration" : 1785,
+    "title" : "cay-cam-03",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_059b92fb69de8191f7cac94d99804a5a_2.mp3",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-02 (2)",
+    "duration" : 1806,
+    "title" : "cay-cam-04",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_be8c5c58f60d9cec813a034257dda5d3_1.mp3",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-03 (1)",
+    "duration" : 1798,
+    "title" : "cay-cam-05",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_be8c5c58f60d9cec813a034257dda5d3_2.mp3",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-03 (2)",
+    "duration" : 1810,
+    "title" : "cay-cam-06",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_e67c272e26e93cd1985024f4787516b3_1.mp3",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-04 (1)",
+    "duration" : 1791,
+    "title" : "cay-cam-07",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_e67c272e26e93cd1985024f4787516b3_2.mp3",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-04 (2)",
+    "duration" : 1801,
+    "title" : "cay-cam-08",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_c2827050a7ec604da426b2bd287357aa_1.mp3",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-05 (1)",
+    "duration" : 1804,
+    "title" : "cay-cam-09",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_c2827050a7ec604da426b2bd287357aa_2.mp3",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-05 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_245d5f1584e785051d10e4ac4d19e96e_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-06 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_245d5f1584e785051d10e4ac4d19e96e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-06 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_0c3360c932bd40c9deced7d22015c74f_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-07 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_0c3360c932bd40c9deced7d22015c74f_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-07 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_afdd6bef4d2b970190bdcbfd407f6049_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-08 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_afdd6bef4d2b970190bdcbfd407f6049_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-08 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_a7c09fd5652ae39a3c7d5520b54f14ec_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-09 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_a7c09fd5652ae39a3c7d5520b54f14ec_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-09 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_0f8d469fed7234b5ff4069b6944b8c50_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-10 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_0f8d469fed7234b5ff4069b6944b8c50_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cay-cam-10 (2)",
+    "duration" : 1791,
+    "title" : "cay-cam-10",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_56fa58d7f29449669ff8ede0fed80564_1.mp3",
-    "title" : "cay-cam-01 (1)",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-01.mp3",
+    "title" : "cay-cam-01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_56fa58d7f29449669ff8ede0fed80564_2.mp3",
-    "title" : "cay-cam-01 (2)",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-02.mp3",
+    "title" : "cay-cam-02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_059b92fb69de8191f7cac94d99804a5a_1.mp3",
-    "title" : "cay-cam-02 (1)",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-03.mp3",
+    "title" : "cay-cam-03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_059b92fb69de8191f7cac94d99804a5a_2.mp3",
-    "title" : "cay-cam-02 (2)",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-04.mp3",
+    "title" : "cay-cam-04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_be8c5c58f60d9cec813a034257dda5d3_1.mp3",
-    "title" : "cay-cam-03 (1)",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-05.mp3",
+    "title" : "cay-cam-05",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_be8c5c58f60d9cec813a034257dda5d3_2.mp3",
-    "title" : "cay-cam-03 (2)",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-06.mp3",
+    "title" : "cay-cam-06",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_e67c272e26e93cd1985024f4787516b3_1.mp3",
-    "title" : "cay-cam-04 (1)",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-07.mp3",
+    "title" : "cay-cam-07",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_e67c272e26e93cd1985024f4787516b3_2.mp3",
-    "title" : "cay-cam-04 (2)",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-08.mp3",
+    "title" : "cay-cam-08",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_c2827050a7ec604da426b2bd287357aa_1.mp3",
-    "title" : "cay-cam-05 (1)",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-09.mp3",
+    "title" : "cay-cam-09",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_c2827050a7ec604da426b2bd287357aa_2.mp3",
-    "title" : "cay-cam-05 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_245d5f1584e785051d10e4ac4d19e96e_1.mp3",
-    "title" : "cay-cam-06 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_245d5f1584e785051d10e4ac4d19e96e_2.mp3",
-    "title" : "cay-cam-06 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_0c3360c932bd40c9deced7d22015c74f_1.mp3",
-    "title" : "cay-cam-07 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_0c3360c932bd40c9deced7d22015c74f_2.mp3",
-    "title" : "cay-cam-07 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_afdd6bef4d2b970190bdcbfd407f6049_1.mp3",
-    "title" : "cay-cam-08 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_afdd6bef4d2b970190bdcbfd407f6049_2.mp3",
-    "title" : "cay-cam-08 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_a7c09fd5652ae39a3c7d5520b54f14ec_1.mp3",
-    "title" : "cay-cam-09 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_a7c09fd5652ae39a3c7d5520b54f14ec_2.mp3",
-    "title" : "cay-cam-09 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_0f8d469fed7234b5ff4069b6944b8c50_1.mp3",
-    "title" : "cay-cam-10 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_cb9d3ff533aa129146e0d7a3fdc3c6a4_0f8d469fed7234b5ff4069b6944b8c50_2.mp3",
-    "title" : "cay-cam-10 (2)",
+    "href" : "https://archive.org/download/cay-cam-06/cay-cam-10.mp3",
+    "title" : "cay-cam-10",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

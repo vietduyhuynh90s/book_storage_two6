@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-23",
-    "duration" : 10929,
+    "published" : "2023-09-06",
+    "duration" : 18215,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_4f239e0e5a5645736f4644e24baea17a_e538b62bf7b1096e5e9c25a032389c01.mp3",
+    "href" : "https://archive.org/download/toi-dang-song-cuoc-doi-tuyet-voi-nhat-p3/toi-dang-song-cuoc-doi-tuyet-voi-nhat-p1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_4f239e0e5a5645736f4644e24baea17a_06147eb4fe8e356154c487155ebfece1.mp3",
+    "href" : "https://archive.org/download/toi-dang-song-cuoc-doi-tuyet-voi-nhat-p3/toi-dang-song-cuoc-doi-tuyet-voi-nhat-p2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -52,37 +52,25 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_4f239e0e5a5645736f4644e24baea17a_2e3bcc6838ec8f7ecd13dbfde5c46fca_1.mp3",
+    "href" : "https://archive.org/download/toi-dang-song-cuoc-doi-tuyet-voi-nhat-p3/toi-dang-song-cuoc-doi-tuyet-voi-nhat-p3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_4f239e0e5a5645736f4644e24baea17a_2e3bcc6838ec8f7ecd13dbfde5c46fca_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 3 (2)",
+    "duration" : 3643,
+    "title" : "Phần 3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_4f239e0e5a5645736f4644e24baea17a_e538b62bf7b1096e5e9c25a032389c01.mp3",
+    "href" : "https://archive.org/download/toi-dang-song-cuoc-doi-tuyet-voi-nhat-p3/toi-dang-song-cuoc-doi-tuyet-voi-nhat-p1.mp3",
     "title" : "Phần 1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_4f239e0e5a5645736f4644e24baea17a_06147eb4fe8e356154c487155ebfece1.mp3",
+    "href" : "https://archive.org/download/toi-dang-song-cuoc-doi-tuyet-voi-nhat-p3/toi-dang-song-cuoc-doi-tuyet-voi-nhat-p2.mp3",
     "title" : "Phần 2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_4f239e0e5a5645736f4644e24baea17a_2e3bcc6838ec8f7ecd13dbfde5c46fca_1.mp3",
-    "title" : "Phần 3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two6/main/AUDIO/AUDIO_4f239e0e5a5645736f4644e24baea17a_2e3bcc6838ec8f7ecd13dbfde5c46fca_2.mp3",
-    "title" : "Phần 3 (2)",
+    "href" : "https://archive.org/download/toi-dang-song-cuoc-doi-tuyet-voi-nhat-p3/toi-dang-song-cuoc-doi-tuyet-voi-nhat-p3.mp3",
+    "title" : "Phần 3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
